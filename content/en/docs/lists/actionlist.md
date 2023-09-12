@@ -1,10 +1,10 @@
 ---
-title: "Actionlist"
-linkTitle: "Acionlist"
+title: Action list
+linkTitle: Action list
 weight: 30
 date: 2023-07-28T13:25:28+02:00
 draft: false
-slug: actionlist
+slug: actions
 description: >
  Check out your on Actionlist. 
 Kategorien: [Lists]
@@ -15,17 +15,17 @@ translationKey: lists/action
 
 Within the action list you can see the animals for which no action has been taken for INSERT PERIOD hours. The following setting options are also available:
 
-- [Take temperature](../alarmlist/#take-temperature)
-- [Rate animals](../alarmlist/#rate-animal)
-- [Weigh animals](../actionlist/#weigh-animals)
-- [Chain of actions](../actionlist/#chain-of-action)
-- [Link transponder](../actionlist/#link-transponder)
-- [Hide after action](../actionlist/#hide-after-action)
-- [Search animal](../alarmlist/#search-animal)
-- [Set filter](../alarmlist/#set-filter)
+- [Take temperature](../alarm/#take-temperature)
+- [Rate animals](../alarm/#rate-animal)
+- [Weigh animals](../actions/#weigh-animals)
+- [Chain of actions](../actions/#chain-of-action)
+- [Link transponder](../actions/#link-transponder)
+- [Hide after action](../actions/#hide-after-action)
+- [Search animal](../alarm/#search-animal)
+- [Set filter](../alarm/#set-filter)
 
 {{% alert title="Hint" %}}
-Some actions are to be carried out in the same way as in the [Alarm list](../alarmlist). These are not explained here. Carry out the preliminary steps and use the link of the respective action to get to the instructions.
+Some actions are to be carried out in the same way as in the [alarm list](../alarm). These are not explained here. Carry out the preliminary steps and use the link of the respective action to get to the instructions.
 {{% /alert %}}
 
 ### Preliminary Steps

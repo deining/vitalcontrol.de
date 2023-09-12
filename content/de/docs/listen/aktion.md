@@ -4,7 +4,7 @@ linkTitle: "Aktionsliste"
 weight: 10
 date: 2023-07-28T13:25:28+02:00
 draft: false
-slug: aktionsliste
+slug: aktion
 description: >
   Sehen Sie ihre Aktionsliste ein.
 Kategorien: [Listen]
@@ -13,19 +13,19 @@ translationKey: lists/action
 ---
 ## Aktionsliste
 
-Innerhalb der Aktionsliste können Sie die Tiere einsehen bei denen seit ZEITRAUM EINFÜGEN Stunden keine Aktion durchgeführt wurde. Außerdem bestehen folgende Einstellungsmöglichkeiten:
+Innerhalb der Aktionsliste können Sie die Tiere einsehen bei denen seit 6 Stunden keine Aktion durchgeführt wurde. Außerdem bestehen folgende Einstellungsmöglichkeiten:
 
-- [Temperatur](../alarmliste/#temperatur-messen) messen
-- [Tier bewerten](../alarmliste/#tier-bewerten)
-- [Tier wiegen](../aktionsliste/#tier-wiegen)
-- [Aktionskette](../aktionsliste/#aktionskette)
-- [Transponder zuordnen](../aktionsliste/#transponder-zurodnen)
-- [Nach Aktion ausblenden](../aktionsliste/#nach-aktion-ausblenden)
-- [Tier suchen](../alarmliste/#tier-suchen)
-- [Filter setzen](../alarmliste/#filter-setzen)
+- [Temperatur](../../aktionen/temperatur) messen
+- [Tier bewerten](../../aktionen/tierbewertung)
+- [Tier wiegen](#tier-wiegen)
+- [Aktionskette](#aktionskette)
+- [Transponder zuordnen](#transponder-zuordnen)
+- [Nach Aktion ausblenden](#nach-aktion-ausblenden)
+- [Tier suchen](../alarm/#tier-suchen)
+- [Filter setzen](../../filter/)
 
 {{% alert title="Hinweis" %}}
-Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarmliste/). Diese sind hier nicht erläutert. Führen Sie die vorbreitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion um zu der Anleitung zu gelangen.
+Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Diese sind hier nicht erläutert. Führen Sie die vorbereitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion um zu der Anleitung zu gelangen.
 {{% /alert %}}
 
 ### Vorbereitende Schritte
@@ -44,9 +44,9 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarmliste/
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Tier wiegen` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätige Sie mit `OK`.
+3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
 
-4. Die Funktion [Tier wiegen](..) wird nun automatisch gestartet.
+4. Die Funktion [Tier wiegen](/docs/aktionen/wiegung/#gewicht-erfassen) wird nun automatisch gestartet.
 
    ![VitalControl Listen Aktionsliste](../bilder/tierwiegen.png "Tier wiegen")
 
@@ -56,13 +56,13 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarmliste/
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Aktionskette` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätige Sie mit `OK`.
+3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
 
-4. Die Funktion [Aktionskette](..) wird nun automatisch gestartet.
+4. Die Funktion [Aktionskette](/docs/aktionskette/#aktionskette) wird nun automatisch gestartet.
 
    ![VitalControl Listen Aktionsliste](../bilder/aktionskette.png "Aktionskette")
 
-### Transponder zurodnen
+### Transponder zuordnen
 
 Diese Funktion findet Anwendung bei Tieren denen noch kein Transponder bei dem Anlegen des Tieres zugeordnet wurde.
 
@@ -70,7 +70,7 @@ Diese Funktion findet Anwendung bei Tieren denen noch kein Transponder bei dem A
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Transponder zuordnen` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätige Sie mit `OK`.
+3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
 
 4. Scannen Sie nun den Transponder des entsprechenden Tieres ein.
 

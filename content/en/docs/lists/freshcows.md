@@ -15,17 +15,17 @@ translationKey: lists/fresh-cows
 
 You can find your fresh milkers in the fresh milker list. Animals for which a calving has been saved are automatically added to the list and are saved for the time you have specified. The following actions are available for this list:
 
-- [Full action menu](../alarmlist/#full-action-menu)
-- [Animal data](../alarmlist/#animal-data)
-- [Take temperature](../alarmlist/#take-temperature)
-- [Toggle alarm status](../fresh-cows/#toggle-alarm-status)
-- [Toggle watch status](../fresh-cows/#toggle-watch-status)
-- [Hide measured cows](../fresh-cows/#hide-measured-cows)
-- [Search animal](../lists/alarmlist/#search-animal)
-- [Set filter](../lists/alarmlist/#set-filter)
+- [Full action menu](../alarm/#full-action-menu)
+- [Animal data](../alarm/#animal-data)
+- [Take temperature](../alarm/#take-temperature)
+- [Toggle alarm status](#toggle-alarm-status)
+- [Toggle watch status](#toggle-watch-status)
+- [Hide measured cows](#hide-measured-cows)
+- [Search animal](../alarm/#search-animal)
+- [Set filter](../alarm/#set-filter)
 
 {{% alert title="Hint" %}}
-Some actions are to be carried out in the same way as in the [Alarm list](../alarmlist). These are not explained here. Carry out the preliminary steps and use the link of the respective action to get to the instructions.
+Some actions are to be carried out in the same way as in the [Alarm list](../alarm). These are not explained here. Carry out the preliminary steps and use the link of the respective action to get to the instructions.
 {{% /alert %}}
 
 ### Preliminary Steps

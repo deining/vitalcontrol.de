@@ -4,7 +4,7 @@ linkTitle: "Alarmlist"
 weight: 10
 date: 2023-07-28T13:25:28+02:00
 draft: false
-slug: alarmlist
+slug: alarm
 description: >
   Check out your alarm list.
 Kategorien: [Lists]
@@ -15,22 +15,26 @@ translationKey: lists/alarm
 
 On the alarm list you will find all animals that you have either manually added to the list or all animals that were in the yellow or red range when the temperature was measured. The list helps you to keep an overview of all conspicuous animals. Also, for each animal on the list, you can do the following:
 
-- [Full action menu](../alarmlist/#full-action-menu)
-- [Animal data](../alarmlist/#animal-data)
-- [Take temperature](../alarmlist/#take-temperature)
-- [Rate animal](../alarmlist/#rate-animal)
-- [Clear alarm](../alarmlist/#clear-alarm)
-- [Toggle watch status](../alarmlist/#toggle-watch-status)
-- [Search animal](../lists/alarmlist/#search-animal)
-- [Set filter](../lists/alarmlist/#set-filter)
-
-{{% alert title="Hint" %}}
-Some actions are to be carried out in the same way as in the [Alarm list](../alarmlist). These are not explained here. Carry out the preliminary steps and use the link of the respective action to get to the instructions.
-{{% /alert %}}
+- [Full action menu](#full-action-menu)
+- [Animal data](#animal-data)
+- [Take temperature](#take-temperature)
+- [Rate animal](#rate-animal)
+- [Clear alarm](#clear-alarm)
+- [Toggle watch status](#toggle-watch-status)
+- [Search animal](#search-animal)
+- [Set filter](#set-filter)
 
 The alarm list is structured as follows:
 
    ![VitalControl Lists Alarmlist](../images/alarmstructure.png "Structure of the alarm list")
+
+|Symbol   | Description
+|-------  |----
+   ![VitalControl Lists Alarmlist](../images/kopf.png "Head") | Shows how many animals are on the list
+| ![VitalControl Lists Alarmlist](../images/ID.png "ID") | Shows whether the selected animal is a calf or a cow. The clinical thermometer shows whether the animal was in the yellow or red zone at the last measurement. The animal ID is displayed below the symbol. 
+| ![VitalControl Lists Alarmlist](../images/auge.png "Rating") | The last recorded rating is shown below the symbol with the colors of the traffic light system
+|![VitalControl Lists Alarmlist](../images/thermometer.png "Thermometer") | The last fever measurement recorded is shown below the symbol with the colors of the traffic light system
+|![VitalControl Lists Alarmlist](../images/auge2.png "Bewertung") |The circle mark below the symbol shows that the animal is on the watch list
 
 ### Preliminary Steps
 
@@ -50,7 +54,7 @@ The alarm list is structured as follows:
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
-4. The `Actions` menu will open automatically. The handling of the actions can be found [here](..).
+4. The `Actions` menu will open automatically. The handling of the actions can be found [here](/en/docs/actions/).
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Action menu")
 
@@ -62,7 +66,7 @@ The alarm list is structured as follows:
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
-4. The [animal data](..) will now be displayed.
+4. The animal data will now be displayed.
 
    ![VitalControl Lists Alarmlist](../images/animaldata.png "Animal data")
 
@@ -74,7 +78,7 @@ The alarm list is structured as follows:
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
-4. The [Measure temperature](..) function is now started automatically.
+4. The [Measure temperature](/en/docs/actions/measure-temperature/#measure-fever) function is now started automatically.
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Take temperature")
 
@@ -86,7 +90,7 @@ The alarm list is structured as follows:
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
-4. The [Rate animal](..) function is now started automatically.
+4. The [Rate animal](/en/docs/actions/rating/#rate-your-animals) function is now started automatically.
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Rate animal")
 
@@ -130,7 +134,7 @@ The alarm list is structured as follows:
 
 2. Use the `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Set filter` and confirm with the `F3` key or with `OK`.
 
-3. Set the desired filter. You can find how to use the filter [here](..).
+3. Set the desired filter. You can find how to use the filter [here](../../filter/#applying-filters).
 
    ![VitalControl Lists Alarmlist](../images/setfilter.png "Set filter")
 

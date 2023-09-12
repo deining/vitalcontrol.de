@@ -4,7 +4,7 @@ linkTitle: "Dry cows list"
 weight: 60
 date: 2023-07-28T13:25:28+02:00
 draft: false
-slug: dry-cows-list
+slug: dry-cows
 description: >
  Check out your dry cows list.
 Kategorien: [Lists]
@@ -15,17 +15,17 @@ translationKey: lists/dry-cows
 
 On the list of dry animals you will find all animals that you have saved as dry animals. This list will help you keep track of your dry cows and carry out necessary actions on the animals. You can perform the following actions:
 
-- [Full action menu](../alarmlist/#full-action-menu)
-- [Animal data](../alarmlist/#animal-data)
-- [Take temperature](../alarmlist/#take-temperature)
-- Calving
-- [Toggle alarm status](../on-watch-list/#toggle-alarm-status)
-- [Toggle watch status](../alarmlist/#toggle-watch-status)
-- [Search animal](../alarmlist/#search-animal)
-- [Set filter](../alarmlist/#set-filter)
+- [Full action menu](../alarm/#full-action-menu)
+- [Animal data](../alarm/#animal-data)
+- [Take temperature](../alarm/#take-temperature)
+- [Calving](#calving)
+- [Toggle alarm status](../on-watch/#toggle-alarm-status)
+- [Toggle watch status](../alarm/#toggle-watch-status)
+- [Search animal](../alarm/#search-animal)
+- [Set filter](../alarm/#set-filter)
 
 {{% alert title="Hint" %}}
-Some actions are to be carried out in the same way as in the [Alarm list](../alarmlist). These are not explained here. Carry out the preliminary steps and use the link of the respective action to get to the instructions.
+Some actions are to be carried out in the same way as in the [Alarm list](../alarm). These are not explained here. Carry out the preliminary steps and use the link of the respective action to get to the instructions.
 {{% /alert %}}
 
 ### Preliminary Steps
