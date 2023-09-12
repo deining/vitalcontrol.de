@@ -1,7 +1,7 @@
 ---
-title: Listen
+title: Tierlisten
 linkTitle: Listen
-description: Sehen Sie die Listen ihrer Tiere ein.  
+description: Wie sie mit Hilfe ihrer Tierlisten ihre Tiere effektiv managen.
 translationKey: lists
-weight: 50
+weight: 130
 ---

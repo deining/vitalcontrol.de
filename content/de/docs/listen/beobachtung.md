@@ -1,12 +1,12 @@
 ---
 title: "Beobachtungsliste"
 linkTitle: "Beobachtungsliste"
-weight: 20
+weight: 30
 date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: beobachtungsliste
 description: >
-  Sehen Sie ihre Beobachtungsliste ein. 
+  Sehen Sie ihre Beobachtungsliste ein.
 Kategorien: [Listen]
 Tags: [Listen, Beobachtung]
 translationKey: lists/on-watch
@@ -15,17 +15,17 @@ translationKey: lists/on-watch
 
 Auf der Beobachtungsliste finden Sie alle Tiere die Sie manuell auf die Liste gesetzt haben. Die Liste hilft Ihnen einen Überblick über die von Ihnen als auffällig bewertete Tiere zu behalten. Außerdem können Sie für jedes Tier auf der Liste folgende Aktionen ausführen:
 
-- [Aktionsmenü](../alarmliste/#aktionsmen%C3%BC-mit-einem-tier-%C3%B6ffnen) mit einem Tier öffnen
-- [Tierdaten](../alarmliste/#tierdaten-einsehen) einsehen
-- [Temperatur](../alarmliste/#temperatur-messen) messen
-- [Tier bewerten](../alarmliste/#tier-bewerten)
+- [Aktionsmenü](#aktionsmen%C3%BC-mit-einem-tier-%C3%B6ffnen) mit einem Tier öffnen
+- [Tierdaten](#tierdaten-einsehen) einsehen
+- [Temperatur](#temperatur-messen) messen
+- [Tier bewerten](#tier-bewerten)
 - [Tier von der Beobachtungsliste entfernen](../beobachtungsliste/#tier-von-der-beobachtungsliste-entfernen)
 - [Alarmstatus ändern](../beobachtungsliste/#alarmstatus-%C3%A4ndern)
-- [Tier suchen](../alarmliste/#tier-suchen)
-- [Filter setzen](../alarmliste/#filter-setzen) 
+- [Tier suchen](#tier-suchen)
+- [Filter setzen](#filter-setzen) 
 
 {{% alert title="Hinweis" %}}
-Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarmliste/). Diese sind hier nicht erläutert. Führen Sie die vorbreitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion um zu der Anleitung zu gelangen.
+Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](). Diese sind hier nicht erläutert. Führen Sie die vorbreitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion um zu der Anleitung zu gelangen.
 {{% /alert %}}
 
 Die Beobachtungsliste ist wie folgt aufgebaut:
