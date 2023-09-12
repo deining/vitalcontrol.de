@@ -1,12 +1,12 @@
 ---
-title: "Abkalbung"
-linkTitle: "Abkalbung"
+title: Erfassung einer Abkalbung
+linkTitle: Abkalbung
 date: 2023-07-28T13:25:28+02:00
-weight: 30
+weight: 10
 draft: false
 slug: abkalbung
 description: >
-  Erfassen Sie eine Abkalbung.
+  Wie sie eine neue Abkalbung erfassen.
 Kategorien: [Abkalbung]
 Tags: [Abkalbung]
 translationKey: new/calving
@@ -23,14 +23,14 @@ Um eine Abkalbung zu erfassen gehen Sie wie folgt vor:
 
 4. Es öffnet sich ein weiteres Untermenü in dem Sie die Informationen über das Kalb abspeichern können. Verwenden Sie die Pfeiltasten △ ▽ um den gewünschten Einstellungspunkt auszuwählen.
 
-5. Für die Einstellungen `Art des Nutztieres`, `Geschlecht`, `Geburtsgewicht`, `Rasse`, `Verbleib`, `Einling/Mehrling` und `Geburtsverlauf` verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen. 
+5. Für die Einstellungen `Art des Nutztieres`, `Geschlecht`, `Geburtsgewicht`, `Rasse`, `Verbleib`, `Einling/Mehrling` und `Geburtsverlauf` verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen.
 
 6. Für die Einstellungen `Ohrmarkennummer`, `ID`und `Geburtsdatum` verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen und bestätigen Sie mit `OK`. Verwenden Sie die Pfeiltasten  △ ▽◁ ▷ um die gewünschten Zahlen auszuwählen. Bestätigen Sie abschließend mit `OK`.
 
-7. Speichern Sie die Einstellungen und legen Sie das neue Tier mit der Taste `F3` an. 
+7. Speichern Sie die Einstellungen und legen Sie das neue Tier mit der Taste `F3` an.
 
 {{% alert title="Hinweis" %}}
-Weitere Informationen und Einstellungsmöglichkeiten für das Anlegen neuer Tiere finden Sie [hier](..).
+Weitere Informationen und Einstellungsmöglichkeiten für das Anlegen neuer Tiere finden Sie [hier](../../einstellungen/tiere-neu-anlegen/).
 {{% /alert %}}
 
    ![VitalControl: Menüfolge Neu Neue Tiere](../bilder/abkalbung.png "Abkalbung erfassen")
