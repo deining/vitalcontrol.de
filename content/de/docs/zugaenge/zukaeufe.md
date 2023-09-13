@@ -1,6 +1,6 @@
 ---
-title: "Zukäufe"
-linkTitle: "Zukäufe"
+title: Liste der Zukaufstiere
+linkTitle: Zukäufe
 weight: 20
 date: 2023-07-28T13:25:28+02:00
 draft: false
@@ -13,7 +13,7 @@ translationKey: new-on-farm/new-on-farm
 ---
 ## Zukäufe
 
-Innerhalb dieser Liste finden Sie alle Tiere die Sie über den Massenzugang angelegt haben. Sie können diese Liste exportieren und somit ihre Zugänge direkt im Herdenmanagementprogramm DSP-Herde und in HI-Tier registrieren. Alternativ können Sie die Zugangsliste löschen. 
+Innerhalb dieser Liste finden Sie alle Tiere die Sie über den Massenzugang angelegt haben. Sie können diese Liste exportieren und somit ihre Zugänge direkt im Herdenmanagementprogramm DSP-Herde und in HI-Tier registrieren. Alternativ können Sie die Zugangsliste löschen.
 
 {{% alert title="Hinweis" %}}
 Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie den USB-Stick mit dem USB-C Adapter an ihr VitalControl-Gerät an bevor Sie der Anleitung folgen.
@@ -21,9 +21,9 @@ Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Zugänge` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem Sie zwischen `Zukäufe, kein Transponder`, `Zukäufe`, `Keine Tiernummer zugewiesen`, `Geburten` und `Kein Transponder zugewiesen` auswählen können. Verwenden Sie die Pfeiltasten ◁ ▷ △ ▽ um den Menüpunkt `Zukäufe` auszuwählen und bestätigen Sie mit `OK`. 
+2. Es öffnet sich ein Untermenü in dem Sie zwischen `Zukäufe, kein Transponder`, `Zukäufe`, `Keine Ohrmarkennummer zugewiesen`, `Geburten` und `Kein Transponder zugewiesen` auswählen können. Verwenden Sie die Pfeiltasten ◁ ▷ △ ▽ um den Menüpunkt `Zukäufe` auszuwählen und bestätigen Sie mit `OK`.
 
-3. Es öffnet sich eine Liste mit Ihren Zukäufen, die Sie über den Menüpunkt Massenzugang registriert haben. 
+3. Es öffnet sich eine Liste mit Ihren Zukäufen, die Sie über den Menüpunkt Massenzugang registriert haben.
 
 4. Verwenden Sie die `An/Aus` Taste und die Pfeiltasten ◁ ▷ um zwischen der Exportdatei für DSP-Herde und HI-Tier auszuwählen. Speichern Sie ihre Einstellungen mit der Taste `F1`.
 
@@ -33,7 +33,7 @@ Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie
 
 7. Die CSV-Meldeliste ist nun auf Ihrem USB-Stick gespeichert. Alle Tiere in der Liste `Zukäufe` sind automatisch gelöscht.
 
-    ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/zukäufe.png "Zukäufe")
+    ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/zukaeufe.png "Zukäufe")
 
 ## Weitere Einstellungsmöglichkeiten
 
@@ -59,7 +59,7 @@ Mit dieser Funktion können Sie alle Tiere aus der Liste `Zukäufe` löschen ohn
 
 3. Die Zugangsmeldungen wurden erfolgreich gelöscht.
 
- ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/allemeldungenlöschen.png "Alle Meldungen löschen")
+    ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/alle-meldungen-loeschen.png "Alle Meldungen löschen")
 
 ### Tier + Meldung löschen
 
@@ -73,7 +73,7 @@ Um ein Tier und die Zugangsmeldung zu löschen gehen Sie wie folgt vor:
 
 4. Das Tier und die Zugangsmeldung wurden erfolgreich gelöscht.
 
- ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/tierundmeldunglöschen.png "Tier + Meldung löschen")
+    ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/tier-und-meldung-loeschen.png "Tier + Meldung löschen")
 
 ### Zugangsmeldung löschen
 
@@ -87,14 +87,14 @@ Um die Zugangsmeldung eines Tieres aus der Liste zu löschen gehen Sie wie folgt
 
 4. Die Zugangsmeldung wurde erfolgreich gelöscht.
 
- ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/zugangsmeldunglöschen.png "Zugangsmeldung löschen")
+    ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/zugangsmeldung-loeschen.png "Zugangsmeldung löschen")
 
-### Eine Meldung bearbeiten
+### Daten eines zu meldenden Tieres bearbeiten
 
-Um die Daten eines Tieres zu bearbeiten, welches schon in der Liste vorhanden ist, gehen Sie wie folgt vor:
+Um die Daten eines Tieres in der Zugangsliste vorhanden ist, gehen Sie wie folgt vor:
 
 1. Wählen Sie mit den Pfeiltasten △ ▽ das Tier aus, welches Sie bearbeiten möchten.
 
-2. Verwenden Sie die Taste `OK`. Es öffnet sich ein Untermenü mit den Tierdaten. Wie diese zu bearbeiten sind finden Sie [hier](/docs/aktionen/%C3%A4ndern/#tierdaten-%C3%A4ndern).
+2. Verwenden Sie die Taste `OK`. Es öffnet sich ein Untermenü mit den Tierdaten des ausgewählten Tieres. Wie diese zu bearbeiten sind finden Sie [hier](/docs/aktionen/%C3%A4ndern/#tierdaten-%C3%A4ndern).
 
- ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/einemeldungbearbeiten.png "Eine Meldung bearbeiten")
+    ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/eine-meldung-bearbeiten.png "Eine Meldung bearbeiten")

@@ -1,7 +1,7 @@
 ---
 title: Zugänge
 linkTitle: Zugänge
-description: Verwalten Sie ihre Zugänge 
+description: Verwalten Sie ihre Zugänge
 translationKey: new-on-farm
-weight: 80
+weight: 150
 ---
