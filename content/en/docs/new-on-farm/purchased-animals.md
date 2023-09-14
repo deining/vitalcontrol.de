@@ -1,6 +1,6 @@
 ---
-title: "Purchased animals"
-linkTitle: "Purchased animals"
+title: Purchased animals
+linkTitle: Purchased animals
 weight: 20
 date: 2023-07-28T13:25:28+02:00
 draft: false
