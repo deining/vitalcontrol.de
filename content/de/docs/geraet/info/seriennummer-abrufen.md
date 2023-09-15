@@ -20,4 +20,3 @@ Um die Seriennummer ihres Gerätes abzurufen gehen Sie wie folgt vor:
 4. Die Seriennummer wird Ihnen nun angezeigt.
 
    ![VitalControl: Menüfolge Gerät Info](../bilder/seriennummer.png "Seriennummer abrufen")
-   

@@ -20,4 +20,3 @@ To retrieve the serial number of your device, proceed as follows:
 4. The serial number will now be displayed.
 
    ![VitalControl: Menu Device Info](../images/serialnumber.png "Get serial number")
-   

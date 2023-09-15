@@ -6,8 +6,8 @@ weight: 30
 draft: false
 description: >
  All information and instructions for exporting animal data can be found here
-manualLink: /en/docs/data-link/
+manualLink: /en/docs/data-export/usb-drive/
 ---
 <script>
-  window.location.href = "/en/docs/data-link/";
+  window.location.href = "/en/docs/data-export/usb-drive/";
 </script>

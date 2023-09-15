@@ -17,9 +17,8 @@ Here you can test the temperature measurement of your device without saving the 
 
 1. On the main screen of your VitalControl device, select the menu item `Device` and press the `OK` button.
 
-2. A submenu opens with several menu items. Select `temperature measurement` and confirm with `OK`.
+2. A submenu opens with several menu items. Select `Temperature measurement` and confirm with `OK`.
 
 3. Now carry out the measurement.
 
    ![VitalControl: Menu Device Temperature measurement](../images/temperature.png "Test temperature measurement")
-   

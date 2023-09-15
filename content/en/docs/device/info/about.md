@@ -1,13 +1,14 @@
 ---
-title: Call up “About” information
-linkTitle: About 
+title: Menu "About"
+linkTitle: About
 date: 2023-09-14T10:01:35+02:00
 weight: 40
 draft: false
 description: >
- Call up “About” information
+ Call up vendor information
+translationKey: device/info/about
 ---
-## Call up "About" information
+## Call up menu "About"
 
 To retrieve the hardware information of your device, proceed as follows:
 
@@ -17,7 +18,6 @@ To retrieve the hardware information of your device, proceed as follows:
 
 3. Another submenu opens. Select `About` and confirm with `OK`.
 
-4. The "about" information will now be displayed.
+4. The vendor information will now be displayed.
 
-   ![VitalControl: Menu Device Info](../images/hardware.png "Call up about information")
-   
+   ![VitalControl: Menu Device Info](../images/about.png "Call up vendor information")

@@ -6,8 +6,8 @@ weight: 30
 draft: false
 description: >
  Alle Informationen und Anleitungen für den Export der Tierdaten finden Sie hier.
-manualLink: /docs/datenexport/
+manualLink: /docs/datenexport/usb-stick
 ---
 <script>
-  window.location.href = "/docs/datenexport/";
+  window.location.href = "/docs/datenexport/usb-stick";
 </script>

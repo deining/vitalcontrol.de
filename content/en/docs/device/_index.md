@@ -1,7 +1,7 @@
 ---
 title: Device
 linkTitle: Device
-description: Geräte- und Prozesseinstellungen für ihr VitalControl-Gerät
+description: Device and process settings for your VitalControl device
 translationKey: device
 weight: 50
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Temperaturmessung"
-linkTitle: "Temperaturmessung"
+title: Temperaturmessung
+linkTitle: Temperaturmessung
 date: 2023-07-28T13:25:28+02:00
 weight: 40
 slug: temperaturmessung
@@ -22,4 +22,3 @@ Hier können Sie die Temperaturmessung Ihres Gerätes testen ohne, dass die Mess
 3. Führen Sie nun die Messung durch.
 
    ![VitalControl: Menüfolge Gerät Temperaturmessung](../bilder/temperatur.png "Temperaturmessung testen")
-   

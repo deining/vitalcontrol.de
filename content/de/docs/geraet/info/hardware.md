@@ -20,4 +20,3 @@ Um die Hardwareinformationen ihres Gerätes abzurufen gehen Sie wie folgt vor:
 4. Die Hardwareinformationen werden Ihnen nun angezeigt.
 
    ![VitalControl: Menüfolge Gerät Info](../bilder/hardware.png "Hardwareinformationen abrufen")
-   
