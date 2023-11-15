@@ -13,7 +13,7 @@ translationKey: data-export/usb-drive
 
 ## Datenexport durchführen
 
-1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü `Gerät`.
+1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü <img src="/icons/device.svg" width="40" align="bottom" alt="Gerät" /> `Gerät`.
 
 2. Wechseln Sie ins Untermenü `Datenmanagement`, wählen Sie dort den Eintrag `Tierdaten exportieren (CSV)` und bestätigen Sie mit `OK`. Das Gerät fordert Sie jetzt dazu auf, einen USB-Stick einzustecken.
 
