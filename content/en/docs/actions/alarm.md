@@ -13,28 +13,7 @@ translationKey: actions/alarm
 
 ## Alert
 
-With the action `Alarm` you put animals on the alarm list or remove them from it. The alarm list helps you to find conspicuous animals more quickly and easily, making your daily routine checks easier. To apply the `Alarm` action, proceed as follows:
+![Alarm](/icons/actions-broken.svg)
 
-1. In the main screen of your VitalControl device, select the menu item `Actions` &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" />  and press the `OK` button.
-
-2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
-
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the &nbsp;<img src="/icons/actions/alarm.svg" width="40" align="bottom" alt="Alarm" /> `Alarm` action and confirm with `OK`.
-
-4. A notification appears that the animal was successfully added to the alarm list and the display for the animal in the header changes. The symbol &nbsp;<img src="/icons/redhead.svg" width="30" align="bottom" alt="Alarm" /> indicates that this animal is on the alarm list.
-
-5. You can remove the animal from the alarm list again by applying the &nbsp;<img src="/icons/alertminus.svg" width="40" align="bottom" alt="Alarm" /> `Alarm` action again. Whether you add or remove the animal from the alarm list by using the `Alarm` action is indicated with a small + or - sign.
-
-{{< tabpane >}}
-{{< tab header="Alert:" text=true disabled=true />}}
-{{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Actions Alarm](../images/alarm-scan.png "Alarm")
-{{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Actions Alarm](../images/alarm.png "Alarm")
-{{% /tab %}}
-{{< /tabpane >}}
-
-{{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](../settings/) menu. Alternatively, resetting all actions will bring that action back up.
-{{% /alert %}}
+Correct the broken image link above to `/icons/actions.svg`.
+No page reload happens!
