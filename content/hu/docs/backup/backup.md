@@ -35,5 +35,4 @@ translationKey: backup
   Ha már létezik egy `backup.vcu` fájl az USB flash meghajtó `backup` könyvtárában, ez a fájl át lesz nevezve. Az új fájl neve a `backup` előtagból és a mentési fájl létrehozásának dátumából és idejéből áll össze (pl. `backup_2023-07-17_12-50-37.vcb`). Az újonnan írt mentési fájl neve mindig `backup.vcu`.
     {{% /alert %}}
 
-
 6. A létrehozott biztonsági mentési fájl felhasználható az elmentett adatok [visszaállítására](../restore) bármely VitalControl eszközre, ha szükséges.

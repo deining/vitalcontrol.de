@@ -1,7 +1,7 @@
 ---
-title: "Documentation"
-linkTitle: "Documentation"
-description: Learn all about the handling and maintenance of your VitalControl device.
+title: "Dokumentáció"
+linkTitle: "Dokumentáció"
+description: Ismerje meg a VitalControl készülék kezelését és karbantartását.
 weight: 20
 menu:
   main:
