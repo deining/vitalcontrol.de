@@ -1,7 +1,7 @@
 ---
-title: "Documentation"
-linkTitle: "Documentation"
-description: Learn all about the handling and maintenance of your VitalControl device.
+title: "Документация"
+linkTitle: "Документация"
+description: Научете всичко за използването и поддръжката на вашето устройство VitalControl.
 weight: 20
 menu:
   main:
