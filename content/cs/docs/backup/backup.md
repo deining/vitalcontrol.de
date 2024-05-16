@@ -9,7 +9,7 @@ categories: [Záloha dat]
 tags: [záložní soubor, USB flash disk]
 translationKey: backup
 ---
-{{% usb-drive/cz "Pro provedení zálohy dat pro vaše zařízení," %}}
+{{% usb-drive/cs "Pro provedení zálohy dat pro vaše zařízení," %}}
 
 ## Proveďte zálohu dat
 

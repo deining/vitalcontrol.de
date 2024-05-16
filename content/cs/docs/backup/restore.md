@@ -7,7 +7,7 @@ description: >
  Prostřednictvím obnovení dat lze obnovit veškerá data zařízení VitalControl na jiném zařízení pomocí záložního souboru.
 translationKey: restore
 ---
-{{% usb-drive/cz "Aby bylo možné obnovit zálohu dat na zařízení VitalControl," %}}
+{{% usb-drive/cs "Aby bylo možné obnovit zálohu dat na zařízení VitalControl," %}}
 
 Na tomto USB flash disku musí existovat adresář `backup`, který musí obsahovat platný **záložní soubor dat `backup.vcu`**.
 

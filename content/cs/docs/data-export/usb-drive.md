@@ -9,7 +9,7 @@ categories: [Export dat]
 tags: [CSV soubory, USB flash disk]
 translationKey: data-export/usb-drive
 ---
-{{% usb-drive/en "Pro provedení exportu dat vašeho zařízení," %}}
+{{% usb-drive/cs "Pro provedení exportu dat vašeho zařízení," %}}
 
 ## Proveďte export dat
 
