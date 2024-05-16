@@ -7,7 +7,7 @@ description: >
  Tramite un ripristino dei dati, l'intero set di dati di un dispositivo VitalControl può essere ripristinato su un altro dispositivo utilizzando un file di backup.
 translationKey: restore
 ---
-{{% usb-drive/en "Per ripristinare un backup dei dati sul tuo dispositivo VitalControl," %}}
+{{% usb-drive/it "Per ripristinare un backup dei dati sul tuo dispositivo VitalControl," %}}
 
 Su questa chiavetta USB deve esistere una directory `backup`, che deve contenere un valido **file di backup dei dati `backup.vcu`**.
 

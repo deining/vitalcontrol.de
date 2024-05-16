@@ -9,7 +9,7 @@ categories: [Esportazione dei dati]
 tags: [File CSV, Chiavetta USB]
 translationKey: data-export/usb-drive
 ---
-{{% usb-drive/en "Per eseguire un'esportazione dei dati del dispositivo," %}}
+{{% usb-drive/it "Per eseguire un'esportazione dei dati del dispositivo," %}}
 
 ## Eseguire l'esportazione dei dati
 
