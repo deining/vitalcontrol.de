@@ -11,7 +11,7 @@ categories: [Nuevo en la granja, ID nacional del animal]
 tags: [Nuevo en la granja, ID nacional del animal]
 translationKey: new-on-farm/no-transponder-assigned
 ---
-## Sin transpondedor asignado
+## Sin transpondedor asignado {#no-transponder-assigned}
 
 El manejo dentro de esta lista es idéntico al de la lista `Nuevo en la granja, sin transpondedor`. Sin embargo, en esta lista encontrarás todos los animales que aún no tienen asignado un transpondedor, independientemente de su edad.
 

@@ -11,7 +11,7 @@ categories: [Listat]
 tags: [Listat, pohjalehmä]
 translationKey: lists/dry-cows
 ---
-## Pohjalehmien lista
+## Pohjalehmien lista {#dry-cows-list}
 
 Pohjalehmien listalta löydät kaikki eläimet, jotka olet tallentanut pohjalehmiksi. Tämä lista auttaa sinua seuraamaan pohjalehmiäsi ja suorittamaan tarvittavia toimenpiteitä eläimille. Voit suorittaa seuraavat toimenpiteet:
 
@@ -29,7 +29,7 @@ Pohjalehmien listalta löydät kaikki eläimet, jotka olet tallentanut pohjalehm
 Jotkut toimenpiteet suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm). Niitä ei selitetä tässä. Suorita alustavat vaiheet ja käytä kyseisen toiminnon linkkiä ohjeiden saamiseksi.
 {{% /alert %}}
 
-### Alustavat vaiheet
+### Alustavat vaiheet {#preliminary-steps}
 
 1. Valitse päävalikosta <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listat" /> `Listat` -valikkokohta VitalControl-laitteessasi ja paina `OK`-nappia.
 
@@ -39,7 +39,7 @@ Jotkut toimenpiteet suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm
 
    ![VitalControl Listat Pohjalehmien lista](../images/firststeps5.png "Alustavat vaiheet")
 
-## Poikiminen
+## Poikiminen {#calving}
 
 1. Suorita alustavat vaiheet.
 

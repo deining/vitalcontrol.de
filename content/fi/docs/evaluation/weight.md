@@ -30,7 +30,7 @@ Kun napsautat valikkokohtaa, sinut ohjataan kyseisen toiminnon kuvaukseen.
    <area shape="rect" coords="2,282,95,319" alt="Takaisin" title="Hyppää takaisin yhden tason&#10;Hiiren napsautus: dokumentaatioon" href="/fi/docs/evaluation/">
 </map>
 
-## Tämän päivän punnitus
+## Tämän päivän punnitus {#todays-weighings}
 Tässä arvioinnissa näet seuraavat tiedot viimeisen 6 tunnin punnituksista:
 - Keskimääräinen eläimen paino
 - Keskimääräinen päivittäinen kasvu syntymästä
@@ -49,7 +49,7 @@ Suorittaaksesi arvioinnin, toimi seuraavasti:
 
    ![VitalControl: valikko luokitus Tämän päivän punnitus](../images/todaysweighings.png "Arvioi Tämän päivän punnitus")
 
-## Syntymäpainot
+## Syntymäpainot {#birth-weights}
 Tässä arvioinnissa voit tarkastella seuraavia tietoja:
 - Keskimääräinen syntymäpaino
 - Painoluokat
@@ -66,7 +66,7 @@ Suorittaaksesi arvioinnin, toimi seuraavasti:
 
 ![VitalControl: menu Evaluation Birth weights](../images/birthweights.png "Arvioi syntymäpainot")
 
-## Painon kehitys
+## Painon kehitys {#weight-development}
 
 Tässä arvioinnissa näet seuraavat tiedot kaikista punnituksista:
 - Eläimen keskipaino

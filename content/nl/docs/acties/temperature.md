@@ -11,7 +11,7 @@ tags: [Actions, fever, temperature]
 translationKey: actions/temperature
 ---
 
-## Koorts meten
+## Koorts meten {#measure-fever}
 
 Gebruik de temperatuuractie om de temperatuur van uw dieren te meten. Breng de meettip rectaal in tot de gespecificeerde meetdiepte (voor grote dieren de volledige lengte tot aan de verdikking, voor kleine herkauwers ongeveer 6 cm of 2/3 van de meettip). Het meetproces verloopt automatisch. Zodra het meetproces is voltooid, toont het apparaat de gemeten temperatuur. De kleurcodering geeft aan of de temperatuur zich in het groene, gele of rode bereik bevindt. U heeft een aantal opties tijdens de campagne Temperatuur meten:
 
@@ -45,7 +45,7 @@ Als de temperatuur in het gele gebied ("verhoogd") of rode gebied ("koorts") is,
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Resultaat opslaan
+### Resultaat opslaan {#save-result}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -53,7 +53,7 @@ Als de temperatuur in het gele gebied ("verhoogd") of rode gebied ("koorts") is,
 
     ![VitalControl: Menu Acties Resultaat opslaan](../images/saveresults.png "Resultaat opslaan")
 
-### Toevoegen aan Watchlist
+### Toevoegen aan Watchlist {#put-on-the-watch-list}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -63,7 +63,7 @@ Als de temperatuur in het gele gebied ("verhoogd") of rode gebied ("koorts") is,
 
     ![VitalControl: Menu Acties Toevoegen aan Watchlist](../images/watchlist.png "Toevoegen aan Watchlist")
 
-### Verlichting van de meetlocatie aan en uit
+### Verlichting van de meetlocatie aan en uit {#lighting-of-the-measurement-location-on-and-off}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -73,7 +73,7 @@ Als de temperatuur in het gele gebied ("verhoogd") of rode gebied ("koorts") is,
 
     ![VitalControl: Menu Acties Lamp aan uit](../images/light.png "Lamp aan uit")
 
-### Herhaal meting
+### Herhaal meting {#repeat-the-measurement}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -83,7 +83,7 @@ Als de temperatuur in het gele gebied ("verhoogd") of rode gebied ("koorts") is,
 
     ![VitalControl: Menu Actions herhaal meting](../images/repeat.png "herhaal meting")
 
-### Annuleer de actie
+### Annuleer de actie {#cancel-the-action}
 
 1. Voltooi de voorbereidende stappen.
 

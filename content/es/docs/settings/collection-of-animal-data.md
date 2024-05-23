@@ -12,7 +12,7 @@ tags: [configuraciones, Recoleccion de datós]
 translationKey: settings/data-acquisition
 maphilight: true
 ---
-## Visión general
+## Visión general {#overview}
 
 El siguiente gráfico enumera las configuraciones disponibles sobre el registro de datos de animales:
 
@@ -30,7 +30,7 @@ El siguiente gráfico enumera las configuraciones disponibles sobre el registro 
 Mueva el puntero del ratón sobre un símbolo en el gráfico de abajo y déjelo reposar por un momento. Aparecerá una descripción emergente, presentando información sobre la configuración respectiva. Si hace clic en una de las líneas, será redirigido a una descripción de la configuración respectiva.
 {{% /alert %}}
 
-## Configuraciones *Registro de peso*
+## Configuraciones *Registro de peso* {#settings-weight-recording}
 
 El siguiente gráfico enumera las configuraciones disponibles sobre el registro de peso de los animales:
 
@@ -43,7 +43,7 @@ El siguiente gráfico enumera las configuraciones disponibles sobre el registro 
   <area shape="rect" coords="1,360,230,440" alt="Precisión en el registro de peso" title="Establecer la precisión del registro de peso&#10;Clic del ratón: abrir documentación" href="#precisión-del-registro-de-peso">
 </map>
 
-### Evaluación del aumento diario de peso: Valores umbral
+### Evaluación del aumento diario de peso: Valores umbral {#assessment-of-daily-weight-gain-threshold-values}
 
 {{% alert title="Consejo" %}}
 El campo rojo muestra el área de "aumento de peso críticamente bajo". El campo amarillo muestra el área de "aumento de peso subóptimo".
@@ -65,7 +65,7 @@ Para ajustar los valores umbral para la evaluación del aumento diario de peso, 
 
     ![VitalControl: configuraciones del menú aumento diario de peso](../images/dailyweightgain.png "Aumento diario de peso")
 
-### Peso al nacer
+### Peso al nacer {#birth-weight}
 
 El dispositivo utiliza el peso al nacer almacenado aquí en la configuración como el valor predeterminado cuando se crean nuevos animales. Para poder seleccionar más rápidamente el peso al nacer individual de un animal recién nacido, puede necesitar ajustar este valor predeterminado para su granja. Para ajustar el valor del `peso al nacer`, proceda de la siguiente manera:
 
@@ -92,7 +92,7 @@ Si no desea hacer este ajuste o si crea animales automáticamente [en segundo pl
 | Rango de valores:             | 1,0 hasta 99 kg| 1,0 hasta 99 kg |
 {{% /alert %}}
 
-### Ganancia diaria promedio de peso
+### Ganancia diaria promedio de peso {#average-daily-weight-gain}
 
 {{% alert title="Explicación" %}}
 Cuando [se pesa](../../actions/record-weight/) a un animal, el aumento diario definido se utiliza para el cálculo del valor de peso sugerido durante el pesaje del animal. Si el valor de peso sugerido es demasiado bajo o demasiado alto para la mayoría de los animales a pesar, debería ajustar el valor definido hacia abajo o hacia arriba, respectivamente, para acortar el tiempo necesario para ajustar el valor del peso con las teclas de flecha.
@@ -110,7 +110,7 @@ Para configurar la `ganancia diaria promedio de peso` utilizada en el cálculo d
 
     ![VitalControl: configuraciones del menú ganancia diaria promedio de peso](../images/averagedailyweightgain.png "Ganancia diaria promedio de peso")
 
-### Precisión del registro de peso
+### Precisión del registro de peso {#precision-of-weight-recording}
 
 {{% alert title="Explicación" %}}
 Dependiendo del caso de uso y la especie animal (*cordero*, *ternero*, *vaca*), hay diferentes requisitos respecto a la resolución del valor del peso a registrar (precisión de *10 g*, *100 g* o *1 kg*). Para cumplir con estos requisitos se requiere utilizar la configuración de *Máxima precisión*.
@@ -140,7 +140,7 @@ Para configurar la máxima precisión al registrar pesos de animales con su disp
 <br>
 Guarde las configuraciones y regrese al menú principal `Recoleccion de datós` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" />&nbsp;.
 
-## Modo de evaluación de animales
+## Modo de evaluación de animales {#mode-of-animal-rating}
 
 {{% alert title="Explicación" %}}
 En el modo simple, solo se consulta el estado general durante la evaluación del animal (verde/amarillo/rojo). En la evaluación extendida, se consultan 4 categorías de evaluación: estado general, consumo de alimento, diarrea y enfermedad respiratoria.
@@ -158,7 +158,7 @@ Para configurar la `Evaluación de animales` en su dispositivo, proceda de la si
 
     ![VitalControl: configuración del menú calificación promedio de animales](../images/raitingofanimals.png "Calificación de animales")
 
-## Período de control de vacas
+## Período de control de vacas {#control-period-of-fresh-cows}
 
 {{% alert title="Explicación" %}}
 Al manejar vacas, se considera una rutina de mejores prácticas revisar a los animales diariamente durante varios días después del parto, incluyendo tomar su temperatura. La duración de este período de control varía considerablemente de granja a granja. Por esta razón, la longitud del período de control puede ajustarse a un valor entre 3 y 14 días en las configuraciones de VitalControl. El valor establecido para el período de control de vacas determina el número de columnas del gráfico de columnas mostrado para cada animal en la [lista de vacas](../../lists/fresh-cows/).

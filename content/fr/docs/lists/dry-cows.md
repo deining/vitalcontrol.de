@@ -11,7 +11,7 @@ categories: [Listes]
 tags: [Listes, vache tarie]
 translationKey: lists/dry-cows
 ---
-## Liste des vaches taries
+## Liste des vaches taries {#dry-cows-list}
 
 Dans la liste des animaux taris, vous trouverez tous les animaux que vous avez enregistrés comme étant taris. Cette liste vous aidera à suivre vos vaches taries et à effectuer les actions nécessaires sur les animaux. Vous pouvez effectuer les actions suivantes :
 
@@ -28,7 +28,7 @@ Dans la liste des animaux taris, vous trouverez tous les animaux que vous avez e
 Certaines actions doivent être effectuées de la même manière que dans la [liste d'alarme](../alarm). Elles ne sont pas expliquées ici. Effectuez les étapes préliminaires et utilisez le lien de l'action respective pour accéder aux instructions.
 {{% /alert %}}
 
-### Étapes préliminaires
+### Étapes préliminaires {#preliminary-steps}
 
 1. Sélectionnez l'élément de menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listes" /> `Listes` dans l'écran principal de votre appareil VitalControl et appuyez sur le bouton `OK`.
 
@@ -38,7 +38,7 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
    ![Listes VitalControl Liste des vaches taries](../images/firststeps5.png "Étapes préliminaires")
 
-## Vêlage
+## Vêlage {#calving}
 
 1. Complétez les étapes préliminaires.
 

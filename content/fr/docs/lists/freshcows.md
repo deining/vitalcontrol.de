@@ -11,7 +11,7 @@ categories: [Listes]
 tags: [Listes, vache fraîche]
 translationKey: lists/fresh-cows
 ---
-### Liste des vaches fraîches
+### Liste des vaches fraîches {#fresh-cows-list}
 
 {{% alert title="Explication" %}}
 Lors de la gestion des vaches fraîches, il est considéré comme une routine de meilleures pratiques de vérifier quotidiennement les animaux pendant plusieurs jours après la naissance. La liste des vaches fraîches facilite ce contrôle des vaches fraîches, notamment en termes d'enregistrement de la température. Pour chaque animal, un graphique en colonnes sur tous les jours de la période de contrôle est affiché, chaque jour de la période de contrôle est représenté par une barre verticale. Selon la couleur de la barre (verte, jaune ou rouge), vous pouvez voir si une température normale, élevée ou critique a été mesurée ce jour-là pour l'animal concerné.
@@ -33,7 +33,7 @@ Les vaches sont placées sur la liste des vaches fraîches immédiatement après
 Certaines actions doivent être effectuées de la même manière que dans la [liste d'alarme](../alarm). Elles ne sont pas expliquées ici. Effectuez les étapes préliminaires et utilisez le lien de l'action respective pour accéder aux instructions.
 {{% /alert %}}
 
-### Étapes préliminaires
+### Étapes préliminaires {#preliminary-steps}
 
 1. Sélectionnez l'élément de menu <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Listes" /> `Listes` dans l'écran principal de votre appareil VitalControl et appuyez sur le bouton `OK`.
 
@@ -43,7 +43,7 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
    ![VitalControl Lists Fresh cows list](../images/firststeps4.png "Liste des vaches fraîches")
 
-### Basculer le statut d'alarme
+### Basculer le statut d'alarme {#toggle-alarm-status}
 
 1. Complétez les étapes préliminaires.
 
@@ -55,7 +55,7 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
    ![VitalControl Lists Fresh cows list](../images/togglealarmstatus.png "Basculer le statut d'alarme")
 
-### Basculer le statut de surveillance
+### Basculer le statut de surveillance {#toggle-watch-status}
 
 1. Complétez les étapes préliminaires.
 
@@ -67,7 +67,7 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
 ![VitalControl Lists Fresh cows list](../images/togglewatchstatus.png "Toggle watch status")
 
-### Masquer les vaches mesurées
+### Masquer les vaches mesurées {#hide-measured-cows}
 
 Si cette fonction est activée, les animaux pour lesquels une mesure de température a été effectuée sont cachés sur la liste des vaches taries. Si cette fonction n'est pas activée, les animaux restent visibles sur la liste.
 

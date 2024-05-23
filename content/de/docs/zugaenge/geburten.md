@@ -11,7 +11,7 @@ Kategorien: [Geburten, Datenexport]
 Tags: [Geburten, Datenexport]
 translationKey: new-on-farm/births
 ---
-## Geburten
+## Geburten {#births}
 
 In dieser Liste können Sie ihre Geburten einsehen, diese bearbeiten und eine Export-Datei erstellen um die Anmeldung in HI-Tier vorzunehmen. Um eine Exportdatei zu erstellen gehen Sie wie folgt vor:
 
@@ -33,7 +33,7 @@ Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie
 
     ![VitalControl: Menüfolge Zugänge Geburten](../bilder/geburten.png "HIT-Meldeliste exportieren")
 
-## Einstellungsmöglichkeiten
+## Einstellungsmöglichkeiten {#setting-options}
 
 Sie haben, außer die Exportdatei zu erstellen, folgende weitere Möglichkeiten:
 
@@ -47,7 +47,7 @@ Sie haben, außer die Exportdatei zu erstellen, folgende weitere Möglichkeiten:
 Einige Aktionen sind identisch mit den Aktionen in der Liste `Zukäufe`. Folgen Sie den Verlinkungen zu den Schritt für Schritt Anleitungen. Öffnen Sie immer zuerst die Liste `Geburten` wie in der Anleitung oben beschrieben.
 {{% /alert %}}
 
-### Wechsel zwischen Listen- und Einzelansicht
+### Wechsel zwischen Listen- und Einzelansicht {#change-between-list-view-and-single-animal-view}
 
 1. Verwenden Sie die <img src="/icons/gear.svg" width="25" align="bottom" alt="An/Aus" /> `An/Aus` Taste.
 
@@ -57,7 +57,7 @@ Einige Aktionen sind identisch mit den Aktionen in der Liste `Zukäufe`. Folgen 
 
     ![VitalControl: Menüfolge Zugänge Geburten](../bilder/wechsel.png "Wechsel zwischen Listen- und Einzelansicht")
 
-### Bearbeiten der Tierdaten
+### Bearbeiten der Tierdaten {#edit-data-of-birth-notice}
 
 {{% alert title="Hinweis" %}}
 Das Bearbeiten der Tierdaten ist nur in der Listenansicht möglich!

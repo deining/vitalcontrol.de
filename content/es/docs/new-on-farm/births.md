@@ -11,7 +11,7 @@ categories: [Nacimientos]
 tags: [Nacimientos]
 translationKey: new-on-farm/births
 ---
-## Nacimientos
+## Nacimientos {#births}
 
 En esta lista puedes ver tus nacimientos, editarlos y crear un archivo de exportación para registrar en HI-Tier. Para crear un archivo de exportación, procede de la siguiente manera:
 
@@ -33,7 +33,7 @@ Para exportar datos necesitas el stick USB incluido. Conecta el stick USB con el
 
     ![VitalControl: Menú Nuevo en la granja Nacimientos](../images/births.png "Nacimientos")
 
-## Configuración de opciones
+## Configuración de opciones {#setting-options}
 
 Además de crear el archivo de exportación, tienes las siguientes opciones:
 
@@ -47,7 +47,7 @@ Además de crear el archivo de exportación, tienes las siguientes opciones:
 Algunas acciones son idénticas a las acciones en la lista de `Animales comprados`. Sigue los enlaces para las instrucciones paso a paso. Siempre abre primero la lista de `Nacimientos` como se describe en las instrucciones anteriores.
 {{% /alert %}}
 
-### Cambiar entre vista de lista y vista de un solo animal
+### Cambiar entre vista de lista y vista de un solo animal {#change-between-list-view-and-single-animal-view}
 
 1. Usa el botón <img src="/icons/gear.svg" width="25" align="bottom" alt="Engranaje" /> `On/Off`.
 
@@ -57,7 +57,7 @@ Algunas acciones son idénticas a las acciones en la lista de `Animales comprado
 
     ![VitalControl: Menú Nuevo en granja Nacimientos](../images/change.png "Cambiar entre vista de lista y vista de un solo animal")
 
-### Editar datos de aviso de nacimiento
+### Editar datos de aviso de nacimiento {#edit-data-of-birth-notice}
 
 {{% alert title="Consejo" %}}
 ¡Editar los datos del animal solo es posible en la vista de lista!

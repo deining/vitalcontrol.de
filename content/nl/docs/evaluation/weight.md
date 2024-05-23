@@ -30,7 +30,7 @@ Als u op een menu-item klikt, wordt u doorgestuurd naar een beschrijving van de 
    <area shape="rect" coords="2,282,95,319" alt="Terug" title="Spring een niveau terug&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/">
 </map>
 
-## Weging van vandaag
+## Weging van vandaag {#todays-weighings}
 In deze evaluatie kunt u de volgende informatie zien met betrekking tot de wegingen van de laatste 6 uur:
 - Het gemiddelde gewicht van de dieren
 - De gemiddelde dagelijkse toename sinds de geboorte
@@ -49,7 +49,7 @@ Om de evaluatie uit te voeren, ga als volgt te werk:
 
    ![VitalControl: menu Evaluatie Wegingen van vandaag](../images/todaysweighings.png "Evaluatie Wegingen van vandaag")
 
-## Geboortegewicht
+## Geboortegewicht {#birth-weights}
 In deze evaluatie kunt u de volgende informatie bekijken:
 - Het gemiddelde geboortegewicht
 - De gewichtsklassen
@@ -66,7 +66,7 @@ Om de evaluatie uit te voeren, ga als volgt te werk:
 
 ![VitalControl: menu Evaluatie Geboortegewichten](../images/birthweights.png "Evaluatie Geboortegewichten")
 
-## Gewichtsontwikkeling
+## Gewichtsontwikkeling {#weight-development}
 
 In deze evaluatie kunt u de volgende informatie zien die gerelateerd is aan alle wegingen:
 - Het gemiddelde gewicht van het dier

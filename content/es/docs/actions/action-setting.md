@@ -10,7 +10,7 @@ categories: [Acciones, Cadena de Acciones]
 tags: [Acciones, Cadena de acciones]
 translationKey: actions/setting
 ---
-## Elementos del menú
+## Elementos del menú {#menu-items}
 
 En este menú de configuración determinas qué acciones se te muestran dentro del menú &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acciones" /> `Acción`.
 
@@ -28,7 +28,7 @@ En este menú de configuración determinas qué acciones se te muestran dentro d
 
     ![VitalControl: Menú Acciones Elementos del menú](../images/menu.png "Elementos del menú")
 
-## Cadena de acciones
+## Cadena de acciones {#chain-of-actions}
 
 En este menú de configuración estableces la &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Cadena de acciones" />&nbsp; `cadena de acciones`.
 

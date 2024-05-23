@@ -11,7 +11,7 @@ categories: [Geboortes]
 tags: [Geboortes]
 translationKey: new-on-farm/births
 ---
-## Geboortes
+## Geboortes {#births}
 
 In deze lijst kunt u uw geboortes bekijken, bewerken en een exportbestand aanmaken om te registreren in HI-Tier. Volg deze stappen om een exportbestand te maken:
 
@@ -33,7 +33,7 @@ Om gegevens te exporteren heeft u de meegeleverde USB-stick nodig. Sluit de USB-
 
     ![VitalControl: Menu Nieuw op bedrijf Geboortes](../images/births.png "Geboortes")
 
-## Instellingen opties
+## Instellingen opties {#setting-options}
 
 Naast het maken van het exportbestand, heeft u de volgende opties:
 
@@ -47,7 +47,7 @@ Naast het maken van het exportbestand, heeft u de volgende opties:
 Sommige acties zijn identiek aan de acties in de lijst `Gekochte dieren`. Volg de links naar de stap-voor-stap instructies. Open altijd eerst de lijst `Geboorten` zoals beschreven in de instructies hierboven.
 {{% /alert %}}
 
-### Wijzig tussen Lijst en Individueel dier zicht
+### Wijzig tussen Lijst en Individueel dier zicht {#change-between-list-view-and-single-animal-view}
 
 1. Gebruik de <img src="/icons/gear.svg" width="25" align="bottom" alt="Gear" /> `Aan/Uit` knop.
 
@@ -57,7 +57,7 @@ Sommige acties zijn identiek aan de acties in de lijst `Gekochte dieren`. Volg d
 
     ![VitalControl: Menu Nieuw op boerderij Geboorten](../images/change.png "Wijzig tussen lijstweergave en enkel dier weergave")
 
-### Bewerk gegevens van geboortemelding
+### Bewerk gegevens van geboortemelding {#edit-data-of-birth-notice}
 
 {{% alert title="Hint" %}}
 Het bewerken van de diergegevens is alleen mogelijk in de lijstweergave!

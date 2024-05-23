@@ -11,7 +11,7 @@ Kategorien: [Listen]
 Tags: [Listen, Frischmelker]
 translationKey: lists/fresh-cows
 ---
-## Frischmelkerliste
+## Frischmelkerliste {#fresh-cows-list}
 
 {{% alert title="Erläuterung" %}}
 Beim Management von Frischmelkern ist es gute fachliche Praxis, mehrere Tage nach der Geburt täglich eine Tierkontrolle durchzuführen. Die Frischmelkerliste es VitalControls unterstützt sie bei dieser Tierkontrolle, insbesondere bei der Temperaturerfassung. Für jedes Tier wird mittels eines Säulendiagramms ein Überblick über alle Tage der Kontrollperiode gegeben, jeder Tag der Periode durch eine Säule repräsentiert. Je nach Farbe der Säule (grün, gelb oder rot) ist ersichtlich, ob für das jeweilige Tier an diesem Tag eine normale, eine erhöhte oder kritisch erhöhte Temperatur gemessen wurde.
@@ -32,7 +32,7 @@ In der Frischmelkerliste finden Sie ihre Frischmelker aufgelistet. Tiere, für d
 Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Diese sind hier nicht erläutert. Führen Sie die vorbereitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion um zu der Anleitung zu gelangen.
 {{% /alert %}}
 
-### Vorbereitende Schritte
+### Vorbereitende Schritte {#preliminary-steps}
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listen" /> `Listen` und drücken Sie die Taste `OK`.
 
@@ -42,7 +42,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
    ![VitalControl Listen Frischmelkerliste](../bilder/vorbereitendeschritte4.png "Vorbereitende Schritte")
 
-### Alarmstatus ändern
+### Alarmstatus ändern {#toggle-alarm-status}
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
@@ -54,7 +54,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
    ![VitalControl Listen Frischmelkerliste](../bilder/alarmstatusaendern2.png "Alarmstatus ändern")
 
-### Status Beobachtung umkehren
+### Status Beobachtung umkehren {#toggle-watch-status}
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
@@ -66,7 +66,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
    ![VitalControl Listen Frischmelkerliste](../bilder/statusumkehren22.png "Status Beobachtung umkehren")
 
-### Gemessene ausblenden
+### Gemessene ausblenden {#hide-measured-cows}
 
 Wenn diese Funktion aktiviert ist werden die Tiere, bei denen eine Messung der Temperatur durchgeführt wurde, auf der Trockensteherliste ausgeblendet. Ist diese Funktion nicht aktiviert bleiben die Tiere auf der Liste sichtbar.
 

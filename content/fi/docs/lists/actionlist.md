@@ -11,7 +11,7 @@ categories: [Listat]
 tags: [Listat, Toiminta]
 translationKey: lists/action
 ---
-## Toimintolista
+## Toimintolista {#action-list}
 
 Toimintolistalla näet eläimet, joille ei ole tehty toimenpiteitä kuuteen tuntiin. Saatavilla on myös seuraavat asetusvaihtoehdot:
 
@@ -27,7 +27,7 @@ Toimintolistalla näet eläimet, joille ei ole tehty toimenpiteitä kuuteen tunt
 Jotkut toiminnot suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm). Niitä ei selitetä tässä. Suorita alustavat vaiheet ja käytä kyseisen toiminnon linkkiä ohjeiden saamiseksi.
 {{% /alert %}}
 
-### Alustavat vaiheet
+### Alustavat vaiheet {#preliminary-steps}
 
 1. Valitse päävalikosta <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listat" />  `Listat` -valikko ja paina `OK`-painiketta.
 
@@ -37,7 +37,7 @@ Jotkut toiminnot suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm). 
 
    ![VitalControl Listat Toimintolista](../images/firststeps3.png "Alustavat vaiheet")
 
-### Punnitse eläin
+### Punnitse eläin {#weigh-animals}
 
 1. Suorita alustavat vaiheet.
 
@@ -49,7 +49,7 @@ Jotkut toiminnot suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm). 
 
    ![VitalControl Lists Action list](../images/weightanimals.png "Punnitse eläin")
 
-### Toimintaketju
+### Toimintaketju {#chain-of-action}
 
 1. Suorita alustavat vaiheet.
 
@@ -61,7 +61,7 @@ Jotkut toiminnot suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm). 
 
    ![VitalControl Lists Action list](../images/chainofaction.png "Toimintaketju")
 
-### Linkitä transponderi
+### Linkitä transponderi {#link-transponder}
 
 Tätä toimintoa käytetään lisäämään lähetin niiden eläinten tietueeseen, joille ei ole vielä määritetty lähetintä.
 
@@ -75,7 +75,7 @@ Tätä toimintoa käytetään lisäämään lähetin niiden eläinten tietueesee
 
    ![VitalControl Lists Action list](../images/linktransponder.png "Linkitä transponderi")
 
-### Piilota toiminnon jälkeen
+### Piilota toiminnon jälkeen {#hide-after-action}
 
 Jos tämä toiminto on aktivoitu, eläimet, joille toimenpide on suoritettu, piilotetaan toimintolistalta. Jos tämä toiminto on poistettu käytöstä, käsitellyt eläimet pysyvät näkyvissä listalla.
 

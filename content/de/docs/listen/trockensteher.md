@@ -11,7 +11,7 @@ Kategorien: [Listen]
 Tags: [Listen, Trockensteher]
 translationKey: lists/dry-cows
 ---
-## Trockensteherliste
+## Trockensteherliste {#dry-cows-list}
 
 Auf der Trockensteherliste finden Sie alle Tiere die Sie als trockenstehend gekennzeichnet sind. Diese Liste hilft Ihnen, die Übersicht über Ihre Trockensteher zu behalten und notwendige Aktionen an den Tieren durchzuführen. Folgende Aktionen können Sie ausführen:
 
@@ -28,7 +28,7 @@ Auf der Trockensteherliste finden Sie alle Tiere die Sie als trockenstehend geke
 Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Diese sind hier nicht erläutert. Führen Sie die vorbereitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion um zu der Anleitung zu gelangen.
 {{% /alert %}}
 
-### Vorbereitende Schritte
+### Vorbereitende Schritte {#preliminary-steps}
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listen" /> `Listen` und drücken Sie die Taste `OK`.
 
@@ -38,7 +38,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
    ![VitalControl Listen Trockensteherliste](../bilder/vorbereitendeschritte5.png "Vorbereitende Schritte")
 
-### Abkalbung erfassen
+### Abkalbung erfassen {#calving}
 
 Innerhalb der Trockensteherliste können Sie direkt für ein individuelles Tier die Abkalbung erfassen.
 

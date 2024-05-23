@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, Edad máxima, Comprados terneros edad maximá, Asignación ID animal]
 translationKey: settings/link-transponder
 ---
-## Establecer la Comprados terneros edad maximá
+## Establecer la Comprados terneros edad maximá {#set-maximum-age-of-purchased-calves}
 Para configurar la `Comprados terneros edad maximá` en tu dispositivo, procede de la siguiente manera.
 
 1. Selecciona el ítem del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuraciones" /> `Ajustes` en la pantalla principal de tu dispositivo VitalControl y presiona el botón `OK`.
@@ -22,7 +22,7 @@ Para configurar la `Comprados terneros edad maximá` en tu dispositivo, procede 
 
     ![VitalControl: configuraciones del menú enlace de transpondedor](../images/maximumage.png "Comprados terneros edad maximá")
 
-## Asignación ID animal
+## Asignación ID animal {#assignment-animal-id}
 
 Para configurar el `Asignación de ID de animal` en tu dispositivo, procede de la siguiente manera.
 

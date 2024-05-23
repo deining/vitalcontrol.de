@@ -11,7 +11,7 @@ categories: [Nieuw op de boerderij, Nationaal dier-ID]
 tags: [Nieuw op de boerderij, Nationaal dier-ID]
 translationKey: new-on-farm/no-transponder-assigned
 ---
-## Geen oormerk toegewezen
+## Geen oormerk toegewezen {#no-transponder-assigned}
 
 De afhandeling binnen deze lijst is identiek aan de lijst `Geen oormerk toegewezen`. Echter, in deze lijst vindt u alle dieren die nog geen transponder toegewezen hebben gekregen, ongeacht hun leeftijd.
 

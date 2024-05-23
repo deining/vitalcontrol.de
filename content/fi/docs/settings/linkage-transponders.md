@@ -11,7 +11,7 @@ categories: [asetukset]
 tags: [asetukset, ostetut vasiktat enimmäisikä, ostetut vasiktat enimmäisikä, Eäimen numeron antaminen]
 translationKey: settings/link-transponder
 ---
-## Aseta ostetut vasiktat enimmäisikä
+## Aseta ostetut vasiktat enimmäisikä {#set-maximum-age-of-purchased-calves}
 Asettaaksesi `ostetut vasiktat enimmäisikä` laitteellasi, toimi seuraavasti.
 
 1. Valitse päävalikosta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` VitalControl-laitteessasi ja paina `OK`-nappia.
@@ -22,7 +22,7 @@ Asettaaksesi `ostetut vasiktat enimmäisikä` laitteellasi, toimi seuraavasti.
 
     ![VitalControl: valikkoasetukset Linkitä transponderi](../images/maximumage.png "ostetut vasiktat enimmäisikä")
 
-## Eäimen numeron antaminen
+## Eäimen numeron antaminen {#assignment-animal-id}
 
 Asettaaksesi `Eäimen numeron antaminen` laitteellasi, toimi seuraavasti.
 

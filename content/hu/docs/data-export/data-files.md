@@ -10,7 +10,7 @@ tags: [export fájlok, hőmérsékletek, súlyok, értékelések]
 slug: export-files
 translationKey: data-export/data-files
 ---
-## Általános információk
+## Általános információk {#general-information}
 
 Az állati adatok exportálásakor, függetlenül attól, hogy [USB flash meghajtóra][] vagy a [PC-n lévő helyi tömegtároló eszközre][] történik, minden esetben négy export fájl jön létre:
 
@@ -29,17 +29,17 @@ Az állati adatok exportálásakor, függetlenül attól, hogy [USB flash meghaj
 
 Mind a négy fájl ember által olvasható [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) szövegfájl. A fájlok `UTF-8` formátumban vannak kódolva, pontosvesszők (`;`) szolgálnak oszlopelválasztóként. Az egyes adatmezők *nincsenek* idézőjelek közé zárva. Az adott táblázat minden sora egy állati adatállományt vagy egy állaton végzett mérést vagy értékelést képvisel.
 
-## Az exportált adatok további feldolgozása
-
+## Az exportált adatok további feldolgozása {#further-processing-of-exported-data}
+ 
 Ezeket a négy export fájlt megnyithatja egy tetszőleges táblázatkezelő programban (például [Microsoft Excel](https://products.office.com/excel) vagy [OpenOffice Calc](https://www.openoffice.org/)), és ott végezhet fejlett elemzéseket az adatokon. Példaként az `animals.csv` táblázat nézete egy táblázatkezelő programban az alábbiakban látható:
 
 ![Exportált állati adatok, megnyitva egy táblázatkezelő programban](../images/animals.png "Állati adatok megnyitva táblázatkezelő programban")
 
-## Adatfájlok leírása
+## Adatfájlok leírása {#description-of-data-files}
 
 A következő négy szakasz részletesen leírja az egyes exportált adatfájlokat:
 
-### Állati adatok (`animals.csv`)
+### Állati adatok (`animals.csv`) {#animal-data-animalscsv}
 
 - **Fájlnév** `animals.csv`
 - **Leírás** Általános állati adatok
@@ -72,7 +72,7 @@ Szükség esetén letöltheti a mellékelt minta fájlt is [animals.csv][].
 
 [animals.csv]: /data-export/animals.csv
 
-### Testhőmérséklet adatok (`temperatures.csv`)
+### Testhőmérséklet adatok (`temperatures.csv`) {#body-temperature-data-temperaturescsv}
 
 - **Fájlnév** `temperatures.csv`
 - **Leírás** Hőmérsékleti értékek, amelyeket az állatok rektális testhőmérsékletének mérésével nyertek.
@@ -104,7 +104,7 @@ Szükség esetén letöltheti a megadott mintafájlt is [temperatures.csv][]. Az
 
 [temperatures.csv]: /data-export/temperatures.csv
 
-### Súly adatok (`weights.csv`)
+### Súly adatok (`weights.csv`) {#weight-data-weightscsv}
 
 - **Fájlnév** `weights.csv`
 - **Leírás** Állatok mérésével nyert súlyértékek
@@ -137,7 +137,7 @@ Szükség esetén letöltheti a mellékelt mintafájlt is [weights.csv][]. Az al
 
 [weights.csv]: /data-export/weights.csv
 
-### Állatértékelések (`ratings.csv`)
+### Állatértékelések (`ratings.csv`) {#animal-ratings-ratingscsv}
 
 - **Fájlnév** `ratings.csv`
 - **Leírás** Az állatok vizuális ellenőrzésével nyert állatértékelések

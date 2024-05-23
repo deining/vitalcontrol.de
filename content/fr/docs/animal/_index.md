@@ -11,7 +11,7 @@ Categories: [Animal]
 tags: [Animal, Température, Taille, Données sur les animaux]
 translationKey: animal/animal
 ---
-## Animal
+## Animal {#animal}
 
 La fonction animal individuel vous permet de consulter des informations importantes concernant le poids, la température et l'évaluation pour chaque animal individuellement. Vous avez toujours la possibilité d'afficher les informations sous forme graphique ou sous forme de liste. Pour utiliser la fonction animal individuel, procédez comme suit :
 
@@ -26,7 +26,7 @@ Dans chaque affichage d'information, vous avez la possibilité de [rechercher un
 Vous pouvez également passer d'un animal à l'autre à tout moment en utilisant les touches fléchées ◁ ▷.
 {{% /alert %}}
 
-### Définir la vue graphique
+### Définir la vue graphique {#set-graphical-view}
 
 1. Appuyez sur le bouton supérieur central `On/Off` <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Ouvrir le menu pop-up" /> afin d'ouvrir un menu pop-up. Dans ce menu, vous pouvez choisir entre les fonctions `Définir le filtre`, `Rechercher un animal`, ou `Vue graphique`.
 
@@ -34,7 +34,7 @@ Vous pouvez également passer d'un animal à l'autre à tout moment en utilisant
 
 ![VitalControl : Menu Animal](images/graphic.png "Représentation sous forme graphique")
 
-### Rechercher un animal
+### Rechercher un animal {#search-animal}
 
 1. Appuyez sur le bouton supérieur central `On/Off` <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Ouvrir le menu pop-up" /> afin d'ouvrir un menu pop-up. Dans ce menu, vous pouvez choisir entre les fonctions `Définir le filtre`, `Rechercher un animal` ou `Vue graphique`.
 
@@ -44,7 +44,7 @@ Vous pouvez également passer d'un animal à l'autre à tout moment en utilisant
 
 ![VitalControl : Menu Animal](images/search.png "Rechercher un animal")
 
-### Définir le filtre
+### Définir le filtre {#set-filter}
 
 1. Appuyez sur le bouton supérieur central `On/Off` <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Ouvrir le menu pop-up" /> afin d'ouvrir un menu pop-up. Dans ce menu, vous pouvez choisir entre les fonctions `Définir le filtre`, `Rechercher un animal` ou `Vue graphique`.
 

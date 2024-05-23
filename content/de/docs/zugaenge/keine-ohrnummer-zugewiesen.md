@@ -11,7 +11,7 @@ Kategorien: [Zukäufe, Ohrmarkennummer]
 Tags: [Zukäufe, Ohrmarkennummer]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
-## Keine Ohrmarkennummer zugewiesen
+## Keine Ohrmarkennummer zugewiesen {#no-national-animal-id-assigned}
 
 Innerhalb dieser Liste finden Sie alle Tiere denen noch keine Ohrmarkennummer zugewiesen wurde. Sie können den Tieren in dieser Liste einer Ohrmarkennummer zuordnen.
 
@@ -43,7 +43,7 @@ Unter [Abschlussaktion bei OK](#abschlussaktion-bei-ok) können Sie einstellen o
 {{% /tab %}}
 {{< /tabpane >}}    
 
-## Abschlussaktion bei OK
+## Abschlussaktion bei OK {#last-action-on-ok}
 
 Hier können Sie festlegen ob Sie die Ohrmarkennummer manuell eingeben möchten oder ob Sie diese einscannen möchten. Gehen Sie wie folgt vor:
 
@@ -61,7 +61,7 @@ Hier können Sie festlegen ob Sie die Ohrmarkennummer manuell eingeben möchten 
 Die Zuordnung der Ohrmarkennummer per Scan können Sie nur verwenden, wenn Sie elektronische Ohrmarken einsetzen!
 {{% /alert %}}
 
-## Vorherige Zusatzaktionen
+## Vorherige Zusatzaktionen {#previous-additional-actions}
 
 Mithilfe der vorherigen Zusatzaktionen können Sie einstellen welche Aktionen Sie vor dem zuordnen der Ohrmarkennummer ausführen möchten. Zur Auswahl stehen Ihnen Temperatur messen, Tier bewerten und Tier wiegen. Die jeweilige Aktion wird direkt für das Tier gespeichert, welches Sie im Anschluss zuordnen. Gehen Sie wie folgt vor:
 
@@ -77,6 +77,6 @@ Mithilfe der vorherigen Zusatzaktionen können Sie einstellen welche Aktionen Si
 
     ![VitalControl: Menüfolge Zugänge Keine Ohrmarkennummer zugewiesen](../bilder/weitere-aktionen.png "Keine Ohrmarkennummer zugewiesen, zusätzliche Aktionen")
 
-## Weitere Menüpunkte
+## Weitere Menüpunkte {#further-menu-items}
 
 Weiterhin haben Sie die Möglichkeit in dem Popup zwischen `Tier suchen` und `Filter setzen` auszuwählen. Navigieren Sie mit den Pfeiltasten △ ▽ zu dem jeweiligen Menüpunkt und bestätigen Sie mit `OK`. Die Informationen für den Menüpunkt `Filter setzen` [hier](/docs/filter/) und für `Tier suchen` verfahren Sie wie in `Keine Ohrmarkennummer zugewiesen` Schritt 4. 

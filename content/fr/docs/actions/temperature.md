@@ -11,7 +11,7 @@ tags: [Actions, fièvre, température]
 translationKey: actions/temperature
 ---
 
-## Mesurer la fièvre
+## Mesurer la fièvre {#measure-fever}
 
 Utilisez l'action de température pour mesurer la température de vos animaux. Insérez la pointe de mesure rectalement à la profondeur de mesure spécifiée (pour les grands animaux toute la longueur jusqu'à la bosse, pour les petits ruminants environ 6 cm ou 2/3 de la pointe de mesure). Le processus de mesure se déroule automatiquement. Dès que le processus de mesure est terminé, l'appareil affiche la température mesurée. Le codage couleur indique si la température est dans la plage verte, jaune ou rouge. Vous avez plusieurs options pendant la campagne Prendre une température :
 
@@ -45,7 +45,7 @@ Si la température est dans la zone jaune ("élevée") ou rouge ("fièvre"), Vit
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Enregistrer le résultat
+### Enregistrer le résultat {#save-result}
 
 1. Complétez les étapes préliminaires.
 
@@ -53,7 +53,7 @@ Si la température est dans la zone jaune ("élevée") ou rouge ("fièvre"), Vit
 
     ![VitalControl: Actions du menu Enregistrer les résultats](../images/saveresults.png "Enregistrer les résultats")
 
-### Ajouter à la liste de surveillance
+### Ajouter à la liste de surveillance {#put-on-the-watch-list}
 
 1. Complétez les étapes préliminaires.
 
@@ -63,7 +63,7 @@ Si la température est dans la zone jaune ("élevée") ou rouge ("fièvre"), Vit
 
     ![VitalControl: Actions du menu Ajouter à la liste de surveillance](../images/watchlist.png "Ajouter à la liste de surveillance")
 
-### Allumer et éteindre l'éclairage du lieu de mesure
+### Allumer et éteindre l'éclairage du lieu de mesure {#lighting-of-the-measurement-location-on-and-off}
 
 1. Complétez les étapes préliminaires.
 
@@ -73,7 +73,7 @@ Si la température est dans la zone jaune ("élevée") ou rouge ("fièvre"), Vit
 
     ![VitalControl: Actions du menu Allumer et éteindre la lampe torche](../images/light.png "Allumer et éteindre la lampe torche")
 
-### Refaire la mesure
+### Refaire la mesure {#repeat-the-measurement}
 
 1. Complétez les étapes préliminaires.
 
@@ -83,7 +83,7 @@ Si la température est dans la zone jaune ("élevée") ou rouge ("fièvre"), Vit
 
     ![VitalControl: Menu Actions Light on off](../images/repeat.png "Light on off")
 
-### Annuler l'action
+### Annuler l'action {#cancel-the-action}
 
 1. Complétez les étapes préliminaires.
 

@@ -11,7 +11,7 @@ categories: [Lauma]
 tags: [Lauma, Lämpötila, Paino, Luokitus, Eläintiedot]
 translationKey: herd
 ---
-## Lauma
+## Lauma {#herd}
 
 Lauma-valikossa voit tarkastella koko laumaasi, etsiä yksittäisiä eläimiä ja näyttää tärkeitä tietoja. Sinulla on seuraavat mahdollisuudet:
 
@@ -23,7 +23,7 @@ Lauma-valikossa voit tarkastella koko laumaasi, etsiä yksittäisiä eläimiä j
 - Aseta [suodatin](#aseta-suodatin)
 - [Toiminnot](#kutsu-toimintovalikko)
 
-### Valmisteluvaiheet
+### Valmisteluvaiheet {#preparatory-steps}
 
 1. Valitse VitalControl-laitteesi päävalikosta kohta <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Lauma" /> `Karja` ja paina `OK`-nappia.
 
@@ -31,7 +31,7 @@ Lauma-valikossa voit tarkastella koko laumaasi, etsiä yksittäisiä eläimiä j
 
     ![VitalControl: Valikko Lauma](images/herde.png "Lauma")
 
-### Näytä eläintiedot
+### Näytä eläintiedot {#view-animal-data}
 
 1. Suorita valmisteluvaiheet.
 
@@ -47,7 +47,7 @@ Lauma-valikossa voit tarkastella koko laumaasi, etsiä yksittäisiä eläimiä j
 Oletuksena eläintiedot näytetään ensin. Vain kun olet esimerkiksi näyttänyt painon, sinun on asetettava eläintietojen näyttö uudelleen.
 {{% /alert %}}
 
-### Näytä lämpötila
+### Näytä lämpötila {#display-temperature}
 
 1. Suorita valmisteluvaiheet.
 
@@ -59,7 +59,7 @@ Oletuksena eläintiedot näytetään ensin. Vain kun olet esimerkiksi näyttäny
 
     ![VitalControl: Menu Herd](images/temperature.png "Näytä lämpötila")
 
-### Näytä arvostelu
+### Näytä arvostelu {#view-rating}
 
 1. Suorita valmisteluvaiheet.
 
@@ -71,7 +71,7 @@ Oletuksena eläintiedot näytetään ensin. Vain kun olet esimerkiksi näyttäny
 
     ![VitalControl: Menu Herd](images/rating.png "Näytä arvostelu")
 
-### Näytä paino
+### Näytä paino {#display-weight}
 
 1. Suorita valmisteluvaiheet.
 
@@ -83,7 +83,7 @@ Oletuksena eläintiedot näytetään ensin. Vain kun olet esimerkiksi näyttäny
 
     ![VitalControl: Menu Herd](images/weight.png "Näytä paino")
 
-### Etsi eläin
+### Etsi eläin {#search-animal}
 
 1. Suorita valmisteluvaiheet.
 
@@ -93,7 +93,7 @@ Oletuksena eläintiedot näytetään ensin. Vain kun olet esimerkiksi näyttäny
 
     ![VitalControl: Menu Herd](images/search.png "Etsi eläin")
 
-### Aseta suodatin
+### Aseta suodatin {#set-filter}
 
 1. Suorita valmisteluvaiheet.
 
@@ -103,7 +103,7 @@ Oletuksena eläintiedot näytetään ensin. Vain kun olet esimerkiksi näyttäny
 
     ![VitalControl: Menu Herd](images/setfilter.png "Etsi eläin")
 
-### Kutsu toimintovalikko
+### Kutsu toimintovalikko {#call-action-menu}
 
 Sinulla on aina mahdollisuus kutsua esiin eläimen toimintovalikko.
 

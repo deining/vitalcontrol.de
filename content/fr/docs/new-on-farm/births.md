@@ -11,8 +11,8 @@ categories: [Naissances]
 tags: [Naissances]
 translationKey: new-on-farm/births
 ---
-## Naissances
-
+## Naissances {#births}
+ 
 Dans cette liste, vous pouvez voir vos naissances, les modifier et créer un fichier d'exportation pour l'enregistrer dans HI-Tier. Pour créer un fichier d'exportation, procédez comme suit :
 
 {{% alert title="Conseil" %}}
@@ -33,7 +33,7 @@ Pour exporter des données, vous avez besoin de la clé USB incluse. Connectez l
 
     ![VitalControl: Menu Nouveau à la ferme Naissances](../images/births.png "Naissances")
 
-## Configuration des options
+## Configuration des options {#setting-options}
 
 En plus de créer le fichier d'exportation, vous disposez des options suivantes :
 
@@ -47,7 +47,7 @@ En plus de créer le fichier d'exportation, vous disposez des options suivantes 
 Certaines actions sont identiques aux actions dans la liste `Animaux achetés`. Suivez les liens vers les instructions étape par étape. Ouvrez toujours la liste `Naissances` en premier comme décrit dans les instructions ci-dessus.
 {{% /alert %}}
 
-### Changer entre la vue liste et la vue animal unique
+### Changer entre la vue liste et la vue animal unique {#change-between-list-view-and-single-animal-view}
 
 1. Utilisez le bouton <img src="/icons/gear.svg" width="25" align="bottom" alt="Engrenage" /> `On/Off`.
 
@@ -57,7 +57,7 @@ Certaines actions sont identiques aux actions dans la liste `Animaux achetés`. 
 
     ![VitalControl : Menu Nouveau sur les naissances à la ferme](../images/change.png "Changer entre la vue liste et la vue animal unique")
 
-### Modifier les données de l'avis de naissance
+### Modifier les données de l'avis de naissance {#edit-data-of-birth-notice}
 
 {{% alert title="Conseil" %}}
 La modification des données de l'animal est uniquement possible dans la vue liste !

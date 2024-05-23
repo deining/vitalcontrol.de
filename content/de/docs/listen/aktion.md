@@ -11,7 +11,7 @@ Kategorien: [Listen]
 Tags: [Listen, Aktion]
 translationKey: lists/action
 ---
-## Aktionsliste
+## Aktionsliste {#action-list}
 
 Innerhalb der Aktionsliste können Sie die Tiere einsehen bei denen seit 6 Stunden keine Aktion durchgeführt wurde. Außerdem bestehen folgende Einstellungsmöglichkeiten:
 
@@ -28,7 +28,7 @@ Innerhalb der Aktionsliste können Sie die Tiere einsehen bei denen seit 6 Stund
 Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Diese sind hier nicht erläutert. Führen Sie die vorbereitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion um zu der Anleitung zu gelangen.
 {{% /alert %}}
 
-### Vorbereitende Schritte
+### Vorbereitende Schritte {#preliminary-steps}
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listen" /> `Listen` und drücken Sie die Taste `OK`.
 
@@ -38,7 +38,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
    ![VitalControl Listen Aktionsliste](../bilder/vorbereitendeschritte3.png "Vorbereitende Schritte")
 
-### Temperatur messen
+### Temperatur messen {#weigh-animals}
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
@@ -50,7 +50,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
    ![VitalControl Listen Aktionsliste](../bilder/messen.png "Temperatur messen")
 
-### Tier wiegen
+### Tier wiegen {#weigh-animals}
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
@@ -62,7 +62,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
    ![VitalControl Listen Aktionsliste](../bilder/tierwiegen.png "Tier wiegen")
 
-### Aktionskette
+### Aktionskette {#chain-of-action}
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
@@ -74,7 +74,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
    ![VitalControl Listen Aktionsliste](../bilder/aktionskette.png "Aktionskette")
 
-### Transponder zuordnen
+### Transponder zuordnen {#link-transponder}
 
 Diese Funktion findet Anwendung bei Tieren denen noch kein Transponder bei dem Anlegen des Tiers zugeordnet wurde.
 
@@ -88,7 +88,7 @@ Diese Funktion findet Anwendung bei Tieren denen noch kein Transponder bei dem A
 
    ![VitalControl Listen Aktionsliste](../bilder/transponderzuordnen.png "Transponder zuordnen")
 
-### Nach Aktion ausblenden
+### Nach Aktion ausblenden {#hide-after-action}
 
 Wenn diese Funktion aktiviert ist werden die Tiere, bei denen eine Aktion durchgeführt wurde, auf der Aktionsliste ausgeblendet. Ist diese Funktion nicht aktiviert bleiben die Tiere auf der Liste sichtbar.
 

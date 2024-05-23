@@ -11,7 +11,7 @@ categories: [Lijsten]
 tags: [Lijsten, Actie]
 translationKey: lists/action
 ---
-## Actielijst
+## Actielijst {#action-list}
 
 Binnen de actielijst kunt u de dieren zien waarvoor zes uur lang geen actie is ondernomen. De volgende instellingsopties zijn ook beschikbaar:
 
@@ -28,7 +28,7 @@ Binnen de actielijst kunt u de dieren zien waarvoor zes uur lang geen actie is o
 Sommige acties moeten op dezelfde manier worden uitgevoerd als in de [alarmlijst](../alarm). Deze worden hier niet uitgelegd. Voer de voorbereidende stappen uit en gebruik de link van de betreffende actie om naar de instructies te gaan.
 {{% /alert %}}
 
-### Voorbereidende Stappen
+### Voorbereidende Stappen {#preliminary-steps}
 
 1. Selecteer het <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lijsten" />  `Lijsten` menu-item op het hoofdscherm van uw VitalControl-apparaat en druk op de `OK` knop.
 
@@ -38,7 +38,7 @@ Sommige acties moeten op dezelfde manier worden uitgevoerd als in de [alarmlijst
 
    ![VitalControl Lijsten Actielijst](../images/firststeps3.png "Voorbereidende Stappen")
 
-### Dier wegen
+### Dier wegen {#weigh-animals}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -50,7 +50,7 @@ Sommige acties moeten op dezelfde manier worden uitgevoerd als in de [alarmlijst
 
    ![VitalControl Lijsten Actielijst](../images/weightanimals.png "Dier wegen")
 
-### Opeenvolgende acties
+### Opeenvolgende acties {#chain-of-action}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -62,7 +62,7 @@ Sommige acties moeten op dezelfde manier worden uitgevoerd als in de [alarmlijst
 
    ![VitalControl Lijsten Actielijst](../images/chainofaction.png "Opeenvolgende acties")
 
-### Link transponder
+### Link transponder {#link-transponder}
 
 Deze functie wordt gebruikt om een transponder toe te voegen aan het gegevensrecord van dieren die nog geen transponder toegewezen hebben gekregen.
 
@@ -76,7 +76,7 @@ Deze functie wordt gebruikt om een transponder toe te voegen aan het gegevensrec
 
    ![VitalControl Lijsten Actielijst](../images/linktransponder.png "Link transponder")
 
-### Verberg na actie
+### Verberg na actie {#hide-after-action}
 
 Als deze functie geactiveerd is, worden de dieren waarvoor een actie is uitgevoerd verborgen in de actielijst. Als deze functie gedeactiveerd is, blijven de verwerkte dieren zichtbaar in de lijst.
 

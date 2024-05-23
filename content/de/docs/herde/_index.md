@@ -11,7 +11,7 @@ Kategorien: [Herde]
 Tags: [Herde, Temperatur, Gewicht, Bewertung, Tierdaten]
 translationKey: herd
 ---
-## Herde
+## Herde {#herd}
 
 Innerhalb des Menüpunktes Herde können Sie Ihre gesamte Herde einsehen, einzelne Tiere suchen und sich wichtige Informationen anzeigen lassen. Sie haben dabei folgende Möglichkeiten:
 
@@ -23,7 +23,7 @@ Innerhalb des Menüpunktes Herde können Sie Ihre gesamte Herde einsehen, einzel
 - [Filter](../filter/#tierfilter-anwenden) setzen
 - [Aktionen](#aktionsmen%C3%BC-aufrufen) aufrufen
 
-### Vorbereitende Schritte
+### Vorbereitende Schritte {#preparatory-steps}
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Herde" title="Hauptmenüpunkt Herde" /> `Herde` und drücken Sie die Taste `OK`.
 
@@ -31,7 +31,7 @@ Innerhalb des Menüpunktes Herde können Sie Ihre gesamte Herde einsehen, einzel
 
     ![VitalControl: Menüfolge Herde](bilder/herde.png "Herde")
 
-### Tierdaten anzeigen lassen
+### Tierdaten anzeigen lassen {#view-animal-data}
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
@@ -47,7 +47,7 @@ Innerhalb des Menüpunktes Herde können Sie Ihre gesamte Herde einsehen, einzel
 Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie sich z.B. das Gewicht anzeigen lassen müssen Sie das Anzeigen der Tierdaten erneut einstellen.
 {{% /alert %}}
 
-### Temperatur anzeigen lassen
+### Temperatur anzeigen lassen {#display-temperature}
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
@@ -59,7 +59,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
     ![VitalControl: Menüfolge Herde](bilder/temperatur.png "Temperatur anzeigen lassen")
 
-### Bewertung anzeigen lassen
+### Bewertung anzeigen lassen {#view-rating}
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
@@ -71,7 +71,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
     ![VitalControl: Menüfolge Herde](bilder/bewertung.png "Bewertung anzeigen lassen")
 
-### Gewicht anzeigen lassen
+### Gewicht anzeigen lassen {#display-weight}
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
@@ -83,7 +83,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
     ![VitalControl: Menüfolge Herde](bilder/gewicht.png "Gewicht anzeigen lassen")
 
-### Tier suchen
+### Tier suchen {#search-animal}
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
@@ -93,7 +93,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
     ![VitalControl: Menüfolge Herde](bilder/tiersuchen.png "Tier suchen")
 
-### Filter setzen
+### Filter setzen {#set-filter}
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
@@ -103,7 +103,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
     ![VitalControl: Menüfolge Herde](bilder/filter.png "Set filter")
 
-### Aktionsmenü aufrufen
+### Aktionsmenü aufrufen {#call-action-menu}
 
 Sie haben jederzeit die Möglichkeit das Aktionsmenü für ein Tier aufzurufen.
 

@@ -11,7 +11,7 @@ categories: [Lijsten]
 tags: [Lijsten, droge koe]
 translationKey: lists/dry-cows
 ---
-## Lijst van droge koeien
+## Lijst van droge koeien {#dry-cows-list}
 
 Op de lijst van droge dieren vindt u alle dieren die u als droge dieren hebt opgeslagen. Deze lijst helpt u om uw droge koeien bij te houden en de nodige acties op de dieren uit te voeren. U kunt de volgende acties uitvoeren:
 
@@ -28,7 +28,7 @@ Op de lijst van droge dieren vindt u alle dieren die u als droge dieren hebt opg
 Sommige acties worden op dezelfde manier uitgevoerd als in de [alarmlijst](../alarm). Deze worden hier niet uitgelegd. Voer de voorbereidende stappen uit en gebruik de link van de betreffende actie om naar de instructies te gaan.
 {{% /alert %}}
 
-### Voorbereidende stappen
+### Voorbereidende stappen {#preliminary-steps}
 
 1. Selecteer het <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lijsten" /> `Lijsten` menu-item op het hoofdscherm van uw VitalControl-apparaat en druk op de `OK` knop.
 
@@ -38,7 +38,7 @@ Sommige acties worden op dezelfde manier uitgevoerd als in de [alarmlijst](../al
 
    ![VitalControl Lijsten Lijst van droge koeien](../images/firststeps5.png "Voorbereidende stappen")
 
-## Kalving
+## Kalving {#calving}
 
 1. Voltooi de voorbereidende stappen.
 

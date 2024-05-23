@@ -11,7 +11,7 @@ Categories: [Animal]
 tags: [Animal, Temperatura, Altura, Datos del animal]
 translationKey: animal/animal
 ---
-## Animal
+## Animal {#animal}
 
 La función de animal individual le permite ver información importante sobre el peso, la temperatura y la calificación de cada animal individual. Siempre tiene la opción de mostrar la información como un gráfico o como una lista. Para usar la función de animal individual, proceda de la siguiente manera:
 
@@ -26,7 +26,7 @@ Dentro de cada visualización de información tiene la opción de [buscar un ani
 También puede cambiar entre los animales individuales en cualquier momento usando las teclas de flecha ◁ ▷.
 {{% /alert %}}
 
-### Establecer vista gráfica
+### Establecer vista gráfica {#set-graphical-view}
 
 1. Presione el botón superior medio `On/Off` <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Abrir menú emergente" /> para abrir un menú emergente. En este menú, puede elegir entre las funciones `Fijar filtro`, `Buscar animal` o `Ganado Glan`.
 
@@ -34,7 +34,7 @@ También puede cambiar entre los animales individuales en cualquier momento usan
 
 ![VitalControl: Menú Animal](images/graphic.png "Representación gráfica")
 
-### Buscar animal
+### Buscar animal {#search-animal}
 
 1. Presiona el botón superior central `On/Off` <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Abrir menú emergente" /> para abrir un menú emergente. En este menú, puedes elegir entre las funciones `Fijar filtro`, `Buscar animal` o `Ganado Glan`.
 
@@ -44,7 +44,7 @@ También puede cambiar entre los animales individuales en cualquier momento usan
 
 ![VitalControl: Menú Animal](images/search.png "Buscar animal")
 
-### Establecer filtro
+### Establecer filtro {#set-filter}
 
 1. Presiona el botón superior central `On/Off` <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Abrir menú emergente" /> para abrir un menú emergente. En este menú, puedes elegir entre las funciones `Fijar filtro`, `Buscar animal` o `Ganado Glan`.
 

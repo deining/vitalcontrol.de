@@ -11,7 +11,7 @@ Kategorien: [Zukäufe, Transponder]
 Tags: [Zukäufe, Transponder]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
-## Zukäufe, kein Transponder
+## Zukäufe, kein Transponder {#new-on-farm-no-transponder}
 
 Innerhalb dieser Liste finden Sie alle neu angelegten Tiere, denen noch kein Transponder zugewiesen wurde und die jünger sind als das einstellbare Maximalalter (Standard: 60 Tage). Die individuelle Anpassung des Maximalalters ist [hier](/docs/einstellungen/zuordnung-transponder/#maximalalter-zugekaufter-fresser-einstellen) beschrieben. Sobald Sie diesen Tieren einen Transponder eingezogen haben, können Sie die entsprechende Tier-ID innerhalb der Liste suchen und den zugehörigen Transponder einscannen. Der Transponder wird dann automatisch dem Tier zugeordnet und das Tier wird aus der Liste gelöscht. Um einen Transponder zuzuordnen gehen Sie wie folgt vor:
 
@@ -41,7 +41,7 @@ Sobald Sie alle Tiere zugewiesen haben, haben Sie die Möglichkeit über die `F3
 ![VitalControl: Menüfolge Zugänge Zukäufe, kein Transponder](../bilder/umleitung.png "Umleitung")
 {{% /alert %}}
 
-## Vorherige Zusatzaktionen
+## Vorherige Zusatzaktionen {#previous-additional-actions}
 
 Mithilfe der vorherigen  Zusatzaktionen können Sie einstellen welche Aktionen Sie vor dem Zuordnen des Transponders ausführen möchten. Zur Auswahl stehen Ihnen Temperatur messen, Tier bewerten und Tier wiegen. Die jeweilige Aktion wird direkt für das Tier gespeichert, welches Sie im Anschluss zuordnen. Gehen Sie wie folgt vor:
 
@@ -60,6 +60,6 @@ Der Menüpunkt `Abschlussaktionen bei OK:` informiert Sie darüber, dass das Tra
 
   ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/standardaktion.png "Standardaktionen einstellen")
 
-## Weitere Menüpunkte
+## Weitere Menüpunkte {#further-menu-items}
 
 Weiterhin haben Sie die Möglichkeit in dem Popup zwischen `Einstellungen`, `Tier suchen` und `Filter setzen` auszuwählen. Navigieren Sie mit den Pfeiltasten △ ▽ zu dem jeweiligen Menüpunkt und bestätigen Sie mit `OK`. Die Informationen für den Menüpunkt `Einstellungen` finden Sie [hier](/docs/einstellungen/zuordnung-transponder/#maximalalter-zugekaufter-fresser-einstellen), für `Filter setzen` [hier](/docs/filter/) und für `Tier suchen` verfahren Sie wie in `Zukäufe, kein Transponder` Schritt 3. 

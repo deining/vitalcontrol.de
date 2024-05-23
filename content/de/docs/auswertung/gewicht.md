@@ -31,7 +31,7 @@ Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweil
 </map>
 
 
-## Heutige Wiegungen
+## Heutige Wiegungen {#todays-weighings}
 In dieser Auswertung können Sie folgende, auf die Wiegungen der letzten 6 Stunden bezogenen, Informationen einsehen:
 - Das mittlere Tiergewicht
 - Die mittlere tägliche Zunahme seit der Geburt
@@ -50,7 +50,7 @@ Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
    ![VitalControl: Menüfolge Auswertungen Heutige Wiegungen](../bilder/heutewiegung.png "Heutige Wiegungen auswerten")
 
-## Geburtsgewichte
+## Geburtsgewichte {#birth-weights}
 In dieser Auswertung können Sie folgende Informationen einsehen:
 - Das mittlere Geburtsgewicht
 - Die Gewichtsklassen
@@ -67,7 +67,7 @@ Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
    ![VitalControl: Menüfolge Auswertungen Geburtsgewichte](../bilder/geburtsgewichte.png "Geburtsgewichte auswerten")
 
-## Gewichtsentwicklung auswerten
+## Gewichtsentwicklung auswerten {#weight-development}
 
 In dieser Auswertung können Sie folgende, auf alle Wiegungen bezogenen, Informationen einsehen:
 - Das mittlere Tiergewicht

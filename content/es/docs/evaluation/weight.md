@@ -30,7 +30,7 @@ Si haces clic en un elemento del menú, serás redirigido a una descripción de 
    <area shape="rect" coords="2,282,95,319" alt="Atrás" title="Retroceder un nivel&#10;Clic del ratón: a la documentación" href="/es/docs/evaluation/">
 </map>
 
-## Pesajes de hoy
+## Pesajes de hoy {#todays-weighings}
 En esta evaluación puedes ver la siguiente información relacionada con los pesajes de las últimas 6 horas:
 - El peso medio de los animales
 - La ganancia diaria media desde el nacimiento
@@ -49,7 +49,7 @@ Para realizar la evaluación, proceda de la siguiente manera:
 
    ![VitalControl: menú Evaluación Pesajes de hoy](../images/todaysweighings.png "Evaluación Pesajes de hoy")
 
-## Pesos al nacer
+## Pesos al nacer {#birth-weights}
 En esta evaluación puede ver la siguiente información:
 - El peso medio al nacer
 - Las clases de peso
@@ -66,7 +66,7 @@ Para realizar la evaluación, proceda de la siguiente manera:
 
 ![VitalControl: menú Evaluación Pesos al nacer](../images/birthweights.png "Evaluación Pesos al nacer")
 
-## Desarrollo del peso
+## Desarrollo del peso {#weight-development}
 
 En esta evaluación puedes ver la siguiente información relacionada con todos los pesajes:
 - El peso promedio del animal

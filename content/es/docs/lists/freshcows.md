@@ -11,7 +11,7 @@ categories: [Listas]
 tags: [Listas, vaca recién parida]
 translationKey: lists/fresh-cows
 ---
-### Lista de vacas recién paridas
+### Lista de vacas recién paridas {#fresh-cows-list}
 
 {{% alert title="Explicación" %}}
 Al manejar vacas recién paridas, se considera una rutina de mejores prácticas revisar a los animales diariamente durante varios días después del parto. La lista de vacas recién paridas facilita este control, especialmente en términos de registro de temperatura. Para cada animal, se muestra un gráfico de columnas durante todos los días del período de control, cada día del período de control está representado por una barra vertical. Dependiendo del color de la barra (verde, amarillo o rojo), puedes ver si se midió una temperatura normal, elevada o críticamente elevada ese día para el animal respectivo.
@@ -33,7 +33,7 @@ Las vacas se incluyen en la lista de vacas recién paridas inmediatamente despu�
 Algunas acciones se llevan a cabo de la misma manera que en la [lista de alarmas](../alarm). Estas no se explican aquí. Realiza los pasos preliminares y usa el enlace de la acción respectiva para obtener las instrucciones.
 {{% /alert %}}
 
-### Pasos preliminares
+### Pasos preliminares {#preliminary-steps}
 
 1. Selecciona el elemento del menú <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Listas" /> `Listas` en la pantalla principal de tu dispositivo VitalControl y presiona el botón `OK`.
 
@@ -43,7 +43,7 @@ Algunas acciones se llevan a cabo de la misma manera que en la [lista de alarmas
 
    ![Listas de VitalControl Lista de vacas frescas](../images/firststeps4.png "Lista de vacas frescas")
 
-### Cambiar estado alarma
+### Cambiar estado alarma {#toggle-alarm-status}
 
 1. Completa los pasos preliminares.
 
@@ -55,7 +55,7 @@ Algunas acciones se llevan a cabo de la misma manera que en la [lista de alarmas
 
    ![Listas de VitalControl Lista de vacas frescas](../images/togglealarmstatus.png "Cambiar estado de alarma")
 
-### Cambiar estado de seguimiento
+### Cambiar estado de seguimiento {#toggle-watch-status}
 
 1. Completa los pasos preliminares.
 
@@ -67,7 +67,7 @@ Algunas acciones se llevan a cabo de la misma manera que en la [lista de alarmas
 
 ![VitalControl Lists Fresh cows list](../images/togglewatchstatus.png "Cambiar estado de vigilancia")
 
-### Ocultar vacas medidas
+### Ocultar vacas medidas {#hide-measured-cows}
 
 Si esta función está activada, los animales a los que se les ha realizado una medición de temperatura se ocultan en la lista de vacas secas. Si esta función no está activada, los animales permanecen visibles en la lista.
 

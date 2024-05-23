@@ -11,7 +11,7 @@ Categories: [Eläin]
 tags: [Eläin, Lämpötila, Korkeus, Eläintiedot]
 translationKey: animal/animal
 ---
-## Eläin
+## Eläin {#animal}
 
 Yksittäisen eläimen toiminto mahdollistaa tärkeiden tietojen, kuten painon, lämpötilan ja arvioinnin, tarkastelun kustakin eläimestä. Voit aina valita, näytetäänkö tiedot graafisesti tai listana. Yksittäisen eläimen toiminnon käyttämiseksi toimi seuraavasti:
 
@@ -26,7 +26,7 @@ Kussakin tietonäkymässä sinulla on mahdollisuus [etsiä eläintä](#etsi-elä
 Voit myös vaihtaa yksittäisten eläinten välillä milloin tahansa käyttämällä nuolinäppäimiä ◁ ▷.
 {{% /alert %}}
 
-### Aseta graafinen näkymä
+### Aseta graafinen näkymä {#set-graphical-view}
 
 1. Paina keskimmäistä yläpuolella olevaa `On/Off`-nappia <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Avaa ponnahdusvalikko" /> avataksesi ponnahdusvalikon. Tässä valikossa voit valita toiminnot `Aseta suodatin`, `Etsi eläin` tai `Graafinen näkymä`.
 
@@ -34,7 +34,7 @@ Voit myös vaihtaa yksittäisten eläinten välillä milloin tahansa käyttämä
 
 ![VitalControl: Menu Animal](images/graphic.png "Esitys graafina")
 
-### Etsi eläin
+### Etsi eläin {#search-animal}
 
 1. Paina keskimmäistä yläpuolella olevaa `On/Off` -nappia <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Avaa ponnahdusvalikko" /> avataksesi ponnahdusvalikon. Tässä valikossa voit valita toiminnoista `Aseta suodatin`, `Etsi eläin` tai `Graafinen näkymä`.
 
@@ -44,7 +44,7 @@ Voit myös vaihtaa yksittäisten eläinten välillä milloin tahansa käyttämä
 
 ![VitalControl: Menu Animal](images/search.png "Etsi eläin")
 
-### Aseta suodatin
+### Aseta suodatin {#set-filter}
 
 1. Paina keskimmäistä yläpuolella olevaa `On/Off` -nappia <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Avaa ponnahdusvalikko" /> avataksesi ponnahdusvalikon. Tässä valikossa voit valita toiminnoista `Aseta suodatin`, `Etsi eläin` tai `Graafinen näkymä`.
 

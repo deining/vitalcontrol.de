@@ -11,7 +11,7 @@ categories: [Nuevo en la granja]
 tags: [Nuevo en la granja]
 translationKey: new-on-farm/new-on-farm
 ---
-## Animales comprados
+## Animales comprados {#purchased-animals}
 
 En esta lista encontrarás todos los animales que has creado mediante el registro masivo. Puedes exportar esta lista y así registrar tus adiciones directamente en el programa de gestión de rebaños DSP-Herde y en HI-Tier. Alternativamente, puedes eliminar todos los avisos de compra.
 
@@ -31,7 +31,7 @@ Para exportar datos necesitas el USB incluido. Conecta el USB con el adaptador U
 
 ![VitalControl: Lista de animales comprados, exportación csv](../images/purchasedanimals.png "Animales comprados, exportación csv")
 
-## Opciones: Eliminar todos los avisos después de la exportación
+## Opciones: Eliminar todos los avisos después de la exportación {#options-delete-all-notices-after-export}
 
 Con esta opción, puedes configurar si todos los mensajes dentro de la lista `Animales comprados` deben ser eliminados después de que el archivo CSV haya sido exportado. ¡Solo usa esta opción si estás seguro de que ya no necesitas los mensajes!
 
@@ -43,7 +43,7 @@ Con esta opción, puedes configurar si todos los mensajes dentro de la lista `An
 
 ![VitalControl: Lista de animales comprados, exportación csv](../images/delete-all.png "Eliminar todos los avisos después de la exportación")
 
-## Llamadas directas a funciones
+## Llamadas directas a funciones {#direct-function-calls}
 
 Además de crear el archivo de exportación, tienes las siguientes opciones:
 
@@ -57,7 +57,7 @@ Además de crear el archivo de exportación, tienes las siguientes opciones:
 Siempre abre primero la lista de `animales comprados` como se describe en las instrucciones anteriores.
 {{% /alert %}}
 
-### Desvincular transpondedor
+### Desvincular transpondedor {#unlink-transponder}
 
 Puedes usar esta función para remover el transpondedor de un animal.
 
@@ -69,7 +69,7 @@ Puedes usar esta función para remover el transpondedor de un animal.
 
 ![VitalControl: Lista de animales comprados, exportación csv](../images/unlink-transponder.png "Animales comprados, desvincular transpondedor")
 
-### Borrar todos los avisos de compra
+### Borrar todos los avisos de compra {#clear-all-purchase-notices}
 
 Con esta función puedes eliminar todos los animales de la lista `Animales comprados` sin necesidad de crear un archivo de exportación primero.
 
@@ -81,7 +81,7 @@ Con esta función puedes eliminar todos los animales de la lista `Animales compr
 
 ![VitalControl: Lista de animales comprados, limpiar avisos de compra](../images/clear.png "Limpiar todos los avisos de compra")
 
-### Borrar animal + notification
+### Borrar animal + notification {#delete-animal--purchase-notice}
 
 Para eliminar un animal y su correspondiente aviso de compra, proceda de la siguiente manera:
 
@@ -95,7 +95,7 @@ Para eliminar un animal y su correspondiente aviso de compra, proceda de la sigu
 
 ![VitalControl: Lista de animales comprados, eliminar animal + aviso](../images/delete.png "Eliminar animal + aviso")
 
-### Borrar aviso de compra
+### Borrar aviso de compra {#clear-notice-of-purchase}
 
 Para eliminar el aviso de compra de un animal de la lista, proceda de la siguiente manera:
 
@@ -109,7 +109,7 @@ Para eliminar el aviso de compra de un animal de la lista, proceda de la siguien
 
 ![VitalControl: Lista de animales comprados, limpiar aviso de compra](../images/clearnotice.png "Limpiar aviso de compra")
 
-### Editar datos del animal comprado
+### Editar datos del animal comprado {#edit-data-of-purchased-animal}
 
 Para editar los datos de un animal en la lista de compras, proceda de la siguiente manera:
 

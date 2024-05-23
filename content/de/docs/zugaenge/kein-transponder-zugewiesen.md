@@ -11,7 +11,7 @@ Kategorien: [Zukäufe, Tiernummer]
 Tags: [Zukäufe, Tiernummer]
 translationKey: new-on-farm/no-transponder-assigned
 ---
-## Kein Transponder zugewiesen
+## Kein Transponder zugewiesen {#no-transponder-assigned}
 
 Die Handhabung innerhalb dieser Liste ist identisch mit der Liste `Zukäufe, kein Transponder zugewiesen`. In dieser Liste finden Sie jedoch alle Tiere denen noch kein Transponder zugeordnet wurde, unabhängig von Ihrem Alter.
 

@@ -10,7 +10,7 @@ categories: [Acties, Actieketen]
 tags: [Acties, Actieketen]
 translationKey: actions/setting
 ---
-## Menuonderdelen
+## Menuonderdelen {#menu-items}
 
 In dit instellingenmenu bepaal je welke acties aan jou worden getoond binnen het &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` menu.
 
@@ -28,7 +28,7 @@ In dit instellingenmenu bepaal je welke acties aan jou worden getoond binnen het
 
     ![VitalControl: Menu Acties Menuonderdelen](../images/menu.png "Menuonderdelen")
 
-## Opeenvolgende acties
+## Opeenvolgende acties {#chain-of-actions}
 
 In dit instellingenmenu stel je de &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Actieketen" />&nbsp; `Opeenvolgende acties` in.
 

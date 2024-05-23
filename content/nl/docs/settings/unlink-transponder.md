@@ -11,7 +11,7 @@ Kategorien: [Instellingen]
 Tags: [Instellingen, Transponder, DierID]
 translationKey: settings/unlink-transponder
 ---
-## Transponder afnemen
+## Transponder afnemen {#unlink-transponder}
 
 U kunt deze instelling gebruiken om aan te geven hoe de dier-ID moet worden toegewezen zodra u de transponder van het dier verwijdert. Deze instelling kan worden gebruikt als bijvoorbeeld de synchronisatie met de Urban Alma Pro voeder is uitgevoerd en de dier-ID's op de VitalControl nu overeenkomen met het halsbandnummer van de dieren. Zodra u de halsband verwijdert en de transponder loskoppelt, kunt u aangeven dat de dier-ID nu afgeleid wordt van het oornummernummer. Dit stelt u in staat om het dier snel te identificeren in de stal zonder halsband.
 

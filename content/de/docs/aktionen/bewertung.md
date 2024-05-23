@@ -10,7 +10,7 @@ Kategorien: [Aktionen]
 Tags: [Aktionen, Tierbewertung]
 translationKey: actions/animal-rating
 ---
-## Tierbewertung durchführen
+## Tierbewertung durchführen {#rate-your-animals}
 Bei der Tierbewertung dokumentieren Sie den Zustand des individuellen Tieres. Der Zustand wird visuell ermittelt und mit Hilfe des Ampelsystems erfasst. In der einfachen Bewertung wird nur der Allgemeinzustand erfasst. In der erweiterten Bewertung erfassen Sie den Allgemeinzustand, Futteraufnahme, Kotbeschaffenheit und Atemwegserkrankungen. Den Bewertungsmodus können Sie entweder direkt in der Aktion <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Bewertung" /> `Bewertung` umstellen oder Sie legen diesen in den [Einstellungen](../../einstellung/erfassung-tierdaten/#modus-der-tierbewertung) fest.
 
 {{% alert title="Hinweis" %}}
@@ -33,7 +33,7 @@ Eine gelbe oder rote Bewertung führt dazu, dass VitalControl das Tier als auff�
 Treffen Sie keine Auswahl über die Pfeiltasten ◁ ▷ sondern speichern direkt über die `F3` oder `OK` Taste, speichert VitalControl eine neutrale Beurteilung ab, gekennzeichnet durch eine graue Farbe.
 {{% /alert %}}
 
-### Bewertung einfach
+### Bewertung einfach {#basic-rating}
 
 {{< tabpane >}}
 {{< tab header="Bewertung einfach:" text=true disabled=true />}}
@@ -45,7 +45,7 @@ Treffen Sie keine Auswahl über die Pfeiltasten ◁ ▷ sondern speichern direkt
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Bewertung erweitert
+### Bewertung erweitert {#extended-rating}
 
 {{< tabpane >}}
 {{< tab header="Bewertung erweitert:" text=true disabled=true />}}

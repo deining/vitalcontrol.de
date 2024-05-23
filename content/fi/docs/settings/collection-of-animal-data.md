@@ -12,7 +12,7 @@ tags: [settings, data acquisition]
 translationKey: settings/data-acquisition
 maphilight: true
 ---
-## Yleiskatsaus
+## Yleiskatsaus {#overview}
 
 Seuraava kuva esittää saatavilla olevat asetukset eläintietojen tallennuksesta:
 
@@ -30,7 +30,7 @@ Seuraava kuva esittää saatavilla olevat asetukset eläintietojen tallennuksest
 Siirrä hiiren osoitin kuvan alla olevan symbolin päälle ja anna sen olla hetken. Työkaluvihje ilmestyy, esitellen tietoa kyseisestä asetuksesta. Jos klikkaat jotakin riveistä, sinut ohjataan kyseisen asetuksen kuvaukseen.
 {{% /alert %}}
 
-## Asetukset *Painon tallennus*
+## Asetukset *Painon tallennus* {#settings-weight-recording}
 
 Seuraava kuva esittää saatavilla olevat asetukset eläinten painon tallennuksesta:
 
@@ -43,7 +43,7 @@ Seuraava kuva esittää saatavilla olevat asetukset eläinten painon tallennukse
   <area shape="rect" coords="1,360,230,440" alt="Painon tallennuksen tarkkuus" title="Aseta painon tallennuksen tarkkuus&#10;Hiiren klikkaus: avaa dokumentaatio" href="#painon-tallennuksen-tarkkuus">
 </map>
 
-### Päivittäisen painonnousun arviointi: Kynnysarvot
+### Päivittäisen painonnousun arviointi: Kynnysarvot {#assessment-of-daily-weight-gain-threshold-values}
 
 {{% alert title="Vihje" %}}
 Punainen kenttä osoittaa "kriittisen alhaisen painonnousun" alueen. Keltainen kenttä näyttää "suboptimaalisen painonnousun" alueen.
@@ -65,7 +65,7 @@ Päivittäisen painonnousun kynnysarvojen säätämiseksi toimi seuraavasti:
 
     ![VitalControl: valikkoasetukset päivittäinen painonnousu](../images/dailyweightgain.png "Päivittäinen painonnousu")
 
-### Syntymäpaino
+### Syntymäpaino {#birth-weight}
 
 Laite käyttää tässä asetuksissa tallennettua syntymäpainoa oletusarvona uusia eläimiä luotaessa. Jotta voisit valita nopeammin vastasyntyneen eläimen yksilöllisen syntymäpainon, saatat tarvita tämän oletusarvon säätämistä tilallesi. Syntymäpainon arvon säätämiseksi toimi seuraavasti:
 
@@ -92,7 +92,7 @@ Jos et halua tehdä tätä säätöä tai jos luot eläimiä automaattisesti [ta
 | Arvoalue:                     | 1,0 - 99 kg    | 1,0 - 99 kg    |
 {{% /alert %}}
 
-### Keskimääräinen päivittäinen painonnousu
+### Keskimääräinen päivittäinen painonnousu {#average-daily-weight-gain}
 
 {{% alert title="Selitys" %}}
 Eläintä [painottaessa](../../actions/record-weight/) käytetään määriteltyä päivittäistä lisäystä laskettaessa ehdotettua painoarvoa eläimen punnituksen aikana. Jos ehdotettu painoarvo on liian alhainen tai korkea useimmille punnittaville eläimille, sinun tulisi säätää määriteltyä arvoa alaspäin tai ylöspäin vastaavasti, jotta painoarvon säätämiseen käytetty aika lyhenee.
@@ -110,7 +110,7 @@ Aseta `keskimääräinen päivittäinen painonnousu`, jota käytetään eläimen
 
     ![VitalControl: valikkoasetukset keskimääräinen päivittäinen painonnousu](../images/averagedailyweightgain.png "Keskimääräinen päivittäinen painonnousu")
 
-### Painon tallennuksen tarkkuus
+### Painon tallennuksen tarkkuus {#precision-of-weight-recording}
 
 {{% alert title="Selitys" %}}
 Käyttötarkoituksesta ja eläinlajista (*lammas*, *vasikka*, *lehmä*) riippuen on erilaisia vaatimuksia tallennettavan painoarvon tarkkuudelle (tarkkuus *10 g*, *100 g* tai *1 kg*). Näiden vaatimusten täyttämiseksi on käytettävä *Maksimitarkkuus*-asetusta.
@@ -139,7 +139,7 @@ Aseta maksimitarkkuus eläinten painon tallennuksessa laitteellasi seuraavasti:
 
 Tallenna asetukset ja palaa ylävalikkoon `Tiedonkeruu` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
 
-## Eläimen arvioinnin tila
+## Eläimen arvioinnin tila {#mode-of-animal-rating}
 
 {{% alert title="Selitys" %}}
 Yksinkertaisessa tilassa kysytään eläimen arvioinnin aikana vain yleiskunto (vihreä/keltainen/punainen). Laajennetussa arvioinnissa kysytään neljä arviointikategoriaa: yleiskunto, rehun kulutus, ripuli ja hengityssairaus.
@@ -157,7 +157,7 @@ Asettaaksesi `Eläimen arvioinnin` laitteellasi, toimi seuraavasti.
 
     ![VitalControl: menu settings average rating of animals](../images/raitingofanimals.png "Eläinten luokitus")
 
-## Tuoreiden lehmien valvontajakso
+## Tuoreiden lehmien valvontajakso {#control-period-of-fresh-cows}
 
 {{% alert title="Selitys" %}}
 Tuoreiden lehmien hallinnassa pidetään parhaana käytäntönä tarkistaa eläimet päivittäin usean päivän ajan synnytyksen jälkeen, mukaan lukien niiden lämpötilan mittaaminen. Tämän valvontajakson kesto vaihtelee huomattavasti tilasta toiseen. Tästä syystä valvontajakson pituus voidaan asettaa arvoon 3–14 päivää VitalControl-asetuksissa. Asetettu tuoreiden lehmien valvontajakson pituus määrittää kunkin eläimen [tuoreiden lehmien listassa](../../lists/fresh-cows/) näytettävien pylväsdiagrammien määrän.

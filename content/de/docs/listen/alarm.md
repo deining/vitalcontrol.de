@@ -11,7 +11,7 @@ Kategorien: [Listen]
 Tags: [Listen, Alarm]
 translationKey: lists/alarm
 ---
-## Alarmliste
+## Alarmliste {#alarm-list}
 
 Auf der Alarmliste finden Sie alle Tiere die Sie entweder manuell auf die Liste gesetzt haben oder alle Tiere die bei der Fiebermessung im gelben oder roten Bereich waren. Die Liste hilft Ihnen einen Überblick über alle auffälligen Tiere zu behalten. Außerdem können Sie für jedes Tier auf der Liste folgende Aktionen ausführen:
 
@@ -36,7 +36,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Körpertemperatur" title="Körpertemperatur" /> | Unterhalb des Symbols wird die letzte erfasste Fiebermessung mit den Farben des Ampelsystems dargestellt
 |&nbsp;<img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Bewertung des Tieres" title="Tierbewertung" /> | Die Kreismarkierung unterhalb des Symbols zeigt, dass das Tier auf der Beobachtungsliste steht
 
-### Vorbereitende Schritte
+### Vorbereitende Schritte {#preliminary-steps}
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listen" />  `Listen` und drücken Sie die Taste `OK`.
 
@@ -46,7 +46,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
    ![VitalControl Listen Alarmliste](../bilder/vorbereitendeschritte.png "Vorbereitende Schritte")
 
-### Aktionsmenü mit einem Tier öffnen
+### Aktionsmenü mit einem Tier öffnen {#full-action-menu}
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
@@ -58,7 +58,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
    ![VitalControl Listen Alarmliste](../bilder/aktionsmenue.png "Aktionsmenü aufrufen")
 
-### Tierdaten einsehen
+### Tierdaten einsehen {#animal-data}
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
@@ -70,7 +70,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
    ![VitalControl Listen Alarmliste](../bilder/tierdateneinsehen.png "Tierdaten einsehen")
 
-### Temperatur messen
+### Temperatur messen {#take-temperature}
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
@@ -82,7 +82,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
    ![VitalControl Listen Alarmliste](../bilder/temperaturmessen.png "Temperatur messen")
 
-### Tier bewerten
+### Tier bewerten {#rate-animal}
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
@@ -94,7 +94,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
    ![VitalControl Listen Alarmliste](../bilder/tierbewerten.png "Tier bewerten")
 
-### Alarm zurücksetzen
+### Alarm zurücksetzen {#clear-alarm}
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
@@ -107,7 +107,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
    ![VitalControl Listen Alarm](../bilder/alarmzuruecksetzen.png "Alarm zurücksetzen")
 
-### Status Beobachtung umkehren
+### Status Beobachtung umkehren {#toggle-watch-status}
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
@@ -119,7 +119,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
    ![VitalControl Listen Alarm](../bilder/statusumkehren.png "Status beobachten umkehren")
 
-### Tier suchen
+### Tier suchen {#search-animal}
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
@@ -129,7 +129,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
    ![VitalControl Listen Alarm](../bilder/tiersuchen.png "Tier suchen")
 
-### Filter setzen
+### Filter setzen {#set-filter}
 
 1. Führen Sie die vorbereitenden Schritte aus.
 

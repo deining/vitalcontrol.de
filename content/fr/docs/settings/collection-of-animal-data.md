@@ -12,7 +12,7 @@ tags: [paramètres, acquisition de données]
 translationKey: settings/data-acquisition
 maphilight: true
 ---
-## Vue d'ensemble
+## Vue d'ensemble {#overview}
 
 Le graphique suivant liste les paramètres disponibles concernant l'enregistrement des données animales :
 
@@ -30,7 +30,7 @@ Le graphique suivant liste les paramètres disponibles concernant l'enregistreme
 Déplacez le pointeur de la souris sur un symbole dans le graphique ci-dessous et laissez-le reposer un moment. Une infobulle apparaît, présentant des informations sur le paramètre respectif. Si vous cliquez sur l'une des lignes, vous serez redirigé vers une description du paramètre respectif.
 {{% /alert %}}
 
-## Paramètres *Enregistrement du poids*
+## Paramètres *Enregistrement du poids* {#settings-weight-recording}
 
 Le graphique suivant liste les paramètres disponibles concernant l'enregistrement du poids des animaux :
 
@@ -43,7 +43,7 @@ Le graphique suivant liste les paramètres disponibles concernant l'enregistreme
   <area shape="rect" coords="1,360,230,440" alt="Précision de l'enregistrement du poids" title="Définir la précision de l'enregistrement du poids&#10;Clic de souris : ouvrir la documentation" href="#précision-de-lenregistrement-du-poids">
 </map>
 
-### Évaluation du gain de poids quotidien : valeurs seuils
+### Évaluation du gain de poids quotidien : valeurs seuils {#assessment-of-daily-weight-gain-threshold-values}
 
 {{% alert title="Conseil" %}}
 Le champ rouge indique la zone de "gain de poids trop faible critique". Le champ jaune montre la zone de "gain de poids suboptimal".
@@ -65,7 +65,7 @@ Pour ajuster les valeurs seuils pour l'évaluation du gain de poids quotidien, p
 
     ![VitalControl : paramètres du menu gain de poids quotidien](../images/dailyweightgain.png "Gain de poids quotidien")
 
-### Poids à la naissance
+### Poids à la naissance {#birth-weight}
 
 L'appareil utilise le poids à la naissance enregistré ici dans les paramètres comme valeur par défaut lors de la création de nouveaux animaux. Afin de pouvoir sélectionner plus rapidement le poids à la naissance individuel d'un animal nouvellement né, vous devrez peut-être ajuster cette valeur par défaut pour votre ferme. Pour ajuster la valeur pour le `Poids de naissance`, procédez comme suit :
 
@@ -92,7 +92,7 @@ Si vous ne souhaitez pas faire cet ajustement ou si vous créez des animaux auto
 | Plage de valeurs :            | 1,0 à 99 kg    | 1,0 à 99 kg   |
 {{% /alert %}}
 
-### Gain de poids quotidien moyen
+### Gain de poids quotidien moyen {#average-daily-weight-gain}
 
 {{% alert title="Explication" %}}
 Lors de la [pesée](../../actions/record-weight/) d'un animal, l'augmentation quotidienne définie est utilisée pour le calcul de la valeur de poids suggérée lors de la pesée de l'animal. Si la valeur de poids suggérée est trop basse ou trop élevée pour la majorité des animaux à peser, vous devriez ajuster la valeur définie vers le bas ou vers le haut, respectivement, pour réduire le temps nécessaire à l'ajustement de la valeur de poids avec les touches fléchées.
@@ -110,7 +110,7 @@ Pour définir le `Prise de poids quotidienne moyenne` utilisé dans le calcul du
 
     ![VitalControl : paramètres du menu gain de poids quotidien moyen](../images/averagedailyweightgain.png "Gain de poids quotidien moyen")
 
-### Précision de l'enregistrement du poids
+### Précision de l'enregistrement du poids {#precision-of-weight-recording}
 
 {{% alert title="Explication" %}}
 Selon le cas d'utilisation et l'espèce animale (*agneau*, *veau*, *vache*), il existe différentes exigences concernant la résolution de la valeur de poids à enregistrer (précision de *10 g*, *100 g* ou *1 kg*). Pour répondre à ces exigences, il est nécessaire d'utiliser le réglage *Précision maximale*.
@@ -140,7 +140,7 @@ Pour régler la précision maximale lors de l'enregistrement des poids des anima
 <br>
 Enregistrez les paramètres et retournez au menu principal `Acquisition de données` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
-## Mode d'évaluation des animaux
+## Mode d'évaluation des animaux {#mode-of-animal-rating}
 
 {{% alert title="Explication" %}}
 Dans le mode simple, seule la condition générale est interrogée lors de l'évaluation de l'animal (vert/jaune/rouge). Dans l'évaluation étendue, 4 catégories d'évaluation sont interrogées : condition générale, consommation alimentaire, diarrhée et maladie respiratoire.
@@ -158,7 +158,7 @@ Pour régler l'`Évaluation des animaux` sur votre appareil, procédez comme sui
 
     ![VitalControl : réglages du menu note moyenne des animaux](../images/raitingofanimals.png "Note des animaux")
 
-## Période de contrôle des vaches fraîches
+## Période de contrôle des vaches fraîches {#control-period-of-fresh-cows}
 
 {{% alert title="Explication" %}}
 Lors de la gestion des vaches fraîches, il est considéré comme une meilleure pratique de vérifier quotidiennement les animaux pendant plusieurs jours après la naissance, y compris de prendre leur température. La durée de cette période de contrôle varie considérablement d'une ferme à l'autre. Pour cette raison, la longueur de la période de contrôle peut être réglée entre 3 et 14 jours dans les paramètres de VitalControl. La valeur définie pour la période de contrôle des vaches fraîches détermine le nombre de colonnes du graphique en colonnes affiché pour chaque animal dans la [liste des vaches fraîches](../../lists/fresh-cows/).
