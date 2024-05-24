@@ -47,11 +47,11 @@ Con esta opción, puedes configurar si todos los mensajes dentro de la lista `An
 
 Además de crear el archivo de exportación, tienes las siguientes opciones:
 
-- [Desvincular transpondedor](#desvincular-transpondedor)
-- [Borrar todos los avisos de compra](#borrar-todos-los-avisos-de-compra)
-- [Borrar animal + notification](#borrar-animal--notification)
-- [Borrar aviso de compra](#borrar-aviso-de-compra)
-- [Editar una marca](#editar-datos-del-animal-comprado)
+- [Desvincular transpondedor](#unlink-transponder)
+- [Borrar todos los avisos de compra](#clear-all-purchase-notices)
+- [Borrar animal + notification](#delete-animal--purchase-notice)
+- [Borrar aviso de compra](#clear-notice-of-purchase)
+- [Editar una marca](#edit-data-of-purchased-animal)
 
 {{% alert title="Consejo" %}}
 Siempre abre primero la lista de `animales comprados` como se describe en las instrucciones anteriores.
@@ -115,6 +115,6 @@ Para editar los datos de un animal en la lista de compras, proceda de la siguien
 
 1. Utilice las teclas de flecha △ ▽ para seleccionar el animal que desea editar.
 
-2. Utilice el botón `OK`. Se abre un submenú con los datos del animal. Puede encontrar cómo editar estos [aquí](/es/docs/actions/edit/#editar-datos-del-animal).
+2. Utilice el botón `OK`. Se abre un submenú con los datos del animal. Puede encontrar cómo editar estos [aquí](/es/docs/actions/edit/#edit-animal-data).
 
 ![VitalControl: Lista de animales comprados, editar datos del animal](../images/edit.png "Editar datos del animal comprado")

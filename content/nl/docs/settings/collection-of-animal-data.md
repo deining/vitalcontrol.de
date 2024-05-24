@@ -19,9 +19,9 @@ De volgende afbeelding toont de beschikbare instellingen met betrekking tot het 
 <img src="../images/animaldataacquisition.png" alt="Verwerving van dierengegevens" title="Verwerving van dierengegevens" usemap="#workmap-overview" class="maphilight" />
 
 <map name="workmap-overview">
-  <area shape="rect" coords="3,40,239,80" alt="Gewichtsbepaling" title="Submenu: Instellingen voor gewichtsregistratie&#10;Muisklik: open documentatie" href="#instellingen-gewichtsregistratie">
-  <area shape="rect" coords="3,80,239,160" alt="Dierevaluatie" title="Stel de modus van dierbeoordeling in&#10;Muisklik: open documentatie" href="#dierevaluatie">
-  <area shape="rect" coords="3,160,239,240" alt="Controleperiode verse koeien" title="Stel de lengte van de controleperiode voor verse koeien in&#10;Muisklik: open documentatie" href="#controleperiode-verse-koeien">
+  <area shape="rect" coords="3,40,239,80" alt="Gewichtsbepaling" title="Submenu: Instellingen voor gewichtsregistratie&#10;Muisklik: open documentatie" href="#settings-weight-recording">
+  <area shape="rect" coords="3,80,239,160" alt="Dierevaluatie" title="Stel de modus van dierbeoordeling in&#10;Muisklik: open documentatie" href="#mode-of-animal-rating">
+  <area shape="rect" coords="3,160,239,240" alt="Controleperiode verse koeien" title="Stel de lengte van de controleperiode voor verse koeien in&#10;Muisklik: open documentatie" href="#control-period-of-fresh-cows">
 
   <area shape="rect" coords="2,282,125,318" alt="Terug" title="Ga een niveau terug" href="/nl/docs/settings/">
 </map>
@@ -37,10 +37,10 @@ De volgende afbeelding toont de beschikbare instellingen met betrekking tot de g
 <img src="../images/weightrecording.png" alt="Submenu-items instellingen voor gewichtsregistratie" title="Instellingen gewichtsregistratie" usemap="#workmap-weight" class="maphilight" />
 
 <map name="workmap-weight">
-  <area shape="rect" coords="1,40,230,199" alt="Dagelijkse toenames" title="Stel de drempelwaarden in voor de beoordeling van de dagelijkse gewichtstoename&#10;Muisklik: open documentatie" href="#beoordeling-van-dagelijkse-toenames-drempelwaarden">
-  <area shape="rect" coords="1,200,230,280" alt="Geboortegewicht" title="Stel het voorgestelde geboortegewicht in bij het registreren van een nieuw dier&#10;Muisklik: open documentatie" href="#geboortegewicht">
-  <area shape="rect" coords="1,280,230,360" alt="Gem. dagl. gewichtstoename" title="Stel de gemiddelde dagelijkse gewichtstoename in die gebruikt wordt bij het schatten van het gewicht van dieren&#10;Muisklik: open documentatie" href="#gem-dagl-gewichtstoename">
-  <area shape="rect" coords="1,360,230,440" alt="Maximale precisie" title="Stel de precisie van gewichtsregistratie in&#10;Muisklik: open documentatie" href="#maximale-precisie">
+  <area shape="rect" coords="1,40,230,199" alt="Dagelijkse toenames" title="Stel de drempelwaarden in voor de beoordeling van de dagelijkse gewichtstoename&#10;Muisklik: open documentatie" href="#assessment-of-daily-weight-gain-threshold-values">
+  <area shape="rect" coords="1,200,230,280" alt="Geboortegewicht" title="Stel het voorgestelde geboortegewicht in bij het registreren van een nieuw dier&#10;Muisklik: open documentatie" href="#birth-weight">
+  <area shape="rect" coords="1,280,230,360" alt="Gem. dagl. gewichtstoename" title="Stel de gemiddelde dagelijkse gewichtstoename in die gebruikt wordt bij het schatten van het gewicht van dieren&#10;Muisklik: open documentatie" href="#average-daily-weight-gain">
+  <area shape="rect" coords="1,360,230,440" alt="Maximale precisie" title="Stel de precisie van gewichtsregistratie in&#10;Muisklik: open documentatie" href="#precision-of-weight-recording">
 </map>
 
 ### Beoordeling van Dagelijkse toenames: Drempelwaarden {#assessment-of-daily-weight-gain-threshold-values}
@@ -81,7 +81,7 @@ Het apparaat gebruikt het hier in de instellingen opgeslagen geboortegewicht als
 
 {{% alert title="Waarschuwing" color="warning" %}}
 Het standaard geboortegewicht is slechts een benaderende waarde, die individueel moet worden aangepast bij het aanmaken van een nieuw dier.
-Als u deze aanpassing niet wilt maken of als u dieren automatisch [op de achtergrond](../animal-registration/#dieren-automatisch-registreren) aanmaakt, moet er geen geboortegewicht worden opgevraagd of opgeslagen bij het aanmaken van een nieuw dier. Dit kan worden gedefinieerd in de instellingen voor [registratie van dieren](../animal-registration/#opgenomen-gewicht).
+Als u deze aanpassing niet wilt maken of als u dieren automatisch [op de achtergrond](../animal-registration/#auto-registration) aanmaakt, moet er geen geboortegewicht worden opgevraagd of opgeslagen bij het aanmaken van een nieuw dier. Dit kan worden gedefinieerd in de instellingen voor [registratie van dieren](../animal-registration/#set-recorded-weights).
 {{% /alert %}}
 
 {{% alert title="Standaardwaarden geboortegewichten:" %}}

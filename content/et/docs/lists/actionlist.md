@@ -46,7 +46,7 @@ Mõned tegevused tuleb teha samamoodi nagu [häirete nimekirjas](../alarm). Neid
 
 3. Tegevuste nimekirjas kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage `OK` nupuga. Alternatiivina võite otsida looma. Kasutage `Sees/Väljas` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Otsi" /> ja kasutage nooleklahve ◁ ▷ △ ▽ soovitud numbrite valimiseks. Lõpuks kinnitage `OK`.
 
-4. [Loomade kaalumise](..) menüü avaneb automaatselt.
+4. [Loomade kaalumise](../../actions/record-weight/) menüü avaneb automaatselt.
 
    ![VitalControl Lists Action list](../images/weightanimals.png "Loomade kaalumine")
 

@@ -15,14 +15,14 @@ translationKey: lists/alarm
 
 Op de alarmlijst vindt u alle dieren die u handmatig aan de lijst heeft toegevoegd of alle dieren die in het geel of rood waren toen de temperatuur werd gemeten. De lijst helpt u om een overzicht te houden van alle opvallende dieren. Ook kunt u voor elk dier op de lijst het volgende doen:
 
-- [Actiemenu](#actiemenu)
-- [Diergegevens](#dier-data)
-- [Temperatuur meten](#temperatuur-meten)
-- [Dier beoordelen](#dier-beoordelen)
-- [Alarm terugzetten](#alarm-terug-zetten)
-- [Bewakingsstatus wisselen](#toogle-watch-status)
-- [Dier zoeken](#dier-zoeken)
-- [Filter instellen](#filter-zetten)
+- [Actiemenu](#full-action-menu)
+- [Diergegevens](#animal-data)
+- [Temperatuur meten](#take-temperature)
+- [Dier beoordelen](#rate-animal)
+- [Alarm terugzetten](#clear-alarm)
+- [Bewakingsstatus wisselen](#toggle-watch-status)
+- [Dier zoeken](#search-animal)
+- [Filter instellen](#set-filter)
 
 De alarmlijst is als volgt gestructureerd:
 
@@ -90,7 +90,7 @@ De alarmlijst is als volgt gestructureerd:
 
 3. Binnen de alarmlijst, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kunt u zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. De functie [Dier beoordelen](/nl/docs/acties/rating/#beoordeel-uw-dieren) wordt nu automatisch gestart.
+4. De functie [Dier beoordelen](/nl/docs/acties/rating/#rate-your-animals) wordt nu automatisch gestart.
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Dier beoordelen")
 

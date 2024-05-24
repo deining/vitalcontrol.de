@@ -46,7 +46,7 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
 
-4. The [weigh animals](..) menu will open automatically.
+4. The [weigh animals](../../actions/record-weight/) menu will open automatically.
 
    ![VitalControl Lists Action list](../images/weightanimals.png "Weigh animals")
 

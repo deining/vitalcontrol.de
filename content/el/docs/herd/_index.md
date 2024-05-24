@@ -18,7 +18,7 @@ translationKey: herd
 - Δείτε [δεδομένα ζώων](#view-animal-data)
 - Δείτε [δεδομένα θερμοκρασίας](#display-temperature)
 - Δείτε [δεδομένα βαθμολογίας](#view-rating)
-- Δείτε [δεδομένα βάρους](#view-rating)
+- Δείτε [δεδομένα βάρους](#display-weight)
 - [Αναζήτηση ζώου](#search-animal)
 - Ρύθμιση [φίλτρου](#set-filter)
 - [Ενέργειες](#call-action-menu)

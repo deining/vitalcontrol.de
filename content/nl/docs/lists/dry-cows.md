@@ -15,14 +15,14 @@ translationKey: lists/dry-cows
 
 Op de lijst van droge dieren vindt u alle dieren die u als droge dieren hebt opgeslagen. Deze lijst helpt u om uw droge koeien bij te houden en de nodige acties op de dieren uit te voeren. U kunt de volgende acties uitvoeren:
 
-- [Actiemenu](../alarm/#actiemenu)
-- [Dier data](../alarm/#dier-data)
-- [Temperatuur meten](../alarm/#temperatuur-meten)
-- [Kalving](#kalving)
+- [Actiemenu](../alarm/#full-action-menu)
+- [Dier data](../alarm/#animal-data)
+- [Temperatuur meten](../alarm/#take-temperature)
+- [Kalving](#calving)
 - [Toogle alarm status](../on-watch/#toggle-alarm-status)
-- [Toogle watch status](../alarm/#toogle-watch-status)
-- [Dier zoeken](../alarm/#dier-zoeken)
-- [Filter zetten](../alarm/#filter-zetten)
+- [Toogle watch status](../alarm/#toggle-watch-status)
+- [Dier zoeken](../alarm/#search-animal)
+- [Filter zetten](../alarm/#set-filter)
 
 {{% alert title="Hint" %}}
 Sommige acties worden op dezelfde manier uitgevoerd als in de [alarmlijst](../alarm). Deze worden hier niet uitgelegd. Voer de voorbereidende stappen uit en gebruik de link van de betreffende actie om naar de instructies te gaan.

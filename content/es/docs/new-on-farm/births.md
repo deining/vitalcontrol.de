@@ -37,11 +37,11 @@ Para exportar datos necesitas el stick USB incluido. Conecta el stick USB con el
 
 Además de crear el archivo de exportación, tienes las siguientes opciones:
 
-- [Cambiar](#cambiar-entre-vista-de-lista-y-vista-de-un-solo-animal) entre vista de lista y vista de un solo animal
-- [Limpiar todos los avisos de nacimiento](../purchased-animals/#borrar-todos-los-avisos-de-compra)
-- [Eliminar animal + avisos](../purchased-animals/#borrar-animal--notification)
-- [Limpiar aviso de nacimiento](../purchased-animals/#borrar-aviso-de-compra)
-- [Editar](#editar-datos-de-aviso-de-nacimiento) un aviso
+- [Cambiar](#change-between-list-view-and-single-animal-view) entre vista de lista y vista de un solo animal
+- [Limpiar todos los avisos de nacimiento](../purchased-animals/#clear-all-purchase-notices)
+- [Eliminar animal + avisos](../purchased-animals/#delete-animal--purchase-notice)
+- [Limpiar aviso de nacimiento](../purchased-animals/#clear-notice-of-purchase)
+- [Editar](#edit-data-of-birth-notice) un aviso
 
 {{% alert title="Consejo" %}}
 Algunas acciones son idénticas a las acciones en la lista de `Animales comprados`. Sigue los enlaces para las instrucciones paso a paso. Siempre abre primero la lista de `Nacimientos` como se describe en las instrucciones anteriores.
@@ -65,6 +65,6 @@ Algunas acciones son idénticas a las acciones en la lista de `Animales comprado
 
 1. Usa las teclas de flecha △ ▽ para seleccionar el animal que deseas editar y confirma con `OK`.
 
-2. Se abre un submenú en el que puedes ajustar varios ajustes. Para instrucciones paso a paso haz clic [aquí](/es/docs/new/calving/#registrar-un-parto).
+2. Se abre un submenú en el que puedes ajustar varios ajustes. Para instrucciones paso a paso haz clic [aquí](/es/docs/new/calving/#register-a-calving).
 
     ![VitalControl: Menú Nuevo en granja Nacimientos](../images/edit2.png "Editar un aviso de nacimiento")

@@ -13,7 +13,7 @@ translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Nuevo en la granja, sin transpondedor {#new-on-farm-no-transponder}
 
-En esta lista encontrarás todos los animales recién creados con una edad máxima de X días que aún no tienen asignado un transpondedor. Puedes establecer la edad máxima [aquí](/es/docs/settings/animal-registration/#establecer-valores-por-defecto). Una vez que hayas recogido un transpondedor de estos animales, puedes buscar el ID del animal correspondiente dentro de la lista y escanear el transpondedor asociado. El transpondedor se asigna automáticamente al animal y el animal se elimina de la lista. Para asignar un transpondedor, procede de la siguiente manera:
+En esta lista encontrarás todos los animales recién creados con una edad máxima de X días que aún no tienen asignado un transpondedor. Puedes establecer la edad máxima [aquí](/es/docs/settings/animal-registration/#set-default-values). Una vez que hayas recogido un transpondedor de estos animales, puedes buscar el ID del animal correspondiente dentro de la lista y escanear el transpondedor asociado. El transpondedor se asigna automáticamente al animal y el animal se elimina de la lista. Para asignar un transpondedor, procede de la siguiente manera:
 
 1. En la pantalla principal de tu dispositivo VitalControl, selecciona el elemento del menú <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nuevo en la granja" /> `Nuevo en la granja` y presiona el botón `OK`.
 
@@ -61,4 +61,4 @@ El elemento del menú `última acción en OK:` le informa que asignar un transpo
 
  ## Más elementos del menú {#further-menu-items}
 
-También tiene la opción de seleccionar entre `configuraciones`, `buscar animal` y `establecer filtro` en el pop-up. Use los botones de flecha △ ▽ para navegar al respectivo elemento del menú y confirme con `OK`. La información para el elemento del menú `configuraciones` se puede encontrar [aquí](/es/docs/settings/animal-registration/#establecer-valores-por-defecto), para `establecer filtro` [aquí](/es/docs/filter/) y para `buscar animal` proceda como en el paso 3 de `nuevo en la granja, sin transpondedor`.
+También tiene la opción de seleccionar entre `configuraciones`, `buscar animal` y `establecer filtro` en el pop-up. Use los botones de flecha △ ▽ para navegar al respectivo elemento del menú y confirme con `OK`. La información para el elemento del menú `configuraciones` se puede encontrar [aquí](/es/docs/settings/animal-registration/#set-default-values), para `establecer filtro` [aquí](/es/docs/filter/) y para `buscar animal` proceda como en el paso 3 de `nuevo en la granja, sin transpondedor`.

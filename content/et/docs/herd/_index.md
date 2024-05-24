@@ -18,7 +18,7 @@ Karja menüüpunkti all saate vaadata kogu oma karja, otsida üksikuid loomi ja 
 - Vaata [looma andmeid](#view-animal-data)
 - Vaata [temperatuuri andmeid](#display-temperature)
 - Vaata [hinnangu andmeid](#view-rating)
-- Vaata [kaalu andmeid](#view-rating)
+- Vaata [kaalu andmeid](#display-weight)
 - [Otsi looma](#search-animal)
 - Seadista [filter](#set-filter)
 - [Tegevused](#call-action-menu)

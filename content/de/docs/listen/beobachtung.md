@@ -15,14 +15,14 @@ translationKey: lists/on-watch
 
 Auf der Beobachtungsliste finden Sie alle Tiere die Sie manuell auf die Liste gesetzt haben. Die Liste hilft Ihnen einen Überblick über die von Ihnen als auffällig bewertete Tiere zu behalten. Außerdem können Sie für jedes Tier auf der Liste folgende Aktionen ausführen:
 
-- [Aktionsmenü](../alarm/#aktionsmen%C3%BC-mit-einem-tier-%C3%B6ffnen) mit einem Tier öffnen
-- [Tierdaten](../alarm/#tierdaten-einsehen) einsehen
-- [Temperatur](../alarm/#temperatur-messen) messen
-- [Tier bewerten](../alarm/#tier-bewerten)
-- [Tier von der Beobachtungsliste entfernen](../beobachtung/#tier-von-der-beobachtungsliste-entfernen)
-- [Alarmstatus ändern](../beobachtung/#alarmstatus-%C3%A4ndern)
-- [Tier suchen](../alarm/#tier-suchen)
-- [Filter setzen](../../filter/#tierfilter-anwenden)
+- [Aktionsmenü](../alarm/#full-action-menu) mit einem Tier öffnen
+- [Tierdaten](../alarm/#animal-data) einsehen
+- [Temperatur](../alarm/#take-temperature) messen
+- [Tier bewerten](../alarm/#rate-animal)
+- [Tier von der Beobachtungsliste entfernen](../beobachtung/#remove-from-watch-list)
+- [Alarmstatus ändern](../beobachtung/#toggle-alarm-status)
+- [Tier suchen](../alarm/#search-animal)
+- [Filter setzen](../alarm/#set-filter)
 
 {{% alert title="Hinweis" %}}
 Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](). Diese sind hier nicht erläutert. Führen Sie die vorbereitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion um zu der Anleitung zu gelangen.

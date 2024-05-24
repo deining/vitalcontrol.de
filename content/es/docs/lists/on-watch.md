@@ -15,14 +15,14 @@ translationKey: lists/on-watch
 
 En la lista de vigilancia encontrarás todos los animales que has añadido manualmente a la lista. La lista te ayuda a mantener una visión general de los animales que has calificado como conspicuos. Además, para cada animal en la lista, puedes realizar las siguientes acciones:
 
-- [Menú acciones](../alarm/#menú-acciones)
-- [Datos del animal](../alarm/#datos-del-animal)
-- [Medir temperatura](../alarm/#medir-temperatura)
-- [Evaluar animal](../alarm/#evaluar-animal)
-- [Quitar de la lista de seguimiento](#quitar-de-la-lista-de-seguimiento)
-- [Cambiar estado alarma](#cambiar-estado-alarma)
-- [Buscar animal](../alarm/#buscar-animal)
-- [Fijar filtro](../alarm/#fijar-filtro)
+- [Menú acciones](../alarm/#full-action-menu)
+- [Datos del animal](../alarm/#animal-data)
+- [Medir temperatura](../alarm/#take-temperature)
+- [Evaluar animal](../alarm/#rate-animal)
+- [Quitar de la lista de seguimiento](#remove-from-watch-list)
+- [Cambiar estado alarma](#toggle-alarm-status)
+- [Buscar animal](../alarm/#search-animal)
+- [Fijar filtro](../alarm/#set-filter)
 
 {{% alert title="Consejo" %}}
 Algunas acciones se llevan a cabo de la misma manera que en la [Lista de alarmas](../alarm). Estas no se explican aquí. Realiza los pasos preliminares y usa el enlace de la acción respectiva para llegar a las instrucciones.

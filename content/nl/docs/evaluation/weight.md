@@ -22,9 +22,9 @@ Als u op een menu-item klikt, wordt u doorgestuurd naar een beschrijving van de 
 <img src="../images/imagemap.png" alt="VitalControl Evaluatie" title="Gewicht" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Weging van vandaag" title="Evalueer de gewichtswaarden van uw dieren die vandaag met de VitalControl zijn geregistreerd&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#weging-van-vandaag">
-   <area shape="rect" coords="116,40,238,160" alt="Geboortegewicht" title="Evalueer uw opgeslagen geboortegewichten&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#geboortegewicht">
-   <area shape="rect" coords="3,160,116,279" alt="gewichtsontwikkeling" title="Evalueer de gewichtsontwikkeling van uw dieren&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#gewichtsontwikkeling">
+   <area shape="rect" coords="3,40,116,160" alt="Weging van vandaag" title="Evalueer de gewichtswaarden van uw dieren die vandaag met de VitalControl zijn geregistreerd&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="Geboortegewicht" title="Evalueer uw opgeslagen geboortegewichten&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="gewichtsontwikkeling" title="Evalueer de gewichtsontwikkeling van uw dieren&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#weight-development">
 
    <area shape="rect" coords="150,282,238,319" alt="Filter" title="Stel een filter in&#10;Muisklik: naar de documentatie" href="/nl/docs/filter">
    <area shape="rect" coords="2,282,95,319" alt="Terug" title="Spring een niveau terug&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/">

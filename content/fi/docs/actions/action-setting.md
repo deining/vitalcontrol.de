@@ -38,6 +38,6 @@ Tässä asetusvalikossa asetat &nbsp;<img src="/icons/actions/action-chain.svg" 
 
 3. Alivalikko avautuu. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Toimintaketju" />&nbsp; `toimintaketju` ja vahvista `OK`.
 
-4. Lisäohjeita löytyy [täältä](/fi/docs/chain-of-actions/#toimintaketju).
+4. Lisäohjeita löytyy [täältä](/fi/docs/chain-of-actions/#set-chain-of-actions).
 
     ![VitalControl: Valikko Toiminnat Toimintaketju](../images/chainofactions.png "Toimintaketju")

@@ -22,9 +22,9 @@ Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweil
 <img src="../bilder/gewicht.png" alt="VitalControl Auswertung" title="Gewichtsentwicklung" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Heutige Wiegung" title="Werten Sie die mit dem VitalControl am aktuellen Tag erfassten Gewichtswerte ihrer Tiere aus&#10;Mausklick: zur Dokumentation" href="/docs/auswertung/gewicht/#heutige-wiegungen">
-   <area shape="rect" coords="116,40,238,160" alt="Geburtsgewichte" title="Werten Sie ihre gespeicherten Geburtsgewichte aus&#10;Mausklick: zur Dokumentation" href="/docs/auswertung/gewicht/#geburtsgewichte">
-   <area shape="rect" coords="3,160,116,279" alt="Gewichtsentwicklung" title="Werten Sie die Gewichtsentwicklung Ihrer Tiere aus&#10;Mausklick: zur Dokumentation" href="/docs/auswertung/gewicht/#gewichtsentwicklung-auswerten">
+   <area shape="rect" coords="3,40,116,160" alt="Heutige Wiegung" title="Werten Sie die mit dem VitalControl am aktuellen Tag erfassten Gewichtswerte ihrer Tiere aus&#10;Mausklick: zur Dokumentation" href="/docs/auswertung/gewicht/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="Geburtsgewichte" title="Werten Sie ihre gespeicherten Geburtsgewichte aus&#10;Mausklick: zur Dokumentation" href="/docs/auswertung/gewicht/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="Gewichtsentwicklung" title="Werten Sie die Gewichtsentwicklung Ihrer Tiere aus&#10;Mausklick: zur Dokumentation" href="/docs/auswertung/gewicht/#weight-development">
 
    <area shape="rect" coords="150,282,238,319" alt="Filter" title="Stellen Sie einen Filter ein&#10;Mausklick: zur Dokumentation" href="/docs/filter">
    <area shape="rect" coords="2,282,95,319" alt="Zurück" title="Springen Sie eine Ebene zurück&#10;Mausklick: zur Dokumentation" href="/docs/auswertung">

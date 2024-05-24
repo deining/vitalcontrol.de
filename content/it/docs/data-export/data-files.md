@@ -120,7 +120,6 @@ National-ID-Animal;Farm-ID-Animal;Date;Time;Weight-Kg
 276000312341003;1003;276000312341003;2023-07-24;F;104.2
 …
 ```
-```
 
 La seguente tabella elenca e descrive le singole colonne della tabella contenente i pesi degli animali:
 

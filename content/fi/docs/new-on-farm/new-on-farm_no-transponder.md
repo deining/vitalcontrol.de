@@ -13,7 +13,7 @@ translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Uusi tilalla, ei transponderia {#new-on-farm-no-transponder}
 
-Tässä luettelossa löydät kaikki uudet eläimet, joiden ikä on enintään X päivää ja joille ei ole vielä määritetty tunnistinta. Voit asettaa maksimi-iän [täällä](/fi/docs/settings/animal-registration/#aseta-oletusarvot). Kun olet kerännyt tunnistimen näiltä eläimiltä, voit etsiä vastaavan eläin-ID:n luettelosta ja skannata liitetyn tunnistimen. Tunnistin liitetään automaattisesti eläimeen ja eläin poistetaan luettelosta. Tunnistimen määrittämiseksi toimi seuraavasti:
+Tässä luettelossa löydät kaikki uudet eläimet, joiden ikä on enintään X päivää ja joille ei ole vielä määritetty tunnistinta. Voit asettaa maksimi-iän [täällä](/fi/docs/settings/animal-registration/#set-default-values). Kun olet kerännyt tunnistimen näiltä eläimiltä, voit etsiä vastaavan eläin-ID:n luettelosta ja skannata liitetyn tunnistimen. Tunnistin liitetään automaattisesti eläimeen ja eläin poistetaan luettelosta. Tunnistimen määrittämiseksi toimi seuraavasti:
 
 1. Valitse VitalControl-laitteesi päävalikosta kohde <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Uusi tilalla" /> `Uusi tilalla` ja paina `OK`-painiketta.
 
@@ -61,4 +61,4 @@ Valikkoitem `viimeinen toimenpide OK:` kertoo, että transponderin asettaminen o
 
 ## Lisää valikkokohtia {#further-menu-items}
 
-Sinulla on myös mahdollisuus valita `asetukset`, `etsi eläin` ja `aseta suodatin` ponnahdusikkunassa. Käytä nuolinäppäimiä △ ▽ navigoidaksesi kyseiseen valikkokohtaan ja vahvista painamalla `OK`. Tietoja valikkokohdasta `asetukset` löytyy [täältä](/fi/docs/settings/animal-registration/#aseta-oletusarvot), kohtaan `aseta suodatin` [täältä](/fi/docs/filter/) ja `etsi eläin` toimi kuten `uusi tilalla, ei transponderia` kohdassa. 
+Sinulla on myös mahdollisuus valita `asetukset`, `etsi eläin` ja `aseta suodatin` ponnahdusikkunassa. Käytä nuolinäppäimiä △ ▽ navigoidaksesi kyseiseen valikkokohtaan ja vahvista painamalla `OK`. Tietoja valikkokohdasta `asetukset` löytyy [täältä](/fi/docs/settings/animal-registration/#set-default-values), kohtaan `aseta suodatin` [täältä](/fi/docs/filter/) ja `etsi eläin` toimi kuten `uusi tilalla, ei transponderia` kohdassa. 

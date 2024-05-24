@@ -22,7 +22,7 @@ Yksittäisen eläimen toiminto mahdollistaa tärkeiden tietojen, kuten painon, l
 ![VitalControl: Valikko Eläin](images/list.png "Näytä listana")
 
 {{% alert title="Vinkki"  %}}
-Kussakin tietonäkymässä sinulla on mahdollisuus [etsiä eläintä](#etsi-eläin), asettaa [suodatin](#aseta-suodatin) ja vaihtaa [graafiseen näkymään](#aseta-graafinen-näkymä).
+Kussakin tietonäkymässä sinulla on mahdollisuus [etsiä eläintä](#search-animal), asettaa [suodatin](#set-filter) ja vaihtaa [graafiseen näkymään](#set-graphical-view).
 Voit myös vaihtaa yksittäisten eläinten välillä milloin tahansa käyttämällä nuolinäppäimiä ◁ ▷.
 {{% /alert %}}
 

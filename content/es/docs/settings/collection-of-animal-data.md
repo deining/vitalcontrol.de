@@ -19,9 +19,9 @@ El siguiente gráfico enumera las configuraciones disponibles sobre el registro 
 <img src="../images/animaldataacquisition.png" alt="Recoleccion de datós de animales" title="Recoleccion de datós de animales" usemap="#workmap-overview" class="maphilight" />
 
 <map name="workmap-overview">
-  <area shape="rect" coords="3,40,239,80" alt="Registro de peso" title="Submenú: Configuraciones para el registro de peso&#10;Clic del ratón: abrir documentación" href="#configuraciones-registro-de-peso">
-  <area shape="rect" coords="3,80,239,160" alt="Modo de calificación de animales" title="Establecer el modo de calificación de animales&#10;Clic del ratón: abrir documentación" href="#modo-de-evaluación-de-animales">
-  <area shape="rect" coords="3,160,239,240" alt="Periodo de control de longitud en vacas" title="Establecer la longitud del periodo de control para vacas&#10;Clic del ratón: abrir documentación" href="#período-de-control-de-vacas">
+  <area shape="rect" coords="3,40,239,80" alt="Registro de peso" title="Submenú: Configuraciones para el registro de peso&#10;Clic del ratón: abrir documentación" href="#settings-weight-recording">
+  <area shape="rect" coords="3,80,239,160" alt="Modo de calificación de animales" title="Establecer el modo de calificación de animales&#10;Clic del ratón: abrir documentación" href="#mode-of-animal-rating">
+  <area shape="rect" coords="3,160,239,240" alt="Periodo de control de longitud en vacas" title="Establecer la longitud del periodo de control para vacas&#10;Clic del ratón: abrir documentación" href="#control-period-of-fresh-cows">
 
   <area shape="rect" coords="2,282,125,318" alt="Atrás" title="Retroceder un nivel" href="/es/docs/settings/">
 </map>
@@ -37,10 +37,10 @@ El siguiente gráfico enumera las configuraciones disponibles sobre el registro 
 <img src="../images/weightrecording.png" alt="Ítems del submenú configuraciones para el registro de peso" title="Configuraciones de registro de peso" usemap="#workmap-weight" class="maphilight" />
 
 <map name="workmap-weight">
-  <area shape="rect" coords="1,40,230,199" alt="Valores umbral evaluación ganancia diaria de peso" title="Establecer los valores umbral para la evaluación de la ganancia diaria de peso&#10;Clic del ratón: abrir documentación" href="#evaluación-del-aumento-diario-de-peso-valores-umbral">
-  <area shape="rect" coords="1,200,230,280" alt="Peso al nacer" title="Establecer el peso al nacer propuesto al registrar un nuevo animal&#10;Clic del ratón: abrir documentación" href="#peso-al-nacer">
-  <area shape="rect" coords="1,280,230,360" alt="Ganancia diaria de peso promedio" title="Establecer la ganancia diaria de peso promedio utilizada al estimar el peso de los animales&#10;Clic del ratón: abrir documentación" href="#ganancia-diaria-promedio-de-peso">
-  <area shape="rect" coords="1,360,230,440" alt="Precisión en el registro de peso" title="Establecer la precisión del registro de peso&#10;Clic del ratón: abrir documentación" href="#precisión-del-registro-de-peso">
+  <area shape="rect" coords="1,40,230,199" alt="Valores umbral evaluación ganancia diaria de peso" title="Establecer los valores umbral para la evaluación de la ganancia diaria de peso&#10;Clic del ratón: abrir documentación" href="#assessment-of-daily-weight-gain-threshold-values">
+  <area shape="rect" coords="1,200,230,280" alt="Peso al nacer" title="Establecer el peso al nacer propuesto al registrar un nuevo animal&#10;Clic del ratón: abrir documentación" href="#birth-weight">
+  <area shape="rect" coords="1,280,230,360" alt="Ganancia diaria de peso promedio" title="Establecer la ganancia diaria de peso promedio utilizada al estimar el peso de los animales&#10;Clic del ratón: abrir documentación" href="#average-daily-weight-gain">
+  <area shape="rect" coords="1,360,230,440" alt="Precisión en el registro de peso" title="Establecer la precisión del registro de peso&#10;Clic del ratón: abrir documentación" href="#precision-of-weight-recording">
 </map>
 
 ### Evaluación del aumento diario de peso: Valores umbral {#assessment-of-daily-weight-gain-threshold-values}
@@ -81,7 +81,7 @@ El dispositivo utiliza el peso al nacer almacenado aquí en la configuración co
 
 {{% alert title="Advertencia" color="warning" %}}
 El peso al nacer estándar es solo un valor aproximado, que debe ajustarse individualmente al crear un nuevo animal.
-Si no desea hacer este ajuste o si crea animales automáticamente [en segundo plano](../animal-registration/#autoregistro), no se debe consultar ni guardar el peso al nacer al crear un nuevo animal. Esto se puede definir en la configuración para [registro de animales](../animal-registration/#configurar-pesos-registrados).
+Si no desea hacer este ajuste o si crea animales automáticamente [en segundo plano](../animal-registration/#auto-registration), no se debe consultar ni guardar el peso al nacer al crear un nuevo animal. Esto se puede definir en la configuración para [registro de animales](../animal-registration/#set-recorded-weights).
 {{% /alert %}}
 
 {{% alert title="Valores predeterminados para pesos al nacer:" %}}

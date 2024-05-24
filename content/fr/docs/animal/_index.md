@@ -22,7 +22,7 @@ La fonction animal individuel vous permet de consulter des informations importan
 ![VitalControl: Menu Animal](images/list.png "Affichage sous forme de liste")
 
 {{% alert title="Conseil"  %}}
-Dans chaque affichage d'information, vous avez la possibilité de [rechercher un animal](#rechercher-un-animal), de définir un [filtre](#définir-le-filtre) et de passer à une [vue graphique](#définir-la-vue-graphique).
+Dans chaque affichage d'information, vous avez la possibilité de [rechercher un animal](#search-animal), de définir un [filtre](#set-filter) et de passer à une [vue graphique](#set-graphical-view).
 Vous pouvez également passer d'un animal à l'autre à tout moment en utilisant les touches fléchées ◁ ▷.
 {{% /alert %}}
 

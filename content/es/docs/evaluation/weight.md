@@ -22,9 +22,9 @@ Si haces clic en un elemento del menú, serás redirigido a una descripción de 
 <img src="../images/imagemap.png" alt="Evaluación VitalControl" title="Peso" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Pesaje de hoy" title="Evalúa los valores de peso de tus animales registrados con el VitalControl en el día actual&#10;Clic del ratón: a la documentación" href="/es/docs/evaluation/weight/#pesajes-de-hoy">
-   <area shape="rect" coords="116,40,238,160" alt="Pesos al nacer" title="Evalúa tus pesos al nacer almacenados&#10;Clic del ratón: a la documentación" href="/es/docs/evaluation/weight/#pesos-al-nacer">
-   <area shape="rect" coords="3,160,116,279" alt="Desarrollo del peso" title="Evalúa el desarrollo del peso de tus animales&#10;Clic del ratón: a la documentación" href="/es/docs/evaluation/weight/#desarrollo-del-peso">
+   <area shape="rect" coords="3,40,116,160" alt="Pesaje de hoy" title="Evalúa los valores de peso de tus animales registrados con el VitalControl en el día actual&#10;Clic del ratón: a la documentación" href="/es/docs/evaluation/weight/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="Pesos al nacer" title="Evalúa tus pesos al nacer almacenados&#10;Clic del ratón: a la documentación" href="/es/docs/evaluation/weight/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="Desarrollo del peso" title="Evalúa el desarrollo del peso de tus animales&#10;Clic del ratón: a la documentación" href="/es/docs/evaluation/weight/#weight-development">
 
    <area shape="rect" coords="150,282,238,319" alt="Filtro" title="Establecer un filtro&#10;Clic del ratón: a la documentación" href="/es/docs/filter">
    <area shape="rect" coords="2,282,95,319" alt="Atrás" title="Retroceder un nivel&#10;Clic del ratón: a la documentación" href="/es/docs/evaluation/">

@@ -47,7 +47,7 @@ Alcune azioni devono essere eseguite nello stesso modo dell'[elenco allarmi](../
 3. Nell'elenco delle azioni, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `OK`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Cerca" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `OK`.
 
 
-4. Il menu [pesare animali](..) si aprirà automaticamente.
+4. Il menu [pesare animali](../../actions/record-weight/) si aprirà automaticamente.
 
    ![VitalControl Lists Action list](../images/weightanimals.png "Pesare animali")
 

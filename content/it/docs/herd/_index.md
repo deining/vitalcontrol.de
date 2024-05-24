@@ -18,7 +18,7 @@ All'interno della voce di menu Mandria, puoi visualizzare l'intera mandria, cerc
 - Visualizza [dati degli animali](#view-animal-data)
 - Visualizza [dati sulla temperatura](#display-temperature)
 - Visualizza [dati di valutazione](#view-rating)
-- Visualizza [dati sul peso](#view-rating)
+- Visualizza [dati sul peso](#display-weight)
 - [Cerca animale](#search-animal)
 - Imposta [filtro](#set-filter)
 - [Azioni](#call-action-menu)

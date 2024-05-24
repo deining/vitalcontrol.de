@@ -18,7 +18,7 @@ A Nyáj menüpontban megtekintheti az egész nyáját, kereshet egyedi állatoka
 - [Állat adatok](#view-animal-data) megtekintése
 - [Hőmérséklet adatok](#display-temperature) megtekintése
 - [Értékelési adatok](#view-rating) megtekintése
-- [Súly adatok](#view-rating) megtekintése
+- [Súly adatok](#display-weight) megtekintése
 - [Állat keresése](#search-animal)
 - [Szűrő](#set-filter) beállítása
 - [Műveletek](#call-action-menu)

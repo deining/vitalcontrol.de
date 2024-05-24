@@ -119,7 +119,6 @@ National-ID-Animal;Farm-ID-Animal;Date;Time;Weight-Kg
 276000312341003;1003;276000312341003;2023-07-24;F;104.2
 …
 ```
-```
 
 Az alábbi táblázat felsorolja és leírja az állatok súlyát tartalmazó táblázat egyes oszlopait:
 

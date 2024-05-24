@@ -15,14 +15,14 @@ translationKey: lists/alarm
 
 En la lista de alarmas encontrarás todos los animales que hayas añadido manualmente a la lista o todos los animales que estaban en el rango amarillo o rojo cuando se midió la temperatura. La lista te ayuda a mantener una visión general de todos los animales destacados. Además, para cada animal en la lista, puedes hacer lo siguiente:
 
-- [Menú acciones](#menú-acciones)
-- [Datos del animal](#datos-del-animal)
-- [Medir temperatura](#medir-temperatura)
-- [Evaluar animal](#evaluar-animal)
-- [Restablecer alarma](#restablecer-alarma)
-- [Alternar estado de seguimiento](#cambiar-estado-de-seguimiento)
-- [Buscar animal](#buscar-animal)
-- [Fijar filtro](#fijar-filtro)
+- [Menú acciones](#full-action-menu)
+- [Datos del animal](#animal-data)
+- [Medir temperatura](#take-temperature)
+- [Evaluar animal](#rate-animal)
+- [Restablecer alarma](#clear-alarm)
+- [Alternar estado de seguimiento](#toggle-watch-status)
+- [Buscar animal](#search-animal)
+- [Fijar filtro](#set-filter)
 
 La lista de alarmas está estructurada de la siguiente manera:
 
@@ -78,7 +78,7 @@ La lista de alarmas está estructurada de la siguiente manera:
 
 3. Dentro de la lista de alarmas, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `OK`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `OK`.
 
-4. La función [Medir temperatura](/es/docs/actions/measure-temperature/#medir-la-fiebre) ahora se inicia automáticamente.
+4. La función [Medir temperatura](/es/docs/actions/measure-temperature/#measure-fever) ahora se inicia automáticamente.
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Tomar temperatura")
 
@@ -90,7 +90,7 @@ La lista de alarmas está estructurada de la siguiente manera:
 
 3. Dentro de la lista de alarmas, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `OK`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `OK`.
 
-4. La función [Evaluar animal](/es/docs/actions/rating/#califica-tus-animales) ahora se inicia automáticamente.
+4. La función [Evaluar animal](/es/docs/actions/rating/#rate-your-animals) ahora se inicia automáticamente.
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Evaluar animal")
 

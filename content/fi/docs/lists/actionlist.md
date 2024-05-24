@@ -15,14 +15,14 @@ translationKey: lists/action
 
 Toimintolistalla näet eläimet, joille ei ole tehty toimenpiteitä kuuteen tuntiin. Saatavilla on myös seuraavat asetusvaihtoehdot:
 
-- [Mittaa lämpötila](../alarm/#mittaa-lämpötila)
-- [Arvioi eläin](../alarm/#arvioi-eläin)
-- [Punnitse eläin](#punnitse-eläin)
-- [Toimintaketju](#toimintaketju)
-- [Linkitä transponderi](#linkitä-transponderi)
-- [Piilota toiminnon jälkeen](#piilota-toiminnon-jälkeen)
-- [Etsi eläin](../alarm/#etsi-eläin)
-- [Aseta suodatin](../alarm/#aseta-suodatin)
+- [Mittaa lämpötila](../alarm/#take-temperature)
+- [Arvioi eläin](../alarm/#rate-animal)
+- [Punnitse eläin](#weigh-animals)
+- [Toimintaketju](#chain-of-action)
+- [Linkitä transponderi](#link-transponder)
+- [Piilota toiminnon jälkeen](#hide-after-action)
+- [Etsi eläin](../alarm/#search-animal)
+- [Aseta suodatin](../alarm/#set-filter)
 {{% alert title="Vihje" %}}
 Jotkut toiminnot suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm). Niitä ei selitetä tässä. Suorita alustavat vaiheet ja käytä kyseisen toiminnon linkkiä ohjeiden saamiseksi.
 {{% /alert %}}
@@ -45,7 +45,7 @@ Jotkut toiminnot suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm). 
 
 3. Toimintolistalla käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläimen ja vahvista painamalla `OK`. Vaihtoehtoisesti voit etsiä eläimen. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Etsi" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista painamalla `OK`.
 
-4. [Punnitse eläin](..) -valikko avautuu automaattisesti.
+4. [Punnitse eläin](../../actions/record-weight/) -valikko avautuu automaattisesti.
 
    ![VitalControl Lists Action list](../images/weightanimals.png "Punnitse eläin")
 

@@ -17,7 +17,7 @@ translationKey: lists/fresh-cows
 Při správě čerstvých krav se považuje za nejlepší praxi kontrolovat zvířata denně po několik dní po porodu. Seznam čerstvých krav podporuje tuto kontrolu čerstvých krav, zejména pokud jde o zaznamenávání teploty. Pro každé zvíře je zobrazen sloupcový graf za všechny dny kontrolního období, každý den kontrolního období je reprezentován svislou čarou. Podle barvy čáry (zelená, žlutá nebo červená) můžete vidět, zda byla v daný den pro příslušné zvíře naměřena normální, zvýšená nebo kriticky zvýšená teplota.
 {{% /alert %}}
 
-Krávy jsou zařazeny na seznam čerstvých krav ihned po zaregistrování jejich porodu. Na tomto seznamu zůstávají po určitou dobu, délku tohoto období (ve dnech) lze nastavit v [nastavení](../../settings/data-acquisition/#control-period-of-fresh-cows).
+Krávy jsou zařazeny na seznam čerstvých krav ihned po zaregistrování jejich porodu. Na tomto seznamu zůstávají po určitou dobu, délku tohoto období (ve dnech) lze nastavit v [nastavení](../../settings/data-acquisition/#control-period-of-fresh-cows)).
  Následující akce jsou k dispozici pro tento seznam:
 
 - [Plné menu akcí](../alarm/#full-action-menu)

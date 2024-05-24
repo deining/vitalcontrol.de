@@ -17,7 +17,7 @@ translationKey: lists/fresh-cows
 Värskete lehmade haldamisel peetakse parimaks praktikaks loomade igapäevast kontrollimist mitme päeva jooksul pärast sünnitust. Värskete lehmade nimekiri toetab seda värskete lehmade kontrolli, eriti temperatuuri registreerimise osas. Iga looma kohta kuvatakse kontrollperioodi kõikide päevade kohta veergdiagramm, iga kontrollperioodi päev on esindatud vertikaalse ribaga. Sõltuvalt riba värvist (roheline, kollane või punane) näete, kas vastaval päeval mõõdeti looma jaoks normaalne, tõusnud või kriitiliselt tõusnud temperatuur.
 {{% /alert %}}
 
-Lehmad lisatakse värskete lehmade nimekirja kohe pärast nende poegimise registreerimist. Nad jäävad sellesse nimekirja teatud ajaks, selle perioodi pikkust (päevades) saab reguleerida [seadetes](../../settings/data-acquisition/#control-period-of-fresh-cows).
+Lehmad lisatakse värskete lehmade nimekirja kohe pärast nende poegimise registreerimist. Nad jäävad sellesse nimekirja teatud ajaks, selle perioodi pikkust (päevades) saab reguleerida [seadetes](../../settings/data-acquisition/#control-period-of-fresh-cows)).
 Selle nimekirja jaoks on saadaval järgmised toimingud:
 
 - [Täielik toimingute menüü](../alarm/#full-action-menu)

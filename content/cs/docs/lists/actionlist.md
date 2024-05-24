@@ -47,7 +47,7 @@ Některé akce se provádějí stejným způsobem jako v [seznamu alarmů](../al
 3. V seznamu akcí použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `OK`. Alternativně můžete vyhledat zvíře. Použijte tlačítko `Zap/Vyp` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Vyhledat" /> a použijte šipky ◁ ▷ △ ▽ k výběru požadovaných číslic. Nakonec potvrďte stisknutím `OK`.
 
 
-4. Menu [vážení zvířat](..) se otevře automaticky.
+4. Menu [vážení zvířat](../../actions/record-weight/) se otevře automaticky.
 
    ![VitalControl Seznamy Akční seznam](../images/weightanimals.png "Vážení zvířat")
 

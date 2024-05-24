@@ -17,7 +17,7 @@ translationKey: lists/fresh-cows
 A friss tehenek kezelésekor a legjobb gyakorlatok közé tartozik az állatok napi ellenőrzése több napon keresztül a születés után. A friss tehenek listája támogatja ezt az ellenőrzést, különösen a hőmérséklet rögzítése szempontjából. Minden állat esetében egy oszlopdiagram látható az ellenőrzési időszak minden napjára, az ellenőrzési időszak minden napját egy függőleges oszlop képviseli. Az oszlop színétől függően (zöld, sárga vagy piros) látható, hogy az adott napon normál, emelkedett vagy kritikusan emelkedett hőmérsékletet mértek-e az adott állatnál.
 {{% /alert %}}
 
-A tehenek azonnal felkerülnek a friss tehenek listájára, miután az ellésüket regisztrálták. Egy bizonyos ideig maradnak ezen a listán, ennek az időszaknak a hossza (napokban) a [beállításokban](../../settings/data-acquisition/#control-period-of-fresh-cows) állítható be.
+A tehenek azonnal felkerülnek a friss tehenek listájára, miután az ellésüket regisztrálták. Egy bizonyos ideig maradnak ezen a listán, ennek az időszaknak a hossza (napokban) a [beállításokban](../../settings/data-acquisition/#control-period-of-fresh-cows)) állítható be.
  A következő műveletek érhetők el ezen a listán:
 
 - [Teljes műveleti menü](../alarm/#full-action-menu)

@@ -14,11 +14,11 @@ translationKey: actions/temperature
 
 Die Aktion Temperatur verwenden Sie um bei Ihren Tieren Fieber zu messen. Führen Sie die Messspitze rektal bis zur vorgegebenen Messtiefe ein (bei Großtieren die komplette Länge bis zum Wulst, bei kleinen Wiederkäuern ca. 6 cm bzw. 2/3 der Messspitze). Der Messvorgang läuft automatisch ab. Sobald der Messvorgang beendet ist, zeigt das Gerät die gemessene Temperatur an. Die Farbcodierung zeigt an, ob die Temperatur im grünen, gelben oder roten Bereich liegt. Sie haben während der Aktion Fieber messen unterschiedliche Möglichkeiten:
 
-- Das [Ergebnis abspeichern](#ergebnis-abspeichern) um die Messung tiergenau zu dokumentieren
-- Das Tier auf die [Beobachtungsliste](#auf-die-beobachtungsliste-setzen) setzen. Dies erleichtert Ihnen die Wiederholungskontrolle, da Sie diese Tiere mittels der `Beobachtungsliste` aufrufen können, und somit die auffälligen Tiere leichter wiederfinden
-- Die [Beleuchtung des Messortes](#beleuchtung-des-messortes-an-und-ausschalten) an und ausschalten
-- Die [Messung wiederholen](#die-messung-wiederholen)
-- Die [Aktion abbrechen](#die-aktion-abbrechen)
+- Das [Ergebnis abspeichern](#save-result) um die Messung tiergenau zu dokumentieren
+- Das Tier auf die [Beobachtungsliste](#put-on-the-watch-list) setzen. Dies erleichtert Ihnen die Wiederholungskontrolle, da Sie diese Tiere mittels der `Beobachtungsliste` aufrufen können, und somit die auffälligen Tiere leichter wiederfinden
+- Die [Beleuchtung des Messortes](#lighting-of-the-measurement-location-on-and-off) an und ausschalten
+- Die [Messung wiederholen](#repeat-the-measurement)
+- Die [Aktion abbrechen](#cancel-the-action)
 
 {{% alert title="Hinweis" %}}
 Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fieber“) liegt, setzt VitalControl das ausgewählte Tier automatisch auf die Alarmliste. Durch Korrelation mit anderen Daten können Sie den Gesundheitszustand des individuellen Tieres fortlaufend beobachten.

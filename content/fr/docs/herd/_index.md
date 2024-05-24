@@ -15,13 +15,13 @@ translationKey: herd
 
 Dans l'élément de menu Troupeau, vous pouvez voir l'ensemble de votre troupeau, rechercher des animaux individuels et afficher des informations importantes. Vous avez les possibilités suivantes :
 
-- Voir [les données animales](#voir-les-données-animales)
-- Voir [les données de température](#afficher-la-température)
-- Voir [les données de classement](#voir-évaluation)
-- Voir [les données de poids](#afficher-poids)
-- [Rechercher un animal](#rechercher-animal)
-- Définir un [filtre](#définir-un-filtre)
-- [Actions](#appeler-le-menu-daction)
+- Voir [les données animales](#view-animal-data)
+- Voir [les données de température](#display-temperature)
+- Voir [les données de classement](#view-rating)
+- Voir [les données de poids](#display-weight)
+- [Rechercher un animal](#search-animal)
+- Définir un [filtre](#set-filter)
+- [Actions](#call-action-menu)
 
 ### Étapes préparatoires {#preparatory-steps}
 

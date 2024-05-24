@@ -22,9 +22,9 @@ Kun napsautat valikkokohtaa, sinut ohjataan kyseisen toiminnon kuvaukseen.
 <img src="../images/imagemap.png" alt="VitalControl luokitus" title="Paino" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Tämän päivän punnitus" title="Arvioi eläintesi VitalControl-laitteella tänään tallennetut painoarvot&#10;Hiiren napsautus: dokumentaatioon" href="/fi/docs/evaluation/weight/#tämän-päivän-punnitus">
-   <area shape="rect" coords="116,40,238,160" alt="Syntymäpainot" title="Arvioi tallennetut syntymäpainosi&#10;Hiiren napsautus: dokumentaatioon" href="/fi/docs/evaluation/weight/#syntymäpainot">
-   <area shape="rect" coords="3,160,116,279" alt="Painon kehitys" title="Arvioi eläintesi painon kehitystä&#10;Hiiren napsautus: dokumentaatioon" href="/fi/docs/evaluation/weight/#painon-kehitys">
+   <area shape="rect" coords="3,40,116,160" alt="Tämän päivän punnitus" title="Arvioi eläintesi VitalControl-laitteella tänään tallennetut painoarvot&#10;Hiiren napsautus: dokumentaatioon" href="/fi/docs/evaluation/weight/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="Syntymäpainot" title="Arvioi tallennetut syntymäpainosi&#10;Hiiren napsautus: dokumentaatioon" href="/fi/docs/evaluation/weight/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="Painon kehitys" title="Arvioi eläintesi painon kehitystä&#10;Hiiren napsautus: dokumentaatioon" href="/fi/docs/evaluation/weight/#weight-development">
 
    <area shape="rect" coords="150,282,238,319" alt="Suodatin" title="Aseta suodatin&#10;Hiiren napsautus: dokumentaatioon" href="/fi/docs/filter">
    <area shape="rect" coords="2,282,95,319" alt="Takaisin" title="Hyppää takaisin yhden tason&#10;Hiiren napsautus: dokumentaatioon" href="/fi/docs/evaluation/">

@@ -19,9 +19,9 @@ Die nachfolgende Grafik listet die verfügbaren Einstellungen zur Tierdatenerfas
 <img src="../bilder/tierdatenerfassung.png" alt="Tierdatenerfassung" title="Tierdatenerfassung" usemap="#workmap-uebersicht" class="maphilight" />
 
 <map name="workmap-uebersicht">
-  <area shape="rect" coords="3,40,237,80" alt="Gewichtserfassung" title="Untermenü: Einstellungen zur Gewichtserfassung&#10;Mausklick: zur Dokumentation" href="#einstellungen-zur-gewichtserfassung">
-  <area shape="rect" coords="3,80,237,160" alt="Modus Tierbewertung" title="Stellen Sie den Modus der Tierbewertung ein&#10;Mausklick: zur Dokumentation" href="#modus-der-tierbewertung">
-  <area shape="rect" coords="3,160,237,240" alt="Länge Kontrollperiode Frischmelker" title="Legen Sie die Länge der Kontrollperiode für Frischmelker fest&#10;Mausklick: zur Dokumentation" href="#kontrollperiode-frischmelker">
+  <area shape="rect" coords="3,40,237,80" alt="Gewichtserfassung" title="Untermenü: Einstellungen zur Gewichtserfassung&#10;Mausklick: zur Dokumentation" href="#settings-weight-recording">
+  <area shape="rect" coords="3,80,237,160" alt="Modus Tierbewertung" title="Stellen Sie den Modus der Tierbewertung ein&#10;Mausklick: zur Dokumentation" href="#mode-of-animal-rating">
+  <area shape="rect" coords="3,160,237,240" alt="Länge Kontrollperiode Frischmelker" title="Legen Sie die Länge der Kontrollperiode für Frischmelker fest&#10;Mausklick: zur Dokumentation" href="#control-period-of-fresh-cows">
 
   <area shape="rect" coords="2,282,125,318" alt="Zurück" title="Springen Sie eine Ebene zurück" href="/docs/einstellungen/">
 </map>
@@ -37,10 +37,10 @@ Die nachfolgende Grafik listet die verfügbaren Einstellungen zur Gewichtserfass
 <img src="../bilder/gewichtserfassung.png" alt="Menüpunkte Einstellungen Gewichtserfassung" title="Einstellungen Gewichtserfassung" usemap="#workmap-gewicht" class="maphilight" />
 
 <map name="workmap-gewicht">
-  <area shape="rect" coords="1,40,230,200" alt="Schwellenwerte Zunahmen" title="Legen Sie die bei der Bewertung der Zunahmen genutzten Schwellenwerte fest&#10;Mausklick: zur Dokumentation" href="#bewertung-der-täglichen-zunahmen-schwellenwerte">
-  <area shape="rect" coords="1,200,230,280" alt="Geburtsgewicht" title="Legen Sie das beim Anlegen neuer Tiere genutzte Geburtsgewicht fest&#10;Mausklick: zur Dokumentation" href="#geburtsgewicht">
-  <area shape="rect" coords="1,280,230,360" alt="Mittlere tägliche Zunahme" title="Legen Sie zur Gewichtsschätzung genutzten mittleren täglichen Zunahmen fest&#10;Mausklick: zur Dokumentation" href="#mittlere-tägliche-zunahme">
-  <area shape="rect" coords="1,360,230,440" alt="Genauigkeit Gewichtserfassung" title="Legen Sie die Genauigkeit der Gewichtserfassung fest&#10;Mausklick: zur Dokumentation" href="#genauigkeit-der-gewichtserfassung">
+  <area shape="rect" coords="1,40,230,200" alt="Schwellenwerte Zunahmen" title="Legen Sie die bei der Bewertung der Zunahmen genutzten Schwellenwerte fest&#10;Mausklick: zur Dokumentation" href="#assessment-of-daily-weight-gain-threshold-values">
+  <area shape="rect" coords="1,200,230,280" alt="Geburtsgewicht" title="Legen Sie das beim Anlegen neuer Tiere genutzte Geburtsgewicht fest&#10;Mausklick: zur Dokumentation" href="#birth-weight">
+  <area shape="rect" coords="1,280,230,360" alt="Mittlere tägliche Zunahme" title="Legen Sie zur Gewichtsschätzung genutzten mittleren täglichen Zunahmen fest&#10;Mausklick: zur Dokumentation" href="#average-daily-weight-gain">
+  <area shape="rect" coords="1,360,230,440" alt="Genauigkeit Gewichtserfassung" title="Legen Sie die Genauigkeit der Gewichtserfassung fest&#10;Mausklick: zur Dokumentation" href="#precision-of-weight-recording">
 </map>
 
 ### Bewertung der täglichen Zunahmen: Schwellenwerte {#assessment-of-daily-weight-gain-threshold-values}
@@ -81,7 +81,7 @@ Das Gerät verwendet das hier in den Einstellungen hinterlegte Geburtsgewicht al
 
 {{% alert title="Warnung" color="warning" %}}
 Beim Vorgabewert für das Geburtsgewicht handelt es sich nur um einen Näherungswert, welcher beim Anlegen eines neuen Tieres individuell angepasst werden muss.
-Wenn Sie diese Anpassung nicht vornehmen wollen oder wenn Sie Tiere automatisch [im Hintergrund](../tiere-neu-anlegen/#tiere-automatisch-anlegen) anlegen, sollte beim Neuanlegen eines Tieres kein Geburtsgewicht abgefragt bzw. abgespeichert werden. Dies kann in den Einstellungen zum [Tiere neu anlegen](../tiere-neu-anlegen/#erfasste-gewichte-einstellen) vereinbart werden.
+Wenn Sie diese Anpassung nicht vornehmen wollen oder wenn Sie Tiere automatisch [im Hintergrund](../tiere-neu-anlegen/#auto-registration) anlegen, sollte beim Neuanlegen eines Tieres kein Geburtsgewicht abgefragt bzw. abgespeichert werden. Dies kann in den Einstellungen zum [Tiere neu anlegen](../tiere-neu-anlegen/#set-recorded-weights) vereinbart werden.
 {{% /alert %}}
 
 {{% alert title="Standardwerte Geburtsgewicht:" %}}

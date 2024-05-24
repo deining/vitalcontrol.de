@@ -15,14 +15,14 @@ translationKey: lists/action
 
 Dentro de la lista de acciones puedes ver los animales para los cuales no se ha tomado ninguna acción durante seis horas. También están disponibles las siguientes opciones de configuración:
 
-- [Medir temperatura](../alarm/#medir-temperatura)
-- [Evaluar animal](../alarm/#evaluar-animal)
-- [Pesaje de animal](#pesaje-de-animal)
-- [Cadena de acciones](#cadena-de-acciones)
-- [Vincular transpondedor](#vincular-transpondedor)
-- [Ocultar después de la acción](#ocultar-después-de-la-acción)
-- [Buscar animal](../alarm/#buscar-animal)
-- [Fijar filtro](../alarm/#fijar-filtro)
+- [Medir temperatura](../alarm/#take-temperature)
+- [Evaluar animal](../alarm/#rate-animal)
+- [Pesaje de animal](#weigh-animals)
+- [Cadena de acciones](#chain-of-action)
+- [Vincular transpondedor](#link-transponder)
+- [Ocultar después de la acción](#hide-after-action)
+- [Buscar animal](../alarm/#search-animal)
+- [Fijar filtro](../alarm/#set-filter)
 
 {{% alert title="Consejo" %}}
 Algunas acciones se deben realizar de la misma manera que en la [lista de alarmas](../alarm). Estas no se explican aquí. Realiza los pasos preliminares y usa el enlace de la acción respectiva para llegar a las instrucciones.

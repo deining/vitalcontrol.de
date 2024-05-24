@@ -15,14 +15,14 @@ translationKey: lists/dry-cows
 
 Pohjalehmien listalta löydät kaikki eläimet, jotka olet tallentanut pohjalehmiksi. Tämä lista auttaa sinua seuraamaan pohjalehmiäsi ja suorittamaan tarvittavia toimenpiteitä eläimille. Voit suorittaa seuraavat toimenpiteet:
 
-- [Täysi toimintovalikko](../alarm/#täydellinen-toimintovalikko)
-- [Tietoa eläimistä](../alarm/#tieto-eläimistä)
-- [Mittaa lämpötila](../alarm/#mittaa-lämpötila)
-- [Poikiminen](#poikiminen)
-- [Poista eläin tarkkailulistalta](../on-watch/#poista-eläin-tarkkailulistalta)
-- [Vaihda hälytysken tila](../on-watch/#vaihda-hälytysken-tila)
-- [Etsi eläin](../alarm/#etsi-eläin)
-- [Aseta suodatin](../alarm/#aseta-suodatin)
+- [Täysi toimintovalikko](../alarm/#full-action-menu)
+- [Tietoa eläimistä](../alarm/#animal-data)
+- [Mittaa lämpötila](../alarm/#take-temperature)
+- [Poikiminen](#calving)
+- [Poista eläin tarkkailulistalta](../on-watch/#toggle-alarm-status)
+- [Vaihda hälytysken tila](../alarm/#toggle-watch-status)
+- [Etsi eläin](../alarm/#search-animal)
+- [Aseta suodatin](../alarm/#set-filter)
 
 
 {{% alert title="Vinkki" %}}

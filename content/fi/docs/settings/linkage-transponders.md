@@ -34,7 +34,7 @@ Asettaaksesi `Eäimen numeron antaminen` laitteellasi, toimi seuraavasti.
 
 4. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi eläinnumeroiden määrityksen. Jos valitset asetuksen `Johdettu transponderinumerosta`, saat vaihtoehdot asettaa `Uuden ID:n numerot` ja `Oikea siirtymä`. Käytä nuolinäppäimiä △ ▽ valitaksesi sopivan alueen ja nuolinäppäimiä ◁ ▷ valitaksesi halutun asetuksen.
 
-5. Valitse vaihtoehto `Peräkkäinen` tai `Johdettu transponderinumerosta` ja toimi kuvatulla tavalla sivulla [Eäimen numeron antaminen](../animal-registration/#eläimen-numeron-antaminen).
+5. Valitse vaihtoehto `Peräkkäinen` tai `Johdettu transponderinumerosta` ja toimi kuvatulla tavalla sivulla [Eäimen numeron antaminen](../animal-registration/#assignment-animal-id).
 
 ![VitalControl: valikkosäädöt linkki transponderiin](../images/assignmentanimalid.png "Eläimen tunnisteen määrittäminen")
 

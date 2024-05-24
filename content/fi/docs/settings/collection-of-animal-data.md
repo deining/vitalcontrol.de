@@ -19,9 +19,9 @@ Seuraava kuva esittää saatavilla olevat asetukset eläintietojen tallennuksest
 <img src="../images/animaldataacquisition.png" alt="EläinTiedonkeruu" title="EläinTiedonkeruu" usemap="#workmap-overview" class="maphilight" />
 
 <map name="workmap-overview">
-  <area shape="rect" coords="3,40,239,80" alt="Painon tallennus" title="Alavalikko: Asetukset painon tallennukseen&#10;Hiiren klikkaus: avaa dokumentaatio" href="#päivittäisen-painonnousun-arviointi-kynnysarvot">
-  <area shape="rect" coords="3,80,239,160" alt="Eläinten arvioinnin tila" title="Aseta eläinten arvioinnin tila&#10;Hiiren klikkaus: avaa dokumentaatio" href="#eläimen-arvioinnin-tila">
-  <area shape="rect" coords="3,160,239,240" alt="Tuoreiden lehmien valvontajakson pituus" title="Aseta tuoreiden lehmien valvontajakson pituus&#10;Hiiren klikkaus: avaa dokumentaatio" href="#tuoreiden-lehmien-valvontajakso">
+  <area shape="rect" coords="3,40,239,80" alt="Painon tallennus" title="Alavalikko: Asetukset painon tallennukseen&#10;Hiiren klikkaus: avaa dokumentaatio" href="#settings-weight-recording">
+  <area shape="rect" coords="3,80,239,160" alt="Eläinten arvioinnin tila" title="Aseta eläinten arvioinnin tila&#10;Hiiren klikkaus: avaa dokumentaatio" href="#mode-of-animal-rating">
+  <area shape="rect" coords="3,160,239,240" alt="Tuoreiden lehmien valvontajakson pituus" title="Aseta tuoreiden lehmien valvontajakson pituus&#10;Hiiren klikkaus: avaa dokumentaatio" href="#control-period-of-fresh-cows">
 
   <area shape="rect" coords="2,282,125,318" alt="Takaisin" title="Hyppää takaisin yksi taso" href="/fi/docs/settings/">
 </map>
@@ -37,10 +37,10 @@ Seuraava kuva esittää saatavilla olevat asetukset eläinten painon tallennukse
 <img src="../images/weightrecording.png" alt="Alavalikon kohteet painon tallennuksen asetuksille" title="Painon tallennuksen asetukset" usemap="#workmap-weight" class="maphilight" />
 
 <map name="workmap-weight">
-  <area shape="rect" coords="1,40,230,199" alt="Kynnysarvojen arviointi päivittäisessä painonnousussa" title="Aseta kynnysarvot päivittäisen painonnousun arvioinnille&#10;Hiiren klikkaus: avaa dokumentaatio" href="#päivittäisen-painonnousun-arviointi-kynnysarvot">
-  <area shape="rect" coords="1,200,230,280" alt="Syntymäpaino" title="Aseta ehdotettu syntymäpaino uutta eläintä rekisteröitäessä&#10;Hiiren klikkaus: avaa dokumentaatio" href="#syntymäpaino">
-  <area shape="rect" coords="1,280,230,360" alt="Keskimääräinen päivittäinen painonnousu" title="Aseta käytetty keskimääräinen päivittäinen painonnousu eläinten painon arvioinnissa&#10;Hiiren klikkaus: avaa dokumentaatio" href="#keskimääräinen-päivittäinen-painonnousu">
-  <area shape="rect" coords="1,360,230,440" alt="Painon tallennuksen tarkkuus" title="Aseta painon tallennuksen tarkkuus&#10;Hiiren klikkaus: avaa dokumentaatio" href="#painon-tallennuksen-tarkkuus">
+  <area shape="rect" coords="1,40,230,199" alt="Kynnysarvojen arviointi päivittäisessä painonnousussa" title="Aseta kynnysarvot päivittäisen painonnousun arvioinnille&#10;Hiiren klikkaus: avaa dokumentaatio" href="#settings-weight-recording">
+  <area shape="rect" coords="1,200,230,280" alt="Syntymäpaino" title="Aseta ehdotettu syntymäpaino uutta eläintä rekisteröitäessä&#10;Hiiren klikkaus: avaa dokumentaatio" href="#birth-weight">
+  <area shape="rect" coords="1,280,230,360" alt="Keskimääräinen päivittäinen painonnousu" title="Aseta käytetty keskimääräinen päivittäinen painonnousu eläinten painon arvioinnissa&#10;Hiiren klikkaus: avaa dokumentaatio" href="#average-daily-weight-gain">
+  <area shape="rect" coords="1,360,230,440" alt="Painon tallennuksen tarkkuus" title="Aseta painon tallennuksen tarkkuus&#10;Hiiren klikkaus: avaa dokumentaatio" href="#precision-of-weight-recording">
 </map>
 
 ### Päivittäisen painonnousun arviointi: Kynnysarvot {#assessment-of-daily-weight-gain-threshold-values}
@@ -81,7 +81,7 @@ Laite käyttää tässä asetuksissa tallennettua syntymäpainoa oletusarvona uu
 
 {{% alert title="Varoitus" color="warning" %}}
 Oletussyntymäpaino on vain likimääräinen arvo, joka on yksilöllisesti säädettävä uutta eläintä luotaessa.
-Jos et halua tehdä tätä säätöä tai jos luot eläimiä automaattisesti [taustalla](../animal-registration/#autom-rekisteröinti), syntymäpainoa ei tulisi kysyä tai tallentaa uutta eläintä luotaessa. Tämä voidaan määritellä asetuksissa [eläinten rekisteröinnille](../animal-registration/#aseta-tallennettu-paino).
+Jos et halua tehdä tätä säätöä tai jos luot eläimiä automaattisesti [taustalla](../animal-registration/#auto-registration), syntymäpainoa ei tulisi kysyä tai tallentaa uutta eläintä luotaessa. Tämä voidaan määritellä asetuksissa [eläinten rekisteröinnille](../animal-registration/#set-recorded-weights).
 {{% /alert %}}
 
 {{% alert title="Oletusarvot syntymäpainoille:" %}}

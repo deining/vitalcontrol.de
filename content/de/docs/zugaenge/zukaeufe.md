@@ -47,11 +47,11 @@ Mit dieser Option können Sie einstellen ob alle Meldungen innerhalb der Liste `
 
 Sie haben, außer die Exportdatei zu erstellen, folgende weitere Möglichkeiten:
 
-- [Transponder abnehmen](#transponder-abnehmen)
-- [Alle Meldungen](#alle-meldungen-l%C3%B6schen) löschen
-- [Tier + Meldung ](#tier--meldung-l%C3%B6schen) löschen
-- [Zugangsmeldung](#zugangsmeldung-l%C3%B6schen) löschen
-- Eine [Meldung](#daten-eines-zu-meldenden-tieres-bearbeiten) bearbeiten
+- [Transponder abnehmen](#unlink-transponder)
+- [Alle Meldungen](#clear-all-purchase-notices) löschen
+- [Tier + Meldung ](#delete-animal--purchase-notice) löschen
+- [Zugangsmeldung](#clear-notice-of-purchase) löschen
+- Eine [Meldung](#edit-data-of-purchased-animal) bearbeiten
 
 {{% alert title="Hinweis" %}}
 Öffnen Sie immer zuerst die Liste `Zukäufe` wie in der Anleitung oben beschrieben.
@@ -115,6 +115,6 @@ Um die Daten eines Tieres in der Zugangsliste vorhanden ist, gehen Sie wie folgt
 
 1. Wählen Sie mit den Pfeiltasten △ ▽ das Tier aus, welches Sie bearbeiten möchten.
 
-2. Verwenden Sie die Taste `OK`. Es öffnet sich ein Untermenü mit den Tierdaten des ausgewählten Tieres. Wie diese zu bearbeiten sind finden Sie [hier](/docs/aktionen/aendern/#tierdaten-%C3%A4ndern).
+2. Verwenden Sie die Taste `OK`. Es öffnet sich ein Untermenü mit den Tierdaten des ausgewählten Tieres. Wie diese zu bearbeiten sind finden Sie [hier](/docs/aktionen/aendern/#edit-animal-data).
 
     ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/eine-meldung-bearbeiten.png "Eine Meldung bearbeiten")

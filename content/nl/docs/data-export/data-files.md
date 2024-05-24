@@ -14,10 +14,10 @@ translationKey: data-export/data-files
 
 Bij het exporteren van diergegevens, ongeacht of dit naar de [USB-stick][] of naar een lokale massaalopslagapparaat [op de PC][], worden in elk geval vier exportbestanden gegenereerd:
 
-- [Diergegevens](#diergegevens-animalscsv) `(animals.csv)`
-- [Gegevens over lichaamstemperatuur](#lichaamstemperatuurgegevens-temperaturescsv)`(temperatures.csv)`
-- [Gewichtsgegevens](#gewichtsgegevens-weightscsv) `(weights.csv)`
-- [Beoordelingen van dieren](#dierbeoordelingen-ratingscsv) `(ratings.csv)`
+- [Diergegevens](#animal-data-animalscsv) `(animals.csv)`
+- [Gegevens over lichaamstemperatuur](#body-temperature-data-temperaturescsv)`(temperatures.csv)`
+- [Gewichtsgegevens](#weight-data-weightscsv) `(weights.csv)`
+- [Beoordelingen van dieren](#animal-ratings-ratingscsv) `(ratings.csv)`
 
 [USB-stick]: ../usb-drive/
 [op de PC]: ../pc/

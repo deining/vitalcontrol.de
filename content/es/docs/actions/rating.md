@@ -13,7 +13,7 @@ translationKey: actions/animal-rating
 
 ## Califica tus animales {#rate-your-animals}
 
-Al calificar el animal, documentas la condición del animal individual. La condición se determina visualmente y se registra con la ayuda del sistema de semáforo. En la evaluación básica, solo se registra la condición general. En la evaluación extendida registras la condición general, la ingesta de alimento, la consistencia de las heces y las enfermedades respiratorias. Puedes cambiar el modo de calificación directamente en la acción <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Calificación" /> `Evaluación` o puedes definirlo en los [ajustes](../../settings/data-acquisition/#modo-de-evaluación-de-animales).
+Al calificar el animal, documentas la condición del animal individual. La condición se determina visualmente y se registra con la ayuda del sistema de semáforo. En la evaluación básica, solo se registra la condición general. En la evaluación extendida registras la condición general, la ingesta de alimento, la consistencia de las heces y las enfermedades respiratorias. Puedes cambiar el modo de calificación directamente en la acción <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Calificación" /> `Evaluación` o puedes definirlo en los [ajustes](../../settings/data-acquisition/#mode-of-animal-rating).
 
 {{% alert title="Consejo" %}}
 Una evaluación amarilla o roja significa que VitalControl clasifica al animal como conspicuo y lo pone en la lista de alarmas.

@@ -21,6 +21,6 @@ Voit käyttää tätä asetusta määrittämään, miten eläimen tunnus tulisi 
 
 3. Käytä nyt nuolinäppäimiä ◁ ▷ valitaksesi haluamasi asetuksen. Voit valita joko `ei muutosta` tai `Korvamerkin numeron johtaminen`.
 
-4. Asetusvaihtoehto `Korvamerkin numeron johtaminen` mahdollistaa lisäasetusten tekemisen. Katso [täältä](/fi/docs/settings/animal-registration/#oikea-siirtymä).
+4. Asetusvaihtoehto `Korvamerkin numeron johtaminen` mahdollistaa lisäasetusten tekemisen. Katso [täältä](/fi/docs/settings/animal-registration/#digit-of-the-new-id).
 
    ![VitalControl: Menu Settings Unlink transponder](../images/unlink-transponder.png "Poista transponderin linkitys")

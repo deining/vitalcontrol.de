@@ -15,14 +15,14 @@ translationKey: lists/on-watch
 
 Op de lijst van geobserveerde dieren vindt u alle dieren die u handmatig aan de lijst heeft toegevoegd. De lijst helpt u een overzicht te houden van de dieren die u als opvallend heeft beoordeeld. Ook kunt u voor elk dier op de lijst het volgende doen:
 
-- [Actiemenu](/nl/docs/lists/alarm/#actiemenu)
-- [Diergegevens](/nl/docs/lists/alarm/#dier-data)
-- [Temperatuur meten](/nl/docs/lists/alarm/#temperatuur-meten)
-- [Dier beoordelen](/nl/docs/lists/alarm/#dier-beoordelen)
-- [Verwijder van Watchlist](#verwijder-van-watchlist)
+- [Actiemenu](../alarm/#full-action-menu)
+- [Diergegevens](../alarm/#animal-data)
+- [Temperatuur meten](../alarm/#take-temperature)
+- [Dier beoordelen](../alarm/#rate-animal)
+- [Verwijder van Watchlist](#remove-from-watch-list)
 - [Toggle alarm status](#toggle-alarm-status)
-- [Dier zoeken](/nl/docs/lists/alarm/#dier-zoeken)
-- [Filter instellen](../alarm/#filter-zetten)
+- [Dier zoeken](../alarm/#search-animal)
+- [Filter instellen](../alarm/#full-action-menu)
 
 {{% alert title="Hint" %}}
 Sommige acties worden op dezelfde manier uitgevoerd als in de [Alarmlijst](../alarm). Deze worden hier niet uitgelegd. Voer de voorbereidende stappen uit en gebruik de link van de betreffende actie om naar de instructies te gaan.

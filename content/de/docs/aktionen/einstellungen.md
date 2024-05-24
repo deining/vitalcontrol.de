@@ -37,6 +37,6 @@ In diesem Einstellungsmenü legen Sie die einzelnen Aktionen der &nbsp;<img src=
 
 3. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Aktionskette" />&nbsp; `Aktionskette` aus und bestätigen Sie mit `OK`.
 
-4. Die weitere Anleitung finden Sie [hier](/docs/aktionskette/#aktionskette-einstellen).
+4. Die weitere Anleitung finden Sie [hier](/docs/aktionskette/).
 
     ![VitalControl: Menüfolge Aktionen Aktionskette](../bilder/aktionskette.png "Aktionskette")

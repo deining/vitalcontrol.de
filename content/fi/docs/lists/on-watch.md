@@ -15,14 +15,14 @@ translationKey: lists/on-watch
 
 Tarkkailulistalta löydät kaikki eläimet, jotka olet manuaalisesti lisännyt listaan. Lista auttaa sinua pitämään yleiskatsauksen eläimistä, jotka olet arvioinut huomionarvoisiksi. Lisäksi voit tehdä seuraavat toimenpiteet kullekin listalla olevalle eläimelle:
 
-- [Täysi toimintovalikko](../alarm/#täydellinen-toimintovalikko)
-- [Tietoa eläimistä](../alarm/#tieto-eläimistä)
-- [Mittaa lämpötila](../alarm/#mittaa-lämpötila)
-- [Arvioi eläin](../alarm/#arvioi-eläin)
-- [Poista eläin tarkkailulistalta](#poista-eläin-tarkkailulistalta)
-- [Vaihda hälytysken tila](#vaihda-hälytysken-tila)
-- [Etsi eläin](../alarm/#etsi-eläin)
-- [Aseta suodatin](../alarm/#aseta-suodatin)
+- [Täysi toimintovalikko](../alarm/#full-action-menu)
+- [Tietoa eläimistä](../alarm/#animal-data)
+- [Mittaa lämpötila](../alarm/#take-temperature)
+- [Arvioi eläin](../alarm/#rate-animal)
+- [Poista eläin tarkkailulistalta](#remove-from-watch-list)
+- [Vaihda hälytysken tila](#toggle-alarm-status)
+- [Etsi eläin](../alarm/#search-animal)
+- [Aseta suodatin](../alarm/#set-filter)
 
 {{% alert title="Vihje" %}}
 Jotkin toiminnot suoritetaan samalla tavalla kuin [Hälytyslistassa](../alarm). Niitä ei selitetä tässä. Suorita alustavat vaiheet ja käytä kyseisen toiminnon linkkiä päästäksesi ohjeisiin.

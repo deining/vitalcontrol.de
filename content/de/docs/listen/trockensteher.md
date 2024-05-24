@@ -15,14 +15,14 @@ translationKey: lists/dry-cows
 
 Auf der Trockensteherliste finden Sie alle Tiere die Sie als trockenstehend gekennzeichnet sind. Diese Liste hilft Ihnen, die Übersicht über Ihre Trockensteher zu behalten und notwendige Aktionen an den Tieren durchzuführen. Folgende Aktionen können Sie ausführen:
 
-- [Aktionsmenü](../alarm/#aktionsmen%C3%BC-mit-einem-tier-%C3%B6ffnen) mit einem Tier öffnen
-- [Tierdaten](../alarm/#tierdaten-einsehen) einsehen
-- [Temperatur](../alarm/#temperatur-messen) messen
-- [Abkalbung](../trockensteher/#abkalbung-erfassen) erfassen
-- [Alarmstatus ändern](../beobachtung/#alarmstatus-%C3%A4ndern)
-- [Status Beobachtung](../alarm/#status-beobachtung-umkehren) umkehren
-- [Tier suchen](../alarm/#tier-suchen)
-- [Filter setzen](../alarm/#filter-setzen)
+- [Aktionsmenü](../alarm/#full-action-menu) mit einem Tier öffnen
+- [Tierdaten](../alarm/#animal-data) einsehen
+- [Temperatur](../alarm/#take-temperature) messen
+- [Abkalbung](../trockensteher/#calving) erfassen
+- [Alarmstatus ändern](../beobachtung/#toggle-alarm-status)
+- [Status Beobachtung](../alarm/#toggle-watch-status) umkehren
+- [Tier suchen](../alarm/#search-animal)
+- [Filter setzen](../alarm/#set-filter)
 
 {{% alert title="Hinweis" %}}
 Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Diese sind hier nicht erläutert. Führen Sie die vorbereitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion um zu der Anleitung zu gelangen.

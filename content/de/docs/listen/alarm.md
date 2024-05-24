@@ -15,13 +15,13 @@ translationKey: lists/alarm
 
 Auf der Alarmliste finden Sie alle Tiere die Sie entweder manuell auf die Liste gesetzt haben oder alle Tiere die bei der Fiebermessung im gelben oder roten Bereich waren. Die Liste hilft Ihnen einen Überblick über alle auffälligen Tiere zu behalten. Außerdem können Sie für jedes Tier auf der Liste folgende Aktionen ausführen:
 
-- [Aktionsmenü](#aktionsmen%C3%BC-mit-einem-tier-%C3%B6ffnen) mit einem Tier öffnen
-- [Tierdaten](#tierdaten-einsehen) einsehen
-- [Temperatur](#temperatur-messen) messen
-- [Tier bewerten](#tier-bewerten)
-- [Alarm zurücksetzen](#alarm-zur%C3%BCcksetzen)
-- [Status Beobachtung](#status-beobachtung-umkehren) umkehren
-- [Tier suchen](../alarm/#tier-suchen)
+- [Aktionsmenü](#full-action-menu) mit einem Tier öffnen
+- [Tierdaten](#animal-data) einsehen
+- [Temperatur](#take-temperature) messen
+- [Tier bewerten](#rate-animal)
+- [Alarm zurücksetzen](#clear-alarm)
+- [Status Beobachtung](#toggle-watch-status) umkehren
+- [Tier suchen](#search-animal)
 - [Filter setzen](../../filter/)
 
 Die Alarmliste ist wie folgt aufgebaut:
@@ -78,7 +78,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. Alternativ können Sie ein Tier suchen. Verwenden Sie die `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Lupe" /> und nutzen Sie die Pfeiltasten ◁ ▷ △ ▽ um die gewünschten Ziffern auszuwählen. Bestätigen Sie abschließend mit `OK`.
 
-4. Die Funktion [Temperatur messen](/docs/aktionen/temperatur/#fieber-messen) wird nun automatisch gestartet.
+4. Die Funktion [Temperatur messen](/docs/aktionen/temperatur/#measure-fever) wird nun automatisch gestartet.
 
    ![VitalControl Listen Alarmliste](../bilder/temperaturmessen.png "Temperatur messen")
 
@@ -90,7 +90,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. Alternativ können Sie ein Tier suchen. Verwenden Sie die `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Lupe" /> und nutzen Sie die Pfeiltasten ◁ ▷ △ ▽ um die gewünschten Ziffern auszuwählen. Bestätigen Sie abschließend mit `OK`.
 
-4. Die Funktion [Tier bewerten](/docs/aktionen/tierbewertung/#tierbewertung-durchf%C3%BChren) wird nun automatisch gestartet.
+4. Die Funktion [Tier bewerten](/docs/aktionen/tierbewertung/#rate-your-animals) wird nun automatisch gestartet.
 
    ![VitalControl Listen Alarmliste](../bilder/tierbewerten.png "Tier bewerten")
 

@@ -17,17 +17,17 @@ translationKey: lists/fresh-cows
 Tuoreiden lehmien hallinnassa pidetään parhaana käytäntönä tarkistaa eläimet päivittäin usean päivän ajan synnytyksen jälkeen. Tuoreiden lehmien lista tukee tätä tuoreiden lehmien hallintaa, erityisesti lämpötilan kirjaamisen osalta. Jokaiselle eläimelle näytetään pylväskaavio kaikilta valvontajakson päiviltä, ja jokainen valvontajakson päivä esitetään pystypalkkina. Palkin värin (vihreä, keltainen tai punainen) perusteella näet, mitattiinko kyseisenä päivänä kyseiselle eläimelle normaali, kohonnut tai kriittisesti kohonnut lämpötila.
 {{% /alert %}}
 
-Lehmät lisätään tuoreiden lehmien listalle heti, kun niiden poikiminen on rekisteröity. Ne pysyvät listalla tietyn ajanjakson, jonka pituuden (päivinä) voi säätää [asetuksissa](../../settings/data-acquisition/#tuoreiden-lehmien-valvontajakso).
+Lehmät lisätään tuoreiden lehmien listalle heti, kun niiden poikiminen on rekisteröity. Ne pysyvät listalla tietyn ajanjakson, jonka pituuden (päivinä) voi säätää [asetuksissa](../../settings/data-acquisition/#control-period-of-fresh-cows)).
 Seuraavat toiminnot ovat käytettävissä tällä listalla:
 
-- [Täysi toimintovalikko](../alarm/#täydellinen-toimintovalikko)
-- [Tietoa eläimistä](../alarm/#tieto-eläimistä)
-- [Mittaa lämpötila](../alarm/#mittaa-lämpötila)
-- [Vaihda hälytyksen tila](#vaihda-hälytyksen-tila)
-- [Vaihda seurantatila](#vaihda-seurantatila)
-- [Piilota mitatut lehmät](#piilota-mitatut-lehmät)
-- [Etsi eläin](../alarm/#etsi-eläin)
-- [Aseta suodatin](../alarm/#aseta-suodatin)
+- [Täysi toimintovalikko](../alarm/#full-action-menu)
+- [Tietoa eläimistä](../alarm/#animal-data)
+- [Mittaa lämpötila](../alarm/#take-temperature)
+- [Vaihda hälytyksen tila](#toggle-alarm-status)
+- [Vaihda seurantatila](#toggle-watch-status)
+- [Piilota mitatut lehmät](#hide-measured-cows)
+- [Etsi eläin](../alarm/#search-animal)
+- [Aseta suodatin](../alarm/#set-filter)
 
 {{% alert title="Vihje" %}}
 Jotkut toiminnot suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm). Niitä ei selitetä tässä. Suorita alustavat vaiheet ja käytä kyseisen toiminnon linkkiä ohjeiden saamiseksi.

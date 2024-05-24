@@ -18,7 +18,7 @@ V rámci položky menu Stádo můžete zobrazit celé své stádo, vyhledávat j
 - Zobrazit [údaje o zvířatech](#view-animal-data)
 - Zobrazit [údaje o teplotě](#display-temperature)
 - Zobrazit [údaje o hodnocení](#view-rating)
-- Zobrazit [údaje o hmotnosti](#view-rating)
+- Zobrazit [údaje o hmotnosti](#display-weight)
 - [Vyhledat zvíře](#search-animal)
 - Nastavit [filtr](#set-filter)
 - [Akce](#call-action-menu)

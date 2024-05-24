@@ -34,7 +34,7 @@ Para configurar el `Asignación de ID de animal` en tu dispositivo, procede de l
 
 4. Usa las teclas de flecha ◁ ▷ para establecer la asignación de los números de los animales. Si seleccionas la configuración `Derivación del No de transpondedor`, obtendrás las opciones para configurar los `Dígitos de ID nueva` y el `Compensación derecha`. Usa las teclas de flecha △ ▽ para seleccionar el rango apropiado y las teclas de flecha ◁ ▷ para seleccionar la configuración deseada.
 
-5. Selecciona la opción `Consecutivo` o `Derivación del No de transpondedor` y procede como se describe en la página [Asignación ID animal](../animal-registration/#asignación-de-id-de-animal).
+5. Selecciona la opción `Consecutivo` o `Derivación del No de transpondedor` y procede como se describe en la página [Asignación ID animal](../animal-registration/#assignment-animal-id).
 
 ![VitalControl: enlace del menú de configuraciones transpondedor](../images/assignmentanimalid.png "Asignación de ID de animal")
 

@@ -34,7 +34,7 @@ Om het `Toevoegen Diernummer` in te stellen op uw apparaat, ga als volgt te werk
 
 4. Gebruik de pijltoetsen ◁ ▷ om de toewijzing van de diernummers in te stellen. Als u de instelling `Afwijking van transpondernummer` selecteert, krijgt u de opties om de `Cijfers van nieuwe ID` en `Rechts offset` in te stellen. Gebruik de pijltoetsen △ ▽ om het juiste bereik te selecteren en de pijltoetsen ◁ ▷ om de gewenste instelling te selecteren.
 
-5. Selecteer de optie `Opeenvolgend` of `Afwijking van transpondernummer` en ga verder zoals beschreven op pagina [Toewijzing dier-ID](../animal-registration/#toevoegen-diernummer).
+5. Selecteer de optie `Opeenvolgend` of `Afwijking van transpondernummer` en ga verder zoals beschreven op pagina [Toewijzing dier-ID](../animal-registration/#assignment-animal-id).
 
 ![VitalControl: menu-instellingen link transponder](../images/assignmentanimalid.png "Toewijzing dier-ID")
 

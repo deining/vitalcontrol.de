@@ -21,6 +21,6 @@ Puede utilizar esta configuración para especificar cómo se debe asignar la ide
 
 3. Ahora use los botones de flecha ◁ ▷ para seleccionar la configuración deseada. Puede elegir entre `sin cambios` o `derivación del número de etiqueta`.
 
-4. La opción de configuración `derivación del número de etiqueta` le permite realizar más ajustes. Vea [aquí](/es/docs/settings/animal-registration/#dígito-del-nuevo-id).
+4. La opción de configuración `derivación del número de etiqueta` le permite realizar más ajustes. Vea [aquí](/es/docs/settings/animal-registration/#digit-of-the-new-id).
 
    ![VitalControl: Menú Configuraciones Desvincular transpondedor](../images/unlink-transponder.png "Desvincular transpondedor")

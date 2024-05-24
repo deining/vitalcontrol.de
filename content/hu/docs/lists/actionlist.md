@@ -47,7 +47,7 @@ Néhány akciót ugyanúgy kell végrehajtani, mint az [riasztási listában](..
 3. Az akciólistában használja a nyílgombokat △ ▽ a kívánt állat kiválasztásához, és erősítse meg az `OK` gombbal. Alternatívaként kereshet egy állatot. Használja a `Be/Ki` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" />, és használja a nyílgombokat ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg az `OK` gombbal.
 
 
-4. A [weigh animals](..) menü automatikusan megnyílik.
+4. A [weigh animals](../../actions/record-weight/) menü automatikusan megnyílik.
 
    ![VitalControl Lists Action list](../images/weightanimals.png "Weigh animals")
 

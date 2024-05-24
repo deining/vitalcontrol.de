@@ -22,10 +22,10 @@ Beim Export von Tierdaten, unabhängig ob auf den [USB-Stick][] oder auf einen [
 [USB-Stick]: ../usb-stick/
 [lokalen Datenträger am PC]: ../pc/
 
-[Tierdaten]: #tierdaten-animalscsv
-[Körpertemperaturdaten]: #k%C3%B6rpertemperaturdaten-temperaturescsv
-[Gewichtsdaten]: #gewichtsdaten-weightscsv
-[Tierbewertungen]: #tierbewertungen-ratingscsv
+[Tierdaten]: #animal-data-animalscsv
+[Körpertemperaturdaten]: #body-temperature-data-temperaturescsv
+[Gewichtsdaten]: #weight-data-weightscsv
+[Tierbewertungen]: #animal-ratings-ratingscsv
 
 Bei allen vier Dateien wird das [CSV](https://de.wikipedia.org/wiki/CSV_(Dateiformat))-Format verwendet, es handelt sich also um vom Menschen lesbare Textdateien. Die Dateien sind im Format `UTF-8` kodiert, als Spaltentrenner kommen Strichpunkt (`;`) zu Einsatz. Die einzelnen Datenfelder sind *nicht* in Hochkommata eingeschlossen. Jede Zeile der jeweiligen Tabelle repräsentiert ein Tier bzw. eine an einem Tier durchgeführte Messung oder Bewertung.
 

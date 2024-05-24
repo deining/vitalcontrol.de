@@ -21,6 +21,6 @@ U kunt deze instelling gebruiken om aan te geven hoe de dier-ID moet worden toeg
 
 3. Gebruik nu de pijltoetsen ◁ ▷ om uw gewenste instelling te selecteren. U kunt kiezen tussen `geen kans` of `Toevoegen Diernummer`.
 
-4. De instellingsoptie `afleiding van oornummernummer` stelt u in staat om verdere instellingen te maken. Zie [hier](/nl/docs/settings/animal-registration/#dieren-automatisch-registreren).
+4. De instellingsoptie `afleiding van oornummernummer` stelt u in staat om verdere instellingen te maken. Zie [hier](/nl/docs/settings/animal-registration/#digit-of-the-new-id).
 
    ![VitalControl: Menu Instellingen Transponder afnemen](../images/unlink-transponder.png "Transponder afnemen")

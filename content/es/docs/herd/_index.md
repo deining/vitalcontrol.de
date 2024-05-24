@@ -15,13 +15,13 @@ translationKey: herd
 
 Dentro del ítem del menú Rebaño, puedes ver todo tu rebaño, buscar animales individuales y mostrar información importante. Tienes las siguientes posibilidades:
 
-- Ver [datos del animal](#ver-datos-del-animal)
-- Ver [datos de temperatura](#mostrar-temperatura)
-- Ver [datos de calificación](#ver-calificación)
-- Ver [datos de peso](#mostrar-peso)
-- [Buscar animal](#buscar-animal)
-- Establecer [filtro](#establecer-filtro)
-- [Acciones](#llamar-al-menú-de-acciones)
+- Ver [datos del animal](#view-animal-data)
+- Ver [datos de temperatura](#display-temperature)
+- Ver [datos de calificación](#view-rating)
+- Ver [datos de peso](#display-weight)
+- [Buscar animal](#search-animal)
+- Establecer [filtro](#set-filter)
+- [Acciones](#call-action-menu)
 
 ### Pasos preparatorios {#preparatory-steps}
 

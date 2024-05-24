@@ -18,7 +18,7 @@ translationKey: herd
 - Вижте [данни за животните](#view-animal-data)
 - Вижте [данни за температурата](#display-temperature)
 - Вижте [данни за оценката](#view-rating)
-- Вижте [данни за теглото](#view-rating)
+- Вижте [данни за теглото](#display-weight)
 - [Търсене на животно](#search-animal)
 - Задайте [филтър](#set-filter)
 - [Действия](#call-action-menu)

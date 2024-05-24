@@ -15,14 +15,14 @@ translationKey: lists/dry-cows
 
 En la lista de animales secos encontrarás todos los animales que has guardado como animales secos. Esta lista te ayudará a llevar un seguimiento de tus vacas secas y realizar las acciones necesarias sobre los animales. Puedes realizar las siguientes acciones:
 
-- [Menú acciones](../alarm/#menú-acciones)
-- [Datos del animal](../alarm/#datos-del-animal)
-- [Medir temperatura](../alarm/#medir-temperatura)
-- [Parto](#parto)
-- [Cambiar estado alarma](../on-watch/#cambiar-estado-alarma)
-- [Cambiar estado de seguimiento](../alarm/#cambiar-estado-de-seguimiento)
-- [Buscar animal](../alarm/#buscar-animal)
-- [Fijar filtro](../alarm/#fijar-filtro)
+- [Menú acciones](../alarm/#full-action-menu)
+- [Datos del animal](../alarm/#animal-data)
+- [Medir temperatura](../alarm/#take-temperature)
+- [Parto](#calving)
+- [Cambiar estado alarma](../on-watch/#toggle-alarm-status)
+- [Cambiar estado de seguimiento](../alarm/#toggle-watch-status)
+- [Buscar animal](../alarm/#search-animal)
+- [Fijar filtro](../alarm/#set-filter)
 
 {{% alert title="Consejo" %}}
 Algunas acciones se realizan de la misma manera que en la [lista de alarmas](../alarm). Estas no se explican aquí. Realiza los pasos preliminares y usa el enlace de la acción respectiva para obtener las instrucciones.

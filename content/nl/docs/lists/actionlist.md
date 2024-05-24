@@ -15,14 +15,14 @@ translationKey: lists/action
 
 Binnen de actielijst kunt u de dieren zien waarvoor zes uur lang geen actie is ondernomen. De volgende instellingsopties zijn ook beschikbaar:
 
-- [Temperatuur meten](../alarm/#temperatuur-meten)
-- [Dier beoordelen](../alarm/#dier-beoordelen)
-- [Dier wegen](#dier-wegen)
-- [Opeenvolgende acties](#opeenvolgende-acties)
+- [Temperatuur meten](../alarm/#take-temperature)
+- [Dier beoordelen](../alarm/#rate-animal)
+- [Dier wegen](#weigh-animals)
+- [Opeenvolgende acties](#chain-of-action)
 - [Link transponder](#link-transponder)
-- [Verberg na actie](#verberg-na-actie)
-- [Dier zoeken](../alarm/#dier-zoeken)
-- [Filter zetten](../alarm/#filter-zetten)
+- [Verberg na actie](#hide-after-action)
+- [Dier zoeken](../alarm/#search-animal)
+- [Filter zetten](../alarm/#set-filter)
 
 {{% alert title="Hint" %}}
 Sommige acties moeten op dezelfde manier worden uitgevoerd als in de [alarmlijst](../alarm). Deze worden hier niet uitgelegd. Voer de voorbereidende stappen uit en gebruik de link van de betreffende actie om naar de instructies te gaan.
@@ -46,7 +46,7 @@ Sommige acties moeten op dezelfde manier worden uitgevoerd als in de [alarmlijst
 
 3. Binnen de actielijst, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. U kunt ook zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Zoeken" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. Het menu [dier wegen](..) zal automatisch openen.
+4. Het menu [dier wegen](../../acties/record-weight/) zal automatisch openen.
 
    ![VitalControl Lijsten Actielijst](../images/weightanimals.png "Dier wegen")
 

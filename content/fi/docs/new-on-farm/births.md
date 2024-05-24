@@ -37,11 +37,11 @@ Tietojen viemiseen tarvitset mukana tulevan UBS-tikun. Yhdistä USB-tikku USB-C-
 
 Lisäksi vientitiedoston luomiseen, sinulla on seuraavat vaihtoehdot:
 
-- [Vaihda](#vaihda-listanäkymä-ja-yksittäisen-eläinnäkymän-välillä) listanäkymän ja yksittäisen eläinnäkymän välillä
-- [Tyhjennä kaikki syntymäilmoitukset](../purchased-animals/#tyhjennä-kaikki-ostoilmoitukset)
-- [Poista eläin + ilmoitukset](../purchased-animals/#poista-eläin--ilmoituks)
-- [Tyhjennä ostoilmoitus](../purchased-animals/#tyhjennä-ostoilmoitus)
-- [Muokkaa](#muokkaa-syntymäilmoituksen-tietoja) ilmoitusta
+- [Vaihda](#change-between-list-view-and-single-animal-view) listanäkymän ja yksittäisen eläinnäkymän välillä
+- [Tyhjennä kaikki syntymäilmoitukset](../purchased-animals/#clear-all-purchase-notices)
+- [Poista eläin + ilmoitukset](../purchased-animals/#delete-animal--purchase-notice)
+- [Tyhjennä ostoilmoitus](../purchased-animals/#clear-notice-of-purchase)
+- [Muokkaa](#edit-data-of-birth-notice) ilmoitusta
 
 {{% alert title="Vinkki" %}}
 Jotkut toiminnot ovat identtisiä `Ostettuja eläimet` -listan toimintoihin. Seuraa linkkejä vaiheittaisiin ohjeisiin. Avaa aina ensin `Syntymät`-lista kuten yllä olevissa ohjeissa on kuvattu.

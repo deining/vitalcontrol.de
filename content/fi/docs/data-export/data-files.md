@@ -14,10 +14,10 @@ translationKey: data-export/data-files
 
 Eläintietojen viennissä, riippumatta siitä viedäänkö tiedot [USB-muistitikulle][] tai paikalliselle massamuistilaitteelle [tietokoneella][], luodaan neljä vientitiedostoa:
 
-- [Eläintiedot](#eläintiedot-animalscsv)
-- [Kehon lämpötilatiedot](#kehon-lämpötilan-tiedot-temperaturescsv)
-- [Painotiedot](#painotiedot-weightscsv)
-- [Eläinten arvioinnit](#eläinten-arvioinnit-ratingscsv)
+- [Eläintiedot](#animal-data-animalscsv)
+- [Kehon lämpötilatiedot](#body-temperature-data-temperaturescsv)
+- [Painotiedot](#weight-data-weightscsv)
+- [Eläinten arvioinnit](#animal-ratings-ratingscsv)
 
 [USB-muistitikku]: ../usb-drive/
 [tietokoneella]: ../pc/

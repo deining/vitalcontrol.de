@@ -38,6 +38,6 @@ En este menú de configuración estableces la &nbsp;<img src="/icons/actions/act
 
 3. Se abre un submenú. Usa las teclas de flecha △ ▽ para seleccionar el ítem del menú &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Cadena de acciones" />&nbsp; `cadena de acciones` y confirma con `OK`.
 
-4. Puedes encontrar más instrucciones [aquí](/es/docs/chain-of-actions/#configurar-cadena-de-acciones).
+4. Puedes encontrar más instrucciones [aquí](/es/docs/chain-of-actions/#set-chain-of-actions).
 
     ![VitalControl: Menú Acciones Cadena de Acciones](../images/chainofactions.png "Cadena de Acciones")

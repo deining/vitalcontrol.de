@@ -14,10 +14,10 @@ translationKey: data-export/data-files
 
 При экспорте данных о животных, независимо от того, на [USB-накопитель][] или на локальное массовое хранилище [на ПК][], в каждом случае генерируются четыре файла экспорта:
 
-- [Данные о животных](#описание-файлов-данных) `(animals.csv)`
-- [Данные о температуре тела](#данные-о-температуре-тела-temperaturescsv) `(temperatures.csv)`
-- [Данные о весе](#данные-о-весе-weightscsv) `(weights.csv)`
-- [Оценки животных](#оценки-животных-ratingscsv) `(ratings.csv)`
+- [Данные о животных](#animal-data-animalscsv) `(animals.csv)`
+- [Данные о температуре тела](#body-temperature-data-temperaturescsv) `(temperatures.csv)`
+- [Данные о весе](#weight-data-weightscsv) `(weights.csv)`
+- [Оценки животных](#animal-ratings-ratingscsv) `(ratings.csv)`
 
 [USB-накопитель]: ../usb-drive/
 [на ПК]: ../pc/

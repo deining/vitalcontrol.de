@@ -47,11 +47,11 @@ Tällä vaihtoehdolla voit asettaa, poistetaanko kaikki viestit `Osetettuja elä
 
 Lisäksi vientitiedoston luomisen lisäksi sinulla on seuraavat vaihtoehdot:
 
-- [Poista transponderin linkitvs](#poista-transponderin-linkitvs)
-- [Tyhjennä kaikki ostoilmoitukset](#tyhjennä-kaikki-ostoilmoitukset)
-- [Poista eläin + ilmoitus](#poista-eläin--ilmoituks)
-- [Tyhjennä ostoilmoitus](#tyhjennä-ostoilmoitus)
-- [Muokkaa merkintää](#muokkaa-ostetun-eläimen-tietoja)
+- [Poista transponderin linkitvs](#unlink-transponder)
+- [Tyhjennä kaikki ostoilmoitukset](#clear-all-purchase-notices)
+- [Poista eläin + ilmoitus](#delete-animal--purchase-notice)
+- [Tyhjennä ostoilmoitus](#clear-notice-of-purchase)
+- [Muokkaa merkintää](#edit-data-of-purchased-animal)
 
 {{% alert title="Vinkki" %}}
 Avaa aina ensin `Osetettuja eläimiä` -lista kuten yllä olevissa ohjeissa on kuvattu.

@@ -17,7 +17,7 @@ translationKey: lists/fresh-cows
 Quando si gestiscono le vacche fresche, controllare gli animali quotidianamente per diversi giorni dopo la nascita è considerata una pratica ottimale. L'elenco delle vacche fresche supporta e facilita questo controllo, soprattutto in termini di registrazione della temperatura. Per ogni animale, viene mostrato un grafico a colonne per tutti i giorni del periodo di controllo, ogni giorno del periodo di controllo è rappresentato da una barra verticale. A seconda del colore della barra (verde, giallo o rosso), è possibile vedere se è stata misurata una temperatura normale, elevata o criticamente elevata in quel giorno per l'animale rispettivo.
 {{% /alert %}}
 
-Le vacche vengono inserite nell'elenco delle vacche fresche immediatamente dopo che il loro parto è stato registrato. Rimangono in quell'elenco per un certo periodo di tempo, la durata di questo periodo (in giorni) può essere regolata nelle [impostazioni](../../settings/data-acquisition/#control-period-of-fresh-cows).
+Le vacche vengono inserite nell'elenco delle vacche fresche immediatamente dopo che il loro parto è stato registrato. Rimangono in quell'elenco per un certo periodo di tempo, la durata di questo periodo (in giorni) può essere regolata nelle [impostazioni](../../settings/data-acquisition/#control-period-of-fresh-cows)).
  Le seguenti azioni sono disponibili per questo elenco:
 
 - [Menu azioni completo](../alarm/#full-action-menu)

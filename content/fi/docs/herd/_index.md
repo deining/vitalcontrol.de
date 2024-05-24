@@ -15,13 +15,13 @@ translationKey: herd
 
 Lauma-valikossa voit tarkastella koko laumaasi, etsiä yksittäisiä eläimiä ja näyttää tärkeitä tietoja. Sinulla on seuraavat mahdollisuudet:
 
-- Näytä [eläintiedot](#näytä-eläintiedot)
-- Näytä [lämpötilatiedot](#näytä-lämpötila)
-- Näytä [luokitustiedot](#näytä-arvostelu)
-- Näytä [painotiedot](#näytä-paino)
-- [Etsi eläin](#etsi-eläin)
-- Aseta [suodatin](#aseta-suodatin)
-- [Toiminnot](#kutsu-toimintovalikko)
+- Näytä [eläintiedot](#view-animal-data)
+- Näytä [lämpötilatiedot](#display-temperature)
+- Näytä [luokitustiedot](#view-rating)
+- Näytä [painotiedot](#display-weight)
+- [Etsi eläin](#search-animal)
+- Aseta [suodatin](#set-filter)
+- [Toiminnot](#call-action-menu)
 
 ### Valmisteluvaiheet {#preparatory-steps}
 
