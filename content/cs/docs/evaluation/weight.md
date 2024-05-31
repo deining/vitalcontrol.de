@@ -40,7 +40,7 @@ V tomto vyhodnocení můžete vidět následující informace týkající se vá
 
 Pro provedení hodnocení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení zvýrazněte ikonu &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Evaluation" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
+1. Na hlavní obrazovce vašeho zařízení zvýrazněte ikonu &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Rating" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
 2. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ ◁ ▷ vybírat mezi položkami menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` a `{{<T "Mortality" >}}`. Vyberte &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
@@ -57,7 +57,7 @@ V tomto hodnocení můžete zobrazit následující informace:
 
 Pro provedení hodnocení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení zvýrazněte ikonu &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Evaluation" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
+1. Na hlavní obrazovce vašeho zařízení zvýrazněte ikonu &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Rating" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
 2. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ ◁ ▷ vybírat mezi položkami menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` a `{{<T "Mortality" >}}`. Vyberte &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
@@ -78,9 +78,9 @@ V tomto hodnocení můžete vidět následující informace týkající se všec
 
 Pro provedení hodnocení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení zvýrazněte ikonu &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Hodnocení" />&nbsp; `{{<T "Evaluation" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
+1. Na hlavní obrazovce vašeho zařízení zvýrazněte ikonu &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Hodnocení" />&nbsp; `{{<T "Rating" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-2. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ ◁ ▷ vybírat mezi položkami menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Evaluation" >}}` a `{{<T "Mortality" >}}`. Vyberte &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Hmotnost" />&nbsp; `{{<T "Weight" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
+2. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ ◁ ▷ vybírat mezi položkami menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` a `{{<T "Mortality" >}}`. Vyberte &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Hmotnost" />&nbsp; `{{<T "Weight" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
 3. Nyní se zobrazí možnosti hodnocení pro sekci hmotnosti. Vyberte &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Vývoj hmotnosti" />&nbsp; `{{<T "WeightDevelopment" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`. Zařízení nyní začne vypočítávat proměnné úspěchu.
 

@@ -39,9 +39,9 @@ maphilight: true
 
 Για να πραγματοποιήσετε την αξιολόγηση, προχωρήστε ως εξής:
 
-1. Στην κύρια οθόνη της συσκευής σας επισημάνετε το εικονίδιο &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Evaluation" >}}`. Επιβεβαιώστε με `{{<T "Ok" >}}`.
+1. Στην κύρια οθόνη της συσκευής σας επισημάνετε το εικονίδιο &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Rating" >}}`. Επιβεβαιώστε με `{{<T "Ok" >}}`.
 
-2. Ανοίγει ένα άλλο υπομενού στο οποίο μπορείτε να χρησιμοποιήσετε τα βελάκια △ ▽ ◁ ▷ για να επιλέξετε ανάμεσα στα στοιχεία του μενού `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Evaluation" >}}` και `{{<T "Mortality" >}}`. Επιλέξτε &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` και επιβεβαιώστε με `{{<T "Ok" >}}`.
+2. Ανοίγει ένα άλλο υπομενού στο οποίο μπορείτε να χρησιμοποιήσετε τα βελάκια △ ▽ ◁ ▷ για να επιλέξετε ανάμεσα στα στοιχεία του μενού `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` και `{{<T "Mortality" >}}`. Επιλέξτε &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` και επιβεβαιώστε με `{{<T "Ok" >}}`.
 
 3. Τώρα εμφανίζονται οι επιλογές αξιολόγησης για το τμήμα Βάρους. Επιλέξτε την επιλογή αξιολόγησης &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `{{<T "WeighingToday" >}}` και επιβεβαιώστε με `{{<T "Ok" >}}`. Η συσκευή τώρα αρχίζει να υπολογίζει τις μεταβλητές επιτυχίας.
 
@@ -56,9 +56,9 @@ maphilight: true
 
 Για να πραγματοποιήσετε την αξιολόγηση, προχωρήστε ως εξής:
 
-1. Στην κύρια οθόνη της συσκευής σας επισημάνετε το εικονίδιο &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Evaluation" >}}`. Επιβεβαιώστε με `{{<T "Ok" >}}`.
+1. Στην κύρια οθόνη της συσκευής σας επισημάνετε το εικονίδιο &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Rating" >}}`. Επιβεβαιώστε με `{{<T "Ok" >}}`.
 
-2. Ανοίγει ένα άλλο υπομενού στο οποίο μπορείτε να χρησιμοποιήσετε τα βελάκια △ ▽ ◁ ▷ για να επιλέξετε ανάμεσα στα στοιχεία του μενού `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Evaluation" >}}` και `{{<T "Mortality" >}}`. Επιλέξτε &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` και επιβεβαιώστε με `{{<T "Ok" >}}`.
+2. Ανοίγει ένα άλλο υπομενού στο οποίο μπορείτε να χρησιμοποιήσετε τα βελάκια △ ▽ ◁ ▷ για να επιλέξετε ανάμεσα στα στοιχεία του μενού `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` και `{{<T "Mortality" >}}`. Επιλέξτε &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` και επιβεβαιώστε με `{{<T "Ok" >}}`.
 
 3. Τώρα εμφανίζονται οι επιλογές αξιολόγησης για το τμήμα Βάρους. Επιλέξτε &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `{{<T "BirthWeights" >}}` και επιβεβαιώστε με `{{<T "Ok" >}}`. Η συσκευή τώρα αρχίζει να υπολογίζει τις μεταβλητές επιτυχίας.
 
@@ -76,9 +76,9 @@ maphilight: true
 
 Για να πραγματοποιήσετε την αξιολόγηση, προχωρήστε ως εξής:
 
-1. Στην κύρια οθόνη της συσκευής σας επισημάνετε το εικονίδιο &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Αξιολόγηση" />&nbsp; `{{<T "Evaluation" >}}`. Επιβεβαιώστε με `{{<T "Ok" >}}`.
+1. Στην κύρια οθόνη της συσκευής σας επισημάνετε το εικονίδιο &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Αξιολόγηση" />&nbsp; `{{<T "Rating" >}}`. Επιβεβαιώστε με `{{<T "Ok" >}}`.
 
-2. Ανοίγει ένα άλλο υπομενού στο οποίο μπορείτε να χρησιμοποιήσετε τα βελάκια △ ▽ ◁ ▷ για να επιλέξετε ανάμεσα στα στοιχεία του μενού `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Evaluation" >}}` και `{{<T "Mortality" >}}`. Επιλέξτε &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Βάρος" />&nbsp; `{{<T "Weight" >}}` και επιβεβαιώστε με `{{<T "Ok" >}}`.
+2. Ανοίγει ένα άλλο υπομενού στο οποίο μπορείτε να χρησιμοποιήσετε τα βελάκια △ ▽ ◁ ▷ για να επιλέξετε ανάμεσα στα στοιχεία του μενού `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` και `{{<T "Mortality" >}}`. Επιλέξτε &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Βάρος" />&nbsp; `{{<T "Weight" >}}` και επιβεβαιώστε με `{{<T "Ok" >}}`.
 
 3. Τώρα εμφανίζονται οι επιλογές αξιολόγησης για το τμήμα βάρους. Επιλέξτε &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Ανάπτυξη Βάρους" />&nbsp; `{{<T "WeightDevelopment" >}}` και επιβεβαιώστε με `{{<T "Ok" >}}`. Η συσκευή τώρα αρχίζει να υπολογίζει τις μεταβλητές επιτυχίας.
 

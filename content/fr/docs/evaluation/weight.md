@@ -39,9 +39,9 @@ Dans cette évaluation, vous pouvez voir les informations suivantes liées aux p
 
 Pour effectuer l'évaluation, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Evaluation" >}}`. Confirmez avec `{{<T "Ok" >}}`.
+1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Rating" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Evaluation" >}}` et `{{<T "Mortality" >}}`. Sélectionnez &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` et confirmez avec `{{<T "Ok" >}}`.
+2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` et `{{<T "Mortality" >}}`. Sélectionnez &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
 3. Les options d'évaluation pour la section Poids apparaissent maintenant. Sélectionnez l'option d'évaluation &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `{{<T "WeighingToday" >}}` et confirmez avec `{{<T "Ok" >}}`. L'appareil commence alors à calculer les variables de succès.
 
@@ -56,9 +56,9 @@ Dans cette évaluation, vous pouvez consulter les informations suivantes :
 
 Pour effectuer l'évaluation, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Evaluation" >}}`. Confirmez avec `{{<T "Ok" >}}`.
+1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Rating" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Evaluation" >}}` et `{{<T "Mortality" >}}`. Sélectionnez &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` et confirmez avec `{{<T "Ok" >}}`.
+2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` et `{{<T "Mortality" >}}`. Sélectionnez &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
 3. Maintenant, les options d'évaluation pour la section poids apparaissent. Sélectionnez &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `{{<T "BirthWeights" >}}` et confirmez avec `{{<T "Ok" >}}`. L'appareil commence alors à calculer les variables de succès.
 
@@ -76,9 +76,9 @@ Dans cette évaluation, vous pouvez voir les informations suivantes liées à to
 
 Pour effectuer l'évaluation, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Évaluer" />&nbsp; `{{<T "Evaluation" >}}`. Confirmez avec `{{<T "Ok" >}}`.
+1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Évaluer" />&nbsp; `{{<T "Rating" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Evaluation" >}}` et `{{<T "Mortality" >}}`. Sélectionnez &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Poids" />&nbsp; `{{<T "Weight" >}}` et confirmez avec `{{<T "Ok" >}}`.
+2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` et `{{<T "Mortality" >}}`. Sélectionnez &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Poids" />&nbsp; `{{<T "Weight" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
 3. Maintenant, les options d'évaluation pour la section poids apparaissent. Sélectionnez &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Développement du poids" />&nbsp; `{{<T "WeightDevelopment" >}}` et confirmez avec `{{<T "Ok" >}}`. L'appareil commence maintenant à calculer les variables de succès.
 

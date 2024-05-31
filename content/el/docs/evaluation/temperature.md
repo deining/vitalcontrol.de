@@ -22,9 +22,9 @@ translationKey: evaluation/temperature
 
 Για να πραγματοποιήσετε την αξιολόγηση, προχωρήστε ως εξής:
 
-1. Στην κύρια οθόνη της συσκευής σας επισημάνετε το εικονίδιο &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Αξιολόγηση" />&nbsp; `{{<T "Evaluation" >}}`. Επιβεβαιώστε με `{{<T "Ok" >}}`.
+1. Στην κύρια οθόνη της συσκευής σας επισημάνετε το εικονίδιο &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Αξιολόγηση" />&nbsp; `{{<T "Rating" >}}`. Επιβεβαιώστε με `{{<T "Ok" >}}`.
 
-2. Ανοίγει ένα άλλο υπομενού στο οποίο μπορείτε να χρησιμοποιήσετε τα βελάκια △ ▽ ◁ ▷ για να επιλέξετε ανάμεσα στα στοιχεία του μενού `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Evaluation" >}}` και `{{<T "Mortality" >}}`. Επιλέξτε &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Αξιολόγηση θερμοκρασίας" />&nbsp; `{{<T "Temperature" >}}` και επιβεβαιώστε με `{{<T "Ok" >}}`.
+2. Ανοίγει ένα άλλο υπομενού στο οποίο μπορείτε να χρησιμοποιήσετε τα βελάκια △ ▽ ◁ ▷ για να επιλέξετε ανάμεσα στα στοιχεία του μενού `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` και `{{<T "Mortality" >}}`. Επιλέξτε &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Αξιολόγηση θερμοκρασίας" />&nbsp; `{{<T "Temperature" >}}` και επιβεβαιώστε με `{{<T "Ok" >}}`.
 
 3. Η συσκευή τώρα ξεκινά να υπολογίζει τις μεταβλητές επιτυχίας.
 

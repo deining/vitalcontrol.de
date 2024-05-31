@@ -22,9 +22,9 @@ Dans cette évaluation, vous pouvez voir les informations suivantes :
 
 Pour effectuer l'évaluation, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Évaluer" />&nbsp; `{{<T "Evaluation" >}}`. Confirmez avec `{{<T "Ok" >}}`.
+1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Évaluer" />&nbsp; `{{<T "Rating" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Evaluation" >}}` et `{{<T "Mortality" >}}`. Sélectionnez &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Évaluer la température" />&nbsp; `{{<T "Temperature" >}}` et confirmez avec `{{<T "Ok" >}}`.
+2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` et `{{<T "Mortality" >}}`. Sélectionnez &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Évaluer la température" />&nbsp; `{{<T "Temperature" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
 3. L'appareil commence alors à calculer les variables de succès.
 
