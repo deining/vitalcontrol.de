@@ -65,14 +65,14 @@ async function fetchMarkdown(filename) {
 async function showResponse(answer) {
   let content;
   if (answer === 'yes') {
-    content = await fetchMarkdown('test.md');
+    content = await fetchMarkdown('/markdown/test.md');
   } else {
-    content = await fetchMarkdown('test.md');
+    content = await fetchMarkdown('/markdown/test.md');
   }
   document.getElementById('response').innerHTML = content;
 }
 </script>
 </br> 
-Hierrüber könnte man die Etablierung von "Anwendungsfällen" für die unterschiedlichen Betriebsausrichtungen vornehmen. Das ganze ist so gedacht, dass man auf die Antwort klickt und sich dann ein entsprechender Text öffnet. Das hält die Seite etwas übersichtlicher. </br> 
+Hierüber könnte man die Etablierung von "Anwendungsfällen" für die unterschiedlichen Betriebsausrichtungen vornehmen. Das ganze ist so gedacht, dass man auf die Antwort klickt und sich dann ein entsprechender Text öffnet. Das hält die Seite etwas übersichtlicher. </br> 
 Ich fände den Leitfaden als ein Dokument in dem es dann Spezialisierungsmöglichkeiten gibt deutlicher übersichtlicher als wenn wir das ganze in unterschiedliche Dokumente aufteilen. </br> 
 Als einen Anwendungsfall stelle ich mir z.B. vor: Fresseraufzucht -> "Ankunft neuer Tiere" oder Milchviehbetrieb ->"Geburt eines Kalbes"
