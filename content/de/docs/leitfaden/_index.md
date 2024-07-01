@@ -2,8 +2,8 @@
 title: Leitfaden für unterschiedliche Betriebsausrichtungen
 linkTitle: Leitfaden
 description: Finden Sie einen Leitfaden, passend zu Ihrer Betriebsausrichtung
-no_list: false
 translationKey: guide
+no_list: true
 weight: 5
 ---
 
@@ -11,7 +11,7 @@ weight: 5
 
 {{% alert title="Hinweis" %}}
 Innerhalb des Leitfadens finden Sie einige Fragen. Mit der Beantwortung der Fragen werden Ihnen auf Sie zugeschnittene Erklärungen präsentiert. </br> 
-Um die Schritt für Schritt Anleitungen für die einzelnen Menüpunkte einzusehen klicken Sie einfach die [blau](../../leitfaden/fresser) hinterlegten Begriffe an. 
+Um die Schritt für Schritt Anleitungen für die einzelnen Menüpunkte einzusehen klicken Sie einfach die [blau](../leitfaden/) hinterlegten Begriffe an. 
 {{% /alert %}}
 
 ## Ersteinrichtung {#initial-setup}
@@ -46,33 +46,29 @@ Der Menüpunkt Aktionen bzw. einzelne Aktionen werden für Sie immer wieder von 
 
 Hier erfolgt für jeden Menüpunkt eine kurze Erklärung und Verlinkung.
 
-## Testfrage
+## Betriebsausrichtung
 
-<p>Welche Betriebsausrichtung liegt vor?</p>
-<button onclick="showResponse('yes')">Fresseraufzucht</button>
-<button onclick="showResponse('no')">Milchviehbetrieb</button>
+<p>Für welche Betriebsausrichtung möchten Sie Informationen erhalten?</p>
+<button onclick="showMilk()">Milchviehbetrieb</button>
+</br>
+</br>
+<button onclick="showCalfs()">Fresseraufzüchter</button>
+</br>
+</br>
+<button onclick="showBeef()">Endmast</button>
 
 <div id="response"></div>
 
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
-async function fetchMarkdown(filename) {
-  const response = await fetch(filename);
-  const text = await response.text();
-  return marked.parse(text);
+function showMilk(fileName) {
+  window.location.href = "dairy-farm";
 }
 
-async function showResponse(answer) {
-  let content;
-  if (answer === 'yes') {
-    content = await fetchMarkdown('/markdown/test.md');
-  } else {
-    content = await fetchMarkdown('/markdown/test.md');
-  }
-  document.getElementById('response').innerHTML = content;
+function showCalfs(fileName) {
+  window.location.href = "beef";
+}
+
+async function showBeef() {
+  window.location.href = "";
 }
 </script>
-</br> 
-Hierüber könnte man die Etablierung von "Anwendungsfällen" für die unterschiedlichen Betriebsausrichtungen vornehmen. Das ganze ist so gedacht, dass man auf die Antwort klickt und sich dann ein entsprechender Text öffnet. Das hält die Seite etwas übersichtlicher. </br> 
-Ich fände den Leitfaden als ein Dokument in dem es dann Spezialisierungsmöglichkeiten gibt deutlicher übersichtlicher als wenn wir das ganze in unterschiedliche Dokumente aufteilen. </br> 
-Als einen Anwendungsfall stelle ich mir z.B. vor: Fresseraufzucht -> "Ankunft neuer Tiere" oder Milchviehbetrieb ->"Geburt eines Kalbes"
