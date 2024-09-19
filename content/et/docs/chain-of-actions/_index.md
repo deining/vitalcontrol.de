@@ -8,7 +8,7 @@ slug: chain-of-actions
 description: >
  Mitme loomategevuse järjestikune sooritamine
 kategooriad: [Tegevuste ahel]
-Sildid: [Tegevuste ahel, Tegevused]
+sildid: [Tegevuste ahel, Tegevused]
 translationKey: action-chain
 ---
 ## Tegevuste ahel {#chain-of-actions}

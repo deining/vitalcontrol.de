@@ -8,7 +8,7 @@ taxonomy:
   # set taxonomyCloud: [] to hide taxonomy clouds
   taxonomyCloud:
     - kategooriad
-    - Sildid
+    - sildid
   # If used, must have same length as taxonomyCloud
   taxonomyCloudTitle:
     - "Kategooriad"
@@ -16,4 +16,4 @@ taxonomy:
   # set taxonomyPageHeader: [] to hide taxonomies on the page headers
   taxonomyPageHeader:
     - kategooriad
-    - Sildid
+    - sildid

@@ -8,7 +8,7 @@ taxonomy:
   # set taxonomyCloud: [] to hide taxonomy clouds
   taxonomyCloud:
     - kategorijos
-    - Žymos
+    - žymos
   # If used, must have same length as taxonomyCloud
   taxonomyCloudTitle:
     - "Kategorijos"
@@ -16,4 +16,4 @@ taxonomy:
   # set taxonomyPageHeader: [] to hide taxonomies on the page headers
   taxonomyPageHeader:
     - kategorijos
-    - Žymos
+    - žymos

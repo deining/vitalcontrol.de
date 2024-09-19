@@ -44,7 +44,7 @@ et:
   contentDir: content/et
   weight: 50
   taxonomies:
-    silt: Sildid
+    silt: sildid
     kategooria: kategooriad
 el:
   languageName: Ελληνικά
@@ -98,7 +98,7 @@ lt:
   contentDir: content/lt
   weight: 94
   taxonomies:
-    žyma: Žymos
+    žyma: žymos
     kategorija: kategorijos  
 lv:
   languageName: Latviešu
@@ -152,8 +152,8 @@ sv:
   contentDir: content/sv
   weight: 128
   taxonomies:
-    tagg: Taggar
-    kategori: Kategorier
+    tagg: taggar
+    kategori: kategorier
 tr:
   languageName: Türkçe
   contentDir: content/tr
