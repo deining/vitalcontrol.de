@@ -52,9 +52,9 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
     </div>
 </div>
 
-4. In the left side bar of the touch terminal, click the second button from the top <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `Feeder` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Digit 1" title="Digit 1" />. If you are in the main menu where no sidebar is visible, press the button &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">Feeder</span> to open the feeder menu.
+4. In the left side bar of the touch terminal, click the second button from the top <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Digit 1" title="Digit 1" />. If you are in the main menu where no sidebar is visible, press the button &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span> to open the feeder menu.
 
-1. In the right sidebar of the touchscreen terminal, below the symbol(s) for the connected feeder(s), the symbol <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Digit 2 in circle" title="Digit 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> for the `VitalControl` device is now displayed. Click on this symbol.
+1. In the right sidebar of the touchscreen terminal, below the symbol(s) for the connected feeder(s), the symbol <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Digit 2 in circle" title="Digit 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> for the `{{<T "VitalControl" >}}` device is now displayed. Click on this symbol.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -62,11 +62,11 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Attention</span><br>
-            If the symbol <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> for the <span style="font-family: monospace; font-size: 90%;">VitalControl</span> device in the right sidebar <span style="font-weight: bold;">not</span> displayed, the device is still deactivated in the settings. In this case, follow the instructions for one-time <a href="../configuration" >activation</a> of the device.
+            If the symbol <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> for the <span style="font-family: monospace; font-size: 90%;">{{<T "VitalControl" >}}</span> device in the right sidebar <span style="font-weight: bold;">not</span> displayed, the device is still deactivated in the settings. In this case, follow the instructions for one-time <a href="../configuration" >activation</a> of the device.
         </div>
     </div>
 
-1. The synchronisation screen will now appear. Click on the button <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="circled number 3" title="number 3" /> `Synchronise` in the middle at the bottom to start synchronisation with the VitalControl device.
+1. The synchronisation screen will now appear. Click on the button <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` in the middle at the bottom to start synchronisation with the VitalControl device.
 
     <figure class="figure" style="margin-top: 10px;">
         <a name="synchronise-vc-ap"><img src="../images/synchronise-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronisation VitalControl with Alma Pro" title="Synchronisation VitalControl - Alma Pro" /></a>
