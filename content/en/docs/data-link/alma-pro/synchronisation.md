@@ -7,7 +7,7 @@ description: >
   Synchronise the animals stored on VitalControl device with animals registered on the automatic feeder and transfer measured values recorded with VitalControl device to the feeder for evaluation purposes and better visualisation.
 weight: 20
 categories: [Data exchange, Alma Pro]
-translationKey: alma-pro/synchronization
+translationKey: alma-pro/synchronisation
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
   <symbol id="info-fill" viewBox="0 0 16 16">
@@ -40,7 +40,7 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
         <figcaption class="figure-caption fs-6">Figure 2: Connecting VitalControl to Alma Pro</figcaption>
     </figure>
 
-### Start synchronization
+### Start synchronisation
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="60px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -48,7 +48,7 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Attention</span><br>
-        In order to start the synchronization of the VitalControl device, you must be logged on to the machine in the user role <span style="font-family: monospace; font-size: 90%;">Site Manager</span>. Otherwise, the <span style="font-family: monospace; font-size: 90%;">Synchronize</span> button in the <a href="#synchronize-vc-ap" >Synchronization menu</a> is disabled.
+        In order to start the synchronisation of the VitalControl device, you must be logged on to the machine in the user role <span style="font-family: monospace; font-size: 90%;">Site Manager</span>. Otherwise, the <span style="font-family: monospace; font-size: 90%;">Synchronise</span> button in the <a href="#synchronise-vc-ap" >Synchronisation menu</a> is disabled.
     </div>
 </div>
 
@@ -66,11 +66,11 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
         </div>
     </div>
 
-1. The synchronization screen will now appear. Click on the button <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="circled number 3" title="number 3" /> `Synchronize` in the middle at the bottom to start synchronization with the VitalControl device.
+1. The synchronisation screen will now appear. Click on the button <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="circled number 3" title="number 3" /> `Synchronise` in the middle at the bottom to start synchronisation with the VitalControl device.
 
     <figure class="figure" style="margin-top: 10px;">
-        <a name="synchronize-vc-ap"><img src="../images/synchronize-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronization VitalControl with Alma Pro" title="Synchronization VitalControl - Alma Pro" /></a>
-        <figcaption class="figure-caption fs-6">Figure 3: Synchronization of VitalControl with Alma Pro automatic feeder</figcaption>
+        <a name="synchronise-vc-ap"><img src="../images/synchronise-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronisation VitalControl with Alma Pro" title="Synchronisation VitalControl - Alma Pro" /></a>
+        <figcaption class="figure-caption fs-6">Figure 3: Synchronisation of VitalControl with Alma Pro automatic feeder</figcaption>
     </figure>
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
@@ -79,17 +79,17 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Attention</span><br>
-            If many animals need to be transferred, synchronization can take some time. You can see the synchronization progress on the display of the VitalControl device.<br>
+            If many animals need to be transferred, synchronisation can take some time. You can see the synchronisation progress on the display of the VitalControl device.<br>
             <figure class="figure" style="margin-top: 25px;">
-            <a name="close-usb-slot-mandatory"><img src="../../vcsynchronizer/images/import-animals/data-transfer.png" class="bg-body border border-primary border-2 figure-img img-fluid rounded p-4" align="bottom" alt="Synchronization VitalControl Alma Pro, progress indicator" title="Synchronization progress" /></a>
-                <figcaption class="figure-caption fs-6">Figure 4: Synchronization VitalControl Alma Pro, progress indicator</figcaption>
+            <a name="close-usb-slot-mandatory"><img src="../../vcsynchronizer/images/import-animals/data-transfer.png" class="bg-body border border-primary border-2 figure-img img-fluid rounded p-4" align="bottom" alt="Synchronisation VitalControl Alma Pro, progress indicator" title="Synchronisation progress" /></a>
+                <figcaption class="figure-caption fs-6">Figure 4: Synchronisation VitalControl Alma Pro, progress indicator</figcaption>
             </figure>
         </div>
     </div>
 
 ## Close USB port
 
-7. After successful synchronization, unplug the USB cable from the USB port on the touchscreen. Fold the protective cover of the port back up and secure it by tightening the locking screw using a small screwdriver.
+7. After successful synchronisation, unplug the USB cable from the USB port on the touchscreen. Fold the protective cover of the port back up and secure it by tightening the locking screw using a small screwdriver.
 
     <figure class="figure" style="margin-top: 10px;">
         <a name="close-usb-slot"><img src="/images/synchronisation/close-usb-slot.svg" width="600" class="border border-3 figure-img img-fluid rounded p-4" align="bottom" alt="Close USB port" title="Close USB port" /></a>
@@ -102,7 +102,7 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Note</span><br>
-            Make sure to close the flap of the USB port after each synchronization to prevent moisture from entering the port and to protect the port from the corrosive air present in your barn!<br>
+            Make sure to close the flap of the USB port after each synchronisation to prevent moisture from entering the port and to protect the port from the corrosive air present in your barn!<br>
             <figure class="figure" style="margin-top: 25px;">
                 <a name="close-usb-slot-mandatory"><img src="/images/synchronisation/info-close-usb-mandatory.svg" width="840" class="bg-body border border-primary border-2 figure-img img-fluid rounded p-4" align="bottom" alt="Mandatory closing of USB port" title="Mandatory closing of USB port" /></a>
                 <figcaption class="figure-caption fs-6">Figure 6: Mandatory closing of USB port</figcaption>

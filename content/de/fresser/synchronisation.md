@@ -34,7 +34,7 @@ type: docs
 1. Es wird jetzt der Synchronisationsbildschirm aufgerufen. Klicken Sie dort auf die unten mittig angeordnete Schaltfläche <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Umrandete Ziffer 3" title="Ziffer 3" /> `Synchronisieren` um die Synchronisation mit dem VitalControl-Gerät zu starten.
 
     <figure class="figure" style="margin-top: 10px;">
-        <a name="synchronize-vc-ap"><img src="/docs/data-link/alma-pro/images/synchronize-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronisation VitalControl mit Alma Pro" title="Synchronisation VitalControl - Alma Pro" /></a>
+        <a name="synchronise-vc-ap"><img src="/docs/data-link/alma-pro/images/synchronise-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronisation VitalControl mit Alma Pro" title="Synchronisation VitalControl - Alma Pro" /></a>
         <figcaption class="figure-caption fs-6">Abbildung 3: Synchronisation VitalControl mit Tränkeautomat Alma Pro</figcaption>
     </figure>
 
