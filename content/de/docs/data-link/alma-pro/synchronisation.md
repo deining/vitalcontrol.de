@@ -7,7 +7,7 @@ description: >
   Gleichen Sie den Tierbestand des VitalControls mit dem Tierbestand des Automaten ab und überspielen Sie mit dem VitalControl erfasste Messwerte für die vereinfachte Visualisierung und Auswertung an den Automaten.
 slug: synchronisation
 weight: 20
-Kategorien: [Datenaustausch, Alma Pro]
+Kategorien: [Datenaustausch, VitalControl, Alma Pro]
 translationKey: alma-pro/synchronisation
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
@@ -52,7 +52,6 @@ Zur Durchführung einer Synchronisation zwischen dem Tränkeautomaten Alma Pro u
             Um die Synchronisation des VitalControl-Geräts starten zu können, müssen Sie in der Benutzerrolle <span style="font-family: monospace; font-size: 90%;">Betriebsleiter</span> am Automaten angemeldet sein. Andernfalls ist die Schaltfläche <span style="font-family: monospace; font-size: 90%;">Synchronisieren</a> im <a href="#synchronise-vc-ap" >Synchronisationsmenü</a> deaktiviert.
         </div>
 </div>
-
 
 4. Klicken Sie in der linken Seitenliste des Touch-Terminals auf die zweitoberste Schaltfläche <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Automatenmenü" title="Automatenmenü"/> `Automat` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Ziffer 1" title="Ziffer 1" />. Sollten Sie sich im Hauptmenü befinden, wo keine Seitenleiste sichtbar ist, drücken sie die Schaltfläche &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Automatenmenü" title="Automatenmenü"/> <span style="font-family: monospace; font-size: 90%;">Automat</span>, um das Automatenmenü aufzurufen.
 

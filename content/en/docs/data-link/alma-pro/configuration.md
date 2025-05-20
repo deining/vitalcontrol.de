@@ -7,7 +7,7 @@ description: >
   Before using the VitalControl for the first time, you must activate and properly configure it once in the settings of Alma Pro feeder.
 slug: configuration
 weight: 10
-categories: [Alma Pro]
+categories: [Alma Pro, VitalControl]
 translationKey: alma-pro/configuration
 ---
 To activate and set up the VitalControl device, proceed as follows:
