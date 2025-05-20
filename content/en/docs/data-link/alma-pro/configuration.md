@@ -4,21 +4,21 @@ linkTitle: Configuration
 date: 2023-08-04T12:32:28+02:00
 draft: false
 description: >
-  Before first use, you must activate the VitalControl once at the automatic feeder and configure it appropriately for your use case.
+  Before using the VitalControl for the first time, you must activate and properly configure it once in the settings of Alma Pro feeder.
 slug: configuration
 weight: 10
-Categories: [Alma Pro]
+categories: [Alma Pro]
 translationKey: alma-pro/configuration
 ---
 To activate and set up the VitalControl device, proceed as follows:
 
-## Access the `VitalControl` Settings Menu
+## Navigation to settings menu `VitalControl`
 
 {{% alert title="Attention" %}}
 To activate and set up the VitalControl device, you must be logged in as the `Site manager` user role at the automatic feeder. Otherwise, some of the buttons shown and described below will not be visible to you.
 {{% /alert %}}
 
-1. Click on the bottom button <img src="/icons/gear.svg" width="25" align="bottom" alt="Alma Pro: Settings Menu" title="Settings"/> `Settings` <span style="font-size: 140%">➀</span> in the left sidebar of the touch terminal. If you are in the main menu where no sidebar is visible, press the button &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Automatic feeder Menu" title="Automatic feeder Menu"/> `Automatic feeder` to display the sidebar.
+1. Click on the bottom button <img src="/icons/gear.svg" width="25" align="bottom" alt="Alma Pro: Settings Menu" title="Settings"/> `Settings` <span style="font-size: 140%">➀</span> in the left sidebar of the touch terminal. If you are in the main menu where no sidebar is visible, press the button &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder Menu" title="Feeder Menu"/> `Feeder` to display the sidebar.
 
 1. Click on the second button from the left <img src="/icons/touch-gear.svg" width="25" align="bottom" alt="Touch Terminal Settings" title="Touch Settings"/> `Touch Terminal Settings` <span style="font-size: 140%">➁</span> in the bottom toolbar of the touch terminal.
 
@@ -48,18 +48,18 @@ On this page, you can perform the following actions and settings.
 
 ### Activation of the VitalControl Device
 
-In the default state of the machine, the VitalControl is deactivated. Set the <span style="font-style: italic;">No/Yes</span> switch <span style="font-size: 140%">➀</span> to the right position <span style="font-style: italic;">Yes</span> to activate the VitalControl device. Subsequently, in the right sidebar of the machine menu, below the icon(s) for the connected machine(s), the icon <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl device" title="VitalControl"/> for the `VitalControl` device will be displayed (see Screenshot <span style="font-style: italic;"><a href="../synchronisation#synchronize-vc-ap">Machine Menu</a></span>, figure <span style="font-size: 140%">➁</span> there).
+In the default state of the machine, the VitalControl is deactivated. Set the <span style="font-style: italic;">On/Off</span> switch <span style="font-size: 140%">➀</span> to the right position <span style="font-style: italic;">Yes</span> to activate the VitalControl device. Subsequently, in the right sidebar of the feeder menu, below the icon(s) for the connected machine(s), the icon <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl device" title="VitalControl"/> for the `VitalControl` device will be displayed (see Screenshot <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Feeder Menu</a></span>, figure <span style="font-size: 140%">➁</span> there).
 
-### Synchronization automatic feeder <span style="font-size: 150%">🠲</span> VitalControl
+### Synchronisation automatic feeder <span style="font-size: 150%">🠲</span> VitalControl
 
 On the left side of the screen, there is only the option <span style="font-style: italic;">Register new on VitalControl device</span> <span style="font-size: 140%">➁</span>.
 
-This option controls the behavior in the event that animals are present on the automat during synchronization that are not yet known to the VitalControl. This option is enabled by default and should generally remain set. If you record your purchased feeders by scanning the animal passports, this option must be disabled.
+This option controls the behavior in the event that animals are present on the automat during synchronisation that are not yet known to the VitalControl. This option is enabled by default and should generally remain set. If you record your purchased feeders by scanning the animal passports, this option must be disabled.
 
 <span style="font-weight: bold">Enable</span> this option:
 
-- if you have a brand-new VitalControl in front of you, onto which you want to transfer all animals from an automat. After synchronization, all animals known to the automat will also be present on the VitalControl.
-- if you continuously bring new calves to the automat during ongoing operations. These animals will then also be created on the VitalControl during synchronization.
+- if you have a brand-new VitalControl in front of you, onto which you want to transfer all animals from an automat. After synchronisation, all animals known to the automat will also be present on the VitalControl.
+- if you continuously bring new calves to the automat during ongoing operations. These animals will then also be created on the VitalControl during synchronisation.
 
 <span style="font-weight: bold">Disable</span> this option:
 - if you have newly created animals on your VitalControl by scanning animal passports, where
@@ -72,15 +72,15 @@ This option controls the behavior in the event that animals are present on the a
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Attention</span><br>
-            If the option remains set in the above configuration, animals will be present twice on the VitalControl after synchronization.
+            If the option remains set in the above configuration, animals will be present twice on the VitalControl after synchronisation.
         </div>
     </div>
 
-### Synchronization VitalControl <span style="font-size: 150%">🠲</span> automatic Feeder
+### Synchronisation VitalControl <span style="font-size: 150%">🠲</span> automatic Feeder
 
 On the right side of the screen, there are two options:
 
-- The option <span style="font-style: italic;">Delete from VitalControl</span> <span style="font-size: 140%">➂</span> controls whether animals deleted from the automat are also deleted from the VitalControl during the next synchronization. If you use the VitalControl only during the animals' drinking period, this option should be enabled. If you want to track the animals beyond the drinking period, you must disable this option.
+- The option <span style="font-style: italic;">Delete from VitalControl</span> <span style="font-size: 140%">➂</span> controls whether animals deleted from the automat are also deleted from the VitalControl during the next synchronisation. If you use the VitalControl only during the animals' drinking period, this option should be enabled. If you want to track the animals beyond the drinking period, you must disable this option.
 
     <span style="font-weight: bold">Enable</span> this option:
 
@@ -101,7 +101,7 @@ On the right side of the screen, there are two options:
         </div>
     </div>
 
-- The option <span style="font-style: italic;">Register new on automatic feeder</span> <span style="font-size: 140%">➃</span> controls whether animals present on the VitalControl, which are unknown to the machine, will be created on the machine during the next synchronization. By default, this option is not activated. Activate this option if the initial recording of your animals is done with the VitalControl. Leave this option deactivated if you use a VitalControl on multiple machines and/or if your animals are registered during the initial feeding at the machine.
+- The option <span style="font-style: italic;">Register new on automatic feeder</span> <span style="font-size: 140%">➃</span> controls whether animals present on the VitalControl, which are unknown to the machine, will be created on the machine during the next synchronisation. By default, this option is not activated. Activate this option if the initial recording of your animals is done with the VitalControl. Leave this option deactivated if you use a VitalControl on multiple machines and/or if your animals are registered during the initial feeding at the machine.
 
     <span style="font-weight: bold">Deactivate</span> this option or leave it deactivated:
     - if you use your VitalControl device on multiple machines simultaneously,
@@ -113,7 +113,7 @@ On the right side of the screen, there are two options:
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Attention</span><br>
-            If the VitalControl is used on multiple machines and this option remains set, animals will be unintentionally transferred from one machine to another during synchronization.
+            If the VitalControl is used on multiple machines and this option remains set, animals will be unintentionally transferred from one machine to another during synchronisation.
         </div>
     </div>
 
@@ -128,13 +128,13 @@ On the right side of the screen, there are two options:
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Attention</span><br>
-            Activate this option only if you use the VitalControl on a single machine! If you want to perform synchronization with multiple machines with this option set, you must use a separate VitalControl device for each machine.
+            Activate this option only if you use the VitalControl on a single machine! If you want to perform synchronisation with multiple machines with this option set, you must use a separate VitalControl device for each machine.
         </div>
     </div>
 
 ## Settings Menu `VitalControl` - Page 2
 
-### Priority in Synchronization Conflicts
+### Priority in Synchronisation Conflicts
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="../images/settings-vitalcontrol-2.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Settings Menu VitalControl: Page 2" title="Settings VitalControl (2)" />

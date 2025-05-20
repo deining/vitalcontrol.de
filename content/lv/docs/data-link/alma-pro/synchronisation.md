@@ -7,7 +7,7 @@ description: >
   Sinhronizējiet dzīvniekus, kas saglabāti VitalControl ierīcē, ar dzīvniekiem, kas reģistrēti automātiskajā barotavā, un pārsūtiet mērījumu vērtības, kas ierakstītas ar VitalControl ierīci, uz barotavu novērtēšanas nolūkos un labākai vizualizācijai.
 weight: 20
 categories: [Datu apmaiņa, Alma Pro]
-translationKey: alma-pro/synchronization
+translationKey: alma-pro/synchronisation
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
   <symbol id="info-fill" viewBox="0 0 16 16">
@@ -48,7 +48,7 @@ Lai veiktu sinhronizāciju starp Alma Pro automātisko barotavu un VitalControl 
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Uzmanību</span><br>
-        Lai sāktu VitalControl ierīces sinhronizāciju, jums jābūt pieslēgtam pie iekārtas lietotāja lomā <span style="font-family: monospace; font-size: 90%;">Site Manager</span>. Pretējā gadījumā <span style="font-family: monospace; font-size: 90%;">Synchronize</span> poga <a href="#synchronize-vc-ap" >Sinhronizācijas izvēlnē</a> ir atspējota.
+        Lai sāktu VitalControl ierīces sinhronizāciju, jums jābūt pieslēgtam pie iekārtas lietotāja lomā <span style="font-family: monospace; font-size: 90%;">Site Manager</span>. Pretējā gadījumā <span style="font-family: monospace; font-size: 90%;">Sinhronizēt</span> poga <a href="#synchronise-vc-ap" >Sinhronizācijas izvēlnē</a> ir atspējota.
     </div>
 </div>
 
@@ -69,7 +69,7 @@ Lai veiktu sinhronizāciju starp Alma Pro automātisko barotavu un VitalControl 
 1. Tagad parādīsies sinhronizācijas ekrāns. Noklikšķiniet uz pogas <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="circled number 3" title="number 3" /> `Sinhronizēt` vidū apakšā, lai sāktu sinhronizāciju ar VitalControl ierīci.
 
     <figure class="figure" style="margin-top: 10px;">
-        <a name="synchronize-vc-ap"><img src="../images/synchronize-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronization VitalControl with Alma Pro" title="Synchronization VitalControl - Alma Pro" /></a>
+        <a name="synchronise-vc-ap"><img src="../images/synchronise-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronisation VitalControl with Alma Pro" title="Synchronisation VitalControl - Alma Pro" /></a>
         <figcaption class="figure-caption fs-6">3. attēls: VitalControl sinhronizācija ar Alma Pro automātisko padevēju</figcaption>
     </figure>
 

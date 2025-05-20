@@ -8,7 +8,7 @@ description: >
 slug: synchronisation
 weight: 20
 Kategorien: [Datenaustausch, Alma Pro]
-translationKey: alma-pro/synchronization
+translationKey: alma-pro/synchronisation
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
   <symbol id="info-fill" viewBox="0 0 16 16">
@@ -49,7 +49,7 @@ Zur Durchführung einer Synchronisation zwischen dem Tränkeautomaten Alma Pro u
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Achtung</span><br>
-            Um die Synchronisation des VitalControl-Geräts starten zu können, müssen Sie in der Benutzerrolle <span style="font-family: monospace; font-size: 90%;">Betriebsleiter</span> am Automaten angemeldet sein. Andernfalls ist die Schaltfläche <span style="font-family: monospace; font-size: 90%;">Synchronisieren</a> im <a href="#synchronize-vc-ap" >Synchronisationsmenü</a> deaktiviert.
+            Um die Synchronisation des VitalControl-Geräts starten zu können, müssen Sie in der Benutzerrolle <span style="font-family: monospace; font-size: 90%;">Betriebsleiter</span> am Automaten angemeldet sein. Andernfalls ist die Schaltfläche <span style="font-family: monospace; font-size: 90%;">Synchronisieren</a> im <a href="#synchronise-vc-ap" >Synchronisationsmenü</a> deaktiviert.
         </div>
 </div>
 
@@ -71,7 +71,7 @@ Zur Durchführung einer Synchronisation zwischen dem Tränkeautomaten Alma Pro u
 1. Es wird jetzt der Synchronisationsbildschirm aufgerufen. Klicken Sie dort auf die unten mittig angeordnete Schaltfläche <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Umrandete Ziffer 3" title="Ziffer 3" /> `Synchronisieren` um die Synchronisation mit dem VitalControl-Gerät zu starten.
 
     <figure class="figure" style="margin-top: 10px;">
-        <a name="synchronize-vc-ap"><img src="../images/synchronize-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronisation VitalControl mit Alma Pro" title="Synchronisation VitalControl - Alma Pro" /></a>
+        <a name="synchronise-vc-ap"><img src="../images/synchronise-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronisation VitalControl mit Alma Pro" title="Synchronisation VitalControl - Alma Pro" /></a>
         <figcaption class="figure-caption fs-6">Abbildung 3: Synchronisation VitalControl mit Tränkeautomat Alma Pro</figcaption>
     </figure>
 

@@ -48,7 +48,7 @@ Sie können auf dieser Seite folgende Aktionen und Einstellungen durchführen bz
 
 ### Aktivierung des VitalControl-Geräts
 
-Im Auslieferungszustand des Automaten ist das VitalControl deaktiviert. Stellen Sie den <span style="font-style: italic;">Ein/Aus</span> Schalter <span style="font-size: 140%">➀</span> auf die rechte Position <span style="font-style: italic;">Ja</span>, um das VitalControl-Gerät zu aktivieren. Anschließend wird in der rechten Seitenleiste des Automatenmenüs unterhalb der Symbol(e) für die/den angeschlossenen Automat(en) das Symbol <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl-Gerät" title="VitalControl"/> für das `VitalControl`-Gerät angezeigt (siehe Screenshot <span style="font-style: italic;"><a href="../synchronisation#synchronize-vc-ap">Automatenmenü</a></span>, dortige Ziffer <span style="font-size: 140%">➁</span>).
+Im Auslieferungszustand des Automaten ist das VitalControl deaktiviert. Stellen Sie den <span style="font-style: italic;">Ein/Aus</span> Schalter <span style="font-size: 140%">➀</span> auf die rechte Position <span style="font-style: italic;">Ja</span>, um das VitalControl-Gerät zu aktivieren. Anschließend wird in der rechten Seitenleiste des Automatenmenüs unterhalb der Symbol(e) für die/den angeschlossenen Automat(en) das Symbol <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl-Gerät" title="VitalControl"/> für das `VitalControl`-Gerät angezeigt (siehe Screenshot <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Automatenmenü</a></span>, dortige Ziffer <span style="font-size: 140%">➁</span>).
 
 ### Synchronisation Automat <span style="font-size: 150%">🠲</span> VitalControl
 
