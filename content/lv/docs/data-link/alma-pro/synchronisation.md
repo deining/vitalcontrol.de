@@ -22,7 +22,7 @@ Lai veiktu sinhronizāciju starp Alma Pro automātisko barotavu un VitalControl 
 
 ## Atveriet USB portu
 
-1. Izmantojiet mazu skrūvgriezi, lai atskrūvētu bloķēšanas skrūvi uz USB porta vāciņa un nolaidiet to:
+1. Izmantojiet mazu skrūvgriezi, lai atskrūvētu USB porta vāciņa fiksācijas skrūvi un atlocītu to uz leju:
 
     <figure class="figure" style="margin-top: 10px;">
         <a name="open-usb-slot"><img src="/images/synchronisation/open-usb-slot.svg" width="600" class="border border-3 figure-img img-fluid rounded p-4" align="bottom" alt="Atveriet USB portu" title="Atveriet USB portu" /></a>
@@ -48,13 +48,13 @@ Lai veiktu sinhronizāciju starp Alma Pro automātisko barotavu un VitalControl 
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Uzmanību</span><br>
-        Lai sāktu VitalControl ierīces sinhronizāciju, jums jābūt pieslēgtam pie iekārtas lietotāja lomā <span style="font-family: monospace; font-size: 90%;">Site Manager</span>. Pretējā gadījumā <span style="font-family: monospace; font-size: 90%;">Sinhronizēt</span> poga <a href="#synchronise-vc-ap" >Sinhronizācijas izvēlnē</a> ir atspējota.
+        Lai sāktu VitalControl ierīces sinhronizāciju, jums ir jābūt pieslēgtam pie iekārtas lietotāja lomā <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Pretējā gadījumā <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> poga <a href="#synchronise-vc-ap" >Sinhronizācijas izvēlnē</a> ir atspējota.
     </div>
 </div>
 
-4. Skārienekrāna termināļa kreisajā sānjoslā noklikšķiniet uz otrās pogas no augšas <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `Feeder` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Digit 1" title="Digit 1" />. Ja atrodaties galvenajā izvēlnē, kur sānjosla nav redzama, nospiediet pogu &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">Feeder</span>, lai atvērtu feeder izvēlni.
+4. Skārienekrāna termināļa kreisajā sānjoslā noklikšķiniet uz otrās pogas no augšas <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Digit 1" title="Digit 1" />. Ja atrodaties galvenajā izvēlnē, kur sānjosla nav redzama, nospiediet pogu &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span>, lai atvērtu padevēja izvēlni.
 
-1. Skārienjutīgā termināļa labajā sānjoslā, zem pievienotā padevēja simboliem, tagad tiek parādīts simbols <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Digit 2 in circle" title="Digit 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> ierīcei `VitalControl`. Noklikšķiniet uz šī simbola.
+1. Skārienjutīgā termināļa labajā sānjoslā, zem pievienotā padevēja simboliem, tagad tiek parādīts simbols <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Digit 2 in circle" title="Digit 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> ierīcei `{{<T "VitalControl" >}}`. Noklikšķiniet uz šī simbola.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -62,11 +62,11 @@ Lai veiktu sinhronizāciju starp Alma Pro automātisko barotavu un VitalControl 
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Uzmanību</span><br>
-            Ja simbols <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> ierīcei <span style="font-family: monospace; font-size: 90%;">VitalControl</span> labajā sānjoslā <span style="font-weight: bold;">nav</span> parādīts, ierīce joprojām ir deaktivizēta iestatījumos. Šajā gadījumā sekojiet norādījumiem par vienreizēju ierīces <a href="../configuration" >aktivizēšanu</a>.
+            Ja simbols <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> ierīcei <span style="font-family: monospace; font-size: 90%;">{{<T "VitalControl" >}}</span> labajā sānjoslā <span style="font-weight: bold;">nav</span> parādīts, ierīce joprojām ir deaktivizēta iestatījumos. Šajā gadījumā sekojiet instrukcijām ierīces vienreizējai <a href="../configuration" >aktivizācijai</a>.
         </div>
     </div>
 
-1. Tagad parādīsies sinhronizācijas ekrāns. Noklikšķiniet uz pogas <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="circled number 3" title="number 3" /> `Sinhronizēt` vidū apakšā, lai sāktu sinhronizāciju ar VitalControl ierīci.
+1. Tagad parādīsies sinhronizācijas ekrāns. Noklikšķiniet uz pogas <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` vidū apakšā, lai sāktu sinhronizāciju ar VitalControl ierīci.
 
     <figure class="figure" style="margin-top: 10px;">
         <a name="synchronise-vc-ap"><img src="../images/synchronise-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronisation VitalControl with Alma Pro" title="Synchronisation VitalControl - Alma Pro" /></a>
@@ -89,11 +89,11 @@ Lai veiktu sinhronizāciju starp Alma Pro automātisko barotavu un VitalControl 
 
 ## Aizveriet USB portu
 
-7. Pēc veiksmīgas sinhronizācijas atvienojiet USB kabeli no skārienekrāna USB porta. Salokiet porta aizsargvāciņu atpakaļ un nostipriniet to, pievelkot fiksācijas skrūvi ar mazu skrūvgriezi.
+7. Pēc veiksmīgas sinhronizācijas atvienojiet USB kabeli no skārienekrāna USB porta. Salieciet porta aizsargvāku atpakaļ un nostipriniet to, pievelkot fiksējošo skrūvi ar mazu skrūvgriezi.
 
 <figure class="figure" style="margin-top: 10px;">
     <a name="close-usb-slot"><img src="/images/synchronisation/close-usb-slot.svg" width="600" class="border border-3 figure-img img-fluid rounded p-4" align="bottom" alt="Aizveriet USB portu" title="Aizveriet USB portu" /></a>
-    <figcaption class="figure-caption fs-6">5. attēls: Aizveriet USB portu atkal</figcaption>
+    <figcaption class="figure-caption fs-6">5. attēls: Aizveriet USB portu vēlreiz</figcaption>
 </figure>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
@@ -102,10 +102,12 @@ Lai veiktu sinhronizāciju starp Alma Pro automātisko barotavu un VitalControl 
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Piezīme</span><br>
-        Pārliecinieties, ka pēc katras sinhronizācijas aizverat USB porta vāciņu, lai novērstu mitruma iekļūšanu portā un aizsargātu portu no korozīvā gaisa, kas atrodas jūsu kūtī!<br>
+        Pārliecinieties, ka pēc katras sinhronizācijas aizverat USB porta vāku, lai novērstu mitruma iekļūšanu portā un aizsargātu portu no korozīvā gaisa jūsu kūtī!<br>
         <figure class="figure" style="margin-top: 25px;">
             <a name="close-usb-slot-mandatory"><img src="/images/synchronisation/info-close-usb-mandatory.svg" width="840" class="bg-body border border-primary border-2 figure-img img-fluid rounded p-4" align="bottom" alt="Obligāta USB porta aizvēršana" title="Obligāta USB porta aizvēršana" /></a>
             <figcaption class="figure-caption fs-6">6. attēls: Obligāta USB porta aizvēršana</figcaption>
         </figure>
     </div>
 </div>
+
+Izskatās, ka jūs neesat ievietojis nevienu Markdown saturu. Lūdzu, ievietojiet tekstu, kuru vēlaties tulkot, un es palīdzēšu ar tulkojumu.

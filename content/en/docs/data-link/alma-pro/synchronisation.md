@@ -48,7 +48,7 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Attention</span><br>
-        In order to start the synchronisation of the VitalControl device, you must be logged on to the machine in the user role <span style="font-family: monospace; font-size: 90%;">Site Manager</span>. Otherwise, the <span style="font-family: monospace; font-size: 90%;">Synchronise</span> button in the <a href="#synchronise-vc-ap" >Synchronisation menu</a> is disabled.
+        In order to start the synchronisation of the VitalControl device, you must be logged on to the machine in the user role <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Otherwise, the <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> button in the <a href="#synchronise-vc-ap" >Synchronisation menu</a> is disabled.
     </div>
 </div>
 
