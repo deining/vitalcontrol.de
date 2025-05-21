@@ -23,3 +23,8 @@ $dark: #525161;  // TODO: consider using BS value
       content: '#' !important;
     }
 }
+
+// needed to get anchors/id-jumping for text-Elements working, otherwise the header would overlay the target text
+html {
+  scroll-padding-top: 80px;
+}

@@ -109,5 +109,3 @@ Om synchronisatie uit te voeren tussen de Alma Pro automatische voederbak en het
         </figure>
     </div>
 </div>
-
-It seems like you haven't pasted any Markdown content for translation. Please provide the text you would like translated, and I'll assist you accordingly.

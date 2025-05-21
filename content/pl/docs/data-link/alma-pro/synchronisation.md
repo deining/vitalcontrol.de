@@ -109,5 +109,3 @@ Aby przeprowadzić synchronizację między automatycznym karmnikiem Alma Pro a u
         </figure>
     </div>
 </div>
-
-It seems like you haven't pasted any Markdown content. Please provide the text you want translated, and I'll assist you with the translation.

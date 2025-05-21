@@ -110,5 +110,3 @@ translationKey: alma-pro/synchronisation
             </figure>
         </div>
     </div>
-
-Пожалуйста, вставьте содержимое Markdown, которое вы хотите перевести.

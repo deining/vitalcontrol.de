@@ -101,5 +101,3 @@ Alma Pro otomatik yemlik ve VitalControl cihazı arasında senkronizasyon gerçe
         </figure>
     </div>
 </div>
-
-Belge içeriği sağlanmadı. Lütfen çevrilmesini istediğiniz Markdown içeriğini buraya yapıştırın.

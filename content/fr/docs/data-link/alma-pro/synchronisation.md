@@ -109,5 +109,3 @@ Pour effectuer la synchronisation entre le distributeur automatique Alma Pro et 
             </figure>
         </div>
     </div>
-
-Il semble que vous n'ayez pas collé de contenu Markdown. Veuillez coller le texte que vous souhaitez traduire, et je m'assurerai de suivre les règles que vous avez fournies.

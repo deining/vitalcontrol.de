@@ -109,5 +109,3 @@ Para realizar a sincronização entre o alimentador automático Alma Pro e o dis
         </figure>
     </div>
 </div>
-
-Parece que não há conteúdo para traduzir. Por favor, cole o conteúdo Markdown que você gostaria que eu traduzisse.

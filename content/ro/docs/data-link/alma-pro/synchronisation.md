@@ -109,5 +109,3 @@ Pentru a efectua sincronizarea între hrănitorul automat Alma Pro și dispoziti
         </figure>
     </div>
 </div>
-
-Se pare că nu ați introdus niciun conținut Markdown. Vă rog să introduceți textul pe care doriți să-l traduc.

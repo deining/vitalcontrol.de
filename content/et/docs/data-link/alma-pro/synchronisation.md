@@ -109,5 +109,3 @@ Alma Pro automaatse söötja ja VitalControl seadme vahelise sünkroniseerimise 
         </figure>
     </div>
 </div>
-
-Palun sisestage Markdown-sisu, mida soovite tõlkida.

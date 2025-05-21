@@ -109,5 +109,3 @@ For å utføre synkronisering mellom Alma Pro automatisk mater og VitalControl-e
             </figure>
         </div>
     </div>
-
-Det ser ut til at du ikke har lagt inn noe innhold. Vennligst lim inn Markdown-innholdet du vil ha oversatt, så skal jeg hjelpe deg med oversettelsen.

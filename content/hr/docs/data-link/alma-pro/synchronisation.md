@@ -109,5 +109,3 @@ Za provođenje sinkronizacije između automatskog hranilice Alma Pro i uređaja 
         </figure>
     </div>
 </div>
-
-Izgleda da niste zalijepili sadržaj. Molim vas da unesete sadržaj koji želite prevesti.

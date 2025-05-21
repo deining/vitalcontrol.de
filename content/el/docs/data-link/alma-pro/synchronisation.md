@@ -101,5 +101,3 @@ translationKey: alma-pro/synchronisation
             </figure>
         </div>
     </div>
-
-Φαίνεται ότι δεν έχετε επικολλήσει περιεχόμενο. Παρακαλώ επικολλήστε το Markdown κείμενο που θέλετε να μεταφραστεί.

@@ -109,5 +109,3 @@ A szinkronizáció végrehajtásához az Alma Pro automata etető és a VitalCon
             </figure>
         </div>
     </div>
-
-Úgy tűnik, nem illesztett be semmilyen tartalmat. Kérem, illessze be a fordítandó Markdown dokumentumot.

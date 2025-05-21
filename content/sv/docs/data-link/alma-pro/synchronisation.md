@@ -109,5 +109,3 @@ För att utföra synkronisering mellan Alma Pro automatisk matare och VitalContr
         </figure>
     </div>
 </div>
-
-Det verkar som att du inte har klistrat in något innehåll. Vänligen försök igen och klistra in den Markdown-text du vill ha översatt.

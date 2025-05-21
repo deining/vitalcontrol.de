@@ -75,7 +75,6 @@ translationKey: alma-pro/synchronisation
         <figcaption class="figure-caption fs-6">Рисунок 3: Синхронізація VitalControl з автоматичним подавачем Alma Pro</figcaption>
     </figure>
 
-```markdown
 <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="80px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
         <use xlink:href="#info-fill"/>
@@ -112,6 +111,3 @@ translationKey: alma-pro/synchronisation
         </figure>
     </div>
 </div>
-```
-
-Здається, ви не вставили жодного вмісту. Будь ласка, вставте текст, який потрібно перекласти, і я допоможу вам з перекладом.

@@ -109,5 +109,3 @@ Norėdami atlikti sinchronizavimą tarp Alma Pro automatinės šėryklos ir Vita
             </figure>
         </div>
     </div>
-
-Prašome įklijuoti Markdown turinį, kurį norite išversti į lietuvių kalbą.

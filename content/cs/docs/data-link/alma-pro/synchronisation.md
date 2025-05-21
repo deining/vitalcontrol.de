@@ -109,5 +109,3 @@ Pro provedení synchronizace mezi automatickým krmítkem Alma Pro a zařízení
         </figure>
     </div>
 </div>
-
-Zdá se, že jste neposkytli žádný obsah k překladu. Prosím, vložte text, který chcete přeložit, a já vám pomohu s překladem do češtiny.

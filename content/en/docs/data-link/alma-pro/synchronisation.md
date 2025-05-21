@@ -8,6 +8,7 @@ description: >
 weight: 20
 categories: [VitalControl, Data exchange, Alma Pro]
 translationKey: alma-pro/synchronisation
+maphilight: true
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
   <symbol id="info-fill" viewBox="0 0 16 16">
@@ -32,6 +33,7 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
 ## Connect VitalControl
 
 2. Switch on the VitalControl device by pressing the top centre `On/Off` button &nbsp;<img src="/icons/footer/on-off.svg" width="18" align="bottom" alt="On/Off button" />.
+git ss
 
 2. Connect the USB-C socket of the VitalControl device using the USB cable supplied <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Digit 1" /> with the USB-A socket of the touchscreen <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Digit 2" />.
 
@@ -52,9 +54,9 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
     </div>
 </div>
 
-4. In the left side bar of the touch terminal, click the second button from the top <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Digit 1" title="Digit 1" />. If you are in the main menu where no sidebar is visible, press the button &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span> to open the feeder menu.
+4. In the left side bar of the touch terminal, click the second button from the top <img src="/icons/feeder.svg" id ="StartSynchronisation_Digit_1" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Digit 1" title="Digit 1" />. If you are in the main menu where no sidebar is visible, press the button &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span> to open the feeder menu.
 
-1. In the right sidebar of the touchscreen terminal, below the symbol(s) for the connected feeder(s), the symbol <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Digit 2 in circle" title="Digit 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> for the `{{<T "VitalControl" >}}` device is now displayed. Click on this symbol.
+1. In the right sidebar of the touchscreen terminal, below the symbol(s) for the connected feeder(s), the symbol <img src="/digits/2_negative_circled.svg" id ="StartSynchronisation_Digit_2" width="25" align="middle" alt="Digit 2 in circle" title="Digit 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> for the `{{<T "VitalControl" >}}` device is now displayed. Click on this symbol.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -66,11 +68,18 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
         </div>
     </div>
 
-1. The synchronisation screen will now appear. Click on the button <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` in the middle at the bottom to start synchronisation with the VitalControl device.
+1. The synchronisation screen will now appear. Click on the button <img src="/digits/3_negative_circled.svg" id ="StartSynchronisation_Digit_3" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` in the middle at the bottom to start synchronisation with the VitalControl device.
 
     <figure class="figure" style="margin-top: 10px;">
-        <a name="synchronise-vc-ap"><img src="../images/synchronise-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronisation VitalControl with Alma Pro" title="Synchronisation VitalControl - Alma Pro" /></a>
-        <figcaption class="figure-caption fs-6">Figure 3: Synchronisation of VitalControl with Alma Pro automatic feeder</figcaption>
+    <a name="synchronise-vc-ap">
+    <img src="../images/synchronise-vitalcontrol-alma-pro.png"
+        usemap="#syncmap" width="1024"
+        class="border border-2 figure-img img-fluid rounded p-3"
+        align="bottom"
+        alt="Synchronisation VitalControl with Alma Pro"
+        title="Synchronisation VitalControl - Alma Pro"/>
+    </a>
+    <figcaption class="figure-caption fs-6">Figure 3: Synchronisation of VitalControl with Alma Pro automatic feeder</figcaption>
     </figure>
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
@@ -109,3 +118,9 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
             </figure>
         </div>
     </div>
+
+<map name="syncmap">
+    <area shape="rect" coords="15,115,112,190" alt="Feeder" title="Click {{<T "Feeder" >}}" href="#StartSynchronisation_Digit_1">
+    <area shape="rect" coords="844,240,1018,285" alt="Temperature" title="Click {{<T "VitalControl" >}}" href="#StartSynchronisation_Digit_2">
+    <area shape="rect" coords="361,570,612,620" alt="Temperature" title="Click {{<T "Synchronize" >}}" href="#StartSynchronisation_Digit_3">
+</map>

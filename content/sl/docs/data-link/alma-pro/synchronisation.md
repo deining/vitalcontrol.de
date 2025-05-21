@@ -73,7 +73,6 @@ Za izvedbo sinhronizacije med avtomatskim hranilnikom Alma Pro in napravo VitalC
         <figcaption class="figure-caption fs-6">Slika 3: Sinhronizacija VitalControl z avtomatskim podajalnikom Alma Pro</figcaption>
     </figure>
 
-```markdown
 <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="80px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
         <use xlink:href="#info-fill"/>
@@ -110,6 +109,3 @@ Za izvedbo sinhronizacije med avtomatskim hranilnikom Alma Pro in napravo VitalC
         </figure>
     </div>
 </div>
-```
-
-Zdi se, da ni bilo nobene vsebine za prevod. Prosimo, prilepite vsebino, ki jo želite prevesti.

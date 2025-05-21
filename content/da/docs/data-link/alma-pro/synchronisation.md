@@ -110,5 +110,3 @@ For at udføre synkronisering mellem Alma Pro automatisk foderautomat og VitalCo
             </figure>
         </div>
     </div>
-
-Det ser ud til, at der ikke blev indsat noget indhold. Du kan indsætte Markdown-indholdet, så jeg kan hjælpe med oversættelsen.

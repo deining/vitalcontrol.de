@@ -73,7 +73,6 @@ Per effettuare la sincronizzazione tra il distributore automatico Alma Pro e il 
         <figcaption class="figure-caption fs-6">Figura 3: Sincronizzazione di VitalControl con l'alimentatore automatico Alma Pro</figcaption>
     </figure>
 
-```markdown
 <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="80px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
         <use xlink:href="#info-fill"/>
@@ -110,6 +109,3 @@ Per effettuare la sincronizzazione tra il distributore automatico Alma Pro e il 
         </figure>
     </div>
 </div>
-```
-
-Sembra che non ci sia alcun contenuto da tradurre. Per favore, incolla il contenuto Markdown che desideri tradurre in italiano.

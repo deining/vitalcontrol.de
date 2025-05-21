@@ -109,5 +109,3 @@ Suorita synkronointi Alma Pro -automaattiruokkijan ja VitalControl-laitteen väl
         </figure>
     </div>
 </div>
-
-It seems like you haven't provided any Markdown content for translation. Please paste the content you want translated, and I'll assist you with it.
