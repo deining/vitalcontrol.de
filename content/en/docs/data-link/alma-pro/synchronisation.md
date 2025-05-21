@@ -33,7 +33,6 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
 ## Connect VitalControl
 
 2. Switch on the VitalControl device by pressing the top centre `On/Off` button &nbsp;<img src="/icons/footer/on-off.svg" width="18" align="bottom" alt="On/Off button" />.
-git ss
 
 2. Connect the USB-C socket of the VitalControl device using the USB cable supplied <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Digit 1" /> with the USB-A socket of the touchscreen <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Digit 2" />.
 
