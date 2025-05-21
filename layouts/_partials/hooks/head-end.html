@@ -2,15 +2,17 @@
   {{ $versionMaphilight := "1.4.2" }}
   {{ $versionResizer := "1.0.10" }}
 
-  {{ $maphilightCdn := printf "https://cdnjs.cloudflare.com/ajax/libs/maphilight/%s/jquery.maphilight.min.js" $versionMaphilight }}
-  {{ $resizerCdn := printf "https://cdn.jsdelivr.net/npm/image-map-resizer@%s/js/imageMapResizer.min.js" $versionResizer }}
+  {{ $maphilightCdn := printf "https://cdnjs.cloudflare.com/ajax/libs/maphilight/%s/jquery.maphilight%s.js" $versionMaphilight (cond hugo.IsProduction ".min" "") -}}
+  {{ $resizerCdn := printf "https://cdn.jsdelivr.net/npm/image-map-resizer@%s/js/imageMapResizer%s.js" $versionResizer (cond hugo.IsProduction ".min" "")}}
 
   {{ with try (resources.GetRemote $maphilightCdn) }}
     {{ with .Err }}
       {{ errorf "Error while retrieving maphilight from CDN: %q. Status: %s" $maphilightCdn .Data.Status }}
     {{ else with .Value }}
-      {{ $secureMaphilight := . | resources.Fingerprint "sha512" }}
-      <script src="{{ .RelPermalink }}" integrity="{{ $secureMaphilight.Data.Integrity }}" crossorigin="anonymous"></script>
+      {{ with resources.Copy (printf "js/maphilight%s.js" (cond hugo.IsProduction ".min" "")) . }}
+        {{ $secureMaphilight := . | resources.Fingerprint "sha512" }}
+        <script src="{{ .RelPermalink }}" integrity="{{ $secureMaphilight.Data.Integrity }}" crossorigin="anonymous"></script>
+      {{ end -}}
     {{ end }}
   {{ end }}
 
@@ -18,8 +20,10 @@
     {{ with .Err }}
       {{ errorf "Error while retrieving imageMapResizer from CDN: %q. Status: %s" $resizerCdn .Data.Status }}
     {{ else with .Value }}
-      {{ $secureResizer := . | resources.Fingerprint "sha512" }}
-      <script src="{{ .RelPermalink }}" integrity="{{ $secureResizer.Data.Integrity }}" crossorigin="anonymous"></script>
+      {{ with resources.Copy (printf "js/imagemapresizer%s.js" (cond hugo.IsProduction ".min" "")) . }}
+        {{ $secureResizer := . | resources.Fingerprint "sha512" }}
+        <script src="{{ .RelPermalink }}" integrity="{{ $secureResizer.Data.Integrity }}" crossorigin="anonymous"></script>
+      {{ end }}
     {{ end }}
   {{ end }}
 
