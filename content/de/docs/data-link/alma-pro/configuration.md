@@ -19,6 +19,11 @@ translationKey: alma-pro/configuration
   </symbol>
 </svg>
 
+<figure class="figure" style="margin-top: 5px;">
+    <img src="../images/version-check.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Alma Pro: Prüfung der Firmwareversion" title="Alma Pro: Prüfung der Firmwareversion" />
+    <figcaption class="figure-caption fs-6">Screenshot 1: <span style="font-style: italic;">Alma Pro: Prüfung der Firmwareversion</figcaption>
+</figure>
+
 Zur Aktivierung und Einrichtung des VitalControl-Geräts gehen Sie wie folgt vor:
 
 ## Einstellungsmenü `VitalControl` aufrufen

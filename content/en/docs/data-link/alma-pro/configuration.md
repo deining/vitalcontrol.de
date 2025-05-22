@@ -10,6 +10,12 @@ weight: 10
 categories: [Alma Pro, VitalControl]
 translationKey: alma-pro/configuration
 ---
+
+<figure class="figure" style="margin-top: 5px;">
+    <img src="../images/version-check.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Alma Pro: check of firmware version" title="Alma Pro: check of firmware version" />
+    <figcaption class="figure-caption fs-6">Screenshot 1: <span style="font-style: italic;">Alma Pro: check of firmware version</figcaption>
+</figure>
+
 To activate and set up the VitalControl device, proceed as follows:
 
 ## Navigation to settings menu `VitalControl`
@@ -30,7 +36,7 @@ To activate and set up the VitalControl device, you must be logged in as the `Si
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="../images/open-settings-vitalcontrol.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="VitalControl settings: Access" title="Access VitalControl settings menu" />
-    <figcaption class="figure-caption fs-6">Screenshot 1: Accessing the <span style="font-style: italic;">VitalControl</span> settings menu</figcaption>
+    <figcaption class="figure-caption fs-6">Screenshot 2: Accessing the <span style="font-style: italic;">VitalControl</span> settings menu</figcaption>
 </figure>
 
 The `VitalControl` settings menu is spread across two pages:
@@ -41,7 +47,7 @@ Page 1 of the <span style="font-style: italic;">VitalControl</span> settings men
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="../images/settings-vitalcontrol-1.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="VitalControl settings menu: Page 1" title="VitalControl settings (1)" />
-    <figcaption class="figure-caption fs-6">Screenshot 2: <span style="font-style: italic;">VitalControl</span> settings menu, Page 1</figcaption>
+    <figcaption class="figure-caption fs-6">Screenshot 3: <span style="font-style: italic;">VitalControl</span> settings menu, Page 1</figcaption>
 </figure>
 
 On this page, you can perform the following actions and settings.
@@ -187,7 +193,7 @@ Data conflicts can occur when synchronising the data between the feeder and Vita
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="../images/settings-vitalcontrol-2.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Settings Menu VitalControl: Page 2" title="Settings VitalControl (2)" />
-    <figcaption class="figure-caption fs-6">Screenshot 3: Settings Menu <span style="font-style: italic;">VitalControl</span>, Page 2</figcaption>
+    <figcaption class="figure-caption fs-6">Screenshot 4: Settings Menu <span style="font-style: italic;">VitalControl</span>, Page 2</figcaption>
 </figure>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
