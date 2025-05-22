@@ -65,7 +65,7 @@ Auf der linken Seite des Bildschirms befinden sich zwei Checkboxen:
 
 * Checkbox <span style="font-size: 140%">➁</span> <span style="font-style: italic;">Auf VitalControl neu anlegen</span>. 
 
-    Diese Option regelt das Verhalten für den Fall, dass bei der Synchronisation auf dem Automaten Tiere vorhanden sind, die dem VitalControl noch nicht bekannt sind. Diese Option ist standardmäßig aktiviert und sollte in der Regel auch gesetzt bleiben. Erfassen ihre zugekauften Fresser durch Scannen der Tierpässe, muss diese Option jedoch zwingend deaktiviert werden.
+    Diese Option regelt das Verhalten für den Fall, dass bei der Synchronisation auf dem Automaten Tiere vorhanden sind, die dem VitalControl noch nicht bekannt sind. Diese Option ist standardmäßig aktiviert und sollte in der Regel auch gesetzt bleiben. Erfassen ihre zugekauften Fresser durch Scannen ihrer Tierpässe, muss diese Option jedoch zwingend deaktiviert werden.
 
     <span style="font-weight: bold">Aktivieren</span> Sie diese Option:
 
@@ -73,19 +73,19 @@ Auf der linken Seite des Bildschirms befinden sich zwei Checkboxen:
     - wenn Sie im laufenden Betrieb kontinuierlich neue Kälber an den Automaten bringen. Diese Tiere werden dann im Zuge der Synchronisation ebenfalls auf dem VitalControl angelegt.
 
     <span style="font-weight: bold">Deaktivieren</span> Sie diese Option:
-    - wenn Sie auf Ihrem VitalControl Tiere durch das Scannen von Tierpässen neu angelegt haben, wobei
+    - wenn Sie auf Ihrem VitalControl Tiere durch das Scannen ihrer Tierpässe neu angelegt haben, wobei
     - diesen Tieren noch kein Transponder zugewiesen wurde und
     - diese Tiere bereits am Automat gefüttert werden und sie insofern dort bereits registriert sind.
 
-    <div class="alert alert-primary d-flex align-items-center" role="alert">
-        <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
-            <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
-        </svg>
-        <div>
-            <span class="text-primary fs-3 fw-semibold">Achtung</span><br>
-            Bleibt in der oben zuletzt aufgeführten Konstellation die Option gesetzt, so werden nach der Synchronisation Tiere doppelt auf dem VitalControl vorhanden sein.
+        <div class="alert alert-primary d-flex align-items-center" role="alert">
+            <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Alert:">
+                <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
+            </svg>
+            <div>
+                <span class="text-primary fs-3 fw-semibold">Achtung</span><br>
+                Bleibt in der oben zuletzt aufgeführten Konstellation die Option gesetzt, so werden nach der Synchronisation Tiere doppelt auf dem VitalControl vorhanden sein.
+            </div>
         </div>
-    </div>
 
 * Checkbox <span style="font-size: 140%">➂</span> <span style="font-style: italic;">Vom VitalControl löschen</span>. 
 
@@ -107,16 +107,16 @@ Auf der linken Seite des Bildschirms befinden sich zwei Checkboxen:
 
     <span style="font-weight: bold">Deaktivieren</span> Sie diese Option:
 
-    - wenn Sie auch nach Abschluss der Tränkeperiode noch Daten für die Tiere erfassen möchten, etwa im Zuge einer Wiegung,
+    - wenn Sie auch nach Abschluss der Milchperiode noch Daten für die Tiere erfassen möchten, etwa im Zuge einer Wiegung,
     - wenn Sie bereit sind, die Tiere selbst manuell vom VitalControl zu löschen.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
-        <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
+        <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Alert:">
             <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Achtung</span><br>
-            Wenn Sie diese Option deaktivieren, müssen Sie, sobald ein Tier auf dem Automat gelöscht wurde, für dieses Tier auf dem VitalControl den Transponder lösen. Unterbleibt dieses Lösen des Transponders, so werden dem Tierdatensatz fälschlicherweise Datensätze eines anderen, auf dem Automaten neu angelegten Tieres hinzugefügt, welches jetzt denselben Transponder trägt, den das auf dem VitalControl verbliebene Tier seinerzeit getragen hatte.
+            Wenn Sie diese Option deaktivieren, müssen Sie auf dem VitalControl für abgetränkte Tiere den Transponder lösen, sobald dem abgetränkten Tier das Halsband abgenommen und einem anderen, jüngeren Kalb umgehängt wurde. Unterbleibt dieses Lösen des Transponders, so werden dem abgetränkten Tier fälschlicherweise Datensätze des jüngeren Tieres hinzugefügt, welches jetzt das ehemalige Halsband des abgetränkten Tieres trägt.
         </div>
     </div>
 
@@ -131,10 +131,10 @@ Auf der rechten Seite des Bildschirms befindet sich eine Checkbox sowie zwei Ein
     <span style="font-weight: bold">Deaktivieren</span> Sie diese Option bzw. lassen Sie sie deaktiviert:
 
     - wenn Sie Ihr VitalControl-Gerät an mehreren Automaten gleichzeitig nutzen,
-    - wenn Sie Ihre Tiere direkt an den Automaten bringen, ohne Sie vorher mit dem VitalControl zu erfassen, ihre Tiere werden dann bei der Registrierung im Zuge der erstmaligen Fütterung am Automaten automatisch neu angelegt.
+    - wenn Sie Ihre Tiere direkt an den Automaten bringen, ohne Sie vorher mit dem VitalControl zu erfassen. Ihre Tiere werden dann bei der Registrierung im Zuge der erstmaligen Fütterung am Automaten automatisch neu angelegt.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
-        <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
+        <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Alert:">
             <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
         </svg>
         <div>
@@ -146,10 +146,10 @@ Auf der rechten Seite des Bildschirms befindet sich eine Checkbox sowie zwei Ein
     <span style="font-weight: bold">Aktivieren</span> Sie diese Option:
 
     - wenn die Ersterfassung ihrer neugeborenen Tiere mit dem VitalControl bereits vor der ersten Fütterung am Automaten erfolgt.
-    - wenn Sie ihre zugekauften Tiere durch Einscannen der Tierpässe auf dem VitalControl erfassen.
+    - wenn Sie ihre zugekauften Tiere durch Einscannen ihrer Tierpässe auf dem VitalControl erfassen.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
-        <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
+        <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Alert:">
             <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
         </svg>
         <div>
@@ -166,13 +166,11 @@ Auf der rechten Seite des Bildschirms befindet sich eine Checkbox sowie zwei Ein
 
     In diesem Ziffernfeld können Sie das Mindestalter in Tagen angeben, ab welchem Tiere im Zuge der Synchronisation neu auf dem Automaten angelegt werden. Tiere, die jünger sind als das angegebene Mindestalter, werden im Zuge der Synchronisation nicht neu angelegt.
 
-* Schaltfläche <span style="font-size: 140%">⑧</span> <span style="font-style: italic;">Umschaltung auf Seite 2 des Einstellungsmenü `VitalControl`</span>.
-
-    Durch das Drücken dieser Schaltfläche gelangen sie zu [Seite 2](#settings-menu-vitalcontrol-page-2) des Einstellungsmenüs `VitalControl`.
+Durch das Drücken der Schaltfläche <span style="font-size: 140%">⑧</span> gelangen sie zu [Seite 2](#settings-menu-vitalcontrol-page-2) des Einstellungsmenüs `VitalControl`.
 
 ## Einstellungsmenü `VitalControl` - Seite 2 {#settings-menu-vitalcontrol-page-2}
 
-Auf dieser Seite können Sie Einstellungen zum Vorrang bei Datenkonflikten vornehmen. Von einem Datenkonflikt spricht man immer dann, wenn sich die Daten, etwa zur <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%">➁</span>, auf dem VitalControl und auf dem Automaten widersprechen. Spätestens im Zuge der Synchronisation muss jetzt festlegt werden, wie mit dem Datenkonflikt umgegangen wird. Hierbei gibt es 3 Möglichkeiten:
+ Bei der Synchronisation der Daten zwischen Automat und VitalControl kann es zu Datenkonflikten kommen. Von einem Datenkonflikt spricht man immer dann, wenn sich die Daten, etwa zur <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%">➁</span>, auf dem VitalControl und auf dem Automaten widersprechen. Auf dieser Seite 2 des Einstellungsmenüs können Sie festlegen, ob und wie Datenkonflikte im Zuge der Synchronisation aufgelöst werden. Hierbei gibt es drei Möglichkeiten:
 
 * Die Automatendaten erhalten Vorrang, die Daten auf dem VitalControl-Gerät werden mit denjenigen des Automaten überschrieben.\
   Aktivieren Sie diese Option, indem Sie den Radiobutton in der linken Spalte -unterhalb des Automatensymbols <span style="font-size: 140%">➃</span>- auswählen.
@@ -183,14 +181,13 @@ Auf dieser Seite können Sie Einstellungen zum Vorrang bei Datenkonflikten vorne
 * Es werden keine Änderungen vorgenommen, sowohl die Daten des Automaten als auch des VitalControl-Geräts bleiben unverändert.\
   Aktivieren Sie diese Option, indem Sie den Radiobutton in der rechten Spalte <span style="font-size: 140%">⑥</span> auswählen.
 
-
 <div class="alert alert-primary d-flex align-items-center" role="alert">
-        <svg xmlns="http://www.w3.org/2000/svg" width="60px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
+        <svg xmlns="http://www.w3.org/2000/svg" width="60px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Example:">
             <use xlink:href="#info-fill"/>
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Beispiel</span><br>
-            Nachdem Sie eine Kälberpartie bezogen haben, legen Sie diese Tiere durch Scan aller Tierpässe neu auf dem VitalControl an. Die Tiernummer dieser Tiere auf dem VitalControl sind dann -je nach <a href="/docs/einstellungen/tiere-neu-anlegen/#digit-of-the-new-id">Geräteeinstellung</a>- die letzten 3-5 Ziffern des Tieres auf dem Tierpass. Danach legen Sie den zugekauften Tieren Halsbänder mit Urban-Transpondern um und versorgen diese am Automaten. Im Zuge des erstmaligen Stationsbesuchs werden die Tiere anhand ihres Transponders registriert und neu am Automaten angelegt. Die Tiernummer dieser Tiere ist jedoch von der Transpondernummer abgeleitet oder entspricht der Tiernummer, die zu diesem Transponder im Automaten hinterlegt ist. Somit wurde jetzt auf dem VitalControl-Gerät und auf dem Automaten für ein und dasselbe Tiere jeweils eine unterschiedliche Tiernummer vergeben, ein Datenkonflikt liegt vor. Anhand der Radiobuttons für die <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%">➁</span> können sie jetzt im Einstellungsmenü  festlegen, welche der beiden parallel vergebenen Tiernummern Vorrang erhält und welche im Zuge der Synchronisation gelöscht wird.
+            Nachdem Sie eine Kälberpartie bezogen haben, legen Sie diese Tiere durch Scan aller Tierpässe neu auf dem VitalControl an. Die Tiernummern dieser Tiere auf dem VitalControl sind dann -je nach <a href="/docs/einstellungen/tiere-neu-anlegen/#digit-of-the-new-id">Geräteeinstellung</a>- die letzten 3-5 Ziffern des Tieres auf dem Tierpass. Danach legen Sie den zugekauften Tieren Halsbänder mit Urban-Transpondern um und versorgen diese am Automaten. Im Zuge des erstmaligen Stationsbesuchs werden die Tiere anhand ihres Transponders registriert und neu am Automaten angelegt. Die Tiernummern dieser neuen Tiere auf dem Automaten sind jedoch von der Transpondernummer abgeleitet oder entsprechen der Tiernummer, die zu diesem Transponder im Automaten hinterlegt ist. Somit wurde jetzt auf dem VitalControl-Gerät und auf dem Automaten für ein und dasselbe Tier jeweils eine unterschiedliche Tiernummer vergeben, ein Datenkonflikt liegt vor. Anhand der Radiobuttons für die <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%">➁</span> können sie jetzt im Einstellungsmenü  festlegen, welche der beiden parallel vergebenen Tiernummern Vorrang erhält und welche im Zuge der Synchronisation gelöscht wird.
         </div>
 </div>
 
@@ -200,12 +197,12 @@ Auf dieser Seite können Sie Einstellungen zum Vorrang bei Datenkonflikten vorne
 </figure>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
-    <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
+    <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Alert:">
         <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Achtung</span><br>
-        Aus internen Gründen können aktuell nur Änderungen für die <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%">➁</span> vorgenommen werden. In späteren Firmwareversionen wird es auch möglich sein, Änderungen für die <span style="font-style: italic;">Ohrmarkennummer</span> <span style="font-size: 140%">➀</span> sowie das <span style="font-style: italic;">Geburtsdatum</span> <span style="font-size: 140%">➂</span> vorzunehmen.
+        Aus internen Gründen können aktuell nur Änderungen für die <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%">➁</span> vorgenommen werden. In späteren Firmwareversionen werden Sie auch Änderungen bezüglich der <span style="font-style: italic;">Ohrmarkennummer</span> <span style="font-size: 140%">➀</span> sowie des <span style="font-style: italic;">Geburtsdatums</span> <span style="font-size: 140%">➂</span> vornehmen können.
     </div>
 </div>
 

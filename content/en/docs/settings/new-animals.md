@@ -62,7 +62,7 @@ background). To define the sex when registering an animal on your device, procee
 
 4. Use the arrow keys △ ▽ to select the `{{<T "Sex" >}}`.
 
-5. Use the arrow keys ◁ ▷ to set the sex when creating.
+5. Use the arrow keys ◁ ▷ to set the sex of the new animal to be created.
 
     ![VitalControl: menu settings Set sex](../images/setsex.png "Set sex")
 
@@ -78,7 +78,7 @@ Here you define which type of animal is recorded when creating new animals in yo
 
 4. Use the arrow keys △ ▽ to select the `{{<T "TypeAnimal" >}}`.
 
-5. Use the arrow keys ◁ ▷ to set the type of animal when creating.
+5. Use the arrow keys ◁ ▷ to set the type of the new animal to be created.
 
     ![VitalControl: menu settings type of animal](../images/typeofanimal.png "typ of animal")
 
@@ -94,7 +94,7 @@ Here you define which breed of the livestock is recorded when creating new anima
 
 4. Use the arrow keys △ ▽ to select `{{<T "Breed" >}}`.
 
-5. Use the arrow keys ◁ ▷ to set the breed when creating.
+5. Use the arrow keys ◁ ▷ to set the breed of the new animal to be created.
 
     ![VitalControl: menu settings type of animal](../images/breed.png "typ of animal")
 
@@ -154,7 +154,7 @@ To define the assignment of the animal ID when creating the farm animal on your 
 
 4. Use the arrow keys △ ▽ to select `{{<T "AssignmentIDs" >}}`.
 
-5. Use the arrow keys ◁ ▷ to set the assignment of the animal ID of the working animal when creating.
+5. Use the arrow keys ◁ ▷ to set the assignment of the animal ID for the new animal to be created.
 
 6. If you select the setting `{{<T "Consecutive" >}}`, you have the option of specifying the `{{<T "NextAnimalID" >}}`. Use the arrow keys △ ▽ to select the `{{<T "NextAnimalID" >}}` area and confirm with `{{<T "Ok" >}}`. Navigate within the area using the arrow keys ◁ ▷. Now you can select a number using the arrow keys △ ▽. The device will now automatically use this number to start the continuous count from there. Furthermore, you can set whether the numbers are to be counted continuously increasing or continuously decreasing. To do this, use the arrow keys ◁ ▷ to go to the 9/1 symbol. Use the arrow keys △ ▽ to toggle between counting continuously increasing or continuously decreasing. Save the settings using the `F1` or `{{<T "Ok" >}}` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
@@ -166,9 +166,9 @@ To define the assignment of the animal ID when creating the farm animal on your 
 Only when using the option `{{<T "Consecutive" >}}`: if you have set to use separate number ranges for male and female animals when assigning the ear tag number, a next animal number is stored for each of male, female and animals of unknown sex. A symbol placed to the left of the animal number indicates what the next animal number is used for: either for male ♀ or for female ♂ or for animals of unknown sex ♀♂?
 {{% /alert %}}
 
-### Digit of the new ID {#digit-of-the-new-id}
+### Number of digits for a new ID {#digit-of-the-new-id}
 
-Here you define which length a barn number derived from the transponder number has for a new animal in your farm. The possible value range is from 2 to 6 digits. To define the length of the new ID of the farm animal on your device proceed as follows:
+Here you define which length (in digits) a barn number derived from the transponder number has for a new animal in your farm. The possible value range is from 2 to 6 digits. To define the length of the new ID of the farm animal on your device proceed as follows:
 
 1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` and press the `{{<T "Ok" >}}` key.
 
@@ -178,9 +178,9 @@ Here you define which length a barn number derived from the transponder number h
 
 4. Use the arrow keys △ ▽ to select `{{<T "AssignmentIDs" >}}`.
 
-5. Use the arrow keys ◁ ▷ to set the digit of the new ID of the working animal when creating.
+5. Use the arrow keys ◁ ▷ to set the digits of the new ID for the new animal to be created.
 
-    ![VitalControl: menu settings Digit of the new ID](../images/digitofnewid.png "Digit of the new ID")
+    ![VitalControl: menu settings Digits of the new ID](../images/digitofnewid.png "Digits of the new ID")
 
 ### Right offset {#right-offset}
 
@@ -201,7 +201,7 @@ To set the offset to the right of the animal on your device, proceed as follows:
 
 4. Use the arrow keys △ ▽ to select `{{<T "OffsetRight" >}}`.
 
-5. Use the arrow keys ◁ ▷ to set the right offset area of the working animal when creating.
+5. Use the arrow keys ◁ ▷ to set the right offset area for the new animal to be created.
 
     ![VitalControl: menu settings right offset](../images/rightoffset.png "right offset")
 
@@ -217,7 +217,7 @@ Here you define whether one or two number ranges are used when assigning the ear
 
 3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` and `{{<T "AssignmentEartagNr" >}}`. Select `{{<T "AssignmentEartagNr" >}}` and confirm with `{{<T "Ok" >}}`.
 
-4. Use the arrow keys ◁ ▷ to assign the ear tag number the working animal when creating.
+4. Use the arrow keys ◁ ▷ to assign the ear tag number for the new animal to be created.
 
     ![VitalControl: menu settings Assignment ear tag number](../images/assignmenteartagnumber.png "Assignment ear tag number")
 

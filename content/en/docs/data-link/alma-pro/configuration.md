@@ -52,19 +52,41 @@ In the default state of the machine, the VitalControl is deactivated. Set the <s
 
 ### Synchronisation automatic feeder <span style="font-size: 150%">🠲</span> VitalControl
 
-On the left side of the screen, there is only the option <span style="font-style: italic;">Register new on VitalControl device</span> <span style="font-size: 140%">➁</span>.
+On the left side of the screen, there are two checkboxes:
 
-This option controls the behavior in the event that animals are present on the automat during synchronisation that are not yet known to the VitalControl. This option is enabled by default and should generally remain set. If you record your purchased feeders by scanning the animal passports, this option must be disabled.
+* Checkbox <span style="font-style: italic;">Register new on VitalControl device</span> <span style="font-size: 140%">➁</span>.
 
-<span style="font-weight: bold">Enable</span> this option:
+    This option controls the behavior in the event that animals are present on the feeder during synchronisation that are not yet known to the VitalControl device. This option is enabled by default and should generally remain set. If you register your purchased animals by scanning their animal passports, this option must be disabled.
 
-- if you have a brand-new VitalControl in front of you, onto which you want to transfer all animals from an automat. After synchronisation, all animals known to the automat will also be present on the VitalControl.
-- if you continuously bring new calves to the automat during ongoing operations. These animals will then also be created on the VitalControl during synchronisation.
+    <span style="font-weight: bold">Enable</span> this option:
 
-<span style="font-weight: bold">Disable</span> this option:
-- if you have newly created animals on your VitalControl by scanning animal passports, where
+    - if you have a brand-new VitalControl in front of you, onto which you want to transfer all animals from a feeder. After synchronisation, all animals known to the feeder will also be present on the VitalControl.
+    - if you continuously bring new calves to the feeder during ongoing operations. These animals will then also be created on the VitalControl device during synchronisation.
+
+    <span style="font-weight: bold">Disable</span> this option:
+
+    - if you have newly created animals on your VitalControl by scanning their animal passports, where
     - these animals have not yet been assigned a transponder and
-    - these animals are already being fed at the automat and are therefore registered there.
+    - these animals are already being fed at the feeder and are therefore registered there.
+
+        <div class="alert alert-primary d-flex align-items-center" role="alert">
+            <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
+            <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
+            </svg>
+            <div>
+                <span class="text-primary fs-3 fw-semibold">Attention</span><br>
+                If the option remains set in the above configuration, animals will be present twice on the VitalControl after synchronisation.
+            </div>
+        </div>
+
+* Checkbox <span style="font-style: italic;">Delete from VitalControl</span> <span style="font-size: 140%">➂</span>
+
+    This option controls whether animals that are only present on the VitalControl but not on the feeder are deleted from the VitalControl during the next synchronisation. If you use the VitalControl only during the animals' milk period, this option should be enabled. If you want to track the animals beyond the milk period, you must disable this option.
+
+    <span style="font-weight: bold">Enable</span> this option:
+
+    - if you only collect data for the animals during the milk period,
+    - - if you want the animals to be deleted from the VitalControl during the next synchronisation after they have been deleted from the feeder. This way, animals do not accumulate on the VitalControl over time.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -72,23 +94,12 @@ This option controls the behavior in the event that animals are present on the a
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Attention</span><br>
-            If the option remains set in the above configuration, animals will be present twice on the VitalControl after synchronisation.
+            If this option is activated and the checkbox <span style="font-size: 140%">➃</span> <span style="font-style: italic;">Register new on automatic feeder</span> is also activated, no animals will be deleted that are younger than specified in the number field <span style="font-size: 140%">➃</span> <span style="font-style: italic;">Do not delete animals younger than</span>.
         </div>
     </div>
 
-### Synchronisation VitalControl <span style="font-size: 150%">🠲</span> automatic Feeder
-
-On the right side of the screen, there are two options:
-
-- The option <span style="font-style: italic;">Delete from VitalControl</span> <span style="font-size: 140%">➂</span> controls whether animals deleted from the automat are also deleted from the VitalControl during the next synchronisation. If you use the VitalControl only during the animals' drinking period, this option should be enabled. If you want to track the animals beyond the drinking period, you must disable this option.
-
-    <span style="font-weight: bold">Enable</span> this option:
-
-    - if you only collect data for the animals during the drinking period,
-    - if you want the animals to be automatically deleted from the VitalControl immediately after being deleted from the automat. This way, animals do not accumulate on the VitalControl over time.
-
     <span style="font-weight: bold">Disable</span> this option:
-    - if you want to continue collecting data for the animals after the drinking period, for example, during a weighing,
+    - if you want to continue collecting data for the animals after the milk period, for example, during a weighing,
     - if you are willing to manually delete the animals from the VitalControl yourself.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
@@ -97,15 +108,22 @@ On the right side of the screen, there are two options:
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Attention</span><br>
-            If you disable this option, you must release the transponder for the animal on the VitalControl as soon as an animal is deleted from the automat. If this release of the transponder is omitted, data records of another animal newly created on the automat, which now carries the same transponder that the animal remaining on the VitalControl once carried, will be incorrectly added to the animal's data record.
+            If you disable this option, you must unlink the transponder for weaned animals on VitalControl device at the latest when the collar is removed from the weaned calf to another, younger calf. If the transponder is not removed, the data records of the younger animal -which is now wearing the former collar of the weaned animal- are incorrectly added to the weaned animals dataset.
         </div>
     </div>
 
-- The option <span style="font-style: italic;">Register new on automatic feeder</span> <span style="font-size: 140%">➃</span> controls whether animals present on the VitalControl, which are unknown to the machine, will be created on the machine during the next synchronisation. By default, this option is not activated. Activate this option if the initial recording of your animals is done with the VitalControl. Leave this option deactivated if you use a VitalControl on multiple machines and/or if your animals are registered during the initial feeding at the machine.
+### Synchronisation VitalControl <span style="font-size: 150%">🠲</span> Automatic Feeder
+
+On the right side of the screen, there is a checkbox and two input fields:
+
+* Checkbox <span style="font-style: italic;">Register new on automatic feeder</span> <span style="font-size: 140%">⑤</span>
+
+- This option controls whether animals present on the VitalControl, which are unknown to the feeder, will be created on the feeder during the next synchronisation. By default, this option is not activated.
 
     <span style="font-weight: bold">Deactivate</span> this option or leave it deactivated:
-    - if you use your VitalControl device on multiple machines simultaneously,
-    - if you bring your animals directly to the machines without recording them first with the VitalControl.
+
+    - if you use your VitalControl device on multiple feeders simultaneously,
+    - if you bring your animals directly to the feeder without registering them via the VitalControl device first. Your animals will then be automatically created during registration when they are fed at the feeder for the first time.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -113,14 +131,14 @@ On the right side of the screen, there are two options:
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Attention</span><br>
-            If the VitalControl is used on multiple machines and this option remains set, animals will be unintentionally transferred from one machine to another during synchronisation.
+            If the VitalControl is used on multiple machines and this option is checked, animals will be unintentionally transferred from one machine to another during synchronisation.
         </div>
     </div>
 
     <span style="font-weight: bold">Activate</span> this option:
 
-    - if you record your newborn animals with the VitalControl,
-    - if you record your purchased animals by scanning the animal passports on the VitalControl.
+    - if the initial registration of their newborn animals with the VitalControl takes place before the first feeding at the feeder.
+    - if you record your purchased animals by scanning their animal passports on the VitalControl.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -132,11 +150,54 @@ On the right side of the screen, there are two options:
         </div>
     </div>
 
-## Settings Menu `VitalControl` - Page 2
+* Dropdown menu <span style="font-size: 140%">⑥</span> <span style="font-style: italic;">Feeding curve assigned to imported animals</span>.
+
+   In this drop-down menu, you can select the feed curve that is assigned to animals that are newly created on the feeder during synchronisation.
+
+* Numeric input field<span style="font-size: 140%">⑦</span> <span style="font-style: italic;">do not import animals older than</span>.
+
+    In this number field, you can specify the minimum age (in days) from which animals are newly created on the feeder during synchronisation. Animals that are younger than the specified minimum age are **not** created during synchronisation.
+
+Press button <span style="font-size: 140%">⑧</span> to switch to [page 2](#settings-menu-vitalcontrol-page-2) of the <span style="font-style: italic;">settings menu `VitalControl`</span>.
+
+## Settings Menu `VitalControl` - Page 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Priority in Synchronisation Conflicts
+
+Data conflicts can occur when synchronising the data between the feeder and VitalControl device. A data conflict occurs when the data contradict each other on the VitalControl device and on the feeder (e.g. concerning the <span style="font-style: italic;">animal number</span> <span style="font-size: 140%">➁</span>). On this page 2 of the settings menu, you can specify whether and if, how data conflicts are resolved during synchronisation. There are three options here:
+
+* Priority is given to the feeder data, data on the VitalControl device are overwritten with that of the feeder\.
+  Activate this option by selecting the radio button in the left-hand column below the feeder symbol <span style="font-size: 140%">➃</span>.
+
+* Priority is given to the VitalControl data, data on the feeder are overwritten with that of the VitaLControl device\.
+  Activate this option by selecting the radio button in the left-hand column below the VitalControl <span style="font-size: 140%">⑤</span>.
+
+* No changes are made, both the feeder data and VitalControl device data remain unchanged.\
+  Activate this option by selecting the radio button in the right-hand column <span style="font-size: 140%">⑥</span>.
+
+<div class="alert alert-primary d-flex align-items-center" role="alert">
+        <svg xmlns="http://www.w3.org/2000/svg" width="60px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Example:">
+            <use xlink:href="#info-fill"/>
+        </svg>
+        <div>
+            <span class="text-primary fs-3 fw-semibold">Example</span><br>
+            After you have purchased a batch of calves, you register your purchased animals on the VitalControl by scanning all their animal passports. The animal numbers for these animals on the VitalControl are then – depending on the <a href="/en/docs/settings/animal-registration/#digit-of-the-new-id">device settings</a> – the last 3-5 digits of the animal's passport. You then place collars with Urban transponders on the newly purchased animals and feed them at the automatic feeder. During the initial visit to the station, the animals are registered using their transponder and newly created at the feeder. However, the animal numbers for these new animals on the feeder are derived from the transponder number or corresponds to the animal number stored for this transponder in the feeder. This means that a different animal number has now been assigned to the same animal on the VitalControl device and on the feeder, resulting in a data conflict. Using the radio buttons for the <span style="font-style: italic;">animal number</span> <span style="font-size: 140%">➁</span>, you can now specify in the settings menu which of the two parallel animal numbers has priority and which will be deleted during synchronization.
+        </div>
+</div>
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="../images/settings-vitalcontrol-2.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Settings Menu VitalControl: Page 2" title="Settings VitalControl (2)" />
     <figcaption class="figure-caption fs-6">Screenshot 3: Settings Menu <span style="font-style: italic;">VitalControl</span>, Page 2</figcaption>
 </figure>
+
+<div class="alert alert-primary d-flex align-items-center" role="alert">
+    <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Alert:">
+        <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
+    </svg>
+    <div>
+        <span class="text-primary fs-3 fw-semibold">Attention</span><br>
+        For internal reasons, changes can currently only be made to the <span style="font-style: italic;">animal number</span> <span style="font-size: 140%">➁</span>. In later firmware versions, you can also make changes to the <span style="font-style: italic;">ear tag number</span> <span style="font-size: 140%">➀</span> and the <span style="font-style: italic;">date of birth</span> <span style="font-size: 140%">➂</span>.
+    </div>
+</div>
+
+By pressing the <span style="font-style: italic;">button</span> <span style="font-size: 140%">⑧</span> you will return to [page 1](#settings-menu-vitalcontrol-page-1) of the `VitalControl` settings menu.
