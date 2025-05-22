@@ -46,7 +46,7 @@ Page 1 of the <span style="font-style: italic;">VitalControl</span> settings men
 
 On this page, you can perform the following actions and settings.
 
-### Activation of the VitalControl Device
+### Activation of the VitalControl Device {#activation-vitalcontrol}
 
 In the default state of the machine, the VitalControl is deactivated. Set the <span style="font-style: italic;">On/Off</span> switch <span style="font-size: 140%">➀</span> to the right position <span style="font-style: italic;">Yes</span> to activate the VitalControl device. Subsequently, in the right sidebar of the feeder menu, below the icon(s) for the connected machine(s), the icon <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl device" title="VitalControl"/> for the `VitalControl` device will be displayed (see Screenshot <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Feeder Menu</a></span>, figure <span style="font-size: 140%">➁</span> there).
 
@@ -162,7 +162,7 @@ Press button <span style="font-size: 140%">⑧</span> to switch to [page 2](#set
 
 ## Settings Menu `VitalControl` - Page 2 {#settings-menu-vitalcontrol-page-2}
 
-### Priority in Synchronisation Conflicts
+### How to deal with data conflicts during synchronisation
 
 Data conflicts can occur when synchronising the data between the feeder and VitalControl device. A data conflict occurs when the data contradict each other on the VitalControl device and on the feeder (e.g. concerning the <span style="font-style: italic;">animal number</span> <span style="font-size: 140%">➁</span>). On this page 2 of the settings menu, you can specify whether and if, how data conflicts are resolved during synchronisation. There are three options here:
 

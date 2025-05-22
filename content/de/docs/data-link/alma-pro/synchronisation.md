@@ -63,7 +63,7 @@ Zur Durchführung einer Synchronisation zwischen dem Tränkeautomaten Alma Pro u
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Achtung</span><br>
-            Sollte das Symbol <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl-Gerät" title="VitalControl"/> für das <span style="font-family: monospace; font-size: 90%;">VitalControl</span>-Gerät in der rechten Seitenleiste <span style="font-weight: bold;">nicht</span> angezeigt werden, so ist das Gerät in den Einstellungen noch deaktiviert. Folgen Sie in diesem Fall den Anweisungen zur einmaligen <a href="../konfiguration#aktivierung-des-vitalcontrol-geräts" >Aktivierung</a> des Geräts.
+            Sollte das Symbol <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl-Gerät" title="VitalControl"/> für das <span style="font-family: monospace; font-size: 90%;">VitalControl</span>-Gerät in der rechten Seitenleiste <span style="font-weight: bold;">nicht</span> angezeigt werden, so ist das Gerät in den Einstellungen noch deaktiviert. Folgen Sie in diesem Fall den Anweisungen zur einmaligen <a href="../konfiguration#activation-vitalcontrol" >Aktivierung</a> des Geräts.
         </div>
     </div>
 

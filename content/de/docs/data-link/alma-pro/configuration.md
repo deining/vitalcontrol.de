@@ -55,7 +55,7 @@ Seite 1 des Einstellungsmenüs <span style="font-style: italic;">VitalControl</s
 
 Sie können auf dieser Seite folgende Aktionen und Einstellungen durchführen bzw. vornehmen.
 
-### Aktivierung des VitalControl-Geräts
+### Aktivierung des VitalControl-Geräts {#activation-vitalcontrol}
 
 Im Auslieferungszustand des Automaten ist das VitalControl deaktiviert. Stellen Sie den <span style="font-style: italic;">Ein/Aus</span> Schalter <span style="font-size: 140%">➀</span> auf die rechte Position <span style="font-style: italic;">Ja</span>, um das VitalControl-Gerät zu aktivieren. Anschließend wird in der rechten Seitenleiste des Automatenmenüs unterhalb der Symbol(e) für die/den angeschlossenen Automat(en) das Symbol <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl-Gerät" title="VitalControl"/> für das `VitalControl`-Gerät angezeigt (siehe Screenshot <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Automatenmenü</a></span>, dortige Ziffer <span style="font-size: 140%">➁</span>).
 
@@ -170,7 +170,9 @@ Durch das Drücken der Schaltfläche <span style="font-size: 140%">⑧</span> ge
 
 ## Einstellungsmenü `VitalControl` - Seite 2 {#settings-menu-vitalcontrol-page-2}
 
- Bei der Synchronisation der Daten zwischen Automat und VitalControl kann es zu Datenkonflikten kommen. Von einem Datenkonflikt spricht man immer dann, wenn sich die Daten, etwa zur <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%">➁</span>, auf dem VitalControl und auf dem Automaten widersprechen. Auf dieser Seite 2 des Einstellungsmenüs können Sie festlegen, ob und wie Datenkonflikte im Zuge der Synchronisation aufgelöst werden. Hierbei gibt es drei Möglichkeiten:
+### Umgang mit Datenkonflikten bei der Synchronisation
+
+Bei der Synchronisation der Daten zwischen Automat und VitalControl kann es zu Datenkonflikten kommen. Von einem Datenkonflikt spricht man immer dann, wenn sich die Daten, etwa zur <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%">➁</span>, auf dem VitalControl und auf dem Automaten widersprechen. Auf dieser Seite 2 des Einstellungsmenüs können Sie festlegen, ob und wie Datenkonflikte im Zuge der Synchronisation aufgelöst werden. Hierbei gibt es drei Möglichkeiten:
 
 * Die Automatendaten erhalten Vorrang, die Daten auf dem VitalControl-Gerät werden mit denjenigen des Automaten überschrieben.\
   Aktivieren Sie diese Option, indem Sie den Radiobutton in der linken Spalte -unterhalb des Automatensymbols <span style="font-size: 140%">➃</span>- auswählen.
