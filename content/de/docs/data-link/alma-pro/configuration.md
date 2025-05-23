@@ -9,6 +9,7 @@ slug: konfiguration
 weight: 10
 Kategorien: [VitalControl, Alma Pro]
 translationKey: alma-pro/configuration
+maphilight: true
 aliases: /vc/conf/de
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
@@ -50,18 +51,18 @@ So prüfen Sie, welche Firmwareversion auf ihrem Automaten installiert ist:
 Um die Aktivierung und Einrichtung des VitalControl-Geräts vornehmen zu können, müssen Sie in der Benutzerrolle `Betriebsleiter` am Automaten angemeldet sein. Andernfalls sind einige der unten abgebildeten und beschriebenen Schaltflächen für sie nicht sichtbar.
 {{% /alert %}}
 
-1. Klicken Sie in der linken Seitenliste des Touch-Terminals auf die unterste Schaltfläche <img src="/icons/gear.svg" width="25" align="bottom" alt="Alma Pro: Menü Einstellungen" title="Einstellungen"/> `Einstellungen` <span style="font-size: 140%">➀</span>. Sollten Sie sich im Hauptmenü befinden, wo keine Seitenleiste sichtbar ist, drücken sie die Schaltfläche &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Automatenmenü" title="Automatenmenü"/> `Automat`, um die Seitenleiste anzuzeigen.
+1. Klicken Sie in der linken Seitenliste des Touch-Terminals auf die unterste Schaltfläche <img src="/icons/gear.svg" id="Navigation_Digit_1" width="25" align="bottom" alt="Alma Pro: Menü Einstellungen" title="Einstellungen"/> `Einstellungen` <span style="font-size: 140%">➀</span>. Sollten Sie sich im Hauptmenü befinden, wo keine Seitenleiste sichtbar ist, drücken sie die Schaltfläche &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Automatenmenü" title="Automatenmenü"/> `Automat`, um die Seitenleiste anzuzeigen.
 
-1. Klicken Sie in der unteren Symbolleiste des Touch-Terminals auf die zweite Schaltfläche von links <img src="/icons/touch-gear.svg" width="25" align="bottom" alt="Einstellungen Touch-Terminal" title="Einstellungen Touch"/> `Einstellungen Touch-Terminal` <span style="font-size: 140%">➁</span>.
+1. Klicken Sie in der unteren Symbolleiste des Touch-Terminals auf die zweite Schaltfläche von links <img src="/icons/touch-gear.svg" id="Navigation_Digit_2" width="25" align="bottom" alt="Einstellungen Touch-Terminal" title="Einstellungen Touch"/> `Einstellungen Touch-Terminal` <span style="font-size: 140%">➁</span>.
 
-1. In der linken Hälfte des zentralen Bildschirmbereichs erscheint jetzt einen Reihe von Menüpunkten. Klicken Sie auf die unterste Schaltfläche `Zubehör` <span style="font-size: 140%">➂</span>.
+1. In der linken Hälfte des zentralen Bildschirmbereichs erscheint jetzt einen Reihe von Menüpunkten. Klicken Sie auf die unterste Schaltfläche `Zubehör` <span style="font-size: 140%" id="Navigation_Digit_3">➂</span>.
 
-1. In der rechten Hälfte des zentralen Bildschirmbereichs erscheint jetzt ein (oder ggf. auch mehrere) Menüpunkt(e). Klicken Sie auf die oberste Schaltfläche `VitalControl` <span style="font-size: 140%">➃</span>. Die Schaltfläche wechselt jetzt auf die linke Bildschirmhälfte.
+1. In der rechten Hälfte des zentralen Bildschirmbereichs erscheint jetzt ein (oder ggf. auch mehrere) Menüpunkt(e). Klicken Sie auf die oberste Schaltfläche `VitalControl` <span style="font-size: 140%" id="Navigation_Digit_4">➃</span>. Die Schaltfläche wechselt jetzt auf die linke Bildschirmhälfte.
 
-1. Unten in der rechten Bildschirmhälfte wird nun die Schaltfläche &nbsp;<img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Einstellungen VitalControl öffnen" title="Einstellungen öffnen" /> `Einstellungen öffnen` <span style="font-size: 140%">➄</span> angezeigt. Klicken Sie auf diese Schaltfläche, es öffnet sich dann ein Popup-Fenster, in welchem  [Seite 1](#settings-menu-vitalcontrol-page-1) des Einstellungsmenüs `VitalControl` angezeigt wird.
+1. Unten in der rechten Bildschirmhälfte wird nun die Schaltfläche &nbsp;<img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Einstellungen VitalControl öffnen" title="Einstellungen öffnen" /> `Einstellungen öffnen` <span style="font-size: 140%" id="Navigation_Digit_5">➄</span> angezeigt. Klicken Sie auf diese Schaltfläche, es öffnet sich dann ein Popup-Fenster, in welchem  [Seite 1](#settings-menu-vitalcontrol-page-1) des Einstellungsmenüs `VitalControl` angezeigt wird.
 
 <figure class="figure" style="margin-top: 5px;">
-    <img src="../images/open-settings-vitalcontrol.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Einstellungen VitalControl: Aufruf" title="Aufruf Einstellungsmenü VitalControl" />
+    <img src="../images/open-settings-vitalcontrol.png" usemap="#NavigationToVitalControlSettingsMenu" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Einstellungen VitalControl: Aufruf" title="Aufruf Einstellungsmenü VitalControl" />
     <figcaption class="figure-caption fs-6">Screenshot 2: Aufruf des Einstellungsmenüs <span style="font-style: italic;">VitalControl</span></figcaption>
 </figure>
 
@@ -72,7 +73,7 @@ Das Einstellungsmenü `VitalControl` ist auf zwei Seiten verteilt:
 Seite 1 des Einstellungsmenüs <span style="font-style: italic;">VitalControl</span> präsentiert sich wie folgt:
 
 <figure class="figure" style="margin-top: 5px;">
-    <img src="../images/settings-vitalcontrol-1.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Einstellungsmenü VitalControl: Seite 1" title="Einstellungen VitalControl (1)" />
+    <img src="../images/settings-vitalcontrol-1.png" usemap="#VitalControlSettingsPage1" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Einstellungsmenü VitalControl: Seite 1" title="Einstellungen VitalControl (1)" />
     <figcaption class="figure-caption fs-6">Screenshot 3: Einstellungsmenü <span style="font-style: italic;">VitalControl</span>, Seite 1</figcaption>
 </figure>
 
@@ -80,13 +81,13 @@ Sie können auf dieser Seite folgende Aktionen und Einstellungen durchführen bz
 
 ### Aktivierung des VitalControl-Geräts {#activation-vitalcontrol}
 
-Im Auslieferungszustand des Automaten ist das VitalControl deaktiviert. Stellen Sie den <span style="font-style: italic;">Ein/Aus</span> Schalter <span style="font-size: 140%">➀</span> auf die rechte Position <span style="font-style: italic;">Ja</span>, um das VitalControl-Gerät zu aktivieren. Anschließend wird in der rechten Seitenleiste des Automatenmenüs unterhalb der Symbol(e) für die/den angeschlossenen Automat(en) das Symbol <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl-Gerät" title="VitalControl"/> für das `VitalControl`-Gerät angezeigt (siehe Screenshot <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Automatenmenü</a></span>, dortige Ziffer <span style="font-size: 140%">➁</span>).
+Im Auslieferungszustand des Automaten ist das VitalControl deaktiviert. Stellen Sie den <span style="font-style: italic;">Ein/Aus</span> Schalter <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_1">➀</span> auf die rechte Position <span style="font-style: italic;">Ja</span>, um das VitalControl-Gerät zu aktivieren. Anschließend wird in der rechten Seitenleiste des Automatenmenüs unterhalb der Symbol(e) für die/den angeschlossenen Automat(en) das Symbol <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl-Gerät" title="VitalControl"/> für das `VitalControl`-Gerät angezeigt (siehe Screenshot <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Automatenmenü</a></span>, dortige Ziffer <span style="font-size: 140%">➁</span>).
 
 ### Synchronisation Automat <span style="font-size: 150%">🠲</span> VitalControl
 
 Auf der linken Seite des Bildschirms befinden sich zwei Checkboxen:
 
-* Checkbox <span style="font-size: 140%">➁</span> <span style="font-style: italic;">Auf VitalControl neu anlegen</span>. 
+* Checkbox <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_2">➁</span> <span style="font-style: italic;">Auf VitalControl neu anlegen</span>. 
 
     Diese Option regelt das Verhalten für den Fall, dass bei der Synchronisation auf dem Automaten Tiere vorhanden sind, die dem VitalControl noch nicht bekannt sind. Diese Option ist standardmäßig aktiviert und sollte in der Regel auch gesetzt bleiben. Erfassen ihre zugekauften Fresser durch Scannen ihrer Tierpässe, muss diese Option jedoch zwingend deaktiviert werden.
 
@@ -110,7 +111,7 @@ Auf der linken Seite des Bildschirms befinden sich zwei Checkboxen:
             </div>
         </div>
 
-* Checkbox <span style="font-size: 140%">➂</span> <span style="font-style: italic;">Vom VitalControl löschen</span>. 
+* Checkbox <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_3">➂</span> <span style="font-style: italic;">Vom VitalControl löschen</span>. 
 
     Diese Option regelt, ob Tiere, die nur auf dem VitalControl, nicht aber auf dem Automaten vorhanden sind, im Zuge der Synchronisation vom VitalControl gelöscht werden. Nutzen Sie das VitalControl nur während der Tränkeperiode der Tiere, so sollte die Option gesetzt sein. Möchten Sie die Tiere über die Tränkeperiode hinaus verfolgen, so müssen Sie diese Option deaktivieren.
 
@@ -124,7 +125,7 @@ Auf der linken Seite des Bildschirms befinden sich zwei Checkboxen:
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Achtung</span><br>
-            Ist diese Option aktiviert und zugleich auch die Option Checkbox <span style="font-size: 140%">➃</span> <span style="font-style: italic;">Auf Automat neu anlegen</span> aktiviert, so werden keine Tiere gelöscht, die jünger sind als im Ziffernfeld <span style="font-size: 140%">➃</span> <span style="font-style: italic;">Keine Löschung von Tieren jünger als</span> angegeben.
+            Ist diese Option aktiviert und zugleich auch die Option Checkbox <span style="font-size: 140%">➃</span> <span style="font-style: italic;">Auf Automat neu anlegen</span> aktiviert, so werden keine Tiere gelöscht, die jünger sind als im Ziffernfeld <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_4">➃</span> <span style="font-style: italic;">Keine Löschung von Tieren jünger als</span> angegeben.
         </div>
     </div>
 
@@ -147,7 +148,7 @@ Auf der linken Seite des Bildschirms befinden sich zwei Checkboxen:
 
 Auf der rechten Seite des Bildschirms befindet sich eine Checkbox sowie zwei Einstellungsfelder:
 
-* Checkbox <span style="font-size: 140%">⑤</span> <span style="font-style: italic;">Auf Automat neu anlegen</span>.
+* Checkbox <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_5">⑤</span> <span style="font-style: italic;">Auf Automat neu anlegen</span>.
 
     - Diese Option regelt, ob auf dem VitalControl vorhandene Tiere, die dem Automaten unbekannt sind, im Zuge der nächsten Synchronisation auf dem Automaten neu angelegt werden. Im Standard ist diese Option deaktiviert.
     
@@ -181,15 +182,15 @@ Auf der rechten Seite des Bildschirms befindet sich eine Checkbox sowie zwei Ein
         </div>
     </div>
 
-* Dropdown-Menü <span style="font-size: 140%">⑥</span> <span style="font-style: italic;">Futterkurve für importierte Tiere</span>.
+* Dropdown-Menü <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_6">⑥</span> <span style="font-style: italic;">Futterkurve für importierte Tiere</span>.
 
     In diesem Dropdown-Menü können Sie diejenige Futterkurve auswählen, die Tieren zugewiesen wird, welche im Zuge der Synchronisation neu auf dem Automaten angelegt werden.
 
-* Ziffernfeld <span style="font-size: 140%">⑦</span> <span style="font-style: italic;">Kein Import von Tieren älter als</span>.
+* Ziffernfeld <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_7">⑦</span> <span style="font-style: italic;">Kein Import von Tieren älter als</span>.
 
     In diesem Ziffernfeld können Sie das Mindestalter in Tagen angeben, ab welchem Tiere im Zuge der Synchronisation neu auf dem Automaten angelegt werden. Tiere, die jünger sind als das angegebene Mindestalter, werden im Zuge der Synchronisation nicht neu angelegt.
 
-Durch das Drücken der Schaltfläche <span style="font-size: 140%">⑧</span> gelangen sie zu [Seite 2](#settings-menu-vitalcontrol-page-2) des Einstellungsmenüs `VitalControl`.
+Durch das Drücken der Schaltfläche <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> gelangen sie zu [Seite 2](#settings-menu-vitalcontrol-page-2) des Einstellungsmenüs `VitalControl`.
 
 ## Einstellungsmenü `VitalControl` - Seite 2 {#settings-menu-vitalcontrol-page-2}
 
@@ -198,13 +199,13 @@ Durch das Drücken der Schaltfläche <span style="font-size: 140%">⑧</span> ge
 Bei der Synchronisation der Daten zwischen Automat und VitalControl kann es zu Datenkonflikten kommen. Von einem Datenkonflikt spricht man immer dann, wenn sich die Daten, etwa zur <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%">➁</span>, auf dem VitalControl und auf dem Automaten widersprechen. Auf dieser Seite 2 des Einstellungsmenüs können Sie festlegen, ob und wie Datenkonflikte im Zuge der Synchronisation aufgelöst werden. Hierbei gibt es drei Möglichkeiten:
 
 * Die Automatendaten erhalten Vorrang, die Daten auf dem VitalControl-Gerät werden mit denjenigen des Automaten überschrieben.\
-  Aktivieren Sie diese Option, indem Sie den Radiobutton in der linken Spalte – unterhalb des Automatensymbols <span style="font-size: 140%">➃</span> – auswählen.
+  Aktivieren Sie diese Option, indem Sie den Radiobutton in der linken Spalte – unterhalb des Automatensymbols <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_4">➃</span> – auswählen.
 
 * Die Daten des VitalControl erhalten Vorrang, die Daten auf dem Automaten werden mit denjenigen des VitalControl-Geräts überschrieben.\
-  Aktivieren Sie diese Option, indem Sie den Radiobutton in der mittleren Spalte – unterhalb des VitalControl-Geräts <span style="font-size: 140%">⑤</span> – auswählen.
+  Aktivieren Sie diese Option, indem Sie den Radiobutton in der mittleren Spalte – unterhalb des VitalControl-Geräts <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_5">⑤</span> – auswählen.
 
 * Es werden keine Änderungen vorgenommen, sowohl die Daten des Automaten als auch des VitalControl-Geräts bleiben unverändert.\
-  Aktivieren Sie diese Option, indem Sie den Radiobutton in der rechten Spalte <span style="font-size: 140%">⑥</span> auswählen.
+  Aktivieren Sie diese Option, indem Sie den Radiobutton in der rechten Spalte <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_6">⑥</span> auswählen.
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="60px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Example:">
@@ -212,12 +213,12 @@ Bei der Synchronisation der Daten zwischen Automat und VitalControl kann es zu D
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Beispiel</span><br>
-            Nachdem Sie eine Kälberpartie bezogen haben, legen Sie diese Tiere durch Scan aller Tierpässe neu auf dem VitalControl an. Die Tiernummern dieser Tiere auf dem VitalControl sind dann – je nach <a href="/docs/einstellungen/tiere-neu-anlegen/#digit-of-the-new-id">Geräteeinstellung</a> – die letzten 3-5 Ziffern des Tieres auf dem Tierpass. Danach legen Sie den zugekauften Tieren Halsbänder mit Urban-Transpondern um und versorgen diese am Automaten. Im Zuge des erstmaligen Stationsbesuchs werden die Tiere anhand ihres Transponders registriert und neu am Automaten angelegt. Die Tiernummern dieser neuen Tiere auf dem Automaten sind jedoch von der Transpondernummer abgeleitet oder entsprechen der Tiernummer, die zu diesem Transponder im Automaten hinterlegt ist. Somit wurde jetzt auf dem VitalControl-Gerät und auf dem Automaten für ein und dasselbe Tier jeweils eine unterschiedliche Tiernummer vergeben, ein Datenkonflikt liegt vor. Anhand der Radiobuttons für die <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%">➁</span> können sie jetzt im Einstellungsmenü  festlegen, welche der beiden parallel vergebenen Tiernummern Vorrang erhält und welche im Zuge der Synchronisation gelöscht wird.
+            Nachdem Sie eine Kälberpartie bezogen haben, legen Sie diese Tiere durch Scan aller Tierpässe neu auf dem VitalControl an. Die Tiernummern dieser Tiere auf dem VitalControl sind dann – je nach <a href="/docs/einstellungen/tiere-neu-anlegen/#digit-of-the-new-id">Geräteeinstellung</a> – die letzten 3-5 Ziffern des Tieres auf dem Tierpass. Danach legen Sie den zugekauften Tieren Halsbänder mit Urban-Transpondern um und versorgen diese am Automaten. Im Zuge des erstmaligen Stationsbesuchs werden die Tiere anhand ihres Transponders registriert und neu am Automaten angelegt. Die Tiernummern dieser neuen Tiere auf dem Automaten sind jedoch von der Transpondernummer abgeleitet oder entsprechen der Tiernummer, die zu diesem Transponder im Automaten hinterlegt ist. Somit wurde jetzt auf dem VitalControl-Gerät und auf dem Automaten für ein und dasselbe Tier jeweils eine unterschiedliche Tiernummer vergeben, ein Datenkonflikt liegt vor. Anhand der Radiobuttons für die <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_2">➁</span> können sie jetzt im Einstellungsmenü  festlegen, welche der beiden parallel vergebenen Tiernummern Vorrang erhält und welche im Zuge der Synchronisation gelöscht wird.
         </div>
 </div>
 
 <figure class="figure" style="margin-top: 5px;">
-    <img src="../images/settings-vitalcontrol-2.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Einstellungsmenü VitalControl: Seite 2" title="Einstellungen VitalControl (2)" />
+    <img src="../images/settings-vitalcontrol-2.png" usemap="#VitalControlSettingsPage2" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Einstellungsmenü VitalControl: Seite 2" title="Einstellungen VitalControl (2)" />
     <figcaption class="figure-caption fs-6">Screenshot 4: Einstellungsmenü <span style="font-style: italic;">VitalControl</span>, Seite 2</figcaption>
 </figure>
 
@@ -227,8 +228,37 @@ Bei der Synchronisation der Daten zwischen Automat und VitalControl kann es zu D
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Achtung</span><br>
-        Aus internen Gründen können aktuell nur Änderungen für die <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%">➁</span> vorgenommen werden. In späteren Firmwareversionen werden Sie auch Änderungen bezüglich der <span style="font-style: italic;">Ohrmarkennummer</span> <span style="font-size: 140%">➀</span> sowie des <span style="font-style: italic;">Geburtsdatums</span> <span style="font-size: 140%">➂</span> vornehmen können.
+        Aus internen Gründen können aktuell nur Änderungen für die <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%">➁</span> vorgenommen werden. In späteren Firmwareversionen werden Sie auch Änderungen bezüglich der <span style="font-style: italic;">Ohrmarkennummer</span> <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_1">➀</span> sowie des <span style="font-style: italic;">Geburtsdatums</span> <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_3">➂</span> vornehmen können.
     </div>
 </div>
 
-Durch das Drücken der <span style="font-style: italic;">Schaltfläche</span> <span style="font-size: 140%">⑧</span> gelangen sie zurück zu [Seite 1](#settings-menu-vitalcontrol-page-1) des Einstellungsmenüs `VitalControl`.
+Durch das Drücken der <span style="font-style: italic;">Schaltfläche</span> <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_8">⑧</span> gelangen sie zurück zu [Seite 1](#settings-menu-vitalcontrol-page-1) des Einstellungsmenüs `VitalControl`.
+
+<map name="NavigationToVitalControlSettingsMenu">
+    <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Klicke {{<T "Settings" >}}' href="#Navigation_Digit_1">
+    <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Klicke {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
+    <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Klicke {{<T "Accessories" >}}' href="#Navigation_Digit_3">
+    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Klicke {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Klicke {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+</map>
+
+<map name="VitalControlSettingsPage1">
+    <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='Klicke {{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
+    <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='Klicke {{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
+    <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='Klicke {{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
+    <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='Klicke {{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
+    <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='Klicke {{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
+    <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='Klicke {{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
+    <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='Klicke {{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
+    <area shape="rect" coords="142,517,215,616" alt='Seite 2' title='Klicke Seite 2' href="#VitalControlSettingsPage1_Digit_8">
+</map>
+
+<map name="VitalControlSettingsPage2">
+    <area shape="rect" coords="5,208,235,248" alt='{{<T "EarTagNumber" >}}' title='Klicke {{<T "EarTagNumber" >}}' href="#VitalControlSettingsPage2_Digit_1">
+    <area shape="rect" coords="5,208,235,328" alt='{{<T "AnimalNumber" >}}' title='Klicke {{<T "AnimalNumber" >}}' href="#VitalControlSettingsPage2_Digit_2">
+    <area shape="rect" coords="5,368,235,408" alt='{{<T "DateOfBirth" >}}' title='Klicke {{<T "DateOfBirth" >}}' href="#VitalControlSettingsPage2_Digit_3">
+    <area shape="rect" coords="392,116,455,177" alt='{{<T "Feeder" >}}' title='Klicke {{<T "Feeder" >}}' href="#VitalControlSettingsPage2_Digit_4">
+    <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='Klicke {{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
+    <area shape="rect" coords="678,97,775,159" alt='{{<T "NoChange_AP" >}}' title='Klicke {{<T "NoChange_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
+    <area shape="rect" coords="52,510,125,615" alt='Seite 1' title='Klicke Seite 1' href="#VitalControlSettingsPage2_Digit_8">
+</map>
