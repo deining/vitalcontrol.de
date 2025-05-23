@@ -8,6 +8,7 @@ description: >
 weight: 20
 categories: [Ανταλλαγή δεδομένων, Alma Pro]
 translationKey: alma-pro/synchronisation
+aliases: /vc/sync/el
 ---
 
 Για να πραγματοποιήσετε συγχρονισμό μεταξύ της αυτόματης ταΐστρας Alma Pro και της συσκευής VitalControl, ακολουθήστε τα εξής βήματα:

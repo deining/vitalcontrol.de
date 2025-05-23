@@ -9,6 +9,7 @@ weight: 10
 slug: configuration
 categories: [Alma Pro]
 translationKey: alma-pro/configuration
+aliases: /vc/conf/zh
 ---
 
 要啟用和設置 VitalControl 裝置，請按以下步驟進行：

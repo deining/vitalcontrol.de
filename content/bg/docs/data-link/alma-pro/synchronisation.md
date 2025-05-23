@@ -8,6 +8,7 @@ description: >
 weight: 20
 categories: [Обмен на данни, Alma Pro]
 translationKey: alma-pro/synchronisation
+aliases: /vc/sync/bg
 ---
 
 За да извършите синхронизация между автоматичната хранилка Alma Pro и устройството VitalControl, следвайте следните стъпки:

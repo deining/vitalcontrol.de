@@ -9,6 +9,7 @@ slug: configuration
 weight: 10
 categories: [Alma Pro, VitalControl]
 translationKey: alma-pro/configuration
+aliases: /vc/conf/en
 ---
 ## Requirements
 

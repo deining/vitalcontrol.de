@@ -9,6 +9,7 @@ slug: konfiguration
 weight: 10
 Kategorien: [VitalControl, Alma Pro]
 translationKey: alma-pro/configuration
+aliases: /vc/conf/de
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
   <symbol id="info-fill" viewBox="0 0 16 16">
