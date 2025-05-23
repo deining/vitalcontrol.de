@@ -19,25 +19,29 @@ translationKey: alma-pro/configuration
   </symbol>
 </svg>
 
+## Voraussetzungen
+
+Für den Einsatz des VitalControl-Geräts empfehlen wir eine Firmwareversion <span style="font-weight: bold">24-xx-xx</span> oder höher.\
+So prüfen Sie, welche Firmwareversion auf ihrem Automaten installiert ist:
+
+* Wechseln Sie zur Startseite des Automaten, klicken Sie dazu ggf. auf die oberste `Home`-Schaltfläche <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Icon Startbildschirm" title="Alma Pro: Startbildschirm"/>&nbsp; in der Navigationsleiste im linken Bildschirmbereich.
+* Klicken Sie im Startbildschirm auf die `Hilfe`-Schaltfläche <span style="font-size: 140%">➁</span> <img src="/icons/almapro/questionmark.svg" width="20" align="top" alt="Icon Hilfemenü" title="Alma Pro: Hilfebildscirm"/>&nbsp; im rechten oberen Bildschirmbereich.
+* Die Versionsnummer <span style="font-size: 140%">➂</span> wird jetzt links neben der Schaltfläche zur Sprachumschaltung angezeigt.
+
+<figure class="figure" style="margin-top: 5px;">
+    <img src="../images/version-check.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Einstellungen VitalControl: Aufruf" title="Aufruf Einstellungsmenü VitalControl" />
+    <figcaption class="figure-caption fs-6">Screenshot 1: <span style="font-style: italic;">Alma Pro</span>, Überprüfung der Firmwareversion</figcaption>
+</figure>
+
 <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Alert:">
         <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Achtung</span><br>
-        Sollten Sie die Anleitung nicht nachvollziehen können oder sollten die Screenshots bei ihrem Rechner anders aussehen, so liegt die Ursache eventuell darin, dass auf ihrem Automaten eine ältere Firmwareversion installiert ist.<br>
-        Für den Einsatz des VitalControls empfehlen wir eine Firmwareversion <span style="font-weight: bold">24-xx-xx</span> oder höher.<br>
-        So prüfen Sie, welche Firmwareversion auf ihrem Automaten installiert ist:
-        <ol>
-        <li>Wechseln Sie zur Startseite des Automaten, klicken Sie dazu ggf. auf die oberste Schaltfläche <span style="font-size: 140%">➁</span> in der Navigationsleiste im linken Bildschirmbereich.</li>
-        <li>Klicken Sie auf die mit einem Fragezeichen beschriftete Schaltfläche <span style="font-size: 140%">➀</span> im rechten oberen Bildschirmbereich.</li>
-        <li>Die Versionsnummer <span style="font-size: 140%">➂</span> wird jetzt links neben der Schaltfläche zur Sprachumschaltung angezeigt.</li>
-        </ol>
-        <img src="../images/version-check.png" class="border border-1 figure-img img-fluid rounded p-3" align="bottom" alt="Alma Pro: Prüfung der Firmwareversion" title="Alma Pro: Prüfung der Firmwareversion" />
+        Bei Firmwareversion niedriger als <span style="font-weight: bold">24-xx-xx</span> können Abweichungen zwischen den unten angegeben Screenshots und der Anzeige auf bei ihrem Touchscreen auftreten, so dass Sie die Anleitung möglicherweise nicht nachvollziehen können. Kontaktieren Sie in diesem Fall ihren Servicetechniker, damit dieser auf ihrem Automaten eine Aktualisierung der Firmware vornimmt.<br>
     </div>
 </div>
-
-Zur Aktivierung und Einrichtung des VitalControl-Geräts gehen Sie wie folgt vor:
 
 ## Einstellungsmenü `VitalControl` aufrufen
 
@@ -57,7 +61,7 @@ Um die Aktivierung und Einrichtung des VitalControl-Geräts vornehmen zu können
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="../images/open-settings-vitalcontrol.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Einstellungen VitalControl: Aufruf" title="Aufruf Einstellungsmenü VitalControl" />
-    <figcaption class="figure-caption fs-6">Screenshot 1: Aufruf des Einstellungsmenüs <span style="font-style: italic;">VitalControl</span></figcaption>
+    <figcaption class="figure-caption fs-6">Screenshot 2: Aufruf des Einstellungsmenüs <span style="font-style: italic;">VitalControl</span></figcaption>
 </figure>
 
 Das Einstellungsmenü `VitalControl` ist auf zwei Seiten verteilt: 
@@ -68,7 +72,7 @@ Seite 1 des Einstellungsmenüs <span style="font-style: italic;">VitalControl</s
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="../images/settings-vitalcontrol-1.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Einstellungsmenü VitalControl: Seite 1" title="Einstellungen VitalControl (1)" />
-    <figcaption class="figure-caption fs-6">Screenshot 2: Einstellungsmenü <span style="font-style: italic;">VitalControl</span>, Seite 1</figcaption>
+    <figcaption class="figure-caption fs-6">Screenshot 3: Einstellungsmenü <span style="font-style: italic;">VitalControl</span>, Seite 1</figcaption>
 </figure>
 
 Sie können auf dieser Seite folgende Aktionen und Einstellungen durchführen bzw. vornehmen.
@@ -193,10 +197,10 @@ Durch das Drücken der Schaltfläche <span style="font-size: 140%">⑧</span> ge
 Bei der Synchronisation der Daten zwischen Automat und VitalControl kann es zu Datenkonflikten kommen. Von einem Datenkonflikt spricht man immer dann, wenn sich die Daten, etwa zur <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%">➁</span>, auf dem VitalControl und auf dem Automaten widersprechen. Auf dieser Seite 2 des Einstellungsmenüs können Sie festlegen, ob und wie Datenkonflikte im Zuge der Synchronisation aufgelöst werden. Hierbei gibt es drei Möglichkeiten:
 
 * Die Automatendaten erhalten Vorrang, die Daten auf dem VitalControl-Gerät werden mit denjenigen des Automaten überschrieben.\
-  Aktivieren Sie diese Option, indem Sie den Radiobutton in der linken Spalte -unterhalb des Automatensymbols <span style="font-size: 140%">➃</span>- auswählen.
+  Aktivieren Sie diese Option, indem Sie den Radiobutton in der linken Spalte – unterhalb des Automatensymbols <span style="font-size: 140%">➃</span> – auswählen.
 
 * Die Daten des VitalControl erhalten Vorrang, die Daten auf dem Automaten werden mit denjenigen des VitalControl-Geräts überschrieben.\
-  Aktivieren Sie diese Option, indem Sie den Radiobutton in der mittleren Spalte -unterhalb des VitalControl-Geräts <span style="font-size: 140%">⑤</span>- auswählen.
+  Aktivieren Sie diese Option, indem Sie den Radiobutton in der mittleren Spalte – unterhalb des VitalControl-Geräts <span style="font-size: 140%">⑤</span> – auswählen.
 
 * Es werden keine Änderungen vorgenommen, sowohl die Daten des Automaten als auch des VitalControl-Geräts bleiben unverändert.\
   Aktivieren Sie diese Option, indem Sie den Radiobutton in der rechten Spalte <span style="font-size: 140%">⑥</span> auswählen.
@@ -207,13 +211,13 @@ Bei der Synchronisation der Daten zwischen Automat und VitalControl kann es zu D
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Beispiel</span><br>
-            Nachdem Sie eine Kälberpartie bezogen haben, legen Sie diese Tiere durch Scan aller Tierpässe neu auf dem VitalControl an. Die Tiernummern dieser Tiere auf dem VitalControl sind dann -je nach <a href="/docs/einstellungen/tiere-neu-anlegen/#digit-of-the-new-id">Geräteeinstellung</a>- die letzten 3-5 Ziffern des Tieres auf dem Tierpass. Danach legen Sie den zugekauften Tieren Halsbänder mit Urban-Transpondern um und versorgen diese am Automaten. Im Zuge des erstmaligen Stationsbesuchs werden die Tiere anhand ihres Transponders registriert und neu am Automaten angelegt. Die Tiernummern dieser neuen Tiere auf dem Automaten sind jedoch von der Transpondernummer abgeleitet oder entsprechen der Tiernummer, die zu diesem Transponder im Automaten hinterlegt ist. Somit wurde jetzt auf dem VitalControl-Gerät und auf dem Automaten für ein und dasselbe Tier jeweils eine unterschiedliche Tiernummer vergeben, ein Datenkonflikt liegt vor. Anhand der Radiobuttons für die <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%">➁</span> können sie jetzt im Einstellungsmenü  festlegen, welche der beiden parallel vergebenen Tiernummern Vorrang erhält und welche im Zuge der Synchronisation gelöscht wird.
+            Nachdem Sie eine Kälberpartie bezogen haben, legen Sie diese Tiere durch Scan aller Tierpässe neu auf dem VitalControl an. Die Tiernummern dieser Tiere auf dem VitalControl sind dann – je nach <a href="/docs/einstellungen/tiere-neu-anlegen/#digit-of-the-new-id">Geräteeinstellung</a> – die letzten 3-5 Ziffern des Tieres auf dem Tierpass. Danach legen Sie den zugekauften Tieren Halsbänder mit Urban-Transpondern um und versorgen diese am Automaten. Im Zuge des erstmaligen Stationsbesuchs werden die Tiere anhand ihres Transponders registriert und neu am Automaten angelegt. Die Tiernummern dieser neuen Tiere auf dem Automaten sind jedoch von der Transpondernummer abgeleitet oder entsprechen der Tiernummer, die zu diesem Transponder im Automaten hinterlegt ist. Somit wurde jetzt auf dem VitalControl-Gerät und auf dem Automaten für ein und dasselbe Tier jeweils eine unterschiedliche Tiernummer vergeben, ein Datenkonflikt liegt vor. Anhand der Radiobuttons für die <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%">➁</span> können sie jetzt im Einstellungsmenü  festlegen, welche der beiden parallel vergebenen Tiernummern Vorrang erhält und welche im Zuge der Synchronisation gelöscht wird.
         </div>
 </div>
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="../images/settings-vitalcontrol-2.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Einstellungsmenü VitalControl: Seite 2" title="Einstellungen VitalControl (2)" />
-    <figcaption class="figure-caption fs-6">Screenshot 3: Einstellungsmenü <span style="font-style: italic;">VitalControl</span>, Seite 2</figcaption>
+    <figcaption class="figure-caption fs-6">Screenshot 4: Einstellungsmenü <span style="font-style: italic;">VitalControl</span>, Seite 2</figcaption>
 </figure>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
