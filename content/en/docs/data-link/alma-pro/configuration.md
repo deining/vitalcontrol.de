@@ -36,7 +36,7 @@ To check which firmware version is installed on your device:
     </div>
 </div>
 
-## Navigation to settings menu `{{<T "VitalControl" >}}`
+## Navigation to settings menu `{{% T "VitalControl" %}}`
 
 {{% alert title="Attention" %}}
 To activate and set up the {{<T "VitalControl" >}} device, you must be logged in as the {{<T "SiteManager" >}} user role at the automatic feeder. Otherwise, some of the buttons shown and described below will not be visible to you.
@@ -59,7 +59,7 @@ To activate and set up the {{<T "VitalControl" >}} device, you must be logged in
 
 The `{{<T "VitalControl" >}}` settings menu is spread across two pages:
 
-## `{{<T "VitalControl" >}}` Settings Menu - Page 1 {#settings-menu-vitalcontrol-page-1}
+## `{{% T "VitalControl" %}}` Settings Menu - Page 1 {#settings-menu-vitalcontrol-page-1}
 
 Page 1 of the <span style="font-style: italic;">{{<T "VitalControl" >}}</span> settings menu is presented as follows:
 
@@ -70,11 +70,11 @@ Page 1 of the <span style="font-style: italic;">{{<T "VitalControl" >}}</span> s
 
 On this page, you can perform the following actions and settings.
 
-### Activation of the {{<T "VitalControl" >}} Device {#activation-vitalcontrol}
+### Activation of the {{% T "VitalControl" %}} Device {#activation-vitalcontrol}
 
 In the default state of the machine, the {{<T "VitalControl" >}} is deactivated. Set the <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> switch <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> to the right position <span style="font-style: italic;">{{<T "YES" >}}</span> to activate the {{<T "VitalControl" >}} device. Subsequently, in the right sidebar of the feeder menu, below the icon(s) for the connected machine(s), the icon <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl device" title="VitalControl"/> for the `{{<T "VitalControl" >}}` device will be displayed (see Screenshot <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Feeder Menu</a></span>, figure <span style="font-size: 140%">➁</span> there).
 
-### Synchronisation automatic feeder <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Synchronisation automatic feeder <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 On the left side of the screen, there are two checkboxes:
 
@@ -136,7 +136,7 @@ On the left side of the screen, there are two checkboxes:
         </div>
     </div>
 
-### Synchronisation {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Automatic Feeder
+### Synchronisation {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Automatic Feeder
 
 On the right side of the screen, there is a checkbox and two input fields:
 
@@ -184,7 +184,7 @@ On the right side of the screen, there is a checkbox and two input fields:
 
 Press button <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> to switch to [page 2](#settings-menu-vitalcontrol-page-2) of the <span style="font-style: italic;">settings menu {{<T "VitalControl" >}}</span>.
 
-## Settings Menu `{{<T "VitalControl" >}}` - Page 2 {#settings-menu-vitalcontrol-page-2}
+## Settings Menu `{{% T "VitalControl" %}}` - Page 2 {#settings-menu-vitalcontrol-page-2}
 
 ### How to deal with data conflicts during synchronisation
 
@@ -230,8 +230,8 @@ By pressing the <span style="font-style: italic;">button</span> <span style="fon
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Click {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Click {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Click {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Click {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Click {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Click {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Click {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
 <map name="VitalControlSettingsPage1">

@@ -36,7 +36,7 @@ For å sjekke hvilken firmwareversjon som er installert på enheten din:
     </div>
 </div>
 
-## Navigasjon til innstillingsmenyen `{{<T "VitalControl" >}}`
+## Navigasjon til innstillingsmenyen `{{% T "VitalControl" %}}`
 
 {{% alert title="Oppmerksomhet" %}}
 For å aktivere og sette opp enheten {{<T "VitalControl" >}}, må du være logget inn som brukerrollen {{<T "SiteManager" >}} på den automatiske materen. Ellers vil noen av knappene som vises og beskrives nedenfor ikke være synlige for deg.
@@ -59,7 +59,7 @@ For å aktivere og sette opp enheten {{<T "VitalControl" >}}, må du være logge
 
 `{{<T "VitalControl" >}}`-innstillingsmenyen er fordelt over to sider:
 
-## `{{<T "VitalControl" >}}` Innstillingsmeny - Side 1 {#settings-menu-vitalcontrol-page-1}
+## `{{% T "VitalControl" %}}` Innstillingsmeny - Side 1 {#settings-menu-vitalcontrol-page-1}
 
 Side 1 av <span style="font-style: italic;">{{<T "VitalControl" >}}</span>-innstillingsmenyen presenteres som følger:
 
@@ -70,11 +70,11 @@ Side 1 av <span style="font-style: italic;">{{<T "VitalControl" >}}</span>-innst
 
 På denne siden kan du utføre følgende handlinger og innstillinger.
 
-### Aktivering av {{<T "VitalControl" >}}-enheten {#activation-vitalcontrol}
+### Aktivering av {{% T "VitalControl" %}}-enheten {#activation-vitalcontrol}
 
 I maskinens standardtilstand er {{<T "VitalControl" >}} deaktivert. Sett bryteren <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> til høyre posisjon <span style="font-style: italic;">{{<T "YES" >}}</span> for å aktivere {{<T "VitalControl" >}}-enheten. Deretter vil ikonet <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl-enhet" title="VitalControl"/> for `{{<T "VitalControl" >}}`-enheten vises i høyre sidefelt av matermenyen, under ikonet/ikonene for den/de tilkoblede maskinen(e) (se Skjermbilde <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Matermeny</a></span>, figur <span style="font-size: 140%">➁</span> der).
 
-### Synkronisering automatisk mater <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Synkronisering automatisk mater <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 På venstre side av skjermen er det to avkrysningsbokser:
 
@@ -136,7 +136,7 @@ Denne innstillingen styrer om dyr som kun er til stede på {{<T "VitalControl" >
     </div>
 </div>
 
-### Synkronisering {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Automatisk Mater
+### Synkronisering {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Automatisk Mater
 
 På høyre side av skjermen er det en avkrysningsboks og to inndatafelt:
 
@@ -185,7 +185,7 @@ På høyre side av skjermen er det en avkrysningsboks og to inndatafelt:
 
 Trykk på knappen <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> for å bytte til [side 2](#settings-menu-vitalcontrol-page-2) av <span style="font-style: italic;">innstillingsmenyen {{<T "VitalControl" >}}</span>.
 
-## Innstillingsmeny `{{<T "VitalControl" >}}` - Side 2 {#settings-menu-vitalcontrol-page-2}
+## Innstillingsmeny `{{% T "VitalControl" %}}` - Side 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Hvordan håndtere datakonflikter under synkronisering
 
@@ -233,8 +233,8 @@ Ved å trykke på <span style="font-style: italic;">knappen</span> <span style="
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Klikk {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Klikk {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Klikk {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Klikk {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Klikk {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Klikk {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Klikk {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
 <map name="VitalControlSettingsPage1">

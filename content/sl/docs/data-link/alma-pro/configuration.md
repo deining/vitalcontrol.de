@@ -36,7 +36,7 @@ Za preverjanje, katera različica vdelane programske opreme je nameščena na va
     </div>
 </div>
 
-## Navigacija do menija nastavitev `{{<T "VitalControl" >}}`
+## Navigacija do menija nastavitev `{{% T "VitalControl" %}}`
 
 {{% alert title="Pozor" %}}
 Za aktivacijo in nastavitev naprave {{<T "VitalControl" >}}, morate biti prijavljeni kot uporabnik z vlogo {{<T "SiteManager" >}} na avtomatskem podajalniku. V nasprotnem primeru nekateri gumbi, prikazani in opisani spodaj, ne bodo vidni.
@@ -59,7 +59,7 @@ Za aktivacijo in nastavitev naprave {{<T "VitalControl" >}}, morate biti prijavl
 
 Meni nastavitev `{{<T "VitalControl" >}}` je razdeljen na dve strani:
 
-## Meni nastavitev `{{<T "VitalControl" >}}` - Stran 1 {#settings-menu-vitalcontrol-page-1}
+## Meni nastavitev `{{% T "VitalControl" %}}` - Stran 1 {#settings-menu-vitalcontrol-page-1}
 
 Stran 1 menija nastavitev <span style="font-style: italic;">{{<T "VitalControl" >}}</span> je predstavljena takole:
 
@@ -70,11 +70,11 @@ Stran 1 menija nastavitev <span style="font-style: italic;">{{<T "VitalControl" 
 
 Na tej strani lahko izvedete naslednja dejanja in nastavitve.
 
-### Aktivacija naprave {{<T "VitalControl" >}} {#activation-vitalcontrol}
+### Aktivacija naprave {{% T "VitalControl" %}} {#activation-vitalcontrol}
 
 V privzetem stanju naprave je {{<T "VitalControl" >}} deaktiviran. Nastavite stikalo <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> v desni položaj <span style="font-style: italic;">{{<T "YES" >}}</span> za aktivacijo naprave {{<T "VitalControl" >}}. Nato bo v desni stranski vrstici menija podajalnika, pod ikono/ikone za povezano napravo/naprave, prikazana ikona <img src="/icons/device.svg" width="20" align="bottom" alt="Naprava VitalControl" title="VitalControl"/> za napravo `{{<T "VitalControl" >}}` (glejte Posnetek zaslona <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Meni podajalnika</a></span>, slika <span style="font-size: 140%">➁</span> tam).
 
-### Sinhronizacija samodejnega podajalnika <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Sinhronizacija samodejnega podajalnika <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 Na levi strani zaslona sta dve potrditveni polji:
 
@@ -136,7 +136,7 @@ Ta možnost nadzoruje, ali se živali, ki so prisotne samo na {{<T "VitalControl
     </div>
 </div>
 
-### Sinhronizacija {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Samodejni hranilnik
+### Sinhronizacija {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Samodejni hranilnik
 
 Na desni strani zaslona je potrditveno polje in dve vnosni polji:
 
@@ -185,7 +185,7 @@ Na desni strani zaslona je potrditveno polje in dve vnosni polji:
 
 Pritisnite gumb <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> za preklop na [stran 2](#settings-menu-vitalcontrol-page-2) <span style="font-style: italic;">menija nastavitev {{<T "VitalControl" >}}</span>.
 
-## Meni nastavitev `{{<T "VitalControl" >}}` - Stran 2 {#settings-menu-vitalcontrol-page-2}
+## Meni nastavitev `{{% T "VitalControl" %}}` - Stran 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Kako ravnati s podatkovnimi konflikti med sinhronizacijo
 
@@ -231,8 +231,8 @@ S pritiskom na <span style="font-style: italic;">gumb</span> <span style="font-s
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Kliknite {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Kliknite {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Kliknite {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Kliknite {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Kliknite {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Kliknite {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Kliknite {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
 <map name="VitalControlSettingsPage1">

@@ -36,7 +36,7 @@ aliases: /vc/conf/zh
     </div>
 </div>
 
-## 導航至設定選單 `{{<T "VitalControl" >}}`
+## 導航至設定選單 `{{% T "VitalControl" %}}`
 
 {{% alert title="注意" %}}
 要啟用和設定 {{<T "VitalControl" >}} 裝置，您必須以 {{<T "SiteManager" >}} 使用者角色登入自動餵食器。否則，您將無法看到以下顯示和描述的一些按鈕。
@@ -59,7 +59,7 @@ aliases: /vc/conf/zh
 
 `{{<T "VitalControl" >}}` 設定選單分為兩頁：
 
-## `{{<T "VitalControl" >}}` 設定選單 - 第 1 頁 {#settings-menu-vitalcontrol-page-1}
+## `{{% T "VitalControl" %}}` 設定選單 - 第 1 頁 {#settings-menu-vitalcontrol-page-1}
 
 <span style="font-style: italic;">{{<T "VitalControl" >}}</span> 設定選單的第 1 頁如下所示：
 
@@ -70,11 +70,11 @@ aliases: /vc/conf/zh
 
 在此頁面上，您可以執行以下操作和設定。
 
-### 啟用 {{<T "VitalControl" >}} 裝置 {#activation-vitalcontrol}
+### 啟用 {{% T "VitalControl" %}} 裝置 {#activation-vitalcontrol}
 
 在機器的預設狀態下，{{<T "VitalControl" >}} 是停用的。將 <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> 開關 <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> 設置到右側位置 <span style="font-style: italic;">{{<T "YES" >}}</span> 以啟用 {{<T "VitalControl" >}} 裝置。隨後，在供料器選單的右側欄中，連接機器的圖標下方，將顯示 `{{<T "VitalControl" >}}` 裝置的圖標 <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl 裝置" title="VitalControl"/>（參見截圖 <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">供料器選單</a></span>，圖 <span style="font-size: 140%">➁</span>）。
 
-### 同步自動供料器 <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### 同步自動供料器 <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 在螢幕的左側，有兩個核取方塊：
 
@@ -136,7 +136,7 @@ aliases: /vc/conf/zh
     </div>
 </div>
 
-### 同步 {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> 自動餵食器
+### 同步 {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> 自動餵食器
 
 在螢幕的右側，有一個複選框和兩個輸入欄位：
 
@@ -184,7 +184,7 @@ aliases: /vc/conf/zh
 
 按下按鈕 <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> 切換到<span style="font-style: italic;">設定選單 {{<T "VitalControl" >}}</span>的[第2頁](#settings-menu-vitalcontrol-page-2)。
 
-## 設定選單 `{{<T "VitalControl" >}}` - 第2頁 {#settings-menu-vitalcontrol-page-2}
+## 設定選單 `{{% T "VitalControl" %}}` - 第2頁 {#settings-menu-vitalcontrol-page-2}
 
 ### 如何處理同步過程中的數據衝突
 
@@ -232,8 +232,8 @@ aliases: /vc/conf/zh
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='點擊 {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='點擊 {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='點擊 {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="點擊 {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="點擊 {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='點擊 {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='點擊 {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
 <map name="VitalControlSettingsPage1">
@@ -244,7 +244,7 @@ aliases: /vc/conf/zh
     <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='點擊 {{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
     <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='點擊 {{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
     <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='點擊 {{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
-    <area shape="rect" coords="142,517,215,616" alt='Page 2' title='點擊 Page 2' href="#VitalControlSettingsPage1_Digit_8">
+    <area shape="rect" coords="142,517,215,616" alt='頁數 2' title='點擊 頁數 2' href="#VitalControlSettingsPage1_Digit_8">
 </map>
 
 <map name="VitalControlSettingsPage2">
@@ -254,5 +254,5 @@ aliases: /vc/conf/zh
     <area shape="rect" coords="392,116,455,177" alt='{{<T "Feeder" >}}' title='點擊 {{<T "Feeder" >}}' href="#VitalControlSettingsPage2_Digit_4">
     <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='點擊 {{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
     <area shape="rect" coords="678,97,775,159" alt='{{<T "NoChange_AP" >}}' title='點擊 {{<T "NoChange_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
-    <area shape="rect" coords="52,510,125,615" alt='Page 1' title='點擊 Page 1' href="#VitalControlSettingsPage2_Digit_8">
+    <area shape="rect" coords="52,510,125,615" alt='頁數 1' title='點擊 頁數 1' href="#VitalControlSettingsPage2_Digit_8">
 </map>

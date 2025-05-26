@@ -36,7 +36,7 @@ aliases: /vc/conf/bg
     </div>
 </div>
 
-## Навигация към менюто за настройки `{{<T "VitalControl" >}}`
+## Навигация към менюто за настройки `{{% T "VitalControl" %}}`
 
 {{% alert title="Внимание" %}}
 За да активирате и настроите устройството {{<T "VitalControl" >}}, трябва да сте влезли като потребител с роля {{<T "SiteManager" >}} на автоматичния хранилник. В противен случай някои от бутоните, показани и описани по-долу, няма да бъдат видими за вас.
@@ -59,7 +59,7 @@ aliases: /vc/conf/bg
 
 Менюто за настройки на `{{<T "VitalControl" >}}` е разпределено на две страници:
 
-## Меню за настройки на `{{<T "VitalControl" >}}` - Страница 1 {#settings-menu-vitalcontrol-page-1}
+## Меню за настройки на `{{% T "VitalControl" %}}` - Страница 1 {#settings-menu-vitalcontrol-page-1}
 
 Страница 1 от менюто за настройки на <span style="font-style: italic;">{{<T "VitalControl" >}}</span> е представена по следния начин:
 
@@ -70,11 +70,11 @@ aliases: /vc/conf/bg
 
 На тази страница можете да извършите следните действия и настройки.
 
-### Активиране на устройството {{<T "VitalControl" >}} {#activation-vitalcontrol}
+### Активиране на устройството {{% T "VitalControl" %}} {#activation-vitalcontrol}
 
 В стандартното състояние на машината, {{<T "VitalControl" >}} е деактивиран. Задайте превключвателя <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> в дясната позиция <span style="font-style: italic;">{{<T "YES" >}}</span>, за да активирате устройството {{<T "VitalControl" >}}. След това, в дясната странична лента на менюто на фидера, под иконата(ите) за свързаната(ите) машина(и), ще се появи иконата <img src="/icons/device.svg" width="20" align="bottom" alt="Устройство VitalControl" title="VitalControl"/> за устройството `{{<T "VitalControl" >}}` (вижте Снимка <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Меню на фидера</a></span>, фигура <span style="font-size: 140%">➁</span> там).
 
-### Синхронизация автоматичен фидер <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Синхронизация автоматичен фидер <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 В лявата част на екрана има две отметки:
 
@@ -126,7 +126,6 @@ aliases: /vc/conf/bg
 - ако искате да продължите да събирате данни за животните след млечния период, например по време на претегляне,
 - ако сте готови да изтриете животните от {{<T "VitalControl" >}} ръчно.
 
-```markdown
 <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
         <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
@@ -137,7 +136,7 @@ aliases: /vc/conf/bg
     </div>
 </div>
 
-### Синхронизация {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Автоматична хранилка
+### Синхронизация {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Автоматична хранилка
 
 В дясната част на екрана има отметка и две полета за въвеждане:
 
@@ -149,8 +148,6 @@ aliases: /vc/conf/bg
 
     - ако използвате вашето устройство {{<T "VitalControl" >}} на няколко хранилки едновременно,
     - ако водите вашите животни директно до хранилката, без първо да ги регистрирате чрез устройството {{<T "VitalControl" >}}. Вашите животни ще бъдат автоматично създадени по време на регистрацията, когато бъдат нахранени на хранилката за първи път.
-```
-
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -187,7 +184,7 @@ aliases: /vc/conf/bg
 
 Натиснете бутона <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span>, за да преминете към [страница 2](#settings-menu-vitalcontrol-page-2) на <span style="font-style: italic;">менюто за настройки {{<T "VitalControl" >}}</span>.
 
-## Меню за настройки `{{<T "VitalControl" >}}` - Страница 2 {#settings-menu-vitalcontrol-page-2}
+## Меню за настройки `{{% T "VitalControl" %}}` - Страница 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Как да се справим с конфликти на данни по време на синхронизация
 
@@ -235,8 +232,8 @@ aliases: /vc/conf/bg
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Кликнете {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Кликнете {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Кликнете {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Кликнете {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Кликнете {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Кликнете {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Кликнете {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
 <map name="VitalControlSettingsPage1">

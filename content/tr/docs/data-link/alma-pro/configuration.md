@@ -36,7 +36,7 @@ Cihazınıza hangi ürün yazılımı sürümünün yüklü olduğunu kontrol et
     </div>
 </div>
 
-## Ayarlar menüsüne gezinme `{{<T "VitalControl" >}}`
+## Ayarlar menüsüne gezinme `{{% T "VitalControl" %}}`
 
 {{% alert title="Dikkat" %}}
 {{<T "VitalControl" >}} cihazını etkinleştirmek ve kurmak için otomatik yemlikte {{<T "SiteManager" >}} kullanıcı rolü olarak oturum açmış olmanız gerekir. Aksi takdirde, aşağıda gösterilen ve açıklanan bazı düğmeler size görünmeyecektir.
@@ -59,7 +59,7 @@ Cihazınıza hangi ürün yazılımı sürümünün yüklü olduğunu kontrol et
 
 `{{<T "VitalControl" >}}` ayar menüsü iki sayfaya yayılmıştır:
 
-## `{{<T "VitalControl" >}}` Ayar Menüsü - Sayfa 1 {#settings-menu-vitalcontrol-page-1}
+## `{{% T "VitalControl" %}}` Ayar Menüsü - Sayfa 1 {#settings-menu-vitalcontrol-page-1}
 
 <span style="font-style: italic;">{{<T "VitalControl" >}}</span> ayar menüsünün 1. sayfası şu şekilde sunulmuştur:
 
@@ -70,11 +70,11 @@ Cihazınıza hangi ürün yazılımı sürümünün yüklü olduğunu kontrol et
 
 Bu sayfada, aşağıdaki işlemleri ve ayarları gerçekleştirebilirsiniz.
 
-### {{<T "VitalControl" >}} Cihazının Aktifleştirilmesi {#activation-vitalcontrol}
+### {{% T "VitalControl" %}} Cihazının Aktifleştirilmesi {#activation-vitalcontrol}
 
 Makinenin varsayılan durumunda, {{<T "VitalControl" >}} devre dışıdır. {{<T "VitalControl" >}} cihazını aktifleştirmek için <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> anahtarını <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> sağ konuma <span style="font-style: italic;">{{<T "YES" >}}</span> getirin. Ardından, besleyici menüsünün sağ kenar çubuğunda, bağlı makine(ler)in simgelerinin altında, `{{<T "VitalControl" >}}` cihazı için <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl cihazı" title="VitalControl"/> simgesi görüntülenecektir (bkz. Ekran Görüntüsü <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Besleyici Menüsü</a></span>, oradaki şekil <span style="font-size: 140%">➁</span>).
 
-### Senkronizasyon otomatik besleyici <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Senkronizasyon otomatik besleyici <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 Ekranın sol tarafında iki onay kutusu bulunmaktadır:
 
@@ -136,7 +136,7 @@ Bu seçeneği <span style="font-weight: bold">devre dışı bırakın</span>:
     </div>
 </div>
 
-### Senkronizasyon {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Otomatik Yemlik
+### Senkronizasyon {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Otomatik Yemlik
 
 Ekranın sağ tarafında bir onay kutusu ve iki giriş alanı bulunmaktadır:
 
@@ -185,7 +185,7 @@ Ekranın sağ tarafında bir onay kutusu ve iki giriş alanı bulunmaktadır:
 
 Düğmeye basın <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> <span style="font-style: italic;">ayarlar menüsü {{<T "VitalControl" >}}</span> [sayfa 2](#settings-menu-vitalcontrol-page-2)'ye geçmek için.
 
-## Ayarlar Menüsü `{{<T "VitalControl" >}}` - Sayfa 2 {#settings-menu-vitalcontrol-page-2}
+## Ayarlar Menüsü `{{% T "VitalControl" %}}` - Sayfa 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Senkronizasyon sırasında veri çakışmalarıyla nasıl başa çıkılır
 
@@ -228,11 +228,11 @@ Veri çakışmaları, besleyici ile {{<T "VitalControl" >}} cihazı arasında ve
 <span style="font-style: italic;">Düğmeye</span> <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_8">⑧</span> basarak `{{<T "VitalControl" >}}` ayarları menüsünün [sayfa 1](#settings-menu-vitalcontrol-page-1)'ine geri döneceksiniz.
 
 <map name="NavigationToVitalControlSettingsMenu">
-    <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Click {{<T "Settings" >}}' href="#Navigation_Digit_1">
-    <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Click {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
-    <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Click {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Click {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Click {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Tıklayın {{<T "Settings" >}}' href="#Navigation_Digit_1">
+    <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Tıklayın {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
+    <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Tıklayın {{<T "Accessories" >}}' href="#Navigation_Digit_3">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Tıklayın {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Tıklayın {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
 <map name="VitalControlSettingsPage1">

@@ -36,7 +36,7 @@ Tarkista, mikä laiteohjelmistoversio on asennettu laitteeseesi:
     </div>
 </div>
 
-## Navigointi asetusten valikkoon `{{<T "VitalControl" >}}`
+## Navigointi asetusten valikkoon `{{% T "VitalControl" %}}`
 
 {{% alert title="Huomio" %}}
 Aktivoidaksesi ja asettaaksesi {{<T "VitalControl" >}}-laitteen, sinun on oltava kirjautuneena sisään {{<T "SiteManager" >}}-käyttäjäroolilla automaattisella syöttölaitteella. Muutoin jotkin alla näkyvistä ja kuvatuista painikkeista eivät ole näkyvissä sinulle.
@@ -59,7 +59,7 @@ Aktivoidaksesi ja asettaaksesi {{<T "VitalControl" >}}-laitteen, sinun on oltava
 
 `{{<T "VitalControl" >}}` -asetusten valikko on jaettu kahdelle sivulle:
 
-## `{{<T "VitalControl" >}}` Asetusvalikko - Sivu 1 {#settings-menu-vitalcontrol-page-1}
+## `{{% T "VitalControl" %}}` Asetusvalikko - Sivu 1 {#settings-menu-vitalcontrol-page-1}
 
 Sivu 1 <span style="font-style: italic;">{{<T "VitalControl" >}}</span> -asetusten valikosta esitetään seuraavasti:
 
@@ -70,11 +70,11 @@ Sivu 1 <span style="font-style: italic;">{{<T "VitalControl" >}}</span> -asetust
 
 Tällä sivulla voit suorittaa seuraavat toiminnot ja asetukset.
 
-### {{<T "VitalControl" >}}-laitteen aktivointi {#activation-vitalcontrol}
+### {{% T "VitalControl" %}}-laitteen aktivointi {#activation-vitalcontrol}
 
 Koneen oletustilassa {{<T "VitalControl" >}} on deaktivoitu. Aseta <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> -kytkin <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> oikeaan asentoon <span style="font-style: italic;">{{<T "YES" >}}</span> aktivoidaksesi {{<T "VitalControl" >}} -laitteen. Tämän jälkeen syöttölaitteen valikon oikeassa sivupalkissa, yhdistetyn koneen kuvakkeen alapuolella, näytetään `{{<T "VitalControl" >}}` -laitteen kuvake <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl-laite" title="VitalControl"/> (katso kuvakaappaus <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Syöttölaitteen valikko</a></span>, kuva <span style="font-size: 140%">➁</span> siellä).
 
-### Synkronointi automaattinen syöttölaite <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Synkronointi automaattinen syöttölaite <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 Näytön vasemmalla puolella on kaksi valintaruutua:
 
@@ -136,7 +136,7 @@ Tämä vaihtoehto hallitsee, poistetaanko eläimet, jotka ovat läsnä vain {{<T
     </div>
 </div>
 
-### Synkronointi {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Automaattinen ruokintalaite
+### Synkronointi {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Automaattinen ruokintalaite
 
 Näytön oikealla puolella on valintaruutu ja kaksi syöttökenttää:
 
@@ -184,7 +184,7 @@ Näytön oikealla puolella on valintaruutu ja kaksi syöttökenttää:
 
 Paina painiketta <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> siirtyäksesi [sivulle 2](#settings-menu-vitalcontrol-page-2) <span style="font-style: italic;">asetukset-valikossa {{<T "VitalControl" >}}</span>.
 
-## Asetukset-valikko `{{<T "VitalControl" >}}` - Sivu 2 {#settings-menu-vitalcontrol-page-2}
+## Asetukset-valikko `{{% T "VitalControl" %}}` - Sivu 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Kuinka käsitellä tietokonflikteja synkronoinnin aikana
 
@@ -232,8 +232,8 @@ Painamalla <span style="font-style: italic;">painiketta</span> <span style="font
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Klikkaa {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Klikkaa {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Klikkaa {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Klikkaa {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Klikkaa {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Klikkaa {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Klikkaa {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
 <map name="VitalControlSettingsPage1">

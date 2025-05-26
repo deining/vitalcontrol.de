@@ -36,7 +36,7 @@ aliases: /vc/conf/ru
     </div>
 </div>
 
-## Переход в меню настроек `{{<T "VitalControl" >}}`
+## Переход в меню настроек `{{% T "VitalControl" %}}`
 
 {{% alert title="Внимание" %}}
 Для активации и настройки устройства {{<T "VitalControl" >}}, вы должны быть авторизованы как пользователь с ролью {{<T "SiteManager" >}} на автоматической кормушке. В противном случае некоторые из кнопок, показанных и описанных ниже, будут вам недоступны.
@@ -59,7 +59,7 @@ aliases: /vc/conf/ru
 
 Меню настроек `{{<T "VitalControl" >}}` разделено на две страницы:
 
-## Меню настроек `{{<T "VitalControl" >}}` - Страница 1 {#settings-menu-vitalcontrol-page-1}
+## Меню настроек `{{% T "VitalControl" %}}` - Страница 1 {#settings-menu-vitalcontrol-page-1}
 
 Страница 1 меню настроек <span style="font-style: italic;">{{<T "VitalControl" >}}</span> представлена следующим образом:
 
@@ -70,11 +70,11 @@ aliases: /vc/conf/ru
 
 На этой странице вы можете выполнить следующие действия и настройки.
 
-### Активация устройства {{<T "VitalControl" >}} {#activation-vitalcontrol}
+### Активация устройства {{% T "VitalControl" %}} {#activation-vitalcontrol}
 
 В состоянии по умолчанию устройство {{<T "VitalControl" >}} деактивировано. Установите переключатель <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> в правое положение <span style="font-style: italic;">{{<T "YES" >}}</span>, чтобы активировать устройство {{<T "VitalControl" >}}. Затем в правой боковой панели меню загрузчика, под значком(ами) подключенной машины(машин), будет отображаться значок <img src="/icons/device.svg" width="20" align="bottom" alt="Устройство VitalControl" title="VitalControl"/> для устройства `{{<T "VitalControl" >}}` (см. Скриншот <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Меню загрузчика</a></span>, рисунок <span style="font-size: 140%">➁</span> там).
 
-### Синхронизация автоматического загрузчика <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Синхронизация автоматического загрузчика <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 На левой стороне экрана находятся два флажка:
 
@@ -136,7 +136,7 @@ aliases: /vc/conf/ru
     </div>
 </div>
 
-### Синхронизация {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Автоматическая кормушка
+### Синхронизация {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Автоматическая кормушка
 
 Справа на экране находится флажок и два поля ввода:
 
@@ -185,7 +185,7 @@ aliases: /vc/conf/ru
 
 Нажмите кнопку <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span>, чтобы перейти на [страницу 2](#settings-menu-vitalcontrol-page-2) <span style="font-style: italic;">меню настроек {{<T "VitalControl" >}}</span>.
 
-## Меню настроек `{{<T "VitalControl" >}}` - Страница 2 {#settings-menu-vitalcontrol-page-2}
+## Меню настроек `{{% T "VitalControl" %}}` - Страница 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Как справляться с конфликтами данных во время синхронизации
 
@@ -233,8 +233,8 @@ aliases: /vc/conf/ru
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Нажмите {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Нажмите {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Нажмите {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Нажмите {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Нажмите {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Нажмите {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Нажмите {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
 <map name="VitalControlSettingsPage1">

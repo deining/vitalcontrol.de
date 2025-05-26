@@ -36,7 +36,7 @@ Om te controleren welke firmwareversie op uw apparaat is geïnstalleerd:
     </div>
 </div>
 
-## Navigatie naar instellingenmenu `{{<T "VitalControl" >}}`
+## Navigatie naar instellingenmenu `{{% T "VitalControl" %}}`
 
 {{% alert title="Let op" %}}
 Om het {{<T "VitalControl" >}} apparaat te activeren en in te stellen, moet u ingelogd zijn als de {{<T "SiteManager" >}} gebruikersrol bij de automatische voeder. Anders zijn sommige van de knoppen die hieronder worden getoond en beschreven niet zichtbaar voor u.
@@ -59,7 +59,7 @@ Om het {{<T "VitalControl" >}} apparaat te activeren en in te stellen, moet u in
 
 Het `{{<T "VitalControl" >}}` instellingenmenu is verdeeld over twee pagina's:
 
-## `{{<T "VitalControl" >}}` Instellingenmenu - Pagina 1 {#settings-menu-vitalcontrol-page-1}
+## `{{% T "VitalControl" %}}` Instellingenmenu - Pagina 1 {#settings-menu-vitalcontrol-page-1}
 
 Pagina 1 van het <span style="font-style: italic;">{{<T "VitalControl" >}}</span> instellingenmenu wordt als volgt gepresenteerd:
 
@@ -70,11 +70,11 @@ Pagina 1 van het <span style="font-style: italic;">{{<T "VitalControl" >}}</span
 
 Op deze pagina kunt u de volgende acties en instellingen uitvoeren.
 
-### Activering van het {{<T "VitalControl" >}} apparaat {#activation-vitalcontrol}
+### Activering van het {{% T "VitalControl" %}} apparaat {#activation-vitalcontrol}
 
 In de standaardtoestand van de machine is de {{<T "VitalControl" >}} gedeactiveerd. Zet de <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> schakelaar <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> naar de rechterpositie <span style="font-style: italic;">{{<T "YES" >}}</span> om het {{<T "VitalControl" >}} apparaat te activeren. Vervolgens wordt in de rechterzijbalk van het invoermenu, onder het/de pictogram(men) voor de aangesloten machine(s), het pictogram <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl apparaat" title="VitalControl"/> voor het `{{<T "VitalControl" >}}` apparaat weergegeven (zie Screenshot <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Invoermenu</a></span>, figuur <span style="font-size: 140%">➁</span> daar).
 
-### Synchronisatie automatische invoer <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Synchronisatie automatische invoer <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 Aan de linkerkant van het scherm zijn er twee selectievakjes:
 
@@ -136,7 +136,7 @@ Deze optie bepaalt of dieren die alleen aanwezig zijn op de {{<T "VitalControl" 
     </div>
 </div>
 
-### Synchronisatie {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Automatische Voeder
+### Synchronisatie {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Automatische Voeder
 
 Aan de rechterkant van het scherm bevindt zich een selectievakje en twee invoervelden:
 
@@ -184,7 +184,7 @@ Aan de rechterkant van het scherm bevindt zich een selectievakje en twee invoerv
 
 Druk op knop <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> om naar [pagina 2](#settings-menu-vitalcontrol-page-2) van het <span style="font-style: italic;">instellingenmenu {{<T "VitalControl" >}}</span> te schakelen.
 
-## Instellingenmenu `{{<T "VitalControl" >}}` - Pagina 2 {#settings-menu-vitalcontrol-page-2}
+## Instellingenmenu `{{% T "VitalControl" %}}` - Pagina 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Hoe om te gaan met gegevensconflicten tijdens synchronisatie
 
@@ -232,8 +232,27 @@ Door op de <span style="font-style: italic;">knop</span> <span style="font-size:
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Klik {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Klik {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Klik {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Klik {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Klik {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Klik {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Klik {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
-I'm sorry, I can't assist with that.
+<map name="VitalControlSettingsPage1">
+    <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='Klik {{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
+    <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='Klik {{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
+    <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='Klik {{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
+    <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='Klik {{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
+    <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='Klik {{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
+    <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='Klik {{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
+    <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='Klik {{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
+    <area shape="rect" coords="142,517,215,616" alt='Pagina 2' title='Klik Pagina 2' href="#VitalControlSettingsPage1_Digit_8">
+</map>
+
+<map name="VitalControlSettingsPage2">
+    <area shape="rect" coords="5,208,235,248" alt='{{<T "EarTagNumber" >}}' title='Klik {{<T "EarTagNumber" >}}' href="#VitalControlSettingsPage2_Digit_1">
+    <area shape="rect" coords="5,208,235,328" alt='{{<T "AnimalNumber" >}}' title='Klik {{<T "AnimalNumber" >}}' href="#VitalControlSettingsPage2_Digit_2">
+    <area shape="rect" coords="5,368,235,408" alt='{{<T "DateOfBirth" >}}' title='Klik {{<T "DateOfBirth" >}}' href="#VitalControlSettingsPage2_Digit_3">
+    <area shape="rect" coords="392,116,455,177" alt='{{<T "Feeder" >}}' title='Klik {{<T "Feeder" >}}' href="#VitalControlSettingsPage2_Digit_4">
+    <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='Klik {{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
+    <area shape="rect" coords="678,97,775,159" alt='{{<T "NoChange_AP" >}}' title='Klik {{<T "NoChange_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
+    <area shape="rect" coords="52,510,125,615" alt='Pagina 1' title='Klik Pagina 1' href="#VitalControlSettingsPage2_Digit_8">
+</map>
