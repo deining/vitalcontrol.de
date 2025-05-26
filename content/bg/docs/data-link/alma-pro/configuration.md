@@ -10,6 +10,7 @@ weight: 10
 categories: [Alma Pro, VitalControl]
 translationKey: alma-pro/configuration
 maphilight: true
+aliases: /vc/conf/bg
 ---
 ## Изисквания
 
