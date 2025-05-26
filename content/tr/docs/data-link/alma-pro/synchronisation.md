@@ -8,6 +8,7 @@ description: >
 weight: 20
 categories: [Veri değişimi, Alma Pro]
 translationKey: alma-pro/synchronisation
+aliases: /vc/sync/tr
 ---
 
 Alma Pro otomatik yemlik ve VitalControl cihazı arasında senkronizasyon gerçekleştirmek için aşağıdaki adımları izleyin:

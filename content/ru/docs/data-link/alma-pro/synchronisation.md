@@ -8,6 +8,7 @@ description: >
 weight: 20
 categories: [Обмен данными, Alma Pro]
 translationKey: alma-pro/synchronisation
+aliases: /vc/sync/ru
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
   <symbol id="info-fill" viewBox="0 0 16 16">
