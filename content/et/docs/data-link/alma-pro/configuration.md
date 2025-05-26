@@ -36,7 +36,7 @@ Püsivara versiooni kontrollimiseks, mis on teie seadmesse installitud:
     </div>
 </div>
 
-## Navigeerimine seadete menüüsse `{{<T "VitalControl" >}}`
+## Navigeerimine seadete menüüsse `{{% T "VitalControl" %}}`
 
 {{% alert title="Tähelepanu" %}}
 {{<T "VitalControl" >}} seadme aktiveerimiseks ja seadistamiseks peate olema automaatse söötja juures sisse logitud kui {{<T "SiteManager" >}} kasutajaroll. Vastasel juhul ei ole mõned allpool näidatud ja kirjeldatud nupud teile nähtavad.
@@ -59,7 +59,7 @@ Püsivara versiooni kontrollimiseks, mis on teie seadmesse installitud:
 
 `{{<T "VitalControl" >}}` seadete menüü on jaotatud kahe lehe vahel:
 
-## `{{<T "VitalControl" >}}` Seadete Menüü - Lehekülg 1 {#settings-menu-vitalcontrol-page-1}
+## `{{% T "VitalControl" %}}` Seadete Menüü - Lehekülg 1 {#settings-menu-vitalcontrol-page-1}
 
 Lehekülg 1 <span style="font-style: italic;">{{<T "VitalControl" >}}</span> seadete menüüst on esitatud järgmiselt:
 
@@ -70,11 +70,11 @@ Lehekülg 1 <span style="font-style: italic;">{{<T "VitalControl" >}}</span> sea
 
 Sellel lehel saate teha järgmisi toiminguid ja seadeid.
 
-### {{<T "VitalControl" >}} Seadme aktiveerimine {#activation-vitalcontrol}
+### {{% T "VitalControl" %}} Seadme aktiveerimine {#activation-vitalcontrol}
 
 Masina vaikeseisundis on {{<T "VitalControl" >}} deaktiveeritud. Seadke lüliti <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> paremale asendisse <span style="font-style: italic;">{{<T "YES" >}}</span>, et aktiveerida {{<T "VitalControl" >}} seade. Seejärel kuvatakse sööturi menüü paremas külgribas, ühendatud masina(te) ikooni(de) all, ikoon <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl seade" title="VitalControl"/> `{{<T "VitalControl" >}}` seadme jaoks (vt ekraanipilt <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Sööturi Menüü</a></span>, joonis <span style="font-size: 140%">➁</span> seal).
 
-### Sünkroniseerimine automaatne söötur <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Sünkroniseerimine automaatne söötur <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 Ekraani vasakul küljel on kaks märkeruutu:
 
@@ -136,7 +136,7 @@ See valik kontrollib, kas loomad, kes on ainult {{<T "VitalControl" >}}-is, kuid
     </div>
 </div>
 
-### Sünkroniseerimine {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Automaatne söötja
+### Sünkroniseerimine {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Automaatne söötja
 
 Ekraani paremal küljel on märkeruut ja kaks sisendvälja:
 
@@ -184,7 +184,7 @@ Ekraani paremal küljel on märkeruut ja kaks sisendvälja:
 
 Vajutage nuppu <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span>, et liikuda <span style="font-style: italic;">seadete menüü {{<T "VitalControl" >}}</span> [lehele 2](#settings-menu-vitalcontrol-page-2).
 
-## Seadete menüü `{{<T "VitalControl" >}}` - Leht 2 {#settings-menu-vitalcontrol-page-2}
+## Seadete menüü `{{% T "VitalControl" %}}` - Leht 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Kuidas lahendada andmete konflikte sünkroniseerimise ajal
 
@@ -231,8 +231,27 @@ Vajutades <span style="font-style: italic;">nuppu</span> <span style="font-size:
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Klõpsake {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Klõpsake {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Klõpsake {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Klõpsake {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Klõpsake {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+      <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Klõpsake {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Klõpsake {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
-The provided content is already structured with Markdown and HTML-like tags, and there is no translatable text outside of these structures. Therefore, there is no additional translation needed for this content.
+<map name="VitalControlSettingsPage1">
+    <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='Klõpsake {{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
+    <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='Klõpsake {{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
+    <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='Klõpsake {{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
+    <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='Klõpsake {{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
+    <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='Klõpsake {{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
+    <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='Klõpsake {{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
+    <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='Klõpsake {{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
+    <area shape="rect" coords="142,517,215,616" alt='Lehekülg 2' title='Klõpsake Lehekülg 2' href="#VitalControlSettingsPage1_Digit_8">
+</map>
+
+<map name="VitalControlSettingsPage2">
+    <area shape="rect" coords="5,208,235,248" alt='{{<T "EarTagNumber" >}}' title='Klõpsake {{<T "EarTagNumber" >}}' href="#VitalControlSettingsPage2_Digit_1">
+    <area shape="rect" coords="5,208,235,328" alt='{{<T "AnimalNumber" >}}' title='Klõpsake {{<T "AnimalNumber" >}}' href="#VitalControlSettingsPage2_Digit_2">
+    <area shape="rect" coords="5,368,235,408" alt='{{<T "DateOfBirth" >}}' title='Klõpsake {{<T "DateOfBirth" >}}' href="#VitalControlSettingsPage2_Digit_3">
+    <area shape="rect" coords="392,116,455,177" alt='{{<T "Feeder" >}}' title='Klõpsake {{<T "Feeder" >}}' href="#VitalControlSettingsPage2_Digit_4">
+    <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='Klõpsake {{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
+    <area shape="rect" coords="678,97,775,159" alt='{{<T "NoChange_AP" >}}' title='Klõpsake {{<T "NoChange_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
+    <area shape="rect" coords="52,510,125,615" alt='Lehekülg 1' title='Klõpsake Lehekülg 1' href="#VitalControlSettingsPage2_Digit_8">
+</map>

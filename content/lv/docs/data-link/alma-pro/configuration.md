@@ -36,7 +36,7 @@ Lai pārbaudītu, kura programmaparatūras versija ir instalēta jūsu ierīcē:
     </div>
 </div>
 
-## Navigācija uz iestatījumu izvēlni `{{<T "VitalControl" >}}`
+## Navigācija uz iestatījumu izvēlni `{{% T "VitalControl" %}}`
 
 {{% alert title="Uzmanību" %}}
 Lai aktivizētu un iestatītu ierīci {{<T "VitalControl" >}}, jums jābūt pieteiktam kā lietotājam ar lomu {{<T "SiteManager" >}} automātiskajā barotavā. Pretējā gadījumā dažas no zemāk redzamajām un aprakstītajām pogām jums nebūs redzamas.
@@ -59,7 +59,7 @@ Lai aktivizētu un iestatītu ierīci {{<T "VitalControl" >}}, jums jābūt piet
 
 `{{<T "VitalControl" >}}` iestatījumu izvēlne ir sadalīta divās lapās:
 
-## `{{<T "VitalControl" >}}` Iestatījumu Izvēlne - 1. Lapa {#settings-menu-vitalcontrol-page-1}
+## `{{% T "VitalControl" %}}` Iestatījumu Izvēlne - 1. Lapa {#settings-menu-vitalcontrol-page-1}
 
 1. lapa <span style="font-style: italic;">{{<T "VitalControl" >}}</span> iestatījumu izvēlnē ir attēlota šādi:
 
@@ -70,11 +70,11 @@ Lai aktivizētu un iestatītu ierīci {{<T "VitalControl" >}}, jums jābūt piet
 
 Šajā lapā var veikt šādas darbības un iestatījumus.
 
-### {{<T "VitalControl" >}} Ierīces Aktivizēšana {#activation-vitalcontrol}
+### {{% T "VitalControl" %}} Ierīces Aktivizēšana {#activation-vitalcontrol}
 
 Ierīces noklusējuma stāvoklī {{<T "VitalControl" >}} ir deaktivizēts. Iestatiet slēdzi <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> uz labo pozīciju <span style="font-style: italic;">{{<T "YES" >}}</span>, lai aktivizētu {{<T "VitalControl" >}} ierīci. Pēc tam padevēja izvēlnes labajā sānjoslā, zem pievienotās ierīces ikonas, tiks parādīta ikona <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl ierīce" title="VitalControl"/> priekš `{{<T "VitalControl" >}}` ierīces (skatīt Ekrānuzņēmumu <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Padevēja Izvēlne</a></span>, attēls <span style="font-size: 140%">➁</span> tur).
 
-### Sinhronizācija automātiskais padevējs <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Sinhronizācija automātiskais padevējs <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 Ekrāna kreisajā pusē ir divas izvēles rūtiņas:
 
@@ -136,7 +136,7 @@ Ekrāna kreisajā pusē ir divas izvēles rūtiņas:
     </div>
 </div>
 
-### Sinhronizācija {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Automātiskais barotājs
+### Sinhronizācija {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Automātiskais barotājs
 
 Ekrāna labajā pusē ir izvēles rūtiņa un divi ievades lauki:
 
@@ -184,7 +184,7 @@ Ekrāna labajā pusē ir izvēles rūtiņa un divi ievades lauki:
 
 Nospiediet pogu <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span>, lai pārslēgtos uz [2. lapu](#settings-menu-vitalcontrol-page-2) <span style="font-style: italic;">iestatījumu izvēlnē {{<T "VitalControl" >}}</span>.
 
-## Iestatījumu izvēlne `{{<T "VitalControl" >}}` - 2. lapa {#settings-menu-vitalcontrol-page-2}
+## Iestatījumu izvēlne `{{% T "VitalControl" %}}` - 2. lapa {#settings-menu-vitalcontrol-page-2}
 
 ### Kā rīkoties ar datu konfliktiem sinhronizācijas laikā
 
@@ -230,8 +230,8 @@ Nospiežot <span style="font-style: italic;">pogu</span> <span style="font-size:
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Noklikšķiniet {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Noklikšķiniet {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Noklikšķiniet {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Noklikšķiniet {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Noklikšķiniet {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Noklikšķiniet {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Noklikšķiniet {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
 <map name="VitalControlSettingsPage1">

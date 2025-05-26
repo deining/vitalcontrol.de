@@ -36,7 +36,7 @@ Chcete-li zkontrolovat, která verze firmwaru je nainstalována na vašem zaří
     </div>
 </div>
 
-## Navigace do menu nastavení `{{<T "VitalControl" >}}`
+## Navigace do menu nastavení `{{% T "VitalControl" %}}`
 
 {{% alert title="Pozor" %}}
 Pro aktivaci a nastavení zařízení {{<T "VitalControl" >}}, musíte být přihlášeni jako uživatelská role {{<T "SiteManager" >}} na automatickém podavači. Jinak některá z tlačítek zobrazená a popsaná níže nebudou pro vás viditelná.
@@ -59,7 +59,7 @@ Pro aktivaci a nastavení zařízení {{<T "VitalControl" >}}, musíte být při
 
 Nabídka nastavení `{{<T "VitalControl" >}}` je rozdělena na dvě stránky:
 
-## Nabídka nastavení `{{<T "VitalControl" >}}` - Stránka 1 {#settings-menu-vitalcontrol-page-1}
+## Nabídka nastavení `{{% T "VitalControl" %}}` - Stránka 1 {#settings-menu-vitalcontrol-page-1}
 
 Stránka 1 nabídky nastavení <span style="font-style: italic;">{{<T "VitalControl" >}}</span> je prezentována následovně:
 
@@ -70,11 +70,11 @@ Stránka 1 nabídky nastavení <span style="font-style: italic;">{{<T "VitalCont
 
 Na této stránce můžete provádět následující akce a nastavení.
 
-### Aktivace zařízení {{<T "VitalControl" >}} {#activation-vitalcontrol}
+### Aktivace zařízení {{% T "VitalControl" %}} {#activation-vitalcontrol}
 
 V základním stavu stroje je {{<T "VitalControl" >}} deaktivován. Nastavte přepínač <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> do pravé polohy <span style="font-style: italic;">{{<T "YES" >}}</span> pro aktivaci zařízení {{<T "VitalControl" >}}. Následně se v pravém postranním panelu nabídky podavače, pod ikonou/ikonami pro připojený stroj/stroje, zobrazí ikona <img src="/icons/device.svg" width="20" align="bottom" alt="Zařízení VitalControl" title="VitalControl"/> pro zařízení `{{<T "VitalControl" >}}` (viz Snímek obrazovky <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Nabídka podavače</a></span>, obrázek <span style="font-size: 140%">➁</span> tam).
 
-### Synchronizace automatického podavače <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Synchronizace automatického podavače <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 Na levé straně obrazovky jsou dvě zaškrtávací políčka:
 
@@ -136,7 +136,7 @@ Tato volba určuje, zda budou z {{<T "VitalControl" >}} během další synchroni
     </div>
 </div>
 
-### Synchronizace {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Automatický krmítko
+### Synchronizace {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Automatický krmítko
 
 Na pravé straně obrazovky je zaškrtávací políčko a dvě vstupní pole:
 
@@ -184,7 +184,7 @@ Na pravé straně obrazovky je zaškrtávací políčko a dvě vstupní pole:
 
 Stiskněte tlačítko <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> pro přepnutí na [stránku 2](#settings-menu-vitalcontrol-page-2) <span style="font-style: italic;">nastavení menu {{<T "VitalControl" >}}</span>.
 
-## Nastavení Menu `{{<T "VitalControl" >}}` - Stránka 2 {#settings-menu-vitalcontrol-page-2}
+## Nastavení Menu `{{% T "VitalControl" %}}` - Stránka 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Jak řešit konflikty dat během synchronizace
 
@@ -232,8 +232,8 @@ Stisknutím <span style="font-style: italic;">tlačítka</span> <span style="fon
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Klikněte na {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Klikněte na {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Klikněte na {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Klikněte na {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Klikněte na {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Klikněte na {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Klikněte na {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
 <map name="VitalControlSettingsPage1">

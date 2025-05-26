@@ -36,7 +36,7 @@ Para verificar qual versão de firmware está instalada no seu dispositivo:
     </div>
 </div>
 
-## Navegação para o menu de configurações `{{<T "VitalControl" >}}`
+## Navegação para o menu de configurações `{{% T "VitalControl" %}}`
 
 {{% alert title="Atenção" %}}
 Para ativar e configurar o dispositivo {{<T "VitalControl" >}}, você deve estar logado como o usuário com a função {{<T "SiteManager" >}} no alimentador automático. Caso contrário, alguns dos botões mostrados e descritos abaixo não estarão visíveis para você.
@@ -59,7 +59,7 @@ Para ativar e configurar o dispositivo {{<T "VitalControl" >}}, você deve estar
 
 O menu de configurações do `{{<T "VitalControl" >}}` está distribuído em duas páginas:
 
-## Menu de Configurações do `{{<T "VitalControl" >}}` - Página 1 {#settings-menu-vitalcontrol-page-1}
+## Menu de Configurações do `{{% T "VitalControl" %}}` - Página 1 {#settings-menu-vitalcontrol-page-1}
 
 A Página 1 do menu de configurações do <span style="font-style: italic;">{{<T "VitalControl" >}}</span> é apresentada da seguinte forma:
 
@@ -74,7 +74,7 @@ Nesta página, você pode realizar as seguintes ações e configurações.
 
 No estado padrão da máquina, o {{<T "VitalControl" >}} está desativado. Ajuste o interruptor <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> para a posição à direita <span style="font-style: italic;">{{<T "YES" >}}</span> para ativar o dispositivo {{<T "VitalControl" >}}. Subsequentemente, na barra lateral direita do menu do alimentador, abaixo do(s) ícone(s) da(s) máquina(s) conectada(s), o ícone <img src="/icons/device.svg" width="20" align="bottom" alt="Dispositivo VitalControl" title="VitalControl"/> para o dispositivo `{{<T "VitalControl" >}}` será exibido (veja a Captura de Tela <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Menu do Alimentador</a></span>, figura <span style="font-size: 140%">➁</span> lá).
 
-### Sincronização alimentador automático <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Sincronização alimentador automático <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 No lado esquerdo da tela, há duas caixas de seleção:
 
@@ -136,7 +136,7 @@ Esta opção controla se os animais que estão presentes apenas no {{<T "VitalCo
     </div>
 </div>
 
-### Sincronização {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Alimentador Automático
+### Sincronização {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Alimentador Automático
 
 No lado direito da tela, há uma caixa de seleção e dois campos de entrada:
 
@@ -184,7 +184,7 @@ No lado direito da tela, há uma caixa de seleção e dois campos de entrada:
 
 Pressione o botão <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> para mudar para [página 2](#settings-menu-vitalcontrol-page-2) do <span style="font-style: italic;">menu de configurações {{<T "VitalControl" >}}</span>.
 
-## Menu de Configurações `{{<T "VitalControl" >}}` - Página 2 {#settings-menu-vitalcontrol-page-2}
+## Menu de Configurações `{{% T "VitalControl" %}}` - Página 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Como lidar com conflitos de dados durante a sincronização
 
@@ -230,8 +230,8 @@ Ao pressionar o <span style="font-style: italic;">botão</span> <span style="fon
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Clique {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Clique {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Clique {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Clique {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Clique {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Clique {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Clique {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
 <map name="VitalControlSettingsPage1">

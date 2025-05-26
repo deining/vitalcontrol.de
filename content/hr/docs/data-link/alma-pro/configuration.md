@@ -36,7 +36,7 @@ Da biste provjerili koja je verzija firmvera instalirana na vašem uređaju:
     </div>
 </div>
 
-## Navigacija do izbornika postavki `{{<T "VitalControl" >}}`
+## Navigacija do izbornika postavki `{{% T "VitalControl" %}}`
 
 {{% alert title="Pažnja" %}}
 Da biste aktivirali i postavili uređaj {{<T "VitalControl" >}}, morate biti prijavljeni kao korisnička uloga {{<T "SiteManager" >}} na automatskom hranilici. Inače, neki od gumba prikazanih i opisanih u nastavku neće vam biti vidljivi.
@@ -59,7 +59,7 @@ Da biste aktivirali i postavili uređaj {{<T "VitalControl" >}}, morate biti pri
 
 Izbornik postavki `{{<T "VitalControl" >}}` raspoređen je na dvije stranice:
 
-## Izbornik postavki `{{<T "VitalControl" >}}` - Stranica 1 {#settings-menu-vitalcontrol-page-1}
+## Izbornik postavki `{{% T "VitalControl" %}}` - Stranica 1 {#settings-menu-vitalcontrol-page-1}
 
 Stranica 1 izbornika postavki <span style="font-style: italic;">{{<T "VitalControl" >}}</span> prikazana je na sljedeći način:
 
@@ -70,11 +70,11 @@ Stranica 1 izbornika postavki <span style="font-style: italic;">{{<T "VitalContr
 
 Na ovoj stranici možete izvršiti sljedeće radnje i postavke.
 
-### Aktivacija uređaja {{<T "VitalControl" >}} {#activation-vitalcontrol}
+### Aktivacija uređaja {{% T "VitalControl" %}} {#activation-vitalcontrol}
 
 U zadanim postavkama stroja, {{<T "VitalControl" >}} je deaktiviran. Postavite prekidač <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> u desni položaj <span style="font-style: italic;">{{<T "YES" >}}</span> kako biste aktivirali uređaj {{<T "VitalControl" >}}. Nakon toga, u desnoj bočnoj traci izbornika za hranjenje, ispod ikone(a) za povezani stroj(eve), prikazat će se ikona <img src="/icons/device.svg" width="20" align="bottom" alt="Uređaj VitalControl" title="VitalControl"/> za uređaj `{{<T "VitalControl" >}}` (pogledajte Snimku zaslona <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Izbornik za hranjenje</a></span>, slika <span style="font-size: 140%">➁</span> tamo).
 
-### Sinkronizacija automatskog hranitelja <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Sinkronizacija automatskog hranitelja <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 Na lijevoj strani zaslona nalaze se dvije potvrdne kućice:
 
@@ -136,7 +136,7 @@ Ova opcija kontrolira hoće li se životinje koje su prisutne samo na {{<T "Vita
     </div>
 </div>
 
-### Sinkronizacija {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Automatska hranilica
+### Sinkronizacija {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Automatska hranilica
 
 Na desnoj strani ekrana nalazi se potvrdni okvir i dva ulazna polja:
 
@@ -184,7 +184,7 @@ Na desnoj strani ekrana nalazi se potvrdni okvir i dva ulazna polja:
 
 Pritisnite gumb <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> za prelazak na [stranicu 2](#settings-menu-vitalcontrol-page-2) izbornika <span style="font-style: italic;">postavki {{<T "VitalControl" >}}</span>.
 
-## Izbornik postavki `{{<T "VitalControl" >}}` - Stranica 2 {#settings-menu-vitalcontrol-page-2}
+## Izbornik postavki `{{% T "VitalControl" %}}` - Stranica 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Kako se nositi s konfliktima podataka tijekom sinkronizacije
 
@@ -232,8 +232,27 @@ Pritiskom na <span style="font-style: italic;">gumb</span> <span style="font-siz
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Kliknite {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Kliknite {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Kliknite {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Kliknite {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Kliknite {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Kliknite {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Kliknite {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
-The provided content does not require translation as it consists of HTML-like tags and placeholders that should remain unchanged. If you have any other text that needs translation, please provide it.
+<map name="VitalControlSettingsPage1">
+    <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='Kliknite {{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
+    <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='Kliknite {{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
+    <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='Kliknite {{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
+    <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='Kliknite {{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
+    <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='Kliknite {{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
+    <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='Kliknite {{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
+    <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='Kliknite {{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
+    <area shape="rect" coords="142,517,215,616" alt='Stranica 2' title='Kliknite Stranica 2' href="#VitalControlSettingsPage1_Digit_8">
+</map>
+
+<map name="VitalControlSettingsPage2">
+    <area shape="rect" coords="5,208,235,248" alt='{{<T "EarTagNumber" >}}' title='Kliknite {{<T "EarTagNumber" >}}' href="#VitalControlSettingsPage2_Digit_1">
+    <area shape="rect" coords="5,208,235,328" alt='{{<T "AnimalNumber" >}}' title='Kliknite {{<T "AnimalNumber" >}}' href="#VitalControlSettingsPage2_Digit_2">
+    <area shape="rect" coords="5,368,235,408" alt='{{<T "DateOfBirth" >}}' title='Kliknite {{<T "DateOfBirth" >}}' href="#VitalControlSettingsPage2_Digit_3">
+    <area shape="rect" coords="392,116,455,177" alt='{{<T "Feeder" >}}' title='Kliknite {{<T "Feeder" >}}' href="#VitalControlSettingsPage2_Digit_4">
+    <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='Kliknite {{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
+    <area shape="rect" coords="678,97,775,159" alt='{{<T "NoChange_AP" >}}' title='Kliknite {{<T "NoChange_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
+    <area shape="rect" coords="52,510,125,615" alt='Stranica 1' title='Kliknite Stranica 1' href="#VitalControlSettingsPage2_Digit_8">
+</map>

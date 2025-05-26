@@ -36,7 +36,7 @@ Pentru a verifica ce versiune de firmware este instalată pe dispozitivul dumnea
     </div>
 </div>
 
-## Navigare către meniul de setări `{{<T "VitalControl" >}}`
+## Navigare către meniul de setări `{{% T "VitalControl" %}}`
 
 {{% alert title="Atenție" %}}
 Pentru a activa și configura dispozitivul {{<T "VitalControl" >}}, trebuie să fiți autentificat cu rolul de utilizator {{<T "SiteManager" >}} la distribuitorul automat. În caz contrar, unele dintre butoanele afișate și descrise mai jos nu vor fi vizibile pentru dumneavoastră.
@@ -59,7 +59,7 @@ Pentru a activa și configura dispozitivul {{<T "VitalControl" >}}, trebuie să 
 
 Meniul de setări `{{<T "VitalControl" >}}` este împărțit pe două pagini:
 
-## Meniul de Setări `{{<T "VitalControl" >}}` - Pagina 1 {#settings-menu-vitalcontrol-page-1}
+## Meniul de Setări `{{% T "VitalControl" %}}` - Pagina 1 {#settings-menu-vitalcontrol-page-1}
 
 Pagina 1 a meniului de setări <span style="font-style: italic;">{{<T "VitalControl" >}}</span> este prezentată astfel:
 
@@ -70,11 +70,11 @@ Pagina 1 a meniului de setări <span style="font-style: italic;">{{<T "VitalCont
 
 Pe această pagină, puteți efectua următoarele acțiuni și setări.
 
-### Activarea Dispozitivului {{<T "VitalControl" >}} {#activation-vitalcontrol}
+### Activarea Dispozitivului {{% T "VitalControl" %}} {#activation-vitalcontrol}
 
 În starea implicită a mașinii, {{<T "VitalControl" >}} este dezactivat. Setați comutatorul <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> în poziția dreaptă <span style="font-style: italic;">{{<T "YES" >}}</span> pentru a activa dispozitivul {{<T "VitalControl" >}}. Ulterior, în bara laterală dreaptă a meniului de alimentare, sub pictograma(ele) pentru mașina(ele) conectată(e), va fi afișată pictograma <img src="/icons/device.svg" width="20" align="bottom" alt="Dispozitiv VitalControl" title="VitalControl"/> pentru dispozitivul `{{<T "VitalControl" >}}` (vezi Captura de ecran <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Meniu Alimentator</a></span>, figura <span style="font-size: 140%">➁</span> acolo).
 
-### Sincronizare alimentator automat <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Sincronizare alimentator automat <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 Pe partea stângă a ecranului, există două căsuțe de selectare:
 
@@ -136,7 +136,7 @@ Această opțiune controlează dacă animalele care sunt prezente doar pe {{<T "
     </div>
 </div>
 
-### Sincronizare {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Hranitor Automat
+### Sincronizare {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Hranitor Automat
 
 Pe partea dreaptă a ecranului, există o casetă de selectare și două câmpuri de intrare:
 
@@ -186,7 +186,7 @@ Pe partea dreaptă a ecranului, există o casetă de selectare și două câmpur
 
 Apasă butonul <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> pentru a trece la [pagina 2](#settings-menu-vitalcontrol-page-2) a <span style="font-style: italic;">meniului de setări {{<T "VitalControl" >}}</span>.
 
-## Meniul de Setări `{{<T "VitalControl" >}}` - Pagina 2 {#settings-menu-vitalcontrol-page-2}
+## Meniul de Setări `{{% T "VitalControl" %}}` - Pagina 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Cum să gestionezi conflictele de date în timpul sincronizării
 
@@ -231,31 +231,31 @@ Conflictele de date pot apărea atunci când se sincronizează datele între hr�
 Prin apăsarea <span style="font-style: italic;">butonului</span> <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_8">⑧</span> veți reveni la [pagina 1](#settings-menu-vitalcontrol-page-1) a meniului de setări `{{<T "VitalControl" >}}`.
 
 <map name="NavigationToVitalControlSettingsMenu">
-    <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Click {{<T "Settings" >}}' href="#Navigation_Digit_1">
-    <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Click {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
-    <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Click {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Click {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Click {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Klikisar {{<T "Settings" >}}' href="#Navigation_Digit_1">
+    <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Klikisar {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
+    <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Klikisar {{<T "Accessories" >}}' href="#Navigation_Digit_3">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Klikisar {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Klikisar {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
 
 <map name="VitalControlSettingsPage1">
-    <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='Click {{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
-    <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='Click {{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
-    <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='Click {{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
-    <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='Click {{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
-    <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='Click {{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
-    <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='Click {{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
-    <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='Click {{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
-    <area shape="rect" coords="142,517,215,616" alt='Pagina 2' title='Click Pagina 2' href="#VitalControlSettingsPage1_Digit_8">
+    <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='Klikisar {{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
+    <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='Klikisar {{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
+    <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='Klikisar {{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
+    <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='Klikisar {{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
+    <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='Klikisar {{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
+    <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='Klikisar {{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
+    <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='Klikisar {{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
+    <area shape="rect" coords="142,517,215,616" alt='rig 2' title='Klikisar rig 2' href="#VitalControlSettingsPage1_Digit_8">
 </map>
 
 <map name="VitalControlSettingsPage2">
-    <area shape="rect" coords="5,208,235,248" alt='{{<T "EarTagNumber" >}}' title='Click {{<T "EarTagNumber" >}}' href="#VitalControlSettingsPage2_Digit_1">
-    <area shape="rect" coords="5,208,235,328" alt='{{<T "AnimalNumber" >}}' title='Click {{<T "AnimalNumber" >}}' href="#VitalControlSettingsPage2_Digit_2">
-    <area shape="rect" coords="5,368,235,408" alt='{{<T "DateOfBirth" >}}' title='Click {{<T "DateOfBirth" >}}' href="#VitalControlSettingsPage2_Digit_3">
-    <area shape="rect" coords="392,116,455,177" alt='{{<T "Feeder" >}}' title='Click {{<T "Feeder" >}}' href="#VitalControlSettingsPage2_Digit_4">
-    <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='Click {{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
-    <area shape="rect" coords="678,97,775,159" alt='{{<T "NoChange_AP" >}}' title='Click {{<T "NoChange_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
-    <area shape="rect" coords="52,510,125,615" alt='Pagina 1' title='Click Pagina 1' href="#VitalControlSettingsPage2_Digit_8">
+    <area shape="rect" coords="5,208,235,248" alt='{{<T "EarTagNumber" >}}' title='Klikisar {{<T "EarTagNumber" >}}' href="#VitalControlSettingsPage2_Digit_1">
+    <area shape="rect" coords="5,208,235,328" alt='{{<T "AnimalNumber" >}}' title='Klikisar {{<T "AnimalNumber" >}}' href="#VitalControlSettingsPage2_Digit_2">
+    <area shape="rect" coords="5,368,235,408" alt='{{<T "DateOfBirth" >}}' title='Klikisar {{<T "DateOfBirth" >}}' href="#VitalControlSettingsPage2_Digit_3">
+    <area shape="rect" coords="392,116,455,177" alt='{{<T "Feeder" >}}' title='Klikisar {{<T "Feeder" >}}' href="#VitalControlSettingsPage2_Digit_4">
+    <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='Klikisar {{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
+    <area shape="rect" coords="678,97,775,159" alt='{{<T "NoChange_AP" >}}' title='Klikisar {{<T "NoChange_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
+    <area shape="rect" coords="52,510,125,615" alt='rig 1' title='Klikisar rig 1' href="#VitalControlSettingsPage2_Digit_8">
 </map>

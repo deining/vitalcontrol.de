@@ -36,7 +36,7 @@ A telepített firmware verzió ellenőrzéséhez az eszközön:
     </div>
 </div>
 
-## Navigáció a `{{<T "VitalControl" >}}` beállítások menüjéhez
+## Navigáció a `{{% T "VitalControl" %}}` beállítások menüjéhez
 
 {{% alert title="Figyelem" %}}
 A {{<T "VitalControl" >}} eszköz aktiválásához és beállításához be kell jelentkeznie a {{<T "SiteManager" >}} felhasználói szerepkörrel az automata etetőnél. Ellenkező esetben az alább bemutatott és leírt gombok közül néhány nem lesz látható az Ön számára.
@@ -59,7 +59,7 @@ A {{<T "VitalControl" >}} eszköz aktiválásához és beállításához be kell
 
 A `{{<T "VitalControl" >}}` beállítási menü két oldalra van osztva:
 
-## `{{<T "VitalControl" >}}` Beállítási Menü - 1. oldal {#settings-menu-vitalcontrol-page-1}
+## `{{% T "VitalControl" %}}` Beállítási Menü - 1. oldal {#settings-menu-vitalcontrol-page-1}
 
 A <span style="font-style: italic;">{{<T "VitalControl" >}}</span> beállítási menü 1. oldala a következőképpen jelenik meg:
 
@@ -70,11 +70,11 @@ A <span style="font-style: italic;">{{<T "VitalControl" >}}</span> beállítási
 
 Ezen az oldalon a következő műveleteket és beállításokat végezheti el.
 
-### A {{<T "VitalControl" >}} Eszköz Aktiválása {#activation-vitalcontrol}
+### A {{% T "VitalControl" %}} Eszköz Aktiválása {#activation-vitalcontrol}
 
 A gép alapértelmezett állapotában a {{<T "VitalControl" >}} inaktív. Állítsa a <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> kapcsolót <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> a jobb oldali pozícióba <span style="font-style: italic;">{{<T "YES" >}}</span> a {{<T "VitalControl" >}} eszköz aktiválásához. Ezt követően az adagoló menü jobb oldali sávjában, a csatlakoztatott gép(ek) ikonjai alatt megjelenik a <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl eszköz" title="VitalControl"/> ikon a `{{<T "VitalControl" >}}` eszközhöz (lásd Képernyőkép <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Adagoló Menü</a></span>, ábra <span style="font-size: 140%">➁</span> ott).
 
-### Szinkronizálás automatikus adagoló <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Szinkronizálás automatikus adagoló <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 A képernyő bal oldalán két jelölőnégyzet található:
 
@@ -136,7 +136,7 @@ Ez az opció szabályozza, hogy a {{<T "VitalControl" >}}-on jelen lévő, de az
     </div>
 </div>
 
-### Szinkronizáció {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Automata Etető
+### Szinkronizáció {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Automata Etető
 
 A képernyő jobb oldalán található egy jelölőnégyzet és két beviteli mező:
 
@@ -184,7 +184,7 @@ A képernyő jobb oldalán található egy jelölőnégyzet és két beviteli me
 
 Nyomja meg a gombot <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> a <span style="font-style: italic;">beállítások menü {{<T "VitalControl" >}}</span> [2. oldalára](#settings-menu-vitalcontrol-page-2) való átváltáshoz.
 
-## Beállítások menü `{{<T "VitalControl" >}}` - 2. oldal {#settings-menu-vitalcontrol-page-2}
+## Beállítások menü `{{% T "VitalControl" %}}` - 2. oldal {#settings-menu-vitalcontrol-page-2}
 
 ### Hogyan kezeljük az adatütközéseket szinkronizálás során
 
@@ -231,8 +231,8 @@ A <span style="font-style: italic;">gomb</span> <span style="font-size: 140%" id
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Kattintson ide: {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Kattintson ide: {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Kattintson ide: {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Kattintson ide: {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Kattintson ide: {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Kattintson ide: {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Kattintson ide: {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
 <map name="VitalControlSettingsPage1">

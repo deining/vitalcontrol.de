@@ -36,7 +36,7 @@ För att kontrollera vilken firmwareversion som är installerad på din enhet:
     </div>
 </div>
 
-## Navigering till inställningsmenyn `{{<T "VitalControl" >}}`
+## Navigering till inställningsmenyn `{{% T "VitalControl" %}}`
 
 {{% alert title="Uppmärksamhet" %}}
 För att aktivera och ställa in enheten {{<T "VitalControl" >}}, måste du vara inloggad som användarrollen {{<T "SiteManager" >}} vid den automatiska mataren. Annars kommer vissa av knapparna som visas och beskrivs nedan inte att vara synliga för dig.
@@ -59,7 +59,7 @@ För att aktivera och ställa in enheten {{<T "VitalControl" >}}, måste du vara
 
 `{{<T "VitalControl" >}}` inställningsmeny är uppdelad på två sidor:
 
-## `{{<T "VitalControl" >}}` Inställningsmeny - Sida 1 {#settings-menu-vitalcontrol-page-1}
+## `{{% T "VitalControl" %}}` Inställningsmeny - Sida 1 {#settings-menu-vitalcontrol-page-1}
 
 Sida 1 av <span style="font-style: italic;">{{<T "VitalControl" >}}</span> inställningsmeny presenteras enligt följande:
 
@@ -70,11 +70,11 @@ Sida 1 av <span style="font-style: italic;">{{<T "VitalControl" >}}</span> inst�
 
 På denna sida kan du utföra följande åtgärder och inställningar.
 
-### Aktivering av {{<T "VitalControl" >}} Enhet {#activation-vitalcontrol}
+### Aktivering av {{% T "VitalControl" %}} Enhet {#activation-vitalcontrol}
 
 I maskinens standardläge är {{<T "VitalControl" >}} avaktiverad. Ställ in <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> omkopplaren <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> till rätt position <span style="font-style: italic;">{{<T "YES" >}}</span> för att aktivera {{<T "VitalControl" >}} enheten. Därefter kommer ikonen <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl enhet" title="VitalControl"/> för `{{<T "VitalControl" >}}` enheten att visas i den högra sidofältet i matarmenyn, under ikonen/ikonerna för den anslutna maskinen/maskinerna (se Skärmdump <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Matarmenyn</a></span>, figur <span style="font-size: 140%">➁</span> där).
 
-### Synkronisering automatisk matare <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Synkronisering automatisk matare <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 På vänster sida av skärmen finns två kryssrutor:
 
@@ -136,7 +136,7 @@ Detta alternativ styr om djur som endast finns på {{<T "VitalControl" >}} men i
     </div>
 </div>
 
-### Synkronisering {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Automatisk Matare
+### Synkronisering {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Automatisk Matare
 
 På höger sida av skärmen finns en kryssruta och två inmatningsfält:
 
@@ -184,7 +184,7 @@ På höger sida av skärmen finns en kryssruta och två inmatningsfält:
 
 Tryck på knappen <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> för att växla till [sida 2](#settings-menu-vitalcontrol-page-2) i <span style="font-style: italic;">inställningsmenyn {{<T "VitalControl" >}}</span>.
 
-## Inställningsmeny `{{<T "VitalControl" >}}` - Sida 2 {#settings-menu-vitalcontrol-page-2}
+## Inställningsmeny `{{% T "VitalControl" %}}` - Sida 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Hur man hanterar datakonflikter under synkronisering
 
@@ -229,11 +229,30 @@ Datakonflikter kan uppstå när man synkroniserar data mellan mataren och {{<T "
 Genom att trycka på <span style="font-style: italic;">knappen</span> <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_8">⑧</span> kommer du tillbaka till [sida 1](#settings-menu-vitalcontrol-page-1) i `{{<T "VitalControl" >}}` inställningsmenyn.
 
 <map name="NavigationToVitalControlSettingsMenu">
-    <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Klicka {{<T "Settings" >}}' href="#Navigation_Digit_1">
-    <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Klicka {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
-    <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Klicka {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Klicka {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Klicka {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Kliknite {{<T "Settings" >}}' href="#Navigation_Digit_1">
+    <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Kliknite {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
+    <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Kliknite {{<T "Accessories" >}}' href="#Navigation_Digit_3">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Kliknite {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Kliknite {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
-The content you provided is primarily composed of HTML map elements and translation keys, which do not require translation. If you have any additional text that needs translation, please provide it.
+<map name="VitalControlSettingsPage1">
+    <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='Kliknite {{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
+    <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='Kliknite {{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
+    <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='Kliknite {{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
+    <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='Kliknite {{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
+    <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='Kliknite {{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
+    <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='Kliknite {{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
+    <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='Kliknite {{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
+    <area shape="rect" coords="142,517,215,616" alt='Sidan 2' title='Klicka på sidan 2' href="#VitalControlSettingsPage1_Digit_8">
+</map>
+
+<map name="VitalControlSettingsPage2">
+    <area shape="rect" coords="5,208,235,248" alt='{{<T "EarTagNumber" >}}' title='Kliknite {{<T "EarTagNumber" >}}' href="#VitalControlSettingsPage2_Digit_1">
+    <area shape="rect" coords="5,208,235,328" alt='{{<T "AnimalNumber" >}}' title='Kliknite {{<T "AnimalNumber" >}}' href="#VitalControlSettingsPage2_Digit_2">
+    <area shape="rect" coords="5,368,235,408" alt='{{<T "DateOfBirth" >}}' title='Kliknite {{<T "DateOfBirth" >}}' href="#VitalControlSettingsPage2_Digit_3">
+    <area shape="rect" coords="392,116,455,177" alt='{{<T "Feeder" >}}' title='Kliknite {{<T "Feeder" >}}' href="#VitalControlSettingsPage2_Digit_4">
+    <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='Kliknite {{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
+    <area shape="rect" coords="678,97,775,159" alt='{{<T "NoChange_AP" >}}' title='Kliknite {{<T "NoChange_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
+    <area shape="rect" coords="52,510,125,615" alt='Sidan 1' title='Klicka på sidan 1' href="#VitalControlSettingsPage2_Digit_8">
+</map>

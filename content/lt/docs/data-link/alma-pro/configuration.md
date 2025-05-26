@@ -36,7 +36,7 @@ Norėdami patikrinti, kuri programinės įrangos versija įdiegta jūsų įrengi
     </div>
 </div>
 
-## Naršymas į nustatymų meniu `{{<T "VitalControl" >}}`
+## Naršymas į nustatymų meniu `{{% T "VitalControl" %}}`
 
 {{% alert title="Dėmesio" %}}
 Norint aktyvuoti ir nustatyti {{<T "VitalControl" >}} įrenginį, turite būti prisijungę kaip {{<T "SiteManager" >}} vartotojo rolė prie automatinio šėryklos. Priešingu atveju, kai kurie žemiau parodyti ir aprašyti mygtukai jums nebus matomi.
@@ -59,7 +59,7 @@ Norint aktyvuoti ir nustatyti {{<T "VitalControl" >}} įrenginį, turite būti p
 
 `{{<T "VitalControl" >}}` nustatymų meniu yra padalintas į du puslapius:
 
-## `{{<T "VitalControl" >}}` Nustatymų Meniu - 1 Puslapis {#settings-menu-vitalcontrol-page-1}
+## `{{% T "VitalControl" %}}` Nustatymų Meniu - 1 Puslapis {#settings-menu-vitalcontrol-page-1}
 
 1-asis <span style="font-style: italic;">{{<T "VitalControl" >}}</span> nustatymų meniu puslapis pateikiamas taip:
 
@@ -70,11 +70,11 @@ Norint aktyvuoti ir nustatyti {{<T "VitalControl" >}} įrenginį, turite būti p
 
 Šiame puslapyje galite atlikti šiuos veiksmus ir nustatymus.
 
-### {{<T "VitalControl" >}} Įrenginio Aktyvavimas {#activation-vitalcontrol}
+### {{% T "VitalControl" %}} Įrenginio Aktyvavimas {#activation-vitalcontrol}
 
 Pagal numatytąją mašinos būseną, {{<T "VitalControl" >}} yra išjungtas. Nustatykite <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> jungiklį <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> į dešinę poziciją <span style="font-style: italic;">{{<T "YES" >}}</span>, kad aktyvuotumėte {{<T "VitalControl" >}} įrenginį. Vėliau, dešiniajame šoniniame šėryklos meniu stulpelyje, po prijungtos mašinos (-ų) piktograma (-omis), bus rodoma piktograma <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl įrenginys" title="VitalControl"/> `{{<T "VitalControl" >}}` įrenginiui (žr. Ekrano nuotrauką <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Šėryklos Meniu</a></span>, figūra <span style="font-size: 140%">➁</span> ten).
 
-### Sinchronizacija automatinė šėrykla <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Sinchronizacija automatinė šėrykla <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 Kairėje ekrano pusėje yra du žymimieji langeliai:
 
@@ -136,7 +136,7 @@ Kairėje ekrano pusėje yra du žymimieji langeliai:
     </div>
 </div>
 
-### Sinchronizacija {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Automatinis šėrykla
+### Sinchronizacija {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Automatinis šėrykla
 
 Dešinėje ekrano pusėje yra žymimasis langelis ir du įvesties laukai:
 
@@ -184,7 +184,7 @@ Dešinėje ekrano pusėje yra žymimasis langelis ir du įvesties laukai:
 
 Paspauskite mygtuką <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> norėdami pereiti į [2 puslapį](#settings-menu-vitalcontrol-page-2) <span style="font-style: italic;">nustatymų meniu {{<T "VitalControl" >}}</span>.
 
-## Nustatymų meniu `{{<T "VitalControl" >}}` - 2 puslapis {#settings-menu-vitalcontrol-page-2}
+## Nustatymų meniu `{{% T "VitalControl" %}}` - 2 puslapis {#settings-menu-vitalcontrol-page-2}
 
 ### Kaip spręsti duomenų konfliktus sinchronizacijos metu
 
@@ -230,8 +230,8 @@ Paspaudę <span style="font-style: italic;">mygtuką</span> <span style="font-si
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Spustelėkite {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Spustelėkite {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Spustelėkite {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Spustelėkite {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Spustelėkite {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Spustelėkite {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Spustelėkite {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
 <map name="VitalControlSettingsPage1">

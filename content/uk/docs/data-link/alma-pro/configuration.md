@@ -36,7 +36,7 @@ aliases: /vc/conf/uk
     </div>
 </div>
 
-## Навігація до меню налаштувань `{{<T "VitalControl" >}}`
+## Навігація до меню налаштувань `{{% T "VitalControl" %}}`
 
 {{% alert title="Увага" %}}
 Щоб активувати та налаштувати пристрій {{<T "VitalControl" >}}, ви повинні бути увійшли як користувач з роллю {{<T "SiteManager" >}} на автоматичному годівниці. В іншому випадку деякі з кнопок, показаних і описаних нижче, не будуть видимі для вас.
@@ -59,7 +59,7 @@ aliases: /vc/conf/uk
 
 Меню налаштувань `{{<T "VitalControl" >}}` розподілено на дві сторінки:
 
-## Меню налаштувань `{{<T "VitalControl" >}}` - Сторінка 1 {#settings-menu-vitalcontrol-page-1}
+## Меню налаштувань `{{% T "VitalControl" %}}` - Сторінка 1 {#settings-menu-vitalcontrol-page-1}
 
 Сторінка 1 меню налаштувань <span style="font-style: italic;">{{<T "VitalControl" >}}</span> представлена наступним чином:
 
@@ -70,11 +70,11 @@ aliases: /vc/conf/uk
 
 На цій сторінці ви можете виконати наступні дії та налаштування.
 
-### Активація пристрою {{<T "VitalControl" >}} {#activation-vitalcontrol}
+### Активація пристрою {{% T "VitalControl" %}} {#activation-vitalcontrol}
 
 У стандартному стані машини, {{<T "VitalControl" >}} деактивовано. Встановіть перемикач <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> у праве положення <span style="font-style: italic;">{{<T "YES" >}}</span>, щоб активувати пристрій {{<T "VitalControl" >}}. Після цього, у правій бічній панелі меню подачі, під значком(ами) підключеної машини(н), буде відображено значок <img src="/icons/device.svg" width="20" align="bottom" alt="Пристрій VitalControl" title="VitalControl"/> для пристрою `{{<T "VitalControl" >}}` (див. Скріншот <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Меню подачі</a></span>, рисунок <span style="font-size: 140%">➁</span> там).
 
-### Синхронізація автоматичного подавача <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Синхронізація автоматичного подавача <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 На лівій стороні екрана є два прапорці:
 
@@ -136,7 +136,7 @@ aliases: /vc/conf/uk
     </div>
 </div>
 
-### Синхронізація {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Автоматична годівниця
+### Синхронізація {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Автоматична годівниця
 
 На правій стороні екрана є прапорець і два поля введення:
 
@@ -185,7 +185,7 @@ aliases: /vc/conf/uk
 
 Натисніть кнопку <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span>, щоб перейти на [сторінку 2](#settings-menu-vitalcontrol-page-2) <span style="font-style: italic;">меню налаштувань {{<T "VitalControl" >}}</span>.
 
-## Меню налаштувань `{{<T "VitalControl" >}}` - Сторінка 2 {#settings-menu-vitalcontrol-page-2}
+## Меню налаштувань `{{% T "VitalControl" %}}` - Сторінка 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Як вирішувати конфлікти даних під час синхронізації
 
@@ -233,8 +233,27 @@ aliases: /vc/conf/uk
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Натисніть {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Натисніть {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Натисніть {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Натисніть {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Натисніть {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Натисніть {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Натисніть {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
-The text within the Markdown structure is already in a format that does not require translation, as it uses placeholders like `{{<T "YES" >}}` which are meant to be replaced by the appropriate translations in the application. Therefore, no changes are needed for the translation.
+<map name="VitalControlSettingsPage1">
+    <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='Натисніть {{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
+    <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='Натисніть {{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
+    <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='Натисніть {{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
+    <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='Натисніть {{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
+    <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='Натисніть {{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
+    <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='Натисніть {{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
+    <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='Натисніть {{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
+    <area shape="rect" coords="142,517,215,616" alt='Сторінка 2' title='Натисніть Сторінка 2' href="#VitalControlSettingsPage1_Digit_8">
+</map>
+
+<map name="VitalControlSettingsPage2">
+    <area shape="rect" coords="5,208,235,248" alt='{{<T "EarTagNumber" >}}' title='Натисніть {{<T "EarTagNumber" >}}' href="#VitalControlSettingsPage2_Digit_1">
+    <area shape="rect" coords="5,208,235,328" alt='{{<T "AnimalNumber" >}}' title='Натисніть {{<T "AnimalNumber" >}}' href="#VitalControlSettingsPage2_Digit_2">
+    <area shape="rect" coords="5,368,235,408" alt='{{<T "DateOfBirth" >}}' title='Натисніть {{<T "DateOfBirth" >}}' href="#VitalControlSettingsPage2_Digit_3">
+    <area shape="rect" coords="392,116,455,177" alt='{{<T "Feeder" >}}' title='Натисніть {{<T "Feeder" >}}' href="#VitalControlSettingsPage2_Digit_4">
+    <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='Натисніть {{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
+    <area shape="rect" coords="678,97,775,159" alt='{{<T "NoChange_AP" >}}' title='Натисніть {{<T "NoChange_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
+    <area shape="rect" coords="52,510,125,615" alt='Сторінка 1' title='Натисніть Сторінка 1' href="#VitalControlSettingsPage2_Digit_8">
+</map>

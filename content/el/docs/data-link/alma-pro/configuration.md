@@ -36,7 +36,7 @@ aliases: /vc/conf/el
     </div>
 </div>
 
-## Πλοήγηση στο μενού ρυθμίσεων `{{<T "VitalControl" >}}`
+## Πλοήγηση στο μενού ρυθμίσεων `{{% T "VitalControl" %}}`
 
 {{% alert title="Προσοχή" %}}
 Για να ενεργοποιήσετε και να ρυθμίσετε τη συσκευή {{<T "VitalControl" >}}, πρέπει να είστε συνδεδεμένοι ως ο ρόλος χρήστη {{<T "SiteManager" >}} στον αυτόματο τροφοδότη. Διαφορετικά, ορισμένα από τα κουμπιά που εμφανίζονται και περιγράφονται παρακάτω δεν θα είναι ορατά σε εσάς.
@@ -59,7 +59,7 @@ aliases: /vc/conf/el
 
 Το μενού ρυθμίσεων `{{<T "VitalControl" >}}` είναι χωρισμένο σε δύο σελίδες:
 
-## Μενού Ρυθμίσεων `{{<T "VitalControl" >}}` - Σελίδα 1 {#settings-menu-vitalcontrol-page-1}
+## Μενού Ρυθμίσεων `{{% T "VitalControl" %}}` - Σελίδα 1 {#settings-menu-vitalcontrol-page-1}
 
 Η Σελίδα 1 του μενού ρυθμίσεων <span style="font-style: italic;">{{<T "VitalControl" >}}</span> παρουσιάζεται ως εξής:
 
@@ -70,11 +70,11 @@ aliases: /vc/conf/el
 
 Σε αυτή τη σελίδα, μπορείτε να εκτελέσετε τις ακόλουθες ενέργειες και ρυθμίσεις.
 
-### Ενεργοποίηση της Συσκευής {{<T "VitalControl" >}} {#activation-vitalcontrol}
+### Ενεργοποίηση της Συσκευής {{% T "VitalControl" %}} {#activation-vitalcontrol}
 
 Στην προεπιλεγμένη κατάσταση της μηχανής, το {{<T "VitalControl" >}} είναι απενεργοποιημένο. Ρυθμίστε τον διακόπτη <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> στη δεξιά θέση <span style="font-style: italic;">{{<T "YES" >}}</span> για να ενεργοποιήσετε τη συσκευή {{<T "VitalControl" >}}. Στη συνέχεια, στη δεξιά πλαϊνή μπάρα του μενού τροφοδότη, κάτω από το εικονίδιο/τα εικονίδια για τη συνδεδεμένη μηχανή/τις συνδεδεμένες μηχανές, θα εμφανιστεί το εικονίδιο <img src="/icons/device.svg" width="20" align="bottom" alt="Συσκευή VitalControl" title="VitalControl"/> για τη συσκευή `{{<T "VitalControl" >}}` (δείτε το Στιγμιότυπο <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Μενού Τροφοδότη</a></span>, σχήμα <span style="font-size: 140%">➁</span> εκεί).
 
-### Συγχρονισμός αυτόματου τροφοδότη <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Συγχρονισμός αυτόματου τροφοδότη <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 Στην αριστερή πλευρά της οθόνης, υπάρχουν δύο πλαίσια επιλογής:
 
@@ -136,7 +136,7 @@ aliases: /vc/conf/el
     </div>
 </div>
 
-### Συγχρονισμός {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Αυτόματη Ταΐστρα
+### Συγχρονισμός {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Αυτόματη Ταΐστρα
 
 Στη δεξιά πλευρά της οθόνης, υπάρχει ένα πλαίσιο επιλογής και δύο πεδία εισαγωγής:
 
@@ -184,7 +184,7 @@ aliases: /vc/conf/el
 
 Πατήστε το κουμπί <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> για να μεταβείτε στη [σελίδα 2](#settings-menu-vitalcontrol-page-2) του <span style="font-style: italic;">μενού ρυθμίσεων {{<T "VitalControl" >}}</span>.
 
-## Μενού Ρυθμίσεων `{{<T "VitalControl" >}}` - Σελίδα 2 {#settings-menu-vitalcontrol-page-2}
+## Μενού Ρυθμίσεων `{{% T "VitalControl" %}}` - Σελίδα 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Πώς να αντιμετωπίσετε τις συγκρούσεις δεδομένων κατά τη συγχρονισμό
 
@@ -230,8 +230,8 @@ aliases: /vc/conf/el
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Κάντε κλικ {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Κάντε κλικ {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Κάντε κλικ {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Κάντε κλικ {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Κάντε κλικ {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Κάντε κλικ {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Κάντε κλικ {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
 <map name="VitalControlSettingsPage1">

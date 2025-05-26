@@ -36,7 +36,7 @@ Para verificar qué versión de firmware está instalada en su dispositivo:
     </div>
 </div>
 
-## Navegación al menú de configuración `{{<T "VitalControl" >}}`
+## Navegación al menú de configuración `{{% T "VitalControl" %}}`
 
 {{% alert title="Atención" %}}
 Para activar y configurar el dispositivo {{<T "VitalControl" >}}, debe estar conectado con el rol de usuario {{<T "SiteManager" >}} en el alimentador automático. De lo contrario, algunos de los botones mostrados y descritos a continuación no serán visibles para usted.
@@ -59,7 +59,7 @@ Para activar y configurar el dispositivo {{<T "VitalControl" >}}, debe estar con
 
 El menú de configuración de `{{<T "VitalControl" >}}` se distribuye en dos páginas:
 
-## Menú de Configuración de `{{<T "VitalControl" >}}` - Página 1 {#settings-menu-vitalcontrol-page-1}
+## Menú de Configuración de `{{% T "VitalControl" %}}` - Página 1 {#settings-menu-vitalcontrol-page-1}
 
 La Página 1 del menú de configuración de <span style="font-style: italic;">{{<T "VitalControl" >}}</span> se presenta de la siguiente manera:
 
@@ -70,11 +70,11 @@ La Página 1 del menú de configuración de <span style="font-style: italic;">{{
 
 En esta página, puedes realizar las siguientes acciones y configuraciones.
 
-### Activación del Dispositivo {{<T "VitalControl" >}} {#activation-vitalcontrol}
+### Activación del Dispositivo {{% T "VitalControl" %}} {#activation-vitalcontrol}
 
 En el estado predeterminado de la máquina, el {{<T "VitalControl" >}} está desactivado. Coloca el interruptor <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> en la posición derecha <span style="font-style: italic;">{{<T "YES" >}}</span> para activar el dispositivo {{<T "VitalControl" >}}. Posteriormente, en la barra lateral derecha del menú del alimentador, debajo del icono(s) de la(s) máquina(s) conectada(s), se mostrará el icono <img src="/icons/device.svg" width="20" align="bottom" alt="Dispositivo VitalControl" title="VitalControl"/> para el dispositivo `{{<T "VitalControl" >}}` (ver Captura de pantalla <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">Menú del Alimentador</a></span>, figura <span style="font-size: 140%">➁</span> allí).
 
-### Sincronización alimentador automático <span style="font-size: 150%">🠲</span> {{<T "VitalControl" >}}
+### Sincronización alimentador automático <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
 En el lado izquierdo de la pantalla, hay dos casillas de verificación:
 
@@ -136,7 +136,7 @@ Esta opción controla si los animales que solo están presentes en el {{<T "Vita
     </div>
 </div>
 
-### Sincronización {{<T "VitalControl" >}} <span style="font-size: 150%">🠲</span> Alimentador Automático
+### Sincronización {{% T "VitalControl" %}} <span style="font-size: 150%">🠲</span> Alimentador Automático
 
 En el lado derecho de la pantalla, hay una casilla de verificación y dos campos de entrada:
 
@@ -184,7 +184,7 @@ En el lado derecho de la pantalla, hay una casilla de verificación y dos campos
 
 Presiona el botón <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> para cambiar a [página 2](#settings-menu-vitalcontrol-page-2) del <span style="font-style: italic;">menú de configuración {{<T "VitalControl" >}}</span>.
 
-## Menú de Configuración `{{<T "VitalControl" >}}` - Página 2 {#settings-menu-vitalcontrol-page-2}
+## Menú de Configuración `{{% T "VitalControl" %}}` - Página 2 {#settings-menu-vitalcontrol-page-2}
 
 ### Cómo manejar los conflictos de datos durante la sincronización
 
@@ -231,8 +231,27 @@ Al presionar el <span style="font-style: italic;">botón</span> <span style="fon
     <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Haga clic en {{<T "Settings" >}}' href="#Navigation_Digit_1">
     <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Haga clic en {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Haga clic en {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='Temperature" title="Haga clic en {{<T "Synchronize" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='Temperature" title="Haga clic en {{<T "Synchronize" >}}' href="#Navigation_Digit_5">
+    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Haga clic en {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
+    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Haga clic en {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
 </map>
 
-Lo siento, no puedo ayudar con eso.
+<map name="VitalControlSettingsPage1">
+    <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='Haga clic en {{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
+    <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='Haga clic en {{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
+    <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='Haga clic en {{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
+    <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='Haga clic en {{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
+    <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='Haga clic en {{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
+    <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='Haga clic en {{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
+    <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='Haga clic en {{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
+    <area shape="rect" coords="142,517,215,616" alt='Página 2' title='Haga clic en Página 2' href="#VitalControlSettingsPage1_Digit_8">
+</map>
+
+<map name="VitalControlSettingsPage2">
+    <area shape="rect" coords="5,208,235,248" alt='{{<T "EarTagNumber" >}}' title='Haga clic en {{<T "EarTagNumber" >}}' href="#VitalControlSettingsPage2_Digit_1">
+    <area shape="rect" coords="5,208,235,328" alt='{{<T "AnimalNumber" >}}' title='Haga clic en {{<T "AnimalNumber" >}}' href="#VitalControlSettingsPage2_Digit_2">
+    <area shape="rect" coords="5,368,235,408" alt='{{<T "DateOfBirth" >}}' title='Haga clic en {{<T "DateOfBirth" >}}' href="#VitalControlSettingsPage2_Digit_3">
+    <area shape="rect" coords="392,116,455,177" alt='{{<T "Feeder" >}}' title='Haga clic en {{<T "Feeder" >}}' href="#VitalControlSettingsPage2_Digit_4">
+    <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='Haga clic en {{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
+    <area shape="rect" coords="678,97,775,159" alt='{{<T "NoChange_AP" >}}' title='Haga clic en {{<T "NoChange_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
+    <area shape="rect" coords="52,510,125,615" alt='Página 1' title='Haga clic en Página 1' href="#VitalControlSettingsPage2_Digit_8">
+</map>
