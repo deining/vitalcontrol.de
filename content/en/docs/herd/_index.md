@@ -12,13 +12,12 @@ tags: [Herd, Temperature, Weight, Rating, Animal data]
 translationKey: herd
 maphilight: true
 ---
-## Herd {#herd}
 
 In this menu you have the following possibilities:
 
-- Immediately call the [action menu](#call-action-menu)  <img src="/digits/1_negative_circled.svg" width="20" align="middle" id="FigureOverview_Digit_1" alt="Circled digit 1" title="Digit 1"/>
-- [Filter](#search-animal-and-set-filter) the displayed animals or [search](#search-animal-and-set-filter) for an specific one  <img src="/digits/2_negative_circled.svg" width="20" align="middle" id="FigureOverview_Digit_2" alt="Circled digit 2" title="Digit 2"/>
-- Choose [settings and further actions](#settings-and-further-actions)  <img src="/digits/3_negative_circled.svg" width="20" align="middle" id="FigureOverview_Digit_3" alt="Circled digit 3" title="Digit 3"/>
+- Perfom an [action](#call-action-menu) for the selected animal <img src="/digits/1_negative_circled.svg" width="20" align="middle" id="FigureOverview_Digit_1" alt="Circled digit 1" title="Digit 1"/>
+- [Search](#search-or-filter-animals) or [filter](#search-or-filter-animals) animals  <img src="/digits/2_negative_circled.svg" width="20" align="middle" id="FigureOverview_Digit_2" alt="Circled digit 2" title="Digit 2"/>
+- [Configure display settings](#configure-display-settings) <img src="/digits/3_negative_circled.svg" width="20" align="middle" id="FigureOverview_Digit_3" alt="Circled digit 3" title="Digit 3"/>
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="images/overview.png" id="FigureOverview" usemap="#FigureOverviewMap" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 60%;" align="bottom" alt="Herd: Available options in Herd menu" title="Herd: Available options in Herd menu" />
@@ -39,11 +38,11 @@ You always have the option to call up the action menu for an animal.
 
 2. Select an animal from the list with the arrow keys △ ▽ and confirm with `{{<T "Ok" >}}`. The action menu is now open. How to use this can be found [here](../actions).
 
-4. Return to the herd list with the `F3` key.
+4. Return to the herd list with the `F1`  &nbsp;<img src="/icons/footer/exit.svg" width="15" align="bottom" alt="Open popup" />&nbsp; key.
 
     ![VitalControl: Menu Herd](images/action.png "Call actions")
 
-### Search animal and set filter {#search-animal-and-set-filter}
+### Search or filter animals {#search-or-filter-animals}
 
 It is also possible to search for a specific animal or set a filter.
 
@@ -67,7 +66,7 @@ To search for an animal or to set a filter, proceed as follows:
 1. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke the popup menu that lists all the available options. Use the arrow keys △ ▽ to highlight `{{<T "SearchAnimal" >}}` or `{{<T "SetFilter" >}}` and press the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
 
 {{< tabpane >}}
-{{< tab header="Selection of the desired information display: " text=true disabled=true />}}
+{{< tab header="Search / Filter: " text=true disabled=true />}}
 {{% tab header="{{< T \"SearchAnimal\" >}}" text=true %}}
 ![VitalControl: Herd information display {{<T "SearchAnimal" >}}](images/search.png "Display {{<T "SearchAnimal" >}} information")
 {{% /tab %}}
@@ -76,7 +75,7 @@ To search for an animal or to set a filter, proceed as follows:
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Settings and further actions {#settings-and-further-actions}
+### Configure display settings  {#configure-display-settings}
 
 Within the herd menu, you have several options to display the information of your animals in short form. All options are shown in [Figure 3](#Figure3) below.
 
@@ -114,7 +113,7 @@ To display the desired information, proceed as follows:
 1. Alternatively, you can use the arrow keys ◁ ▷ to switch between the different display options.
 
 {{< tabpane >}}
-{{< tab header="Selection of the desired information display: " text=true disabled=true />}}
+{{< tab header="Display settings: " text=true disabled=true />}}
 {{% tab header="{{< T \"AnimalDataGenderType\" >}}" text=true %}}
 ![VitalControl: Herd information display {{<T "AnimalDataGenderType" >}}](images/animaldataGender.png "Display {{<T "AnimalDataGenderType" >}} information")
 {{% /tab %}}
