@@ -16,18 +16,18 @@ maphilight: true
 In this menu you have the following possibilities:
 
 - Perfom an [action](#call-action-menu) for the selected animal <img src="/digits/1_negative_circled.svg" width="20" align="middle" id="FigureOverview_Digit_1" alt="Circled digit 1" title="Digit 1"/>
-- [Search](#search-or-filter-animals) or [filter](#search-or-filter-animals) animals  <img src="/digits/2_negative_circled.svg" width="20" align="middle" id="FigureOverview_Digit_2" alt="Circled digit 2" title="Digit 2"/>
+- [Search](#search-for-an-animal) or [filter](#apply-a-filter) animals  <img src="/digits/2_negative_circled.svg" width="20" align="middle" id="FigureOverview_Digit_2" alt="Circled digit 2" title="Digit 2"/>
 - [Configure display settings](#configure-display-settings) <img src="/digits/3_negative_circled.svg" width="20" align="middle" id="FigureOverview_Digit_3" alt="Circled digit 3" title="Digit 3"/>
 
 <figure class="figure" style="margin-top: 5px;">
-    <img src="images/overview.png" id="FigureOverview" usemap="#FigureOverviewMap" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 60%;" align="bottom" alt="Herd: Available options in Herd menu" title="Herd: Available options in Herd menu" />
-    <figcaption class="figure-caption fs-6">Figure 1: <span style="font-style: italic;">Available options in Herd menu</figcaption>
+    <img src="images/overview.png" id="FigureOverview" usemap="#FigureOverviewMap" style="max-width: 60%;" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Herd: Available options in Herd menu" title="Herd: Available options in Herd menu" />
+    <figcaption class="figure-caption fs-6"> Figure 1: <span style="font-style: italic;">Available options in Herd menu</figcaption>
 </figure>
 
 <map name="FigureOverviewMap">
     <area shape="rect" coords="0,430,240,783" alt='{{<T "ChooseAction" >}}' title='{{<T "ChooseAction" >}}' href="#call-action-menu">
-    <area shape="rect" coords="312,430,550,783" alt='{{<T "SearchAnimal" >}}' title='{{<T "SearchAnimal" >}}' href="#search-animal-and-set-filter">
-    <area shape="rect" coords="625,380,862,783" alt='{{<T "FurtherActions" >}}' title='{{<T "FurtherActions" >}}' href="#settings-and-further-actions">
+    <area shape="rect" coords="312,430,550,783" alt='{{<T "SearchAnimal" >}}' title='{{<T "SearchAnimal" >}}' href="#search-for-an-animal">
+    <area shape="rect" coords="625,380,862,783" alt='{{<T "FurtherActions" >}}' title='{{<T "FurtherActions" >}}' href="#configure-display-settings">
 </map>
 
 ### Call action menu {#call-action-menu}
@@ -59,21 +59,33 @@ It is also possible to search for a specific animal or set a filter.
     <figcaption class="figure-caption fs-6">Figure 2: <span style="font-style: italic;">Search and set filter</figcaption>
 </figure>
 
-To search for an animal or to set a filter, proceed as follows:
+#### Search for an animal
 
 1. On the main screen of your {{<T "VitalControl" >}} device, select the menu item &nbsp;<img src="/icons/main/herd.svg" width="60" align="bottom" alt="Open popup" />&nbsp; `{{<T "Herd" >}}` and press the `{{<T "Ok" >}}` button. Your herd overview opens.
 
-1. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke the popup menu that lists all the available options. Use the arrow keys △ ▽ to highlight `{{<T "SearchAnimal" >}}` or `{{<T "SetFilter" >}}` and press the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
+1. Use the `F2` &nbsp;<img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" />&nbsp; to get to the search input. Alternatively use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke the popup menu that lists all the available options. Use the arrow keys △ ▽ to highlight `{{<T "SearchAnimal" >}}` and press the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
+
+1. Further information about the search input can be found [here]().
 
 {{< tabpane >}}
-{{< tab header="Search / Filter: " text=true disabled=true />}}
-{{% tab header="{{< T \"SearchAnimal\" >}}" text=true %}}
-![VitalControl: Herd information display {{<T "SearchAnimal" >}}](images/search.png "Display {{<T "SearchAnimal" >}} information")
+{{< tab header="Search:" text=true disabled=true />}}
+{{% tab header="Use of &nbsp;<img src='/icons/footer/search.svg' width='15' align='bottom' alt='Search' />&nbsp;" text=true %}}
+![VitalControl: Herd information display {{<T "SearchAnimal" >}}](images/searchF2.png "Display {{<T "SearchAnimal" >}} information")
 {{% /tab %}}
-{{% tab header="{{< T \"SetFilter\" >}}" text=true %}}
-![VitalControl: Herd information display {{<T "SetFilter" >}}](images/setfilter.png "Display {{<T "SetFilter" >}} information")
+{{% tab header="Use of &nbsp;<img src='/icons/footer/open-popup.svg' width='15' align='bottom' alt='Open popup' />&nbsp;" text=true %}}
+![VitalControl: Herd information display {{<T "SetFilter" >}}](images/search.png "Display {{<T "SetFilter" >}} information")
 {{% /tab %}}
 {{< /tabpane >}}
+
+#### Apply a filter
+
+1. On the main screen of your {{<T "VitalControl" >}} device, select the menu item &nbsp;<img src="/icons/main/herd.svg" width="60" align="bottom" alt="Open popup" />&nbsp; `{{<T "Herd" >}}` and press the `{{<T "Ok" >}}` button. Your herd overview opens.
+
+1. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke the popup menu that lists all the available options. Use the arrow keys △ ▽ to highlight `{{<T "SetFilter" >}}` and press the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
+
+1. Further information about filter can be found [here](../filter/_index.md).
+
+![VitalControl: Menu Herd Filter](images/setfilter.png "Set a filter")
 
 ### Configure display settings  {#configure-display-settings}
 
