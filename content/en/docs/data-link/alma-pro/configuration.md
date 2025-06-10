@@ -63,10 +63,31 @@ The `{{<T "VitalControl" >}}` settings menu is spread across two pages:
 
 Page 1 of the <span style="font-style: italic;">{{<T "VitalControl" >}}</span> settings menu is presented as follows:
 
-<figure class="figure" style="margin-top: 5px;">
-    <img src="../images/settings-vitalcontrol-1.png" usemap="#VitalControlSettingsPage1" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="VitalControl settings menu: Page 1" title="VitalControl settings (1)" />
-    <figcaption class="figure-caption fs-6">Screenshot 2: <span style="font-style: italic;">{{<T "VitalControl" >}}</span> settings menu, Page 1</figcaption>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+    <div style="padding: 12px;">
+       <img
+        src="../images/settings-vitalcontrol-1.png"
+        alt="VitalControl settings menu: Page 1"
+        usemap="#VitalControlSettingsPage1"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid" 
+        align="bottom" alt="VitalControl settings: Access"
+        title="VitalControl settings (1)" />
+    </div>
+    <map name="VitalControlSettingsPage1">
+        <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='Click {{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
+        <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='Click {{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
+        <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='Click {{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
+        <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='Click {{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
+        <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='Click {{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
+        <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='Click {{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
+        <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='Click {{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
+        <area shape="rect" coords="142,517,215,616" alt='Page 2' title='Click Page 2' href="#VitalControlSettingsPage1_Digit_8">
+    </map>
 </figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    Screenshot 2: <span style="font-style: italic;">{{<T "VitalControl" >}}</span> settings menu, Page 1
+</figcaption>
 
 On this page, you can perform the following actions and settings.
 
@@ -232,17 +253,6 @@ By pressing the <span style="font-style: italic;">button</span> <span style="fon
     <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Click {{<T "Accessories" >}}' href="#Navigation_Digit_3">
     <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Click {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
     <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Click {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
-</map>
-
-<map name="VitalControlSettingsPage1">
-    <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='Click {{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
-    <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='Click {{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
-    <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='Click {{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
-    <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='Click {{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
-    <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='Click {{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
-    <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='Click {{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
-    <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='Click {{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
-    <area shape="rect" coords="142,517,215,616" alt='Page 2' title='Click Page 2' href="#VitalControlSettingsPage1_Digit_8">
 </map>
 
 <map name="VitalControlSettingsPage2">
