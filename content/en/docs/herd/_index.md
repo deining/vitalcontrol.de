@@ -20,8 +20,16 @@ In this menu you have the following possibilities:
 - [Configure display settings](#configure-display-settings) <img src="/digits/3_negative_circled.svg" width="20" align="middle" id="FigureOverview_Digit_3" alt="Circled digit 3" title="Digit 3"/>
 
 <figure class="figure" style="margin-top: 5px;">
-    <img src="images/overview.png" id="FigureOverview" usemap="#FigureOverviewMap" style="max-width: 60%;" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Herd: Available options in Herd menu" title="Herd: Available options in Herd menu" />
-    <figcaption class="figure-caption fs-6"> Figure 1: <span style="font-style: italic;">Available options in Herd menu</figcaption>
+  <img src="images/overview.png"
+       id="FigureOverview"
+       usemap="#FigureOverviewMap"
+       class="maphilight img-fluid"
+       style="max-width: 580px; width: 100%;"
+       alt="Herd: Available options in Herd menu"
+       title="Herd: Available options in Herd menu" />
+  <figcaption class="figure-caption fs-6">
+    Figure 1: <span style="font-style: italic;">Available options in Herd menu</span>
+  </figcaption>
 </figure>
 
 <map name="FigureOverviewMap">
