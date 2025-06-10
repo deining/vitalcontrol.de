@@ -53,7 +53,7 @@ To activate and set up the {{<T "VitalControl" >}} device, you must be logged in
 1. At the bottom of the right side of the screen, the button &nbsp;<img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Open VitalControl settings" title="Open settings" />`{{<T "OpenSettings" >}}`<span style="font-size: 140%" id="Navigation_Digit_5">➄</span> is now displayed. Click this button, and a popup window will open, displaying [Page 1](#settings-menu-vitalcontrol-page-1) of the `{{<T "VitalControl" >}}` settings menu.
 
 <figure class="figure" style="margin-top: 5px;">
-    <img src="../images/open-settings-vitalcontrol.png" usemap="#NavigationToVitalControlSettingsMenu" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="VitalControl settings: Access" title="Access VitalControl settings menu" />
+    <img src="../images/open-settings-vitalcontrol.png" usemap="#NavigationToVitalControlSettingsMenu" style="max-width: 880px; width: 100%;" class="maphilight img-fluid" align="bottom" alt="VitalControl settings: Access" title="Access VitalControl settings menu" />
     <figcaption class="figure-caption fs-6">Screenshot 1: Accessing the <span style="font-style: italic;">{{<T "VitalControl" >}}</span> settings menu</figcaption>
 </figure>
 
