@@ -63,7 +63,7 @@ It is also possible to search for a specific animal or set a filter.
 
 1. On the main screen of your {{<T "VitalControl" >}} device, select the menu item &nbsp;<img src="/icons/main/herd.svg" width="60" align="bottom" alt="Open popup" />&nbsp; `{{<T "Herd" >}}` and press the `{{<T "Ok" >}}` button. Your herd overview opens.
 
-1. Use the `F2` &nbsp;<img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" />&nbsp; to get to the search input. Alternatively use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke the popup menu that lists all the available options. Use the arrow keys △ ▽ to highlight `{{<T "SearchAnimal" >}}` and press the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
+1. Use the `F2` key &nbsp;<img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" />&nbsp; to get to the search input. Alternatively use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke the popup menu that lists all the available options. Use the arrow keys △ ▽ to highlight `{{<T "SearchAnimal" >}}` and press the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
 
 1. Further information about the search input can be found [here]().
 
