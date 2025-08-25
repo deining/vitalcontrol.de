@@ -52,10 +52,28 @@ Da biste aktivirali i postavili uređaj {{<T "VitalControl" >}}, morate biti pri
 
 1. Na dnu desne strane zaslona sada se prikazuje gumb &nbsp;<img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Otvori postavke VitalControl" title="Otvori postavke" />`{{<T "OpenSettings" >}}`<span style="font-size: 140%" id="Navigation_Digit_5">➄</span>. Kliknite ovaj gumb i otvorit će se skočni prozor koji prikazuje [Stranicu 1](#settings-menu-vitalcontrol-page-1) izbornika postavki `{{<T "VitalControl" >}}`.
 
-<figure class="figure" style="margin-top: 5px;">
-    <img src="../images/open-settings-vitalcontrol.png" usemap="#NavigationToVitalControlSettingsMenu" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Postavke VitalControl: Pristup" title="Pristup izborniku postavki VitalControl" />
-    <figcaption class="figure-caption fs-6">Snimka zaslona 1: Pristup izborniku postavki <span style="font-style: italic;">{{<T "VitalControl" >}}</span></figcaption>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+    <div style="padding: 12px;">
+       <img
+        src="../images/open-settings-vitalcontrol.png"
+        alt="Postavke VitalControl: Pristup"
+        usemap="#NavigationToVitalControlSettingsMenu"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid" 
+        align="bottom"
+        title="Pristup izborniku postavki VitalControl" />
+    </div>
+    <map name="NavigationToVitalControlSettingsMenu">
+        <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='{{<T "Settings" >}}' href="#Navigation_Digit_1">
+        <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='{{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
+        <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='{{<T "Accessories" >}}' href="#Navigation_Digit_3">
+        <area shape="rect" coords="520,150,870,197" alt='{{<T "VitalControl" >}}' title='{{<T "VitalControl" >}}' href="#Navigation_Digit_4">
+        <area shape="rect" coords="580,582,850,636" alt='{{<T "OpenSettings" >}}' title='{{<T "OpenSettings" >}}' href="#Navigation_Digit_5">
+    </map>
 </figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    Snimka zaslona 2: Pristup izborniku postavki <span style="font-style: italic;">{{<T "VitalControl" >}}
+</figcaption>
 
 Izbornik postavki `{{<T "VitalControl" >}}` raspoređen je na dvije stranice:
 
@@ -63,10 +81,31 @@ Izbornik postavki `{{<T "VitalControl" >}}` raspoređen je na dvije stranice:
 
 Stranica 1 izbornika postavki <span style="font-style: italic;">{{<T "VitalControl" >}}</span> prikazana je na sljedeći način:
 
-<figure class="figure" style="margin-top: 5px;">
-    <img src="../images/settings-vitalcontrol-1.png" usemap="#VitalControlSettingsPage1" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Izbornik postavki VitalControl: Stranica 1" title="Postavke VitalControl (1)" />
-    <figcaption class="figure-caption fs-6">Snimka zaslona 2: <span style="font-style: italic;">{{<T "VitalControl" >}}</span> izbornik postavki, Stranica 1</figcaption>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+    <div style="padding: 12px;">
+       <img
+        src="../images/settings-vitalcontrol-1.png"
+        alt="Izbornik postavki VitalControl: Stranica 1"
+        usemap="#VitalControlSettingsPage1"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid" 
+        align="bottom"
+        title="Postavke VitalControl (1)" />
+    </div>
+    <map name="VitalControlSettingsPage1">
+        <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='{{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
+        <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='{{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
+        <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='{{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
+        <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
+        <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='{{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
+        <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
+        <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='{{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
+        <area shape="rect" coords="142,517,215,616" alt='Page 2' title='Page 2' href="#VitalControlSettingsPage1_Digit_8">
+    </map>
 </figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    Snimka zaslona 3: <span style="font-style: italic;">{{<T "VitalControl" >}}</span> izbornik postavki, Stranica 1
+</figcaption>
 
 Na ovoj stranici možete izvršiti sljedeće radnje i postavke.
 
@@ -210,11 +249,30 @@ Konflikti podataka mogu se pojaviti prilikom sinkronizacije podataka između hra
         </div>
 </div>
 
-<figure class="figure" style="margin-top: 5px;">
-    <img src="../images/settings-vitalcontrol-2.png" usemap="#VitalControlSettingsPage2" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Izbornik postavki VitalControl: Stranica 2" title="Postavke VitalControl (2)" />
-    <figcaption class="figure-caption fs-6">Snimka zaslona 3: Izbornik postavki <span style="font-style: italic;">{{<T "VitalControl" >}}</span>, Stranica 2</figcaption>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+    <div style="padding: 12px;">
+       <img
+        src="../images/settings-vitalcontrol-2.png"
+        alt="Izbornik postavki VitalControl: Stranica 2"
+        usemap="#VitalControlSettingsPage2"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid" 
+        align="bottom"
+        title="Postavke VitalControl (2)" />
+    </div>
+    <map name="VitalControlSettingsPage2">
+        <area shape="rect" coords="5,208,235,248" alt='{{<T "EarTagNumber" >}}' title='{{<T "EarTagNumber" >}}' href="#VitalControlSettingsPage2_Digit_1">
+        <area shape="rect" coords="5,285,235,328" alt='{{<T "AnimalNumber" >}}' title='{{<T "AnimalNumber" >}}' href="#VitalControlSettingsPage2_Digit_2">
+        <area shape="rect" coords="5,368,235,408" alt='{{<T "DateOfBirth" >}}' title='{{<T "DateOfBirth" >}}' href="#VitalControlSettingsPage2_Digit_3">
+        <area shape="rect" coords="392,116,455,177" alt='{{<T "Feeder" >}}' title='{{<T "Feeder" >}}' href="#VitalControlSettingsPage2_Digit_4">
+        <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='{{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
+        <area shape="rect" coords="678,97,775,159" alt='{{<T "NoChange_AP" >}}' title='{{<T "NoChange_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
+        <area shape="rect" coords="52,510,125,615" alt='Page 1' title='Page 1' href="#VitalControlSettingsPage2_Digit_8">
+    </map>
 </figure>
-
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    Snimka zaslona 4: Izbornik postavki <span style="font-style: italic;">{{<T "VitalControl" >}}</span>, Stranica 2
+</figcaption>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Alert:">
@@ -227,32 +285,3 @@ Konflikti podataka mogu se pojaviti prilikom sinkronizacije podataka između hra
 </div>
 
 Pritiskom na <span style="font-style: italic;">gumb</span> <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_8">⑧</span> vratit ćete se na [stranicu 1](#settings-menu-vitalcontrol-page-1) izbornika postavki `{{<T "VitalControl" >}}`.
-
-<map name="NavigationToVitalControlSettingsMenu">
-    <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Kliknite {{<T "Settings" >}}' href="#Navigation_Digit_1">
-    <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Kliknite {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
-    <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Kliknite {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Kliknite {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Kliknite {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
-</map>
-
-<map name="VitalControlSettingsPage1">
-    <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='Kliknite {{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
-    <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='Kliknite {{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
-    <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='Kliknite {{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
-    <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='Kliknite {{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
-    <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='Kliknite {{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
-    <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='Kliknite {{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
-    <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='Kliknite {{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
-    <area shape="rect" coords="142,517,215,616" alt='Stranica 2' title='Kliknite Stranica 2' href="#VitalControlSettingsPage1_Digit_8">
-</map>
-
-<map name="VitalControlSettingsPage2">
-    <area shape="rect" coords="5,208,235,248" alt='{{<T "EarTagNumber" >}}' title='Kliknite {{<T "EarTagNumber" >}}' href="#VitalControlSettingsPage2_Digit_1">
-    <area shape="rect" coords="5,208,235,328" alt='{{<T "AnimalNumber" >}}' title='Kliknite {{<T "AnimalNumber" >}}' href="#VitalControlSettingsPage2_Digit_2">
-    <area shape="rect" coords="5,368,235,408" alt='{{<T "DateOfBirth" >}}' title='Kliknite {{<T "DateOfBirth" >}}' href="#VitalControlSettingsPage2_Digit_3">
-    <area shape="rect" coords="392,116,455,177" alt='{{<T "Feeder" >}}' title='Kliknite {{<T "Feeder" >}}' href="#VitalControlSettingsPage2_Digit_4">
-    <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='Kliknite {{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
-    <area shape="rect" coords="678,97,775,159" alt='{{<T "NoChange_AP" >}}' title='Kliknite {{<T "NoChange_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
-    <area shape="rect" coords="52,510,125,615" alt='Stranica 1' title='Kliknite Stranica 1' href="#VitalControlSettingsPage2_Digit_8">
-</map>

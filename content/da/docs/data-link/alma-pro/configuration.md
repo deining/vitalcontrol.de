@@ -52,10 +52,28 @@ For at aktivere og opsætte {{<T "VitalControl" >}}-enheden skal du være logget
 
 1. Nederst på højre side af skærmen vises knappen &nbsp;<img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Åbn VitalControl indstillinger" title="Åbn indstillinger" />`{{<T "OpenSettings" >}}`<span style="font-size: 140%" id="Navigation_Digit_5">➄</span>. Klik på denne knap, og et popup-vindue åbnes, der viser [Side 1](#settings-menu-vitalcontrol-page-1) af `{{<T "VitalControl" >}}` indstillingsmenuen.
 
-<figure class="figure" style="margin-top: 5px;">
-    <img src="../images/open-settings-vitalcontrol.png" usemap="#NavigationToVitalControlSettingsMenu" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="VitalControl indstillinger: Adgang" title="Adgang til VitalControl indstillingsmenu" />
-    <figcaption class="figure-caption fs-6">Skærmbillede 1: Adgang til <span style="font-style: italic;">{{<T "VitalControl" >}}</span> indstillingsmenuen</figcaption>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+    <div style="padding: 12px;">
+       <img
+        src="../images/open-settings-vitalcontrol.png"
+        alt="Åbn VitalControl indstillinger"
+        usemap="#NavigationToVitalControlSettingsMenu"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid" 
+        align="bottom"
+        title="Åbn VitalControl indstillinger" />
+    </div>
+    <map name="NavigationToVitalControlSettingsMenu">
+        <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='{{<T "Settings" >}}' href="#Navigation_Digit_1">
+        <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='{{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
+        <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='{{<T "Accessories" >}}' href="#Navigation_Digit_3">
+        <area shape="rect" coords="520,150,870,197" alt='{{<T "VitalControl" >}}' title='{{<T "VitalControl" >}}' href="#Navigation_Digit_4">
+        <area shape="rect" coords="580,582,850,636" alt='{{<T "OpenSettings" >}}' title='{{<T "OpenSettings" >}}' href="#Navigation_Digit_5">
+    </map>
 </figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    Skærmbillede 2: Adgang til <span style="font-style: italic;">{{<T "VitalControl" >}}</span> indstillingsmenuen
+</figcaption>
 
 `{{<T "VitalControl" >}}` indstillingsmenuen er fordelt på to sider:
 
@@ -63,10 +81,31 @@ For at aktivere og opsætte {{<T "VitalControl" >}}-enheden skal du være logget
 
 Side 1 af <span style="font-style: italic;">{{<T "VitalControl" >}}</span> indstillingsmenuen præsenteres som følger:
 
-<figure class="figure" style="margin-top: 5px;">
-    <img src="../images/settings-vitalcontrol-1.png" usemap="#VitalControlSettingsPage1" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="VitalControl indstillingsmenu: Side 1" title="VitalControl indstillinger (1)" />
-    <figcaption class="figure-caption fs-6">Skærmbillede 2: <span style="font-style: italic;">{{<T "VitalControl" >}}</span> indstillingsmenu, Side 1</figcaption>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+    <div style="padding: 12px;">
+       <img
+        src="../images/settings-vitalcontrol-1.png"
+        alt="VitalControl indstillingsmenu: Side 1"
+        usemap="#VitalControlSettingsPage1"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid" 
+        align="bottom"
+        title="VitalControl indstillinger (1)" />
+    </div>
+    <map name="VitalControlSettingsPage1">
+        <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='{{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
+        <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='{{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
+        <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='{{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
+        <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
+        <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='{{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
+        <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
+        <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='{{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
+        <area shape="rect" coords="142,517,215,616" alt='Page 2' title='Page 2' href="#VitalControlSettingsPage1_Digit_8">
+    </map>
 </figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    Skærmbillede 3: <span style="font-style: italic;">{{<T "VitalControl" >}}</span> indstillingsmenu, Side 1
+</figcaption>
 
 På denne side kan du udføre følgende handlinger og indstillinger.
 
@@ -209,11 +248,30 @@ Datakonflikter kan opstå, når data synkroniseres mellem foderautomaten og {{<T
         </div>
 </div>
 
-<figure class="figure" style="margin-top: 5px;">
-    <img src="../images/settings-vitalcontrol-2.png" usemap="#VitalControlSettingsPage2" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Indstillingsmenu VitalControl: Side 2" title="Indstillinger VitalControl (2)" />
-    <figcaption class="figure-caption fs-6">Skærmbillede 3: Indstillingsmenu <span style="font-style: italic;">{{<T "VitalControl" >}}</span>, Side 2</figcaption>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+    <div style="padding: 12px;">
+       <img
+        src="../images/settings-vitalcontrol-2.png"
+        alt="Indstillingsmenu VitalControl: Side 2"
+        usemap="#VitalControlSettingsPage2"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid" 
+        align="bottom"
+        title="Indstillinger VitalControl (2)" />
+    </div>
+    <map name="VitalControlSettingsPage2">
+        <area shape="rect" coords="5,208,235,248" alt='{{<T "EarTagNumber" >}}' title='{{<T "EarTagNumber" >}}' href="#VitalControlSettingsPage2_Digit_1">
+        <area shape="rect" coords="5,285,235,328" alt='{{<T "AnimalNumber" >}}' title='{{<T "AnimalNumber" >}}' href="#VitalControlSettingsPage2_Digit_2">
+        <area shape="rect" coords="5,368,235,408" alt='{{<T "DateOfBirth" >}}' title='{{<T "DateOfBirth" >}}' href="#VitalControlSettingsPage2_Digit_3">
+        <area shape="rect" coords="392,116,455,177" alt='{{<T "Feeder" >}}' title='{{<T "Feeder" >}}' href="#VitalControlSettingsPage2_Digit_4">
+        <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='{{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
+        <area shape="rect" coords="678,97,775,159" alt='{{<T "NoChange_AP" >}}' title='{{<T "NoChange_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
+        <area shape="rect" coords="52,510,125,615" alt='Page 1' title='Page 1' href="#VitalControlSettingsPage2_Digit_8">
+    </map>
 </figure>
-
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    Skærmbillede 4: Indstillingsmenu <span style="font-style: italic;">{{<T "VitalControl" >}}</span>, Side 2
+</figcaption>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Alert:">
@@ -226,32 +284,3 @@ Datakonflikter kan opstå, når data synkroniseres mellem foderautomaten og {{<T
 </div>
 
 Ved at trykke på <span style="font-style: italic;">knappen</span> <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_8">⑧</span> vender du tilbage til [side 1](#settings-menu-vitalcontrol-page-1) i `{{<T "VitalControl" >}}` indstillingsmenuen.
-
-<map name="NavigationToVitalControlSettingsMenu">
-    <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Klik {{<T "Settings" >}}' href="#Navigation_Digit_1">
-    <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Klik {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
-    <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Klik {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Klik {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Klik {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
-</map>
-
-<map name="VitalControlSettingsPage1">
-    <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='Klik {{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
-    <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='Klik {{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
-    <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='Klik {{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
-    <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='Klik {{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
-    <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='Klik {{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
-    <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='Klik {{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
-    <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='Klik {{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
-    <area shape="rect" coords="142,517,215,616" alt='Side 2' title='Klik Side 2' href="#VitalControlSettingsPage1_Digit_8">
-</map>
-
-<map name="VitalControlSettingsPage2">
-    <area shape="rect" coords="5,208,235,248" alt='{{<T "EarTagNumber" >}}' title='Klik {{<T "EarTagNumber" >}}' href="#VitalControlSettingsPage2_Digit_1">
-    <area shape="rect" coords="5,208,235,328" alt='{{<T "AnimalNumber" >}}' title='Klik {{<T "AnimalNumber" >}}' href="#VitalControlSettingsPage2_Digit_2">
-    <area shape="rect" coords="5,368,235,408" alt='{{<T "DateOfBirth" >}}' title='Klik {{<T "DateOfBirth" >}}' href="#VitalControlSettingsPage2_Digit_3">
-    <area shape="rect" coords="392,116,455,177" alt='{{<T "Feeder" >}}' title='Klik {{<T "Feeder" >}}' href="#VitalControlSettingsPage2_Digit_4">
-    <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='Klik {{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
-    <area shape="rect" coords="678,97,775,159" alt='{{<T "NoChange_AP" >}}' title='Klik {{<T "NoChange_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
-    <area shape="rect" coords="52,510,125,615" alt='Side 1' title='Klik Side 1' href="#VitalControlSettingsPage2_Digit_8">
-</map>
