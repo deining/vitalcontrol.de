@@ -41,7 +41,7 @@ Záloha dat je doporučené preventivní opatření. Všechna stávající data 
 
 1. Vložte USB flash disk (konektor C) do konektoru na spodní straně zařízení a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-    ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Vložte USB flash disk")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Vložte USB flash disk" title="Vložte USB flash disk" width="30%"/>
 
     Zařízení provede aktualizaci automaticky. Během aktualizace vás displej informuje o průběhu aktualizace. Po dokončení aktualizace se zařízení automaticky restartuje a po restartu zobrazí zprávu o úspěchu:
 

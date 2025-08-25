@@ -42,7 +42,7 @@ Duomenų atsarginė kopija yra rekomenduojama atsargumo priemonė. Visi esami gy
 
 1. Įdėkite USB atmintinę (C jungtį) į jungtį, esančią įrenginio apačioje, ir patvirtinkite su `{{<T "Ok" >}}`.
 
-    ![VitalControl: Įdėkite USB atmintinę](/images/firmware/update/plug-in-dual-usb-stick.svg "Įdėkite USB atmintinę")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Įdėkite USB atmintinę" title="Įdėkite USB atmintinę" width="30%" />
 
     Įrenginys automatiškai atlieka atnaujinimą. Atnaujinimo metu ekrane rodoma atnaujinimo eiga. Po atnaujinimo įrenginys automatiškai persikrauna ir po persikrovimo rodo sėkmės pranešimą:
 

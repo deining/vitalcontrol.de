@@ -42,7 +42,7 @@ O backup de dados é uma medida de precaução recomendada. Todos os dados exist
 
 1. Insira o pen drive USB (plugue C) no conector na parte inferior do dispositivo e confirme com `{{<T "Ok" >}}`.
 
-    ![VitalControl: Inserir pen drive USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Inserir pen drive USB")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Inserir pen drive USB" title="Inserir pen drive USB" width="30%" />
 
     O dispositivo realiza a atualização automaticamente. Durante a atualização, o display informa sobre o progresso da atualização. Após a conclusão da atualização, o dispositivo reinicia automaticamente e exibe uma mensagem de sucesso após o reinício:
 

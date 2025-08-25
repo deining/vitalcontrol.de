@@ -42,7 +42,7 @@ Databackup er en anbefalet forholdsregel. Alle eksisterende dyre- og enhedsdata 
 
 1. Indsæt USB-flashdrevet (C-stik) i stikket i bunden af enheden og bekræft med `{{<T "Ok" >}}`.
 
-    ![VitalControl: Indsæt USB-flashdrev](/images/firmware/update/plug-in-dual-usb-stick.svg "Indsæt USB-flashdrev")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Indsæt USB-flashdrev" title="Indsæt USB-flashdrev" width="30%" />
 
     Enheden udfører opdateringen automatisk. Under opdateringen informerer displayet dig om opdateringens fremskridt. Efter opdateringen er fuldført, genstarter enheden automatisk og viser en succesmeddelelse efter genstarten:
 

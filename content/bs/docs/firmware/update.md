@@ -42,7 +42,7 @@ Backup podataka je preporučena mjera predostrožnosti. Svi postojeći podaci o 
 
 1. Umetnite USB flash disk (C priključak) u konektor na dnu uređaja i potvrdite sa `{{<T "Ok" >}}`.
 
-    ![VitalControl: Umetnite USB flash disk](/images/firmware/update/plug-in-dual-usb-stick.svg "Umetnite USB flash disk")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Umetnite USB flash disk" title="Umetnite USB flash disk" width="30%" />
 
     Uređaj automatski izvodi ažuriranje. Tokom ažuriranja, displej vas informiše o napretku ažuriranja. Nakon što je ažuriranje završeno, uređaj se automatski ponovo pokreće i prikazuje poruku o uspehu nakon ponovnog pokretanja:
 

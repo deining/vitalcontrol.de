@@ -41,7 +41,7 @@ Tietovarmuuskopio on suositeltava varotoimenpide. Kaikki olemassa olevat eläin-
 
 1. Aseta USB-muistitikku (C-liitin) laitteen alaosassa olevaan liittimeen ja vahvista `{{<T "Ok" >}}`.
 
-    ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Liitä USB-muistitikku" title="Liitä USB-muistitikku" width="30%" />
 
     Laite suorittaa päivityksen automaattisesti. Päivityksen aikana näyttö ilmoittaa päivityksen etenemisestä. Päivityksen valmistuttua laite käynnistyy automaattisesti uudelleen ja näyttää onnistumisviestin uudelleenkäynnistyksen jälkeen:
 

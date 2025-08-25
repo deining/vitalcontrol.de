@@ -38,7 +38,7 @@ Bei der Datensicherung handelt es sich um eine empfohlene Vorsichtsmaßnahme. Al
 
 1. Stecken Sie den USB-Stick (C-Stecker) in die Buchse im Handgriff des Geräts und bestätigen Sie mit `OK`.
 
-   ![VitalControl: USB-Stick einstecken](/images/firmware/update/plug-in-dual-usb-stick.svg "USB-Stick einstecken")
+   <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: USB-Stick einstecken" title="USB-Stick einstecken" width="30%" />
 
    Das Gerät führt das Update automatisch durch. Während des Updates informiert das Display über den Fortschritt der Aktualisierung. Nach Abschluss des Updates startet das Gerät automatisch neu und zeigt nach dem Neustart eine Erfolgsmeldung an:
 

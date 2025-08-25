@@ -42,7 +42,7 @@ Varnostna kopija podatkov je priporočljiv previdnostni ukrep. Vsi obstoječi po
 
 1. Vstavite USB ključek (C priključek) v priključek na dnu naprave in potrdite z `{{<T "Ok" >}}`.
 
-    ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Vstavi USB ključ" title="Vstavi USB ključ" width="30%" />
 
     Naprava bo samodejno izvedla posodobitev. Med posodobitvijo vas bo zaslon obveščal o napredku posodobitve. Po končani posodobitvi se bo naprava samodejno ponovno zagnala in po ponovnem zagonu prikazala sporočilo o uspehu:
 

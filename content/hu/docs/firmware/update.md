@@ -41,7 +41,7 @@ Az adatmentés egy ajánlott óvintézkedés. Az összes meglévő állat- és e
 
 1. Helyezze be az USB flash meghajtót (C csatlakozó) a készülék alján található csatlakozóba, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-    ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Helyezze be az USB flash meghajtót" title="Helyezze be az USB flash meghajtót" width="30%" />
 
     A készülék automatikusan végrehajtja a frissítést. A frissítés során a kijelző tájékoztat a frissítés előrehaladásáról. A frissítés befejezése után a készülék automatikusan újraindul, és az újraindítás után sikeres üzenetet jelenít meg:
 

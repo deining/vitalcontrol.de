@@ -41,7 +41,7 @@ La copia de seguridad de datos es una medida de precaución recomendada. Todos l
 
 1. Inserte la memoria USB (conector tipo C) en el conector en la parte inferior del dispositivo y confirme con `{{<T "Ok" >}}`.
 
-    ![VitalControl: Insertar memoria USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Insertar memoria USB")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Insertar memoria USB" title="Insertar memoria USB" width="30%" />
 
     El dispositivo realiza la actualización automáticamente. Durante la actualización, la pantalla le informa sobre el progreso de la actualización. Después de completar la actualización, el dispositivo se reinicia automáticamente y muestra un mensaje de éxito después del reinicio:
 

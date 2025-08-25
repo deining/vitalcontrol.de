@@ -41,7 +41,7 @@ description: >
 
 1. 將 USB 隨身碟（C 插頭）插入設備底部的連接器，並確認 `{{<T "Ok" >}}`。
 
-    ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: 插入 USB 隨身碟" title="插入 USB 隨身碟" width="30%" />
 
     設備會自動執行更新。在更新過程中，顯示屏會告知您更新的進度。更新完成後，設備會自動重新啟動，並在重新啟動後顯示成功訊息：
 

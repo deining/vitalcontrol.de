@@ -41,7 +41,7 @@ Il backup dei dati è una misura precauzionale raccomandata. Tutti i dati degli 
 
 1. Inserire l'unità flash USB (connettore C) nel connettore situato nella parte inferiore del dispositivo e confermare con `{{<T "Ok" >}}`.
 
-    ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Inserire l'unità flash USB")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Inserire l'unità flash USB" title="Inserire l'unità flash USB" width="30%" />
 
     Il dispositivo esegue l'aggiornamento automaticamente. Durante l'aggiornamento, il display informa sul progresso dell'aggiornamento. Dopo il completamento dell'aggiornamento, il dispositivo si riavvia automaticamente e visualizza un messaggio di successo dopo il riavvio:
 

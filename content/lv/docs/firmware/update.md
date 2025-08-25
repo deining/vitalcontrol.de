@@ -42,7 +42,7 @@ Datu rezerves kopija ir ieteicams piesardzības pasākums. Visi esošie dzīvnie
 
 1. Ievietojiet USB zibatmiņu (C spraudni) ierīces apakšējā savienotājā un apstipriniet ar `{{<T "Ok" >}}`.
 
-    ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Ievietojiet USB zibatmiņu" title="Ievietojiet USB zibatmiņu" width="30%" />
 
     Ierīce automātiski veic atjauninājumu. Atjauninājuma laikā displejs informē par atjauninājuma gaitu. Pēc atjauninājuma pabeigšanas ierīce automātiski restartējas un pēc restartēšanas parāda veiksmīgu ziņojumu:
 
