@@ -6,7 +6,7 @@ This project holds the sources for the web site `www.vitalcontrol.de`.
 
 ### Prerequisites
 
-Building and running the site locally requires a recent `extended` version of [Hugo](https://gohugo.io) (0.110.0 or higher).
+Building and running the site locally requires a recent `extended` version of [Hugo](https://gohugo.io) (0.146.0 or higher).
 You can find out more about how to install Hugo for your environment in our
 [Getting started](https://www.docsy.dev/docs/getting-started/#prerequisites-and-installation) guide.
 
@@ -68,7 +68,7 @@ To do so, clone the latest version of the docsy theme into the parent folder of 
 
 ```shell
 cd /path/to/your/local-site-repo/
-git clone --branch v0.10.0 https://github.com/google/docsy.git ../docsy
+git clone --branch v0.12.0 https://github.com/google/docsy.git ../docsy
 ```
 
 Now open the file `hugo.work`, located in the root of your site repo.
