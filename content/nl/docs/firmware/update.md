@@ -41,7 +41,7 @@ De gegevensback-up is een aanbevolen voorzorgsmaatregel. Alle bestaande dier- en
 
 1. Steek de USB-flashdrive (C-stekker) in de connector onderaan het apparaat en bevestig met `OK`.
 
-    ![VitalControl: USB-flashdrive invoegen](/images/firmware/update/plug-in-dual-usb-stick.svg "USB-flashdrive invoegen")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: USB-flashdrive invoegen" title="USB-flashdrive invoegen" width="30%" />
 
    Het apparaat voert de update automatisch uit. Tijdens de update informeert het display u over de voortgang van de update. Na voltooiing van de update start het apparaat automatisch opnieuw op en toont een succesbericht na de herstart:
 

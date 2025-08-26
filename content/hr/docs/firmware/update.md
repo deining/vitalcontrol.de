@@ -42,7 +42,7 @@ Sigurnosna kopija podataka je preporučena mjera opreza. Svi postojeći podaci o
 
 1. Umetnite USB flash pogon (C priključak) u konektor na dnu uređaja i potvrdite s `{{<T "Ok" >}}`.
 
-    ![VitalControl: Umetnite USB flash pogon](/images/firmware/update/plug-in-dual-usb-stick.svg "Umetnite USB flash pogon")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Umetnite USB flash pogon" title="Umetnite USB flash pogon" width="30%" />
 
     Uređaj automatski izvodi ažuriranje. Tijekom ažuriranja, zaslon vas informira o napretku ažuriranja. Nakon što je ažuriranje završeno, uređaj se automatski ponovno pokreće i prikazuje poruku o uspjehu nakon ponovnog pokretanja:
 

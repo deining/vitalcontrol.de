@@ -42,7 +42,7 @@ La sauvegarde des données est une mesure de précaution recommandée. Toutes le
 
 1. Insérez la clé USB (connecteur C) dans le port situé en bas de l'appareil et confirmez avec `{{<T "Ok" >}}`.
 
-    ![VitalControl: Insérer la clé USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Insérer la clé USB")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Insérer la clé USB" title="Insérer la clé USB" width="30%" />
 
     L'appareil procède alors à la mise à jour automatiquement. Pendant ce processus, l'écran affiche l'avancement de la mise à jour. Une fois la mise à jour terminée, l'appareil redémarre automatiquement et un message de confirmation apparaît après le redémarrage :
 

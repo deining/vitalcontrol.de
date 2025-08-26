@@ -41,8 +41,8 @@ description: >
 
 1. Εισάγετε το USB flash drive (C plug) στην υποδοχή στο κάτω μέρος της συσκευής και επιβεβαιώστε με `{{<T "Ok" >}}`.
 
-    ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
-
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Εισαγάγετε τη μονάδα flash USB" title="Εισαγάγετε τη μονάδα flash USB" width="30%" />
+    
     Η συσκευή εκτελεί αυτόματα την ενημέρωση. Κατά τη διάρκεια της ενημέρωσης, η οθόνη σας ενημερώνει για την πρόοδο της ενημέρωσης. Μετά την ολοκλήρωση της ενημέρωσης, η συσκευή επανεκκινεί αυτόματα και εμφανίζει ένα μήνυμα επιτυχίας μετά την επανεκκίνηση:
 
    ![VitalControl: Success message firmware update](../images/update-success.png "Success firmware update")

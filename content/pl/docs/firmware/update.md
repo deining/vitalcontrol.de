@@ -42,7 +42,7 @@ Kopia zapasowa danych jest zalecanym środkiem ostrożności. Wszystkie istniej�
 
 1. Włóż pendrive USB (wtyczka C) do złącza na dole urządzenia i potwierdź `{{<T "Ok" >}}`.
 
-    ![VitalControl: Włóż pendrive USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Włóż pendrive USB")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Włóż pendrive USB" title="Włóż pendrive USB" width="30%" />
 
     Urządzenie automatycznie przeprowadza aktualizację. Podczas aktualizacji wyświetlacz informuje o postępie aktualizacji. Po zakończeniu aktualizacji urządzenie uruchamia się ponownie i wyświetla komunikat o sukcesie po ponownym uruchomieniu:
 

@@ -42,7 +42,7 @@ Backup-ul de date este o măsură de precauție recomandată. Toate datele exist
 
 1. Introduceți unitatea flash USB (conector C) în conectorul de la baza dispozitivului și confirmați cu `{{<T "Ok" >}}`.
 
-    ![VitalControl: Introduceți unitatea flash USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Introduceți unitatea flash USB")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Introduceți unitatea flash USB" title="Introduceți unitatea flash USB" width="30%" />
 
     Dispozitivul efectuează actualizarea automat. În timpul actualizării, afișajul vă informează despre progresul actualizării. După ce actualizarea este completă, dispozitivul repornește automat și afișează un mesaj de succes după repornire:
 

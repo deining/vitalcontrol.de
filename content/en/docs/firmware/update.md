@@ -41,7 +41,7 @@ The data backup is a recommended precautionary measure. All existing animal and 
 
 1. Insert the USB flash drive (C plug) into the connector at the bottom of the device and confirm with `{{<T "Ok" >}}`.
 
-    ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Insert USB flash drive" title="Insert USB flash drive" width="30%" />
 
     The device performs the update automatically. During the update, the display informs you about the progress of the update. After the update is completed, the device restarts automatically and displays a success message after the restart:
 

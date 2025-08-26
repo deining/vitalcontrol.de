@@ -42,7 +42,7 @@ Veri yedeklemesi önerilen bir önlemdir. VitalControl cihazının yazılımın�
 
 1. USB flash sürücüyü (C fişi) cihazın altındaki bağlantı noktasına takın ve `{{<T "Ok" >}}` ile onaylayın.
 
-    ![VitalControl: USB flash sürücüyü takın](/images/firmware/update/plug-in-dual-usb-stick.svg "USB flash sürücüyü takın")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: USB flash sürücüyü takın" title="USB flash sürücüyü takın" width="30%" />
 
     Cihaz güncellemeyi otomatik olarak gerçekleştirir. Güncelleme sırasında, ekran size güncellemenin ilerleyişi hakkında bilgi verir. Güncelleme tamamlandıktan sonra, cihaz otomatik olarak yeniden başlar ve yeniden başlatmanın ardından bir başarı mesajı görüntüler:
 

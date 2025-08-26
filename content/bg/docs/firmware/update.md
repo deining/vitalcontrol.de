@@ -41,7 +41,7 @@ description: >
 
 1. Вмъкнете USB флаш устройството (C тип) в конектора в долната част на устройството и потвърдете с `{{<T "Ok" >}}`.
 
-    ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Вмъкнете USB флаш устройство" title="Вмъкнете USB флаш устройство" width="30%" />
 
     Устройството извършва актуализацията автоматично. По време на актуализацията, дисплеят ви информира за прогреса на актуализацията. След приключване на актуализацията, устройството се рестартира автоматично и показва съобщение за успех след рестарта:
 

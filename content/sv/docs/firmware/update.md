@@ -42,7 +42,7 @@ Databackup är en rekommenderad försiktighetsåtgärd. All befintlig djur- och 
 
 1. Sätt in USB-minnet (C-kontakt) i anslutningen längst ner på enheten och bekräfta med `{{<T "Ok" >}}`.
 
-    ![VitalControl: Sätt in USB-minne](/images/firmware/update/plug-in-dual-usb-stick.svg "Sätt in USB-minne")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Sätt in USB-minne" title="Sätt in USB-minne" width="30%" />
 
     Enheten utför uppdateringen automatiskt. Under uppdateringen informerar displayen dig om uppdateringens framsteg. Efter att uppdateringen är klar startar enheten om automatiskt och visar ett framgångsmeddelande efter omstarten:
 

@@ -41,7 +41,7 @@ Databackup er et anbefalt forholdsregel. Alle eksisterende dyre- og enhetsdata v
 
 1. Sett inn USB-flashstasjonen (C-plugg) i kontakten nederst på enheten og bekreft med `{{<T "Ok" >}}`.
 
-    ![VitalControl: Sett inn USB-flashstasjon](/images/firmware/update/plug-in-dual-usb-stick.svg "Sett inn USB-flashstasjon")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Sett inn USB-flashstasjon" title="Sett inn USB-flashstasjon" width="30%" />
 
     Enheten utfører oppdateringen automatisk. Under oppdateringen informerer skjermen deg om fremdriften av oppdateringen. Etter at oppdateringen er fullført, starter enheten automatisk på nytt og viser en suksessmelding etter omstarten:
 

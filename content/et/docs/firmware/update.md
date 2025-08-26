@@ -41,7 +41,7 @@ Andmete varukoopia on soovitatav ettevaatusabinõu. Kõik olemasolevad looma- ja
 
 1. Sisesta USB mälupulk (C pistik) seadme alumises otsas olevasse ühenduspesasse ja kinnita valikuga `{{<T "Ok" >}}`.
 
-    ![VitalControl: Sisesta USB mälupulk](/images/firmware/update/plug-in-dual-usb-stick.svg "Sisesta USB mälupulk")
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: Sisesta USB mälupulk" title="Sisesta USB mälupulk" width="30%" />
 
     Seade viib uuenduse automaatselt läbi. Uuenduse ajal kuvab ekraan teavet uuenduse kulgemise kohta. Pärast uuenduse lõppu taaskäivitub seade automaatselt ja kuvab taaskäivituse järel edukate uuenduste teate:
 
