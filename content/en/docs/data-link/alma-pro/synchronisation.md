@@ -70,31 +70,41 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
 
 1. The synchronisation screen will now appear. Click on the button <img src="/digits/3_negative_circled.svg" id ="StartSynchronisation_Digit_3" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` in the middle at the bottom to start synchronisation with the VitalControl device.
 
-    <figure class="figure" style="margin-top: 10px;">
-    <a name="synchronise-vc-ap">
-    <img src="../images/synchronise-vitalcontrol-alma-pro.png"
-        usemap="#syncmap" width="1024"
-        class="border border-2 figure-img img-fluid rounded p-3"
-        align="bottom"
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<div style="padding: 12px;">
+    <img
+        src="../images/synchronise-vitalcontrol-alma-pro.png"
         alt="Synchronisation VitalControl with Alma Pro"
-        title="Synchronisation VitalControl - Alma Pro"/>
-    </a>
-    <figcaption class="figure-caption fs-6">Figure 3: Synchronisation of VitalControl with Alma Pro automatic feeder</figcaption>
-    </figure>
+        usemap="#syncmap"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid"
+        align="bottom"
+        title="Synchronisation VitalControl - Alma Pro" />
+</div>
+<map name="syncmap">
+    <area shape="rect" coords="15,115,112,190" alt="Feeder" title='{{<T "Feeder" >}}' href="#StartSynchronisation_Digit_1">
+    <area shape="rect" coords="844,240,1012,282" alt="Temperature" title='{{<T "VitalControl" >}}' href="#StartSynchronisation_Digit_2">
+    <area shape="rect" coords="361,570,612,620" alt="Temperature" title='{{<T "Synchronize" >}}' href="#StartSynchronisation_Digit_3">
+</map>
+</figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    Figure 3: Synchronisation of VitalControl with Alma Pro automatic feeder
+</figcaption>
 
-    <div class="alert alert-primary d-flex align-items-center" role="alert">
-        <svg xmlns="http://www.w3.org/2000/svg" width="80px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
-            <use xlink:href="#info-fill"/>
-        </svg>
-        <div>
-            <span class="text-primary fs-3 fw-semibold">Attention</span><br>
-            If many animals need to be transferred, synchronisation can take some time. You can see the synchronisation progress on the display of the VitalControl device.<br>
-            <figure class="figure" style="margin-top: 25px;">
-            <a name="close-usb-slot-mandatory"><img src="../../vcsynchronizer/images/import-animals/data-transfer.png" class="bg-body border border-primary border-2 figure-img img-fluid rounded p-4" align="bottom" alt="Synchronisation VitalControl Alma Pro, progress indicator" title="Synchronisation progress" /></a>
-                <figcaption class="figure-caption fs-6">Figure 4: Synchronisation VitalControl Alma Pro, progress indicator</figcaption>
-            </figure>
-        </div>
+
+<div class="alert alert-primary d-flex align-items-center" role="alert">
+    <svg xmlns="http://www.w3.org/2000/svg" width="80px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
+        <use xlink:href="#info-fill"/>
+    </svg>
+    <div>
+        <span class="text-primary fs-3 fw-semibold">Attention</span><br>
+        If many animals need to be transferred, synchronisation can take some time. You can see the synchronisation progress on the display of the VitalControl device.<br>
+        <figure class="figure" style="margin-top: 25px;">
+        <a name="close-usb-slot-mandatory"><img src="../../vcsynchronizer/images/import-animals/data-transfer.png" class="bg-body border border-primary border-2 figure-img img-fluid rounded p-4" align="bottom" alt="Synchronisation VitalControl Alma Pro, progress indicator" title="Synchronisation progress" /></a>
+            <figcaption class="figure-caption fs-6">Figure 4: Synchronisation VitalControl Alma Pro, progress indicator</figcaption>
+        </figure>
     </div>
+</div>
 
 ## Close USB port
 
@@ -118,9 +128,3 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
             </figure>
         </div>
     </div>
-
-<map name="syncmap">
-    <area shape="rect" coords="15,115,112,190" alt="Feeder" title="Click {{<T "Feeder" >}}" href="#StartSynchronisation_Digit_1">
-    <area shape="rect" coords="844,240,1018,285" alt="Temperature" title="Click {{<T "VitalControl" >}}" href="#StartSynchronisation_Digit_2">
-    <area shape="rect" coords="361,570,612,620" alt="Temperature" title="Click {{<T "Synchronize" >}}" href="#StartSynchronisation_Digit_3">
-</map>

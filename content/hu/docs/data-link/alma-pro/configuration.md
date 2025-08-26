@@ -52,10 +52,28 @@ A {{<T "VitalControl" >}} eszköz aktiválásához és beállításához be kell
 
 1. A képernyő jobb oldalának alján most megjelenik a gomb &nbsp;<img src="/icons/actions/edit.svg" width="24" align="bottom" alt="VitalControl beállítások megnyitása" title="Beállítások megnyitása" />`{{<T "OpenSettings" >}}`<span style="font-size: 140%" id="Navigation_Digit_5">➄</span>. Kattintson erre a gombra, és egy felugró ablak nyílik meg, amely a `{{<T "VitalControl" >}}` beállítások menü [1. oldalát](#settings-menu-vitalcontrol-page-1) jeleníti meg.
 
-<figure class="figure" style="margin-top: 5px;">
-    <img src="../images/open-settings-vitalcontrol.png" usemap="#NavigationToVitalControlSettingsMenu" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="VitalControl beállítások: Hozzáférés" title="VitalControl beállítások menü elérése" />
-    <figcaption class="figure-caption fs-6">1. képernyőkép: A <span style="font-style: italic;">{{<T "VitalControl" >}}</span> beállítások menü elérése</figcaption>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+    <div style="padding: 12px;">
+       <img
+        src="../images/open-settings-vitalcontrol.png"
+        alt="VitalControl beállítások: Hozzáférés"
+        usemap="#NavigationToVitalControlSettingsMenu"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid" 
+        align="bottom"
+        title="VitalControl beállítások menü elérése" />
+    </div>
+    <map name="NavigationToVitalControlSettingsMenu">
+        <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='{{<T "Settings" >}}' href="#Navigation_Digit_1">
+        <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='{{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
+        <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='{{<T "Accessories" >}}' href="#Navigation_Digit_3">
+        <area shape="rect" coords="520,150,870,197" alt='{{<T "VitalControl" >}}' title='{{<T "VitalControl" >}}' href="#Navigation_Digit_4">
+        <area shape="rect" coords="580,582,850,636" alt='{{<T "OpenSettings" >}}' title='{{<T "OpenSettings" >}}' href="#Navigation_Digit_5">
+    </map>
 </figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    2. képernyőkép: A <span style="font-style: italic;">{{<T "VitalControl" >}}</span> beállítások menü elérése
+</figcaption>
 
 A `{{<T "VitalControl" >}}` beállítási menü két oldalra van osztva:
 
@@ -63,10 +81,31 @@ A `{{<T "VitalControl" >}}` beállítási menü két oldalra van osztva:
 
 A <span style="font-style: italic;">{{<T "VitalControl" >}}</span> beállítási menü 1. oldala a következőképpen jelenik meg:
 
-<figure class="figure" style="margin-top: 5px;">
-    <img src="../images/settings-vitalcontrol-1.png" usemap="#VitalControlSettingsPage1" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="VitalControl beállítási menü: 1. oldal" title="VitalControl beállítások (1)" />
-    <figcaption class="figure-caption fs-6">2. képernyőkép: <span style="font-style: italic;">{{<T "VitalControl" >}}</span> beállítási menü, 1. oldal</figcaption>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+    <div style="padding: 12px;">
+       <img
+        src="../images/settings-vitalcontrol-1.png"
+        alt="VitalControl beállítási menü: 1. oldal"
+        usemap="#VitalControlSettingsPage1"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid" 
+        align="bottom"
+        title="VitalControl beállítások (1)" />
+    </div>
+    <map name="VitalControlSettingsPage1">
+        <area shape="rect" coords="253,45,626,107" alt='{{<T "YES" >}}/{{<T "NO" >}}' title='{{<T "YES" >}}/{{<T "NO" >}}' href="#VitalControlSettingsPage1_Digit_1">
+        <area shape="rect" coords="11,236,88,316" alt='{{<T "RegisterNewOnVitalControlDevice" >}}' title='{{<T "RegisterNewOnVitalControlDevice" >}}' href="#VitalControlSettingsPage1_Digit_2">
+        <area shape="rect" coords="11,357,88,434" alt='{{<T "DeleteFromVitalControl" >}}' title='{{<T "DeleteFromVitalControl" >}}' href="#VitalControlSettingsPage1_Digit_3">
+        <area shape="rect" coords="31,463,357,508" alt='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' title='{{<T "DoNotDeleteAnimalsYoungerThan" >}}' href="#VitalControlSettingsPage1_Digit_4">
+        <area shape="rect" coords="420,236,511,286" alt='{{<T "RegisterNewOnAutomaticFeeder" >}}' title='{{<T "RegisterNewOnAutomaticFeeder" >}}' href="#VitalControlSettingsPage1_Digit_5">
+        <area shape="rect" coords="435,352,837,397" alt='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' title='{{<T "FeedingCurveAssignedToImportedAnimals" >}}' href="#VitalControlSettingsPage1_Digit_6">
+        <area shape="rect" coords="513,462,837,507" alt='{{<T "DoNotImportAnimalsOlderThan" >}}' title='{{<T "DoNotImportAnimalsOlderThan" >}}' href="#VitalControlSettingsPage1_Digit_7">
+        <area shape="rect" coords="142,517,215,616" alt='Page 2' title='Page 2' href="#VitalControlSettingsPage1_Digit_8">
+    </map>
 </figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    3. képernyőkép: <span style="font-style: italic;">{{<T "VitalControl" >}}</span> beállítási menü, 1. oldal
+</figcaption>
 
 Ezen az oldalon a következő műveleteket és beállításokat végezheti el.
 
@@ -209,11 +248,30 @@ Adatütközések fordulhatnak elő, amikor az adatokat szinkronizáljuk az etet�
         </div>
 </div>
 
-<figure class="figure" style="margin-top: 5px;">
-    <img src="../images/settings-vitalcontrol-2.png" usemap="#VitalControlSettingsPage2" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Beállítások Menü VitalControl: 2. oldal" title="Beállítások VitalControl (2)" />
-    <figcaption class="figure-caption fs-6">3. képernyőkép: Beállítások Menü <span style="font-style: italic;">{{<T "VitalControl" >}}</span>, 2. oldal</figcaption>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+    <div style="padding: 12px;">
+       <img
+        src="../images/settings-vitalcontrol-2.png"
+        alt="Beállítások Menü VitalControl: 2. oldal"
+        usemap="#VitalControlSettingsPage2"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid" 
+        align="bottom"
+        title="Beállítások VitalControl (2)" />
+    </div>
+    <map name="VitalControlSettingsPage2">
+        <area shape="rect" coords="5,208,235,248" alt='{{<T "EarTagNumber" >}}' title='{{<T "EarTagNumber" >}}' href="#VitalControlSettingsPage2_Digit_1">
+        <area shape="rect" coords="5,285,235,328" alt='{{<T "AnimalNumber" >}}' title='{{<T "AnimalNumber" >}}' href="#VitalControlSettingsPage2_Digit_2">
+        <area shape="rect" coords="5,368,235,408" alt='{{<T "DateOfBirth" >}}' title='{{<T "DateOfBirth" >}}' href="#VitalControlSettingsPage2_Digit_3">
+        <area shape="rect" coords="392,116,455,177" alt='{{<T "Feeder" >}}' title='{{<T "Feeder" >}}' href="#VitalControlSettingsPage2_Digit_4">
+        <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='{{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
+        <area shape="rect" coords="678,97,775,159" alt='{{<T "NoChange_AP" >}}' title='{{<T "NoChange_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
+        <area shape="rect" coords="52,510,125,615" alt='Page 1' title='Page 1' href="#VitalControlSettingsPage2_Digit_8">
+    </map>
 </figure>
-
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    4. képernyőkép: Beállítások Menü <span style="font-style: italic;">{{<T "VitalControl" >}}</span>, 2. oldal
+</figcaption>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Alert:">
@@ -226,32 +284,3 @@ Adatütközések fordulhatnak elő, amikor az adatokat szinkronizáljuk az etet�
 </div>
 
 A <span style="font-style: italic;">gomb</span> <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_8">⑧</span> megnyomásával visszatér az `{{<T "VitalControl" >}}` beállítási menü [1. oldalára](#settings-menu-vitalcontrol-page-1).
-
-<map name="NavigationToVitalControlSettingsMenu">
-    <area shape="rect" coords="14,531,112,617" alt='{{<T "Settings" >}}' title='Kattintson ide: {{<T "Settings" >}}' href="#Navigation_Digit_1">
-    <area shape="rect" coords="200,648,273,755" alt='{{<T "TouchTerminalSettings" >}}' title='Kattintson ide: {{<T "TouchTerminalSettings" >}}' href="#Navigation_Digit_2">
-    <area shape="rect" coords="130,550,479,596" alt='{{<T "Accessories" >}}' title='Kattintson ide: {{<T "Accessories" >}}' href="#Navigation_Digit_3">
-    <area shape="rect" coords="520,150,870,197" alt='{{<T "OpenSettings" >}}' title='Kattintson ide: {{<T "OpenSettings" >}}' href="#Navigation_Digit_4">
-    <area shape="rect" coords="580,582,850,636" alt='{{<T "VitalControl" >}}' title='Kattintson ide: {{<T "VitalControl" >}}' href="#Navigation_Digit_5">
-</map>
-
-<map name="VitalControlSettingsPage1">
-    <area shape="rect" coords="253,45,626,107" alt='{{<T "IGEN" >}}/{{<T "NEM" >}}' title='Kattintson az {{<T "IGEN" >}}/{{<T "NEM" >}}' href="#VitalControlSettingsPage1_Digit_1">
-    <area shape="rect" coords="11,236,88,316" alt='{{<T "ÚjRegisztrálásaAVitalControlEszközön" >}}' title='Kattintson az {{<T "ÚjRegisztrálásaAVitalControlEszközön" >}}' href="#VitalControlSettingsPage1_Digit_2">
-    <area shape="rect" coords="11,357,88,434" alt='{{<T "TörlésAVitalControlból" >}}' title='Kattintson az {{<T "TörlésAVitalControlból" >}}' href="#VitalControlSettingsPage1_Digit_3">
-    <area shape="rect" coords="31,463,357,508" alt='{{<T "NeTöröljeAzÁllatokatAmelyekFiatalabbakMint" >}}' title='Kattintson az {{<T "NeTöröljeAzÁllatokatAmelyekFiatalabbakMint" >}}' href="#VitalControlSettingsPage1_Digit_4">
-    <area shape="rect" coords="420,236,511,286" alt='{{<T "ÚjRegisztrálásaAzAutomataEtetőn" >}}' title='Kattintson az {{<T "ÚjRegisztrálásaAzAutomataEtetőn" >}}' href="#VitalControlSettingsPage1_Digit_5">
-    <area shape="rect" coords="435,352,837,397" alt='{{<T "EtetésiGörbeHozzárendelveAzImportáltÁllatokhoz" >}}' title='Kattintson az {{<T "EtetésiGörbeHozzárendelveAzImportáltÁllatokhoz" >}}' href="#VitalControlSettingsPage1_Digit_6">
-    <area shape="rect" coords="513,462,837,507" alt='{{<T "NeImportáljaAzÁllatokatAmelyekIdősebbekMint" >}}' title='Kattintson az {{<T "NeImportáljaAzÁllatokatAmelyekIdősebbekMint" >}}' href="#VitalControlSettingsPage1_Digit_7">
-    <area shape="rect" coords="142,517,215,616" alt='2. oldal' title='Kattintson a 2. oldalra' href="#VitalControlSettingsPage1_Digit_8">
-</map>
-
-<map name="VitalControlSettingsPage2">
-    <area shape="rect" coords="5,208,235,248" alt='{{<T "FülCímkeSzám" >}}' title='Kattintson a {{<T "FülCímkeSzám" >}}' href="#VitalControlSettingsPage2_Digit_1">
-    <area shape="rect" coords="5,208,235,328" alt='{{<T "ÁllatSzám" >}}' title='Kattintson az {{<T "ÁllatSzám" >}}' href="#VitalControlSettingsPage2_Digit_2">
-    <area shape="rect" coords="5,368,235,408" alt='{{<T "SzületésiDátum" >}}' title='Kattintson a {{<T "SzületésiDátum" >}}' href="#VitalControlSettingsPage2_Digit_3">
-    <area shape="rect" coords="392,116,455,177" alt='{{<T "Etető" >}}' title='Kattintson az {{<T "Etető" >}}' href="#VitalControlSettingsPage2_Digit_4">
-    <area shape="rect" coords="535,116,604,177" alt='{{<T "VitalControl" >}}' title='Kattintson a {{<T "VitalControl" >}}' href="#VitalControlSettingsPage2_Digit_5">
-    <area shape="rect" coords="678,97,775,159" alt='{{<T "NincsVáltozás_AP" >}}' title='Kattintson a {{<T "NincsVáltozás_AP" >}}' href="#VitalControlSettingsPage2_Digit_6">
-    <area shape="rect" coords="52,510,125,615" alt='1. oldal' title='Kattintson az 1. oldalra' href="#VitalControlSettingsPage2_Digit_8">
-</map>

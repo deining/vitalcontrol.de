@@ -8,6 +8,7 @@ description: >
 weight: 20
 categories: [Schimb de date, Alma Pro]
 translationKey: alma-pro/synchronisation
+maphilight: true
 aliases: /vc/sync/ro
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
@@ -53,9 +54,9 @@ Pentru a efectua sincronizarea între hrănitorul automat Alma Pro și dispoziti
     </div>
 </div>
 
-4. În bara laterală din stânga a terminalului tactil, faceți clic pe al doilea buton de sus <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Meniul de alimentare" title="Meniul de alimentare"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Cifra 1" title="Cifra 1" />. Dacă vă aflați în meniul principal unde nu este vizibilă nicio bară laterală, apăsați butonul &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Meniul de alimentare" title="Meniul de alimentare"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span> pentru a deschide meniul de alimentare.
+4. În bara laterală din stânga a terminalului tactil, faceți clic pe al doilea buton de sus <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Meniul de alimentare" title="Meniul de alimentare"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" id="StartSynchronisation_Digit_1" width="25" align="middle" alt="Cifra 1" title="Cifra 1" />. Dacă vă aflați în meniul principal unde nu este vizibilă nicio bară laterală, apăsați butonul &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Meniul de alimentare" title="Meniul de alimentare"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span> pentru a deschide meniul de alimentare.
 
-1. În bara laterală din dreapta a terminalului cu ecran tactil, sub simbolul(ele) pentru alimentatorul(ele) conectat(e), este acum afișat simbolul <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Digit 2 in circle" title="Digit 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> pentru dispozitivul `{{<T "VitalControl" >}}`. Faceți clic pe acest simbol.
+1. În bara laterală din dreapta a terminalului cu ecran tactil, sub simbolul(ele) pentru alimentatorul(ele) conectat(e), este acum afișat simbolul <img src="/digits/2_negative_circled.svg" id="StartSynchronisation_Digit_2" width="25" align="middle" alt="Digit 2 in circle" title="Digit 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> pentru dispozitivul `{{<T "VitalControl" >}}`. Faceți clic pe acest simbol.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -67,12 +68,28 @@ Pentru a efectua sincronizarea între hrănitorul automat Alma Pro și dispoziti
         </div>
     </div>
 
-1. Ecranul de sincronizare va apărea acum. Faceți clic pe butonul <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` în mijloc, în partea de jos, pentru a începe sincronizarea cu dispozitivul VitalControl.
+1. Ecranul de sincronizare va apărea acum. Faceți clic pe butonul <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` în mijloc, în partea de jos, pentru a începe sincronizarea cu dispozitivul VitalControl.
 
-    <figure class="figure" style="margin-top: 10px;">
-        <a name="synchronise-vc-ap"><img src="../images/synchronise-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronisation VitalControl with Alma Pro" title="Synchronisation VitalControl - Alma Pro" /></a>
-        <figcaption class="figure-caption fs-6">Figura 3: Sincronizarea VitalControl cu alimentatorul automat Alma Pro</figcaption>
-    </figure>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<div style="padding: 12px;">
+    <img
+        src="../images/synchronise-vitalcontrol-alma-pro.png"
+        alt="Sincronizarea VitalControl cu alimentatorul automat Alma Pro"
+        usemap="#syncmap"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid"
+        align="bottom"
+        title="Sincronizarea VitalControl cu alimentatorul automat Alma Pro" />
+</div>
+<map name="syncmap">
+    <area shape="rect" coords="15,115,112,190" alt="Feeder" title='{{<T "Feeder" >}}' href="#StartSynchronisation_Digit_1">
+    <area shape="rect" coords="844,240,1012,282" alt="Temperature" title='{{<T "VitalControl" >}}' href="#StartSynchronisation_Digit_2">
+    <area shape="rect" coords="361,570,612,620" alt="Temperature" title='{{<T "Synchronize" >}}' href="#StartSynchronisation_Digit_3">
+</map>
+</figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    Figura 3: Sincronizarea VitalControl cu alimentatorul automat Alma Pro
+</figcaption>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="80px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">

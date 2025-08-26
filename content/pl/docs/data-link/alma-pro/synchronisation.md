@@ -8,6 +8,7 @@ description: >
 weight: 20
 categories: [Wymiana danych, Alma Pro]
 translationKey: alma-pro/synchronisation
+maphilight: true
 aliases: /vc/sync/pl
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
@@ -53,9 +54,9 @@ Aby przeprowadzić synchronizację między automatycznym karmnikiem Alma Pro a u
     </div>
 </div>
 
-4. W lewym pasku bocznym terminala dotykowego kliknij drugi przycisk od góry <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Menu podajnika" title="Menu podajnika"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Cyfra 1" title="Cyfra 1" />. Jeśli jesteś w menu głównym, gdzie pasek boczny nie jest widoczny, naciśnij przycisk &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Menu podajnika" title="Menu podajnika"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span> aby otworzyć menu podajnika.
+4. W lewym pasku bocznym terminala dotykowego kliknij drugi przycisk od góry <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Menu podajnika" title="Menu podajnika"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" id="StartSynchronisation_Digit_1" width="25" align="middle" alt="Cyfra 1" title="Cyfra 1" />. Jeśli jesteś w menu głównym, gdzie pasek boczny nie jest widoczny, naciśnij przycisk &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Menu podajnika" title="Menu podajnika"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span> aby otworzyć menu podajnika.
 
-1. W prawym pasku bocznym terminala dotykowego, poniżej symbolu (symboli) podłączonego podajnika (podajników), wyświetlany jest teraz symbol <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Cyfra 2 w kółku" title="Cyfra 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="Urządzenie VitalControl" title="VitalControl"/> dla urządzenia `{{<T "VitalControl" >}}`. Kliknij na ten symbol.
+1. W prawym pasku bocznym terminala dotykowego, poniżej symbolu (symboli) podłączonego podajnika (podajników), wyświetlany jest teraz symbol <img src="/digits/2_negative_circled.svg" id="StartSynchronisation_Digit_2" width="25" align="middle" alt="Cyfra 2 w kółku" title="Cyfra 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="Urządzenie VitalControl" title="VitalControl"/> dla urządzenia `{{<T "VitalControl" >}}`. Kliknij na ten symbol.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -67,12 +68,28 @@ Aby przeprowadzić synchronizację między automatycznym karmnikiem Alma Pro a u
         </div>
     </div>
 
-1. Teraz pojawi się ekran synchronizacji. Kliknij przycisk <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="cyfra 3 w kółku" title="cyfra 3" /> `{{<T "Synchronize" >}}` na środku u dołu, aby rozpocząć synchronizację z urządzeniem VitalControl.
+1. Teraz pojawi się ekran synchronizacji. Kliknij przycisk <img src="/digits/3_negative_circled.svg"  id="StartSynchronisation_Digit_3" width="25" align="middle" alt="cyfra 3 w kółku" title="cyfra 3" /> `{{<T "Synchronize" >}}` na środku u dołu, aby rozpocząć synchronizację z urządzeniem VitalControl.
 
-    <figure class="figure" style="margin-top: 10px;">
-        <a name="synchronise-vc-ap"><img src="../images/synchronise-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronizacja VitalControl z Alma Pro" title="Synchronizacja VitalControl - Alma Pro" /></a>
-        <figcaption class="figure-caption fs-6">Rysunek 3: Synchronizacja VitalControl z automatycznym podajnikiem Alma Pro</figcaption>
-    </figure>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<div style="padding: 12px;">
+    <img
+        src="../images/synchronise-vitalcontrol-alma-pro.png"
+        alt="Synchronizacja VitalControl z automatycznym podajnikiem Alma Pro"
+        usemap="#syncmap"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid"
+        align="bottom"
+        title="Synchronizacja VitalControl z automatycznym podajnikiem Alma Pro" />
+</div>
+<map name="syncmap">
+    <area shape="rect" coords="15,115,112,190" alt="Feeder" title='{{<T "Feeder" >}}' href="#StartSynchronisation_Digit_1">
+    <area shape="rect" coords="844,240,1012,282" alt="Temperature" title='{{<T "VitalControl" >}}' href="#StartSynchronisation_Digit_2">
+    <area shape="rect" coords="361,570,612,620" alt="Temperature" title='{{<T "Synchronize" >}}' href="#StartSynchronisation_Digit_3">
+</map>
+</figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    Rysunek 3: Synchronizacja VitalControl z automatycznym podajnikiem Alma Pro
+</figcaption>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="80px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">

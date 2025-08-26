@@ -8,6 +8,7 @@ description: >
 weight: 20
 categories: [Обмен данными, Alma Pro]
 translationKey: alma-pro/synchronisation
+maphilight: true
 aliases: /vc/sync/ru
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
@@ -53,9 +54,9 @@ aliases: /vc/sync/ru
     </div>
 </div>
 
-4. В левой боковой панели сенсорного терминала нажмите вторую кнопку сверху <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Digit 1" title="Digit 1" />. Если вы находитесь в главном меню, где боковая панель не видна, нажмите кнопку &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span>, чтобы открыть меню подачи.
+4. В левой боковой панели сенсорного терминала нажмите вторую кнопку сверху <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" id="StartSynchronisation_Digit_1" width="25" align="middle" alt="Digit 1" title="Digit 1" />. Если вы находитесь в главном меню, где боковая панель не видна, нажмите кнопку &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span>, чтобы открыть меню подачи.
 
-1. В правой боковой панели сенсорного терминала, под символом(ами) подключенного(ых) питателя(ей), теперь отображается символ <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Цифра 2 в круге" title="Цифра 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="Устройство VitalControl" title="VitalControl"/> для устройства `{{<T "VitalControl" >}}`. Нажмите на этот символ.
+1. В правой боковой панели сенсорного терминала, под символом(ами) подключенного(ых) питателя(ей), теперь отображается символ <img src="/digits/2_negative_circled.svg" id="StartSynchronisation_Digit_2" width="25" align="middle" alt="Цифра 2 в круге" title="Цифра 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="Устройство VitalControl" title="VitalControl"/> для устройства `{{<T "VitalControl" >}}`. Нажмите на этот символ.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -67,27 +68,42 @@ aliases: /vc/sync/ru
         </div>
     </div>
 
-1. Теперь появится экран синхронизации. Нажмите на кнопку <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="цифра 3 в круге" title="цифра 3" /> `{{<T "Synchronize" >}}` в середине внизу, чтобы начать синхронизацию с устройством VitalControl.
+1. Теперь появится экран синхронизации. Нажмите на кнопку <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="цифра 3 в круге" title="цифра 3" /> `{{<T "Synchronize" >}}` в середине внизу, чтобы начать синхронизацию с устройством VitalControl.
 
-    <figure class="figure" style="margin-top: 10px;">
-        <a name="synchronise-vc-ap"><img src="../images/synchronise-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Синхронизация VitalControl с Alma Pro" title="Синхронизация VitalControl - Alma Pro" /></a>
-        <figcaption class="figure-caption fs-6">Рисунок 3: Синхронизация VitalControl с автоматическим питателем Alma Pro</figcaption>
-    </figure>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<div style="padding: 12px;">
+    <img
+        src="../images/synchronise-vitalcontrol-alma-pro.png"
+        alt="Синхронизация VitalControl с автоматическим питателем Alma Pro"
+        usemap="#syncmap"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid"
+        align="bottom"
+        title="Синхронизация VitalControl с автоматическим питателем Alma Pro" />
+</div>
+<map name="syncmap">
+    <area shape="rect" coords="15,115,112,190" alt="Feeder" title='{{<T "Feeder" >}}' href="#StartSynchronisation_Digit_1">
+    <area shape="rect" coords="844,240,1012,282" alt="Temperature" title='{{<T "VitalControl" >}}' href="#StartSynchronisation_Digit_2">
+    <area shape="rect" coords="361,570,612,620" alt="Temperature" title='{{<T "Synchronize" >}}' href="#StartSynchronisation_Digit_3">
+</map>
+</figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    Рисунок 3: Синхронизация VitalControl с автоматическим питателем Alma Pro
+</figcaption>
 
-
-    <div class="alert alert-primary d-flex align-items-center" role="alert">
-        <svg xmlns="http://www.w3.org/2000/svg" width="80px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
-            <use xlink:href="#info-fill"/>
-        </svg>
-        <div>
-            <span class="text-primary fs-3 fw-semibold">Внимание</span><br>
-            Если необходимо перенести много животных, синхронизация может занять некоторое время. Вы можете увидеть прогресс синхронизации на дисплее устройства VitalControl.<br>
-            <figure class="figure" style="margin-top: 25px;">
-            <a name="close-usb-slot-mandatory"><img src="../../vcsynchronizer/images/import-animals/data-transfer.png" class="bg-body border border-primary border-2 figure-img img-fluid rounded p-4" align="bottom" alt="Синхронизация VitalControl Alma Pro, индикатор прогресса" title="Прогресс синхронизации" /></a>
-                <figcaption class="figure-caption fs-6">Рисунок 4: Синхронизация VitalControl Alma Pro, индикатор прогресса</figcaption>
-            </figure>
-        </div>
+<div class="alert alert-primary d-flex align-items-center" role="alert">
+    <svg xmlns="http://www.w3.org/2000/svg" width="80px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
+        <use xlink:href="#info-fill"/>
+    </svg>
+    <div>
+        <span class="text-primary fs-3 fw-semibold">Внимание</span><br>
+        Если необходимо перенести много животных, синхронизация может занять некоторое время. Вы можете увидеть прогресс синхронизации на дисплее устройства VitalControl.<br>
+        <figure class="figure" style="margin-top: 25px;">
+        <a name="close-usb-slot-mandatory"><img src="../../vcsynchronizer/images/import-animals/data-transfer.png" class="bg-body border border-primary border-2 figure-img img-fluid rounded p-4" align="bottom" alt="Синхронизация VitalControl Alma Pro, индикатор прогресса" title="Прогресс синхронизации" /></a>
+            <figcaption class="figure-caption fs-6">Рисунок 4: Синхронизация VitalControl Alma Pro, индикатор прогресса</figcaption>
+        </figure>
     </div>
+</div>
 
 ## Закрыть USB-порт
 

@@ -8,6 +8,7 @@ description: >
 weight: 20
 categories: [Échange de données, Alma Pro]
 translationKey: alma-pro/synchronisation
+maphilight: true
 aliases: /vc/sync/fr
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
@@ -53,9 +54,9 @@ Pour effectuer la synchronisation entre le distributeur automatique Alma Pro et 
     </div>
 </div>
 
-4. Dans la barre latérale gauche du terminal tactile, cliquez sur le deuxième bouton à partir du haut <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Digit 1" title="Digit 1" />. Si vous êtes dans le menu principal où aucune barre latérale n'est visible, appuyez sur le bouton &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span> pour ouvrir le menu du feeder.
+4. Dans la barre latérale gauche du terminal tactile, cliquez sur le deuxième bouton à partir du haut <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" id="StartSynchronisation_Digit_1" width="25" align="middle" alt="Digit 1" title="Digit 1" />. Si vous êtes dans le menu principal où aucune barre latérale n'est visible, appuyez sur le bouton &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span> pour ouvrir le menu du feeder.
 
-1. Dans la barre latérale droite du terminal à écran tactile, sous le(s) symbole(s) du(des) distributeur(s) connecté(s), le symbole <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Chiffre 2 dans un cercle" title="Chiffre 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="Appareil VitalControl" title="VitalControl"/> pour l'appareil `{{<T "VitalControl" >}}` est maintenant affiché. Cliquez sur ce symbole.
+1. Dans la barre latérale droite du terminal à écran tactile, sous le(s) symbole(s) du(des) distributeur(s) connecté(s), le symbole <img src="/digits/2_negative_circled.svg" id="StartSynchronisation_Digit_2" width="25" align="middle" alt="Chiffre 2 dans un cercle" title="Chiffre 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="Appareil VitalControl" title="VitalControl"/> pour l'appareil `{{<T "VitalControl" >}}` est maintenant affiché. Cliquez sur ce symbole.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -67,12 +68,28 @@ Pour effectuer la synchronisation entre le distributeur automatique Alma Pro et 
         </div>
     </div>
 
-1. L'écran de synchronisation apparaîtra maintenant. Cliquez sur le bouton <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="numéro 3 encerclé" title="numéro 3" /> `{{<T "Synchronize" >}}` au milieu en bas pour démarrer la synchronisation avec l'appareil VitalControl.
+1. L'écran de synchronisation apparaîtra maintenant. Cliquez sur le bouton <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="numéro 3 encerclé" title="numéro 3" /> `{{<T "Synchronize" >}}` au milieu en bas pour démarrer la synchronisation avec l'appareil VitalControl.
 
-    <figure class="figure" style="margin-top: 10px;">
-        <a name="synchronise-vc-ap"><img src="../images/synchronise-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronisation VitalControl avec Alma Pro" title="Synchronisation VitalControl - Alma Pro" /></a>
-        <figcaption class="figure-caption fs-6">Figure 3 : Synchronisation de VitalControl avec le distributeur automatique Alma Pro</figcaption>
-    </figure>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<div style="padding: 12px;">
+    <img
+        src="../images/synchronise-vitalcontrol-alma-pro.png"
+        alt="Synchronisation de VitalControl avec le distributeur automatique Alma Pro"
+        usemap="#syncmap"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid"
+        align="bottom"
+        title="Synchronisation de VitalControl avec le distributeur automatique Alma Pro" />
+</div>
+<map name="syncmap">
+    <area shape="rect" coords="15,115,112,190" alt="Feeder" title='{{<T "Feeder" >}}' href="#StartSynchronisation_Digit_1">
+    <area shape="rect" coords="844,240,1012,282" alt="Temperature" title='{{<T "VitalControl" >}}' href="#StartSynchronisation_Digit_2">
+    <area shape="rect" coords="361,570,612,620" alt="Temperature" title='{{<T "Synchronize" >}}' href="#StartSynchronisation_Digit_3">
+</map>
+</figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    Figure 3: Synchronisation de VitalControl avec le distributeur automatique Alma Pro
+</figcaption>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="80px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
