@@ -8,6 +8,7 @@ description: >
 weight: 20
 categories: [資料交換, Alma Pro]
 translationKey: alma-pro/synchronisation
+maphilight: true
 aliases: /vc/sync/zh
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
@@ -53,9 +54,9 @@ aliases: /vc/sync/zh
     </div>
 </div>
 
-4. 在觸控終端的左側邊欄中，點擊從上數第二個按鈕 <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Digit 1" title="Digit 1" />。如果您在主選單中看不到側邊欄，請按下按鈕 &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span> 以打開進料器選單。
+4. 在觸控終端的左側邊欄中，點擊從上數第二個按鈕 <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" id="StartSynchronisation_Digit_1" width="25" align="middle" alt="Digit 1" title="Digit 1" />。如果您在主選單中看不到側邊欄，請按下按鈕 &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span> 以打開進料器選單。
 
-1. 在觸控螢幕終端的右側邊欄中，連接的供料器符號下方，現在顯示 `{{<T "VitalControl" >}}` 裝置的符號 <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Digit 2 in circle" title="Digit 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/>。點擊此符號。
+1. 在觸控螢幕終端的右側邊欄中，連接的供料器符號下方，現在顯示 `{{<T "VitalControl" >}}` 裝置的符號 <img src="/digits/2_negative_circled.svg" id="StartSynchronisation_Digit_2" width="25" align="middle" alt="Digit 2 in circle" title="Digit 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/>。點擊此符號。
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -67,26 +68,42 @@ aliases: /vc/sync/zh
         </div>
     </div>
 
-1. 現在將顯示同步畫面。點擊底部中間的按鈕 <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` 以開始與 VitalControl 裝置的同步。
+1. 現在將顯示同步畫面。點擊底部中間的按鈕 <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` 以開始與 VitalControl 裝置的同步。
 
-    <figure class="figure" style="margin-top: 10px;">
-        <a name="synchronise-vc-ap"><img src="../images/synchronise-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronisation VitalControl with Alma Pro" title="Synchronisation VitalControl - Alma Pro" /></a>
-        <figcaption class="figure-caption fs-6">圖 3：VitalControl 與 Alma Pro 自動供料器的同步</figcaption>
-    </figure>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<div style="padding: 12px;">
+    <img
+        src="../images/synchronise-vitalcontrol-alma-pro.png"
+        alt="VitalControl 與 Alma Pro 自動供料器的同步"
+        usemap="#syncmap"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid"
+        align="bottom"
+        title="VitalControl 與 Alma Pro 自動供料器的同步" />
+</div>
+<map name="syncmap">
+    <area shape="rect" coords="15,115,112,190" alt="Feeder" title='{{<T "Feeder" >}}' href="#StartSynchronisation_Digit_1">
+    <area shape="rect" coords="844,240,1012,282" alt="Temperature" title='{{<T "VitalControl" >}}' href="#StartSynchronisation_Digit_2">
+    <area shape="rect" coords="361,570,612,620" alt="Temperature" title='{{<T "Synchronize" >}}' href="#StartSynchronisation_Digit_3">
+</map>
+</figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    圖 3：VitalControl 與 Alma Pro 自動供料器的同步
+</figcaption>
 
-    <div class="alert alert-primary d-flex align-items-center" role="alert">
-        <svg xmlns="http://www.w3.org/2000/svg" width="80px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
-            <use xlink:href="#info-fill"/>
-        </svg>
-        <div>
-            <span class="text-primary fs-3 fw-semibold">注意</span><br>
-            如果需要轉移許多動物，同步可能需要一些時間。您可以在 VitalControl 設備的顯示屏上查看同步進度。<br>
-            <figure class="figure" style="margin-top: 25px;">
-            <a name="close-usb-slot-mandatory"><img src="../../vcsynchronizer/images/import-animals/data-transfer.png" class="bg-body border border-primary border-2 figure-img img-fluid rounded p-4" align="bottom" alt="同步 VitalControl Alma Pro，進度指示器" title="同步進度" /></a>
-                <figcaption class="figure-caption fs-6">圖 4：同步 VitalControl Alma Pro，進度指示器</figcaption>
-            </figure>
-        </div>
+<div class="alert alert-primary d-flex align-items-center" role="alert">
+    <svg xmlns="http://www.w3.org/2000/svg" width="80px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
+        <use xlink:href="#info-fill"/>
+    </svg>
+    <div>
+        <span class="text-primary fs-3 fw-semibold">注意</span><br>
+        如果需要轉移許多動物，同步可能需要一些時間。您可以在 VitalControl 設備的顯示屏上查看同步進度。<br>
+        <figure class="figure" style="margin-top: 25px;">
+        <a name="close-usb-slot-mandatory"><img src="../../vcsynchronizer/images/import-animals/data-transfer.png" class="bg-body border border-primary border-2 figure-img img-fluid rounded p-4" align="bottom" alt="同步 VitalControl Alma Pro，進度指示器" title="同步進度" /></a>
+            <figcaption class="figure-caption fs-6">圖 4：同步 VitalControl Alma Pro，進度指示器</figcaption>
+        </figure>
     </div>
+</div>
 
 ## 關閉 USB 埠
 

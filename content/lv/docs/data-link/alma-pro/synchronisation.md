@@ -8,6 +8,7 @@ description: >
 weight: 20
 categories: [Datu apmaiņa, Alma Pro]
 translationKey: alma-pro/synchronisation
+maphilight: true
 aliases: /vc/sync/lv
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
@@ -53,9 +54,9 @@ Lai veiktu sinhronizāciju starp Alma Pro automātisko barotavu un VitalControl 
     </div>
 </div>
 
-4. Skārienekrāna termināļa kreisajā sānjoslā noklikšķiniet uz otrās pogas no augšas <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Digit 1" title="Digit 1" />. Ja atrodaties galvenajā izvēlnē, kur sānjosla nav redzama, nospiediet pogu &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span>, lai atvērtu padevēja izvēlni.
+4. Skārienekrāna termināļa kreisajā sānjoslā noklikšķiniet uz otrās pogas no augšas <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" id="StartSynchronisation_Digit_1" width="25" align="middle" alt="Digit 1" title="Digit 1" />. Ja atrodaties galvenajā izvēlnē, kur sānjosla nav redzama, nospiediet pogu &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span>, lai atvērtu padevēja izvēlni.
 
-1. Skārienjutīgā termināļa labajā sānjoslā, zem pievienotā padevēja simboliem, tagad tiek parādīts simbols <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Digit 2 in circle" title="Digit 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> ierīcei `{{<T "VitalControl" >}}`. Noklikšķiniet uz šī simbola.
+1. Skārienjutīgā termināļa labajā sānjoslā, zem pievienotā padevēja simboliem, tagad tiek parādīts simbols <img src="/digits/2_negative_circled.svg" id="StartSynchronisation_Digit_2" width="25" align="middle" alt="Digit 2 in circle" title="Digit 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> ierīcei `{{<T "VitalControl" >}}`. Noklikšķiniet uz šī simbola.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -67,12 +68,28 @@ Lai veiktu sinhronizāciju starp Alma Pro automātisko barotavu un VitalControl 
         </div>
     </div>
 
-1. Tagad parādīsies sinhronizācijas ekrāns. Noklikšķiniet uz pogas <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` vidū apakšā, lai sāktu sinhronizāciju ar VitalControl ierīci.
+1. Tagad parādīsies sinhronizācijas ekrāns. Noklikšķiniet uz pogas <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` vidū apakšā, lai sāktu sinhronizāciju ar VitalControl ierīci.
 
-    <figure class="figure" style="margin-top: 10px;">
-        <a name="synchronise-vc-ap"><img src="../images/synchronise-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronisation VitalControl with Alma Pro" title="Synchronisation VitalControl - Alma Pro" /></a>
-        <figcaption class="figure-caption fs-6">3. attēls: VitalControl sinhronizācija ar Alma Pro automātisko padevēju</figcaption>
-    </figure>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<div style="padding: 12px;">
+    <img
+        src="../images/synchronise-vitalcontrol-alma-pro.png"
+        alt="VitalControl sinhronizācija ar Alma Pro automātisko padevēju"
+        usemap="#syncmap"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid"
+        align="bottom"
+        title="VitalControl sinhronizācija ar Alma Pro automātisko padevēju" />
+</div>
+<map name="syncmap">
+    <area shape="rect" coords="15,115,112,190" alt="Feeder" title='{{<T "Feeder" >}}' href="#StartSynchronisation_Digit_1">
+    <area shape="rect" coords="844,240,1012,282" alt="Temperature" title='{{<T "VitalControl" >}}' href="#StartSynchronisation_Digit_2">
+    <area shape="rect" coords="361,570,612,620" alt="Temperature" title='{{<T "Synchronize" >}}' href="#StartSynchronisation_Digit_3">
+</map>
+</figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    3. attēls: VitalControl sinhronizācija ar Alma Pro automātisko padevēju
+</figcaption>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="80px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">

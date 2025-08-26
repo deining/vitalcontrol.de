@@ -8,6 +8,7 @@ description: >
 weight: 20
 categories: [Výměna dat, Alma Pro]
 translationKey: alma-pro/synchronisation
+maphilight: true
 aliases: /vc/sync/cs
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
@@ -53,9 +54,9 @@ Pro provedení synchronizace mezi automatickým krmítkem Alma Pro a zařízení
     </div>
 </div>
 
-4. V levém postranním panelu dotykového terminálu klikněte na druhé tlačítko shora <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Digit 1" title="Digit 1" />. Pokud jste v hlavním menu, kde není viditelný žádný postranní panel, stiskněte tlačítko &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span> pro otevření menu podavače.
+4. V levém postranním panelu dotykového terminálu klikněte na druhé tlačítko shora <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" id="StartSynchronisation_Digit_1" width="25" align="middle" alt="Digit 1" title="Digit 1" />. Pokud jste v hlavním menu, kde není viditelný žádný postranní panel, stiskněte tlačítko &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder menu" title="Feeder menu"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span> pro otevření menu podavače.
 
-1. V pravém postranním panelu dotykového terminálu, pod symbolem/symboly pro připojený podavač/podavače, je nyní zobrazen symbol <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Číslo 2 v kruhu" title="Číslo 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="Zařízení VitalControl" title="VitalControl"/> pro zařízení `{{<T "VitalControl" >}}`. Klikněte na tento symbol.
+1. V pravém postranním panelu dotykového terminálu, pod symbolem/symboly pro připojený podavač/podavače, je nyní zobrazen symbol <img src="/digits/2_negative_circled.svg" id="StartSynchronisation_Digit_2" width="25" align="middle" alt="Číslo 2 v kruhu" title="Číslo 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="Zařízení VitalControl" title="VitalControl"/> pro zařízení `{{<T "VitalControl" >}}`. Klikněte na tento symbol.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -67,12 +68,28 @@ Pro provedení synchronizace mezi automatickým krmítkem Alma Pro a zařízení
         </div>
     </div>
 
-1. Nyní se objeví obrazovka synchronizace. Klikněte na tlačítko <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="číslo 3 v kruhu" title="číslo 3" /> `{{<T "Synchronize" >}}` uprostřed dole pro zahájení synchronizace se zařízením VitalControl.
+1. Nyní se objeví obrazovka synchronizace. Klikněte na tlačítko <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="číslo 3 v kruhu" title="číslo 3" /> `{{<T "Synchronize" >}}` uprostřed dole pro zahájení synchronizace se zařízením VitalControl.
 
-    <figure class="figure" style="margin-top: 10px;">
-        <a name="synchronise-vc-ap"><img src="../images/synchronise-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Synchronizace VitalControl s Alma Pro" title="Synchronizace VitalControl - Alma Pro" /></a>
-        <figcaption class="figure-caption fs-6">Obrázek 3: Synchronizace VitalControl s automatickým podavačem Alma Pro</figcaption>
-    </figure>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<div style="padding: 12px;">
+    <img
+        src="../images/synchronise-vitalcontrol-alma-pro.png"
+        alt="Synchronizace VitalControl s Alma Pro"
+        usemap="#syncmap"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid"
+        align="bottom"
+        title="Synchronizace VitalControl s Alma Pro" />
+</div>
+<map name="syncmap">
+    <area shape="rect" coords="15,115,112,190" alt="Feeder" title='{{<T "Feeder" >}}' href="#StartSynchronisation_Digit_1">
+    <area shape="rect" coords="844,240,1012,282" alt="Temperature" title='{{<T "VitalControl" >}}' href="#StartSynchronisation_Digit_2">
+    <area shape="rect" coords="361,570,612,620" alt="Temperature" title='{{<T "Synchronize" >}}' href="#StartSynchronisation_Digit_3">
+</map>
+</figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    Obrázek 3: Synchronizace VitalControl s automatickým podavačem Alma Pro
+</figcaption>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="80px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">

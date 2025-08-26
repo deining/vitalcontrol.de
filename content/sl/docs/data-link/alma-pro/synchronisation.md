@@ -8,6 +8,7 @@ description: >
 weight: 20
 categories: [Izmenjava podatkov, Alma Pro]
 translationKey: alma-pro/synchronisation
+maphilight: true
 aliases: /vc/sync/sl
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
@@ -53,9 +54,9 @@ Za izvedbo sinhronizacije med avtomatskim hranilnikom Alma Pro in napravo VitalC
     </div>
 </div>
 
-4. V levem stranskem meniju na dotik terminala kliknite drugi gumb od zgoraj <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Meni za podajalnik" title="Meni za podajalnik"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Številka 1" title="Številka 1" />. Če ste v glavnem meniju, kjer stranski meni ni viden, pritisnite gumb &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Meni za podajalnik" title="Meni za podajalnik"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span> za odprtje menija za podajalnik.
+4. V levem stranskem meniju na dotik terminala kliknite drugi gumb od zgoraj <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Meni za podajalnik" title="Meni za podajalnik"/> `{{<T "Feeder" >}}` <img src="/digits/1_negative_circled.svg" id="StartSynchronisation_Digit_1" width="25" align="middle" alt="Številka 1" title="Številka 1" />. Če ste v glavnem meniju, kjer stranski meni ni viden, pritisnite gumb &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Meni za podajalnik" title="Meni za podajalnik"/> &nbsp;<span style="font-family: monospace; font-size: 90%;">`{{<T "Feeder" >}}`</span> za odprtje menija za podajalnik.
 
-1. V desni stranski vrstici na zaslonu na dotik, pod simbolom(i) za priključeni podajalnik(e), je zdaj prikazan simbol <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Številka 2 v krogu" title="Številka 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="Naprava VitalControl" title="VitalControl"/> za napravo `{{<T "VitalControl" >}}`. Kliknite na ta simbol.
+1. V desni stranski vrstici na zaslonu na dotik, pod simbolom(i) za priključeni podajalnik(e), je zdaj prikazan simbol <img src="/digits/2_negative_circled.svg" id="StartSynchronisation_Digit_2" width="25" align="middle" alt="Številka 2 v krogu" title="Številka 2" /> <img src="/icons/device.svg" width="25" align="bottom" alt="Naprava VitalControl" title="VitalControl"/> za napravo `{{<T "VitalControl" >}}`. Kliknite na ta simbol.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -67,12 +68,28 @@ Za izvedbo sinhronizacije med avtomatskim hranilnikom Alma Pro in napravo VitalC
         </div>
     </div>
 
-1. Zdaj se bo prikazal zaslon za sinhronizacijo. Kliknite na gumb <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="številka 3 v krogu" title="številka 3" /> `{{<T "Synchronize" >}}` na sredini spodaj, da začnete sinhronizacijo z napravo VitalControl.
+1. Zdaj se bo prikazal zaslon za sinhronizacijo. Kliknite na gumb <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="številka 3 v krogu" title="številka 3" /> `{{<T "Synchronize" >}}` na sredini spodaj, da začnete sinhronizacijo z napravo VitalControl.
 
-    <figure class="figure" style="margin-top: 10px;">
-        <a name="synchronise-vc-ap"><img src="../images/synchronise-vitalcontrol-alma-pro.png" width="1024" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Sinhronizacija VitalControl z Alma Pro" title="Sinhronizacija VitalControl - Alma Pro" /></a>
-        <figcaption class="figure-caption fs-6">Slika 3: Sinhronizacija VitalControl z avtomatskim podajalnikom Alma Pro</figcaption>
-    </figure>
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<div style="padding: 12px;">
+    <img
+        src="../images/synchronise-vitalcontrol-alma-pro.png"
+        alt="Sinhronizacija VitalControl z avtomatskim podajalnikom Alma Pro"
+        usemap="#syncmap"
+        style="max-width: 880px; width: 100%;"
+        class="maphilight figure-img img-fluid"
+        align="bottom"
+        title="Sinhronizacija VitalControl z avtomatskim podajalnikom Alma Pro" />
+</div>
+<map name="syncmap">
+    <area shape="rect" coords="15,115,112,190" alt="Feeder" title='{{<T "Feeder" >}}' href="#StartSynchronisation_Digit_1">
+    <area shape="rect" coords="844,240,1012,282" alt="Temperature" title='{{<T "VitalControl" >}}' href="#StartSynchronisation_Digit_2">
+    <area shape="rect" coords="361,570,612,620" alt="Temperature" title='{{<T "Synchronize" >}}' href="#StartSynchronisation_Digit_3">
+</map>
+</figure>
+<figcaption class="figure-caption fs-6" style="margin-bottom: 1.5rem;">
+    Slika 3: Sinhronizacija VitalControl z avtomatskim podajalnikom Alma Pro
+</figcaption>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="80px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
