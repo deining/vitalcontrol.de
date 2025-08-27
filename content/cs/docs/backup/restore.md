@@ -27,7 +27,9 @@ V adresáři `backup` na vašem USB flash disku můžete najít několik zálož
 
 3. Vložte USB flash disk (C konektor) do konektoru na spodní straně zařízení.
 
-   ![VitalControl: vložení USB flash disku](/images/firmware/update/plug-in-dual-usb-stick.svg "Vložte USB flash disk")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: vložení USB flash disku" title="Vložte USB flash disk" />
+   </figure>
 
 4. Jakmile zařízení detekuje vložení USB disku, objeví se potvrzovací okno. Potvrďte toto vyskakovací okno `Ano` pro zahájení obnovení dat. Rozbalení a obnovení zálohy může trvat minutu nebo déle. Po dokončení obnovení dat se zobrazí zpráva o úspěchu:
 

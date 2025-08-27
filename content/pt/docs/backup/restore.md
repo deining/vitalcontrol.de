@@ -27,7 +27,9 @@ Dentro do diretório `backup` da sua unidade flash USB, você pode encontrar vá
 
 3. Insira a unidade flash USB (plugue C) no conector na parte inferior do dispositivo.
 
-   ![VitalControl: inserir unidade flash USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Conectar unidade flash USB")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: inserir unidade flash USB" title="Conectar unidade flash USB" />
+   </figure>
 
 4. Uma vez que o dispositivo detectou a inserção do pen drive, uma janela de confirmação aparecerá. Confirme este popup com `Sim` para iniciar a restauração dos dados. Descompactar e restaurar o backup pode levar um minuto ou mais. Quando a restauração dos dados estiver completa, uma mensagem de sucesso será exibida:
 

@@ -27,7 +27,9 @@ All'interno della directory `backup` della tua chiavetta USB, potresti trovare d
 
 3. Inserisci la chiavetta USB (connettore C) nel connettore situato nella parte inferiore del dispositivo.
 
-   ![VitalControl: inserisci la chiavetta USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Inserisci la chiavetta USB")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: inserisci la chiavetta USB" title="Inserisci la chiavetta USB" />
+   </figure>
 
 4. Una volta che il dispositivo ha rilevato l'inserimento della chiavetta USB, appare una finestra di conferma. Conferma questo popup con `Sì` per avviare il ripristino dei dati. La decompressione e il ripristino del backup possono richiedere un minuto o più. Quando il ripristino dei dati è completo, viene visualizzato un messaggio di successo:
 

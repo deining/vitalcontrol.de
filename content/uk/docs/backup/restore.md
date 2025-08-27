@@ -27,7 +27,9 @@ translationKey: restore
 
 3. Вставте USB флешку (роз'єм C) у роз'єм на нижній частині пристрою.
 
-   ![VitalControl: вставте USB флешку](/images/firmware/update/plug-in-dual-usb-stick.svg "Вставте USB флешку")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: вставте USB флешку" title="Вставте USB флешку" />
+   </figure>
 
 4. Після того, як пристрій виявить вставлення USB флешки, з'явиться вікно підтвердження. Підтвердіть це спливаюче вікно, натиснувши `Так`, щоб почати відновлення даних. Розпакування та відновлення резервної копії може зайняти хвилину або більше. Коли відновлення даних буде завершено, з'явиться повідомлення про успіх:
 

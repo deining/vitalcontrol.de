@@ -26,8 +26,10 @@ USB atmintuko kataloge `backup` galite rasti kelis atsarginės kopijos failus su
    ![VitalControl: meniu kelias duomenų atkūrimui](../images/restore.png "Atkūrimas iš atsarginės kopijos failo")
 
 3. Įdėkite USB atmintuką (C jungtis) į jungtį įrenginio apačioje.
-
-   ![VitalControl: įdėkite USB atmintuką](/images/firmware/update/plug-in-dual-usb-stick.svg "Įdėkite USB atmintuką")
+   
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: įdėkite USB atmintuką" title="Įdėkite USB atmintuką" />
+   </figure>
 
 4. Kai įrenginys aptiks USB atmintuko įdėjimą, pasirodys patvirtinimo langas. Patvirtinkite šį iššokantį langą su `Taip`, kad pradėtumėte duomenų atkūrimą. Atsarginės kopijos išskleidimas ir atkūrimas gali užtrukti minutę ar ilgiau. Kai duomenų atkūrimas bus baigtas, bus parodytas sėkmės pranešimas:
 

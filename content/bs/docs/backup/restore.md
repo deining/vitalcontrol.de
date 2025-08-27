@@ -27,7 +27,9 @@ Unutar direktorija `backup` na vašem USB flash disku, možete pronaći nekoliko
 
 3. Umetnite USB flash disk (C priključak) u konektor na dnu uređaja.
 
-   ![VitalControl: umetnite USB flash disk](/images/firmware/update/plug-in-dual-usb-stick.svg "Umetnite USB flash disk")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: umetnite USB flash disk" title="Umetnite USB flash disk" />
+   </figure>
 
 4. Kada uređaj detektuje umetanje USB sticka, pojavljuje se prozor za potvrdu. Potvrdite ovaj popup s `Da` kako biste započeli vraćanje podataka. Decompressing i vraćanje sigurnosne kopije može potrajati minutu ili duže. Kada je vraćanje podataka završeno, prikazuje se poruka o uspjehu:
 

@@ -27,7 +27,9 @@ Jūsu USB zibatmiņas direktorijā `backup` var atrasties vairāki rezerves kopi
 
 3. Ievietojiet USB zibatmiņu (C spraudni) savienotājā ierīces apakšā.
 
-   ![VitalControl: ievietojiet USB zibatmiņu](/images/firmware/update/plug-in-dual-usb-stick.svg "Ievietojiet USB zibatmiņu")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: ievietojiet USB zibatmiņu" title="Ievietojiet USB zibatmiņu" />
+   </figure>
 
 4. Kad ierīce konstatē USB zibatmiņas ievietošanu, parādās apstiprinājuma logs. Apstipriniet šo uznirstošo logu ar `Jā`, lai sāktu datu atjaunošanu. Rezerves kopijas dekompresēšana un atjaunošana var aizņemt minūti vai ilgāk. Kad datu atjaunošana ir pabeigta, tiek parādīts veiksmīgas atjaunošanas ziņojums:
 

@@ -27,7 +27,9 @@ USB-muistitikkusi `backup`-hakemistossa voi olla useita varmuuskopiotiedostoja, 
 
 3. Aseta USB-muistitikku (C-pistoke) laitteen alaosan liittimeen.
 
-   ![VitalControl: aseta USB-muistitikku](/images/firmware/update/plug-in-dual-usb-stick.svg "Aseta USB-muistitikku")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: aseta USB-muistitikku" title="Aseta USB-muistitikku" />
+   </figure>
 
 4. Kun laite havaitsee USB-tikun asettamisen, vahvistusikkuna ilmestyy. Hyväksy tämä ponnahdusikkuna `Kyllä`-vaihtoehdolla aloittaaksesi tietojen palautuksen. Varmuuskopion purkaminen ja palauttaminen voi kestää minuutin tai kauemmin. Kun tietojen palautus on valmis, näytölle tulee onnistumisviesti:
 

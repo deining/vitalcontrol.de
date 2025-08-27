@@ -27,7 +27,9 @@ In de map `backup` van uw USB-flashstation kunt u meerdere back-upbestanden met 
 
 3. Steek de USB-flashdrive (C-stekker) in de connector onderaan het apparaat.
 
-   ![VitalControl: USB-flashstation insteken](/images/firmware/update/plug-in-dual-usb-stick.svg "Steek de USB-flashstation in")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: USB-flashstation insteken" title="Steek de USB-flashstation in" />
+   </figure>
 
 4. Zodra het apparaat de invoeging van de USB-stick detecteert, verschijnt er een bevestigingsvenster. Bevestig deze pop-up met `Ja` om het gegevensherstel te starten. Het uitpakken en herstellen van de back-up kan een minuut of langer duren. Wanneer het gegevensherstel is voltooid, wordt er een succesbericht weergegeven:
 

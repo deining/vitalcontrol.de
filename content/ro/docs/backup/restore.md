@@ -27,7 +27,9 @@ Pe acest stick USB, trebuie să existe un director `backup`, care trebuie să co
 
 3. Introduceți stick-ul USB (conector C) în conectorul de la baza dispozitivului.
 
-   ![VitalControl: introduceți stick-ul USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Introduceți stick-ul USB")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: introduceți stick-ul USB" title="Introduceți stick-ul USB" />
+   </figure>
 
 4. Odată ce dispozitivul a detectat introducerea stick-ului USB, apare o fereastră de confirmare. Confirmați acest popup cu `Da` pentru a începe restaurarea datelor. Decompresarea și restaurarea backup-ului poate dura un minut sau mai mult. Când restaurarea datelor este completă, apare un mesaj de succes:
 
