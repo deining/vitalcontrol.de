@@ -27,7 +27,9 @@ W katalogu `backup` na twoim pendrive'ie możesz znaleźć kilka plików kopii z
 
 3. Włóż pendrive (wtyczka C) do złącza na dole urządzenia.
 
-   ![VitalControl: włóż pendrive](/images/firmware/update/plug-in-dual-usb-stick.svg "Włóż pendrive")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: włóż pendrive" title="Włóż pendrive" />
+   </figure>
 
 4. Gdy urządzenie wykryje włożenie pendrive'a, pojawi się okno potwierdzenia. Potwierdź to okno popup `Tak`, aby rozpocząć przywracanie danych. Rozpakowywanie i przywracanie kopii zapasowej może potrwać minutę lub dłużej. Po zakończeniu przywracania danych wyświetli się komunikat o sukcesie:
 

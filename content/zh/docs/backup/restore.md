@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "還原資料備份"
 linkTitle: "還原"
@@ -28,10 +27,11 @@ translationKey: restore
 
 3. 將 USB 隨身碟（C 插頭）插入裝置底部的連接器。
 
-   ![VitalControl: 插入 USB 隨身碟](/images/firmware/update/plug-in-dual-usb-stick.svg "插入 USB 隨身碟")
+<figure class="figure">
+   <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: 插入 USB 隨身碟" title="插入 USB 隨身碟" />
+</figure>
 
 4. 一旦裝置檢測到 USB 隨身碟的插入，將出現確認窗口。確認此彈出窗口 `是` 以開始資料還原。解壓縮和還原備份可能需要一分鐘或更長時間。當資料還原完成時，將顯示成功訊息：
-```
 
    ![VitalControl: 成功訊息資料還原](../images/restore-done.png "成功訊息資料還原")
 

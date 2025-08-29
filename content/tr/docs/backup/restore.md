@@ -27,7 +27,9 @@ USB flash sürücünüzün `backup` dizininde, `.vcu` uzantılı birkaç yedekle
 
 3. USB flash sürücüyü (C fişi) cihazın altındaki konektöre takın.
 
-   ![VitalControl: USB flash sürücüyü takın](/images/firmware/update/plug-in-dual-usb-stick.svg "USB flash sürücüyü takın")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: USB flash sürücüyü takın" title="USB flash sürücüyü takın" />
+   </figure>
 
 4. Cihaz USB çubuğunun takıldığını algıladığında, bir onay penceresi belirir. Veri geri yüklemeyi başlatmak için bu açılır pencereyi `Evet` ile onaylayın. Yedeklemeyi açmak ve geri yüklemek bir dakika veya daha uzun sürebilir. Veri geri yükleme tamamlandığında, bir başarı mesajı görüntülenir:
 

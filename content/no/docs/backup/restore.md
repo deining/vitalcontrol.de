@@ -27,7 +27,9 @@ Inne i katalogen `backup` på din USB-minnepinne kan du finne flere backupfiler 
 
 3. Sett inn USB-minnepinnen (C-plugg) i kontakten nederst på enheten.
 
-   ![VitalControl: sett inn USB-minnepinne](/images/firmware/update/plug-in-dual-usb-stick.svg "Sett inn USB-minnepinne")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: sett inn USB-minnepinne" title="Sett inn USB-minnepinne" />
+   </figure>
 
 4. Når enheten har oppdaget innsettingen av USB-pinnen, vises et bekreftelsesvindu. Bekreft denne popupen med `Ja` for å starte datagjenopprettingen. De-komprimering og gjenoppretting av backupen kan ta et minutt eller lenger. Når datagjenopprettingen er fullført, vises en suksessmelding:
 

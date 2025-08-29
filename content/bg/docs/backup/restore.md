@@ -27,7 +27,9 @@ translationKey: restore
 
 3. Вмъкнете USB флаш диска (C конектор) в конектора в долната част на устройството.
 
-   ![VitalControl: вмъкване на USB флаш диск](/images/firmware/update/plug-in-dual-usb-stick.svg "Включване на USB флаш диск")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="Включване на USB флаш диск" title="Включване на USB флаш диск" />
+   </figure>
 
 4. След като устройството засече вмъкването на USB стика, ще се появи прозорец за потвърждение. Потвърдете този изскачащ прозорец с `Да`, за да започне възстановяването на данните. Разархивирането и възстановяването на резервното копие може да отнеме минута или повече. Когато възстановяването на данните приключи, ще бъде показано съобщение за успех:
 

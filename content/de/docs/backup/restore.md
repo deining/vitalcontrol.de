@@ -28,7 +28,9 @@ Im Verzeichnis `backup` ihres USB-Sticks können sich mehrere Sicherungsdateien 
 
 3. Stecken Sie den USB-Stick (C-Stecker) in die Buchse im Handgriff des Geräts ein.
 
-   ![VitalControl: USB-Stick einstecken](/images/firmware/update/plug-in-dual-usb-stick.svg "USB-Stick einstecken")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl:USB-Stick einstecken" title="USB-Stick einstecken" />
+   </figure>
 
 4. Sobald das Gerät das Einstecken des USB-Sticks erkannt hat erscheint eine Sicherheitsabfrage. Quittieren Sie diese Abfrage mit `Ja`, um die Datenrücksicherung zu starten. Das Dekomprimieren und Rücksichern des Backups kann eine Minute oder länger dauern. Nach Abschluss der Datenrücksicherung wird eine Erfolgsmeldung angezeigt:
 

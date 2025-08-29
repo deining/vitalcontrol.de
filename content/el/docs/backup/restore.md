@@ -27,7 +27,9 @@ translationKey: restore
 
 3. Εισάγετε το USB flash drive (C plug) στην υποδοχή στο κάτω μέρος της συσκευής.
 
-   ![VitalControl: insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Plug in USB flash drive")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: εισαγωγή μονάδας flash USB" title="Συνδέστε τη μονάδα flash USB" />
+   </figure>
 
 4. Μόλις η συσκευή ανιχνεύσει την εισαγωγή του USB stick, εμφανίζεται ένα παράθυρο επιβεβαίωσης. Επικυρώστε αυτό το αναδυόμενο παράθυρο με `Ναι` για να ξεκινήσει η επαναφορά δεδομένων. Η αποσυμπίεση και η επαναφορά του αντιγράφου μπορεί να διαρκέσει ένα λεπτό ή περισσότερο. Όταν η επαναφορά δεδομένων ολοκληρωθεί, εμφανίζεται ένα μήνυμα επιτυχίας:
 

@@ -27,7 +27,9 @@ Inde i mappen `backup` på din USB-flashdrev kan du finde flere backupfiler med 
 
 3. Indsæt USB-flashdrevet (C-stik) i stikket i bunden af enheden.
 
-   ![VitalControl: indsæt USB-flashdrev](/images/firmware/update/plug-in-dual-usb-stick.svg "Indsæt USB-flashdrev")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: indsæt USB-flashdrev" title="Indsæt USB-flashdrev" />
+   </figure>
 
 4. Når enheden har registreret indsættelsen af USB-stikket, vises et bekræftelsesvindue. Bekræft denne popup med `Ja` for at starte datagendannelsen. Udpakning og gendannelse af backupen kan tage et minut eller længere. Når datagendannelsen er fuldført, vises en succesmeddelelse:
 

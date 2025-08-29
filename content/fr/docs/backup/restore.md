@@ -27,7 +27,9 @@ Sur cette clé USB, un répertoire `backup` doit exister, qui doit contenir un *
 
 3. Insérez la clé USB (connecteur C) dans le connecteur situé en bas de l'appareil.
 
-   ![VitalControl : insérer la clé USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Insérer la clé USB")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: insérer la clé USB" title="Insérer la clé USB" />
+   </figure>
 
 4. Once the device has detected the insertion of the USB key, a confirmation window appears. Grant this popup with `Yes` to start the data restoration. Decompressing and restoring the backup may take a minute or more. When the data restoration is complete, a success message is displayed:
 

@@ -27,7 +27,9 @@ Az USB flash meghajtó `backup` könyvtárában több `.vcu` kiterjesztésű biz
 
 3. Helyezze be az USB flash meghajtót (C csatlakozó) az eszköz alján található csatlakozóba.
 
-   ![VitalControl: USB flash meghajtó behelyezése](/images/firmware/update/plug-in-dual-usb-stick.svg "USB flash meghajtó behelyezése")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: USB flash meghajtó behelyezése" title="USB flash meghajtó behelyezése" />
+   </figure>
 
 4. Amint az eszköz érzékeli az USB stick behelyezését, megjelenik egy megerősítő ablak. Erősítse meg ezt a felugró ablakot `Igen` gombbal az adatvisszaállítás megkezdéséhez. Az adatmentés kicsomagolása és visszaállítása egy percig vagy tovább is tarthat. Amikor az adatvisszaállítás befejeződik, egy sikerüzenet jelenik meg:
 

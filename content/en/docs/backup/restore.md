@@ -27,7 +27,9 @@ Inside the directory `backup` of your USB flash drive, you may find several back
 
 3. Insert the USB flash drive (C plug) into the connector at the bottom of the device.
 
-   ![VitalControl: insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Plug in USB flash drive")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: insert USB flash drive" title="Plug in USB flash drive" />
+   </figure>
 
 4. Once the device detected insertion of the USB stick, a confirmation window appears. Acknowledge this popup with `Yes` to start the data restore. Decompressing and restoring the backup may take a minute or longer. When the data restore is complete, a success message is displayed:
 

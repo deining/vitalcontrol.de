@@ -27,7 +27,9 @@ Inuti katalogen `backup` på ditt USB-minne kan du hitta flera säkerhetskopieri
 
 3. Sätt in USB-minnet (C-kontakt) i kontakten längst ner på enheten.
 
-   ![VitalControl: sätt in USB-minne](/images/firmware/update/plug-in-dual-usb-stick.svg "Sätt in USB-minne")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: sätt in USB-minne" title="Sätt in USB-minne" />
+   </figure>
 
 4. När enheten har upptäckt att USB-minnet har satts in, visas ett bekräftelsefönster. Bekräfta denna popup med `Ja` för att starta dataåterställningen. Att dekomprimera och återställa säkerhetskopian kan ta en minut eller längre. När dataåterställningen är klar visas ett meddelande om framgång:
 

@@ -27,7 +27,9 @@ Teie USB mälupulga `backup` kaustas võib leiduda mitu varundusfaili laiendiga 
 
 3. Sisestage USB mälupulk (C pistik) seadme allosas olevasse pistikupessa.
 
-   ![VitalControl: sisesta USB mälupulk](/images/firmware/update/plug-in-dual-usb-stick.svg "Ühenda USB mälupulk")
+   <figure class="figure">
+      <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: sisesta USB mälupulk" title="Ühenda USB mälupulk" />
+   </figure>
 
 4. Kui seade on tuvastanud USB pulga sisestamise, ilmub kinnitusaken. Kinnitage see popup `Jah`-ga, et alustada andmete taastamist. Varunduse lahtipakkimine ja taastamine võib võtta minuti või kauem. Kui andmete taastamine on lõpetatud, kuvatakse edukateade:
 
