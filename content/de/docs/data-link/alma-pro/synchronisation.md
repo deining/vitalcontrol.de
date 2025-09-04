@@ -51,7 +51,7 @@ Zur Durchführung einer Synchronisation zwischen dem Tränkeautomaten Alma Pro u
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Achtung</span><br>
-            Um die Synchronisation des VitalControl-Geräts starten zu können, müssen Sie in der Benutzerrolle <span style="font-family: monospace; font-size: 90%;">Betriebsleiter</span> am Automaten angemeldet sein. Andernfalls ist die Schaltfläche <span style="font-family: monospace; font-size: 90%;">Synchronisieren</a> im <a href="#synchronise-vc-ap" >Synchronisationsmenü</a> deaktiviert.
+            Um die Synchronisation des VitalControl-Geräts starten zu können, müssen Sie in der Benutzerrolle <span style="font-family: monospace; font-size: 90%;">Betriebsleiter</span> am Automaten angemeldet sein. Andernfalls ist die Schaltfläche <span style="font-family: monospace; font-size: 90%;">Synchronisieren</a> im <a href="#figure3_synchronize_vitalcontrol_alma_pro">Synchronisationsmenü</a> deaktiviert.
         </div>
 </div>
 
@@ -71,7 +71,7 @@ Zur Durchführung einer Synchronisation zwischen dem Tränkeautomaten Alma Pro u
 
 1. Es wird jetzt der Synchronisationsbildschirm aufgerufen. Klicken Sie dort auf die unten mittig angeordnete Schaltfläche <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="Umrandete Ziffer 3" title="Ziffer 3" /> `Synchronisieren` um die Synchronisation mit dem VitalControl-Gerät zu starten.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

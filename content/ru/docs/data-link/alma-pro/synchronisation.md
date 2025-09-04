@@ -50,7 +50,7 @@ aliases: /vc/sync/ru
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Внимание</span><br>
-        Чтобы начать синхронизацию устройства VitalControl, вы должны быть авторизованы на машине в роли пользователя <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. В противном случае кнопка <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> в <a href="#synchronise-vc-ap" >меню синхронизации</a> будет недоступна.
+        Чтобы начать синхронизацию устройства VitalControl, вы должны быть авторизованы на машине в роли пользователя <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. В противном случае кнопка <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> в <a href="#figure3_synchronize_vitalcontrol_alma_pro">меню синхронизации</a> будет недоступна.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ aliases: /vc/sync/ru
 
 1. Теперь появится экран синхронизации. Нажмите на кнопку <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="цифра 3 в круге" title="цифра 3" /> `{{<T "Synchronize" >}}` в середине внизу, чтобы начать синхронизацию с устройством VitalControl.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

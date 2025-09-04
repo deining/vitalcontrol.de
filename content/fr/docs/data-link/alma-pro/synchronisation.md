@@ -50,7 +50,7 @@ Pour effectuer la synchronisation entre le distributeur automatique Alma Pro et 
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Attention</span><br>
-        Pour démarrer la synchronisation de l'appareil VitalControl, vous devez être connecté à la machine avec le rôle utilisateur <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Sinon, le bouton <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> dans le <a href="#synchronise-vc-ap" >menu de synchronisation</a> est désactivé.
+        Pour démarrer la synchronisation de l'appareil VitalControl, vous devez être connecté à la machine avec le rôle utilisateur <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Sinon, le bouton <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> dans le <a href="#figure3_synchronize_vitalcontrol_alma_pro">menu de synchronisation</a> est désactivé.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ Pour effectuer la synchronisation entre le distributeur automatique Alma Pro et 
 
 1. L'écran de synchronisation apparaîtra maintenant. Cliquez sur le bouton <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="numéro 3 encerclé" title="numéro 3" /> `{{<T "Synchronize" >}}` au milieu en bas pour démarrer la synchronisation avec l'appareil VitalControl.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

@@ -50,7 +50,7 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Attention</span><br>
-        In order to start the synchronisation of the VitalControl device, you must be logged on to the machine in the user role <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Otherwise, the <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> button in the <a href="#synchronise-vc-ap" >Synchronisation menu</a> is disabled.
+        In order to start the synchronisation of the VitalControl device, you must be logged on to the machine in the user role <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Otherwise, the <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> button in the <a href="#figure3_synchronize_vitalcontrol_alma_pro">Synchronisation menu</a> is disabled.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
 
 1. The synchronisation screen will now appear. Click on the button <img src="/digits/3_negative_circled.svg" id ="StartSynchronisation_Digit_3" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` in the middle at the bottom to start synchronisation with the VitalControl device.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

@@ -42,7 +42,7 @@ Alma Pro otomatik yemlik ve VitalControl cihazı arasında senkronizasyon gerçe
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Dikkat</span><br>
-        VitalControl cihazının senkronizasyonunu başlatmak için, makineye <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span> kullanıcı rolüyle giriş yapmış olmanız gerekir. Aksi takdirde, <a href="#synchronise-vc-ap" >Senkronizasyon menüsünde</a> <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> düğmesi devre dışı kalır.
+        VitalControl cihazının senkronizasyonunu başlatmak için, makineye <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span> kullanıcı rolüyle giriş yapmış olmanız gerekir. Aksi takdirde, <a href="#figure3_synchronize_vitalcontrol_alma_pro">Senkronizasyon menüsünde</a> <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> düğmesi devre dışı kalır.
     </div>
 </div>
 
@@ -62,7 +62,7 @@ Alma Pro otomatik yemlik ve VitalControl cihazı arasında senkronizasyon gerçe
 
 1. Şimdi senkronizasyon ekranı görünecektir. VitalControl cihazı ile senkronizasyonu başlatmak için altta ortada bulunan <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` düğmesine tıklayın.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

@@ -50,7 +50,7 @@ Suorita synkronointi Alma Pro -automaattiruokkijan ja VitalControl-laitteen väl
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Huomio</span><br>
-        Jotta voit aloittaa VitalControl-laitteen synkronoinnin, sinun on oltava kirjautuneena koneelle käyttäjäroolissa <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Muuten <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> -painike <a href="#synchronise-vc-ap" >Synkronointivalikossa</a> on pois käytöstä.
+        Jotta voit aloittaa VitalControl-laitteen synkronoinnin, sinun on oltava kirjautuneena koneelle käyttäjäroolissa <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Muuten <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> -painike <a href="#figure3_synchronize_vitalcontrol_alma_pro">Synkronointivalikossa</a> on pois käytöstä.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ Suorita synkronointi Alma Pro -automaattiruokkijan ja VitalControl-laitteen väl
 
 1. Synkronointinäyttö tulee nyt näkyviin. Klikkaa painiketta <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` keskellä alhaalla aloittaaksesi synkronoinnin VitalControl-laitteen kanssa.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

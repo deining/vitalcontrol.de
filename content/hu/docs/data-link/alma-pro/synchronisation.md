@@ -50,7 +50,7 @@ A szinkronizáció végrehajtásához az Alma Pro automata etető és a VitalCon
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Figyelem</span><br>
-        A VitalControl eszköz szinkronizálásának megkezdéséhez be kell jelentkeznie a gépre a <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span> felhasználói szerepkörben. Ellenkező esetben a <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> gomb a <a href="#synchronise-vc-ap" >Szinkronizálás menüben</a> le van tiltva.
+        A VitalControl eszköz szinkronizálásának megkezdéséhez be kell jelentkeznie a gépre a <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span> felhasználói szerepkörben. Ellenkező esetben a <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> gomb a <a href="#figure3_synchronize_vitalcontrol_alma_pro">Szinkronizálás menüben</a> le van tiltva.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ A szinkronizáció végrehajtásához az Alma Pro automata etető és a VitalCon
 
 1. Most megjelenik a szinkronizációs képernyő. Kattintson a középen alul található <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` gombra a VitalControl eszközzel való szinkronizáció megkezdéséhez.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

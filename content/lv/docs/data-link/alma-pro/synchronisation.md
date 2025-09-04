@@ -50,7 +50,7 @@ Lai veiktu sinhronizāciju starp Alma Pro automātisko barotavu un VitalControl 
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Uzmanību</span><br>
-        Lai sāktu VitalControl ierīces sinhronizāciju, jums ir jābūt pieslēgtam pie iekārtas lietotāja lomā <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Pretējā gadījumā <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> poga <a href="#synchronise-vc-ap" >Sinhronizācijas izvēlnē</a> ir atspējota.
+        Lai sāktu VitalControl ierīces sinhronizāciju, jums ir jābūt pieslēgtam pie iekārtas lietotāja lomā <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Pretējā gadījumā <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> poga <a href="#figure3_synchronize_vitalcontrol_alma_pro">Sinhronizācijas izvēlnē</a> ir atspējota.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ Lai veiktu sinhronizāciju starp Alma Pro automātisko barotavu un VitalControl 
 
 1. Tagad parādīsies sinhronizācijas ekrāns. Noklikšķiniet uz pogas <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` vidū apakšā, lai sāktu sinhronizāciju ar VitalControl ierīci.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

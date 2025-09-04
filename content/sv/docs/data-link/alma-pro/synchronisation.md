@@ -50,7 +50,7 @@ För att utföra synkronisering mellan Alma Pro automatisk matare och VitalContr
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Uppmärksamhet</span><br>
-        För att starta synkroniseringen av VitalControl-enheten måste du vara inloggad på maskinen i användarrollen <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Annars är knappen <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> i <a href="#synchronise-vc-ap" >Synkroniseringsmenyn</a> inaktiverad.
+        För att starta synkroniseringen av VitalControl-enheten måste du vara inloggad på maskinen i användarrollen <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Annars är knappen <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> i <a href="#figure3_synchronize_vitalcontrol_alma_pro">Synkroniseringsmenyn</a> inaktiverad.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ För att utföra synkronisering mellan Alma Pro automatisk matare och VitalContr
 
 1. Synkroniseringsskärmen visas nu. Klicka på knappen <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="cirkulerad siffra 3" title="siffra 3" /> `{{<T "Synchronize" >}}` i mitten längst ner för att starta synkronisering med VitalControl-enheten.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

@@ -50,7 +50,7 @@ Aby przeprowadzić synchronizację między automatycznym karmnikiem Alma Pro a u
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Uwaga</span><br>
-        Aby rozpocząć synchronizację urządzenia VitalControl, musisz być zalogowany na maszynie w roli użytkownika <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. W przeciwnym razie przycisk <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> w <a href="#synchronise-vc-ap" >menu Synchronizacji</a> jest wyłączony.
+        Aby rozpocząć synchronizację urządzenia VitalControl, musisz być zalogowany na maszynie w roli użytkownika <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. W przeciwnym razie przycisk <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> w <a href="#figure3_synchronize_vitalcontrol_alma_pro">menu Synchronizacji</a> jest wyłączony.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ Aby przeprowadzić synchronizację między automatycznym karmnikiem Alma Pro a u
 
 1. Teraz pojawi się ekran synchronizacji. Kliknij przycisk <img src="/digits/3_negative_circled.svg"  id="StartSynchronisation_Digit_3" width="25" align="middle" alt="cyfra 3 w kółku" title="cyfra 3" /> `{{<T "Synchronize" >}}` na środku u dołu, aby rozpocząć synchronizację z urządzeniem VitalControl.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

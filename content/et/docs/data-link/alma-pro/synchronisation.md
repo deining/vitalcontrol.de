@@ -50,7 +50,7 @@ Alma Pro automaatse söötja ja VitalControl seadme vahelise sünkroniseerimise 
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Tähelepanu</span><br>
-        VitalControl seadme sünkroniseerimise alustamiseks peate olema masinasse sisse logitud kasutaja rollis <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Vastasel juhul on <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> nupp <a href="#synchronise-vc-ap" >Sünkroniseerimise menüüs</a> keelatud.
+        VitalControl seadme sünkroniseerimise alustamiseks peate olema masinasse sisse logitud kasutaja rollis <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Vastasel juhul on <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> nupp <a href="#figure3_synchronize_vitalcontrol_alma_pro">Sünkroniseerimise menüüs</a> keelatud.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ Alma Pro automaatse söötja ja VitalControl seadme vahelise sünkroniseerimise 
 
 1. Nüüd ilmub sünkroonimise ekraan. Klõpsake keskel allosas nuppu <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}`, et alustada sünkroonimist VitalControl seadmega.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

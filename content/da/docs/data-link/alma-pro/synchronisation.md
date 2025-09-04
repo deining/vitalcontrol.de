@@ -50,7 +50,7 @@ For at udføre synkronisering mellem Alma Pro automatisk foderautomat og VitalCo
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Bemærk</span><br>
-        For at starte synkroniseringen af VitalControl-enheden skal du være logget på maskinen i brugerrollen <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Ellers er knappen <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> i <a href="#synchronise-vc-ap" >Synkroniseringsmenuen</a> deaktiveret.
+        For at starte synkroniseringen af VitalControl-enheden skal du være logget på maskinen i brugerrollen <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Ellers er knappen <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> i <a href="#figure3_synchronize_vitalcontrol_alma_pro">Synkroniseringsmenuen</a> deaktiveret.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ For at udføre synkronisering mellem Alma Pro automatisk foderautomat og VitalCo
 
 1. Synkroniseringsskærmen vil nu blive vist. Klik på knappen <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` i midten nederst for at starte synkronisering med VitalControl-enheden.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

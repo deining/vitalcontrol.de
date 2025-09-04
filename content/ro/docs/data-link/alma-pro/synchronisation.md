@@ -50,7 +50,7 @@ Pentru a efectua sincronizarea între hrănitorul automat Alma Pro și dispoziti
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Atenție</span><br>
-        Pentru a începe sincronizarea dispozitivului VitalControl, trebuie să fiți autentificat pe mașină cu rolul de utilizator <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. În caz contrar, butonul <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> din <a href="#synchronise-vc-ap" >meniul de sincronizare</a> este dezactivat.
+        Pentru a începe sincronizarea dispozitivului VitalControl, trebuie să fiți autentificat pe mașină cu rolul de utilizator <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. În caz contrar, butonul <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> din <a href="#figure3_synchronize_vitalcontrol_alma_pro">meniul de sincronizare</a> este dezactivat.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ Pentru a efectua sincronizarea între hrănitorul automat Alma Pro și dispoziti
 
 1. Ecranul de sincronizare va apărea acum. Faceți clic pe butonul <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` în mijloc, în partea de jos, pentru a începe sincronizarea cu dispozitivul VitalControl.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"
