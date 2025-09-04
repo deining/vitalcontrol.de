@@ -50,7 +50,7 @@ aliases: /vc/sync/zh
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">注意</span><br>
-        要開始同步 VitalControl 設備，您必須以使用者角色 <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span> 登錄到機器。否則，<a href="#synchronise-vc-ap" >同步選單</a>中的 <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> 按鈕將被禁用。
+        要開始同步 VitalControl 設備，您必須以使用者角色 <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span> 登錄到機器。否則，<a href="#figure3_synchronize_vitalcontrol_alma_pro">同步選單</a>中的 <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> 按鈕將被禁用。
     </div>
 </div>
 
@@ -70,7 +70,7 @@ aliases: /vc/sync/zh
 
 1. 現在將顯示同步畫面。點擊底部中間的按鈕 <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` 以開始與 VitalControl 裝置的同步。
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

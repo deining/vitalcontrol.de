@@ -50,7 +50,7 @@ Za provođenje sinkronizacije između automatskog hranilice Alma Pro i uređaja 
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Pažnja</span><br>
-        Da biste pokrenuli sinkronizaciju uređaja VitalControl, morate biti prijavljeni na uređaj u korisničkoj ulozi <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Inače, gumb <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> u <a href="#synchronise-vc-ap" >izborniku Sinkronizacija</a> je onemogućen.
+        Da biste pokrenuli sinkronizaciju uređaja VitalControl, morate biti prijavljeni na uređaj u korisničkoj ulozi <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Inače, gumb <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> u <a href="#figure3_synchronize_vitalcontrol_alma_pro">izborniku Sinkronizacija</a> je onemogućen.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ Za provođenje sinkronizacije između automatskog hranilice Alma Pro i uređaja 
 
 1. Sada će se pojaviti zaslon za sinkronizaciju. Kliknite na gumb <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="broj 3 u krugu" title="broj 3" /> `{{<T "Synchronize" >}}` u sredini na dnu za pokretanje sinkronizacije s uređajem VitalControl.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

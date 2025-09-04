@@ -50,7 +50,7 @@ Para llevar a cabo la sincronización entre el comedero automático Alma Pro y e
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Atención</span><br>
-        Para iniciar la sincronización del dispositivo VitalControl, debe haber iniciado sesión en la máquina con el rol de usuario <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. De lo contrario, el botón <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> en el <a href="#synchronise-vc-ap" >menú de sincronización</a> estará deshabilitado.
+        Para iniciar la sincronización del dispositivo VitalControl, debe haber iniciado sesión en la máquina con el rol de usuario <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. De lo contrario, el botón <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> en el <a href="#figure3_synchronize_vitalcontrol_alma_pro">menú de sincronización</a> estará deshabilitado.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ Para llevar a cabo la sincronización entre el comedero automático Alma Pro y e
 
 1. Ahora aparecerá la pantalla de sincronización. Haz clic en el botón <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="número 3 en círculo" title="número 3" /> `{{<T "Synchronize" >}}` en el medio en la parte inferior para iniciar la sincronización con el dispositivo VitalControl.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

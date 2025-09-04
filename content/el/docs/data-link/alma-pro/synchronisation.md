@@ -42,7 +42,7 @@ aliases: /vc/sync/el
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Προσοχή</span><br>
-        Για να ξεκινήσετε τον συγχρονισμό της συσκευής VitalControl, πρέπει να είστε συνδεδεμένοι στη μηχανή με το ρόλο χρήστη <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Διαφορετικά, το κουμπί <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> στο <a href="#synchronise-vc-ap" >μενού Συγχρονισμού</a> είναι απενεργοποιημένο.
+        Για να ξεκινήσετε τον συγχρονισμό της συσκευής VitalControl, πρέπει να είστε συνδεδεμένοι στη μηχανή με το ρόλο χρήστη <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Διαφορετικά, το κουμπί <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> στο <a href="#figure3_synchronize_vitalcontrol_alma_pro">μενού Συγχρονισμού</a> είναι απενεργοποιημένο.
     </div>
 </div>
 
@@ -62,7 +62,7 @@ aliases: /vc/sync/el
 
 1. Η οθόνη συγχρονισμού θα εμφανιστεί τώρα. Κάντε κλικ στο κουμπί <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="circled number 3" title="number 3" /> `{{<T "Synchronize" >}}` στο κέντρο στο κάτω μέρος για να ξεκινήσετε το συγχρονισμό με τη συσκευή VitalControl.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

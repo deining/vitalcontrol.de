@@ -50,7 +50,7 @@ Om synchronisatie uit te voeren tussen de Alma Pro automatische voederbak en het
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Let op</span><br>
-        Om de synchronisatie van het VitalControl-apparaat te starten, moet u aangemeld zijn op de machine in de gebruikersrol <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Anders is de knop <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> in het <a href="#synchronise-vc-ap" >Synchronisatiemenu</a> uitgeschakeld.
+        Om de synchronisatie van het VitalControl-apparaat te starten, moet u aangemeld zijn op de machine in de gebruikersrol <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Anders is de knop <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> in het <a href="#figure3_synchronize_vitalcontrol_alma_pro">Synchronisatiemenu</a> uitgeschakeld.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ Om synchronisatie uit te voeren tussen de Alma Pro automatische voederbak en het
 
 1. Het synchronisatiescherm verschijnt nu. Klik op de knop <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="omcirkeld nummer 3" title="nummer 3" /> `{{<T "Synchronize" >}}` in het midden onderaan om de synchronisatie met het VitalControl apparaat te starten.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

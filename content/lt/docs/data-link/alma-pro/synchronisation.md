@@ -50,7 +50,7 @@ Norėdami atlikti sinchronizavimą tarp Alma Pro automatinės šėryklos ir Vita
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Dėmesio</span><br>
-        Norint pradėti VitalControl įrenginio sinchronizavimą, turite būti prisijungę prie įrenginio kaip vartotojas su vaidmeniu <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Priešingu atveju, <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> mygtukas <a href="#synchronise-vc-ap" >Sinchronizavimo meniu</a> bus išjungtas.
+        Norint pradėti VitalControl įrenginio sinchronizavimą, turite būti prisijungę prie įrenginio kaip vartotojas su vaidmeniu <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Priešingu atveju, <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> mygtukas <a href="#figure3_synchronize_vitalcontrol_alma_pro">Sinchronizavimo meniu</a> bus išjungtas.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ Norėdami atlikti sinchronizavimą tarp Alma Pro automatinės šėryklos ir Vita
 
 1. Dabar pasirodys sinchronizacijos ekranas. Spustelėkite mygtuką <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="apskritime esantis skaičius 3" title="skaičius 3" /> `{{<T "Synchronize" >}}` apačioje viduryje, kad pradėtumėte sinchronizaciją su VitalControl įrenginiu.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"

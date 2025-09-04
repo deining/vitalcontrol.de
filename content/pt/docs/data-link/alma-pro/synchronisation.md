@@ -50,7 +50,7 @@ Para realizar a sincronização entre o alimentador automático Alma Pro e o dis
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Atenção</span><br>
-        Para iniciar a sincronização do dispositivo VitalControl, você deve estar logado na máquina com o papel de usuário <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Caso contrário, o botão <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> no <a href="#synchronise-vc-ap" >menu de Sincronização</a> estará desativado.
+        Para iniciar a sincronização do dispositivo VitalControl, você deve estar logado na máquina com o papel de usuário <span style="font-family: monospace; font-size: 90%;">{{<T "SiteManager" >}}</span>. Caso contrário, o botão <span style="font-family: monospace; font-size: 90%;">{{<T "Synchronize" >}}</span> no <a href="#figure3_synchronize_vitalcontrol_alma_pro">menu de Sincronização</a> estará desativado.
     </div>
 </div>
 
@@ -70,7 +70,7 @@ Para realizar a sincronização entre o alimentador automático Alma Pro e o dis
 
 1. A tela de sincronização agora aparecerá. Clique no botão <img src="/digits/3_negative_circled.svg" id="StartSynchronisation_Digit_3" width="25" align="middle" alt="número 3 em círculo" title="número 3" /> `{{<T "Synchronize" >}}` no meio, na parte inferior, para iniciar a sincronização com o dispositivo VitalControl.
 
-<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;">
+<figure class="figure" style="margin-top: 5px; border: 2px solid #dee2e6; border-radius: 16px; overflow: hidden; margin-bottom: 0;" id="figure3_synchronize_vitalcontrol_alma_pro">
 <div style="padding: 12px;">
     <img
         src="../images/synchronise-vitalcontrol-alma-pro.png"
