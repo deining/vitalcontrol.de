@@ -25,31 +25,31 @@
 
 {{- if eq $_component "gui" -}}
   {{- if eq $_info "default" -}}
-    0.9.10
+    1.0.0
   {{- else if eq $_info "date" -}}
     {{- if eq $_dateFormat "de" -}}
-      14.05.2024
+      02.07.2025
     {{- else -}}
-      2024-05-14
+      2025-07-02
     {{- end -}}
   {{- else if eq $_info "commitHash" -}}
-    5a9fcc3f
+    7662771d
   {{- else if eq $_info "commitNo" -}}
-    2182
+    2221
   {{- else -}}
     {{- errorf "Unhandled combination of parameters: component=%q, info=%q" $_component $_info -}}
   {{- end -}}
 {{- else if eq $_component "middleware" -}}
   {{- if eq $_info "default" -}}
-    0.9.10
+    1.0.0
   {{- else if eq $_info "date" -}}
     {{- if eq $_dateFormat "de" -}}
-      14.05.2024
+      02.07.2025
     {{- else -}}
-      2024-05-14
+      2025-07-02
     {{- end -}}
   {{- else if eq $_info "commitHash" -}}
-    d4f1ceb
+    3ffc9d4
   {{- else if eq $_info "commitNo" -}}
     n/a
   {{- else -}}
@@ -57,7 +57,7 @@
   {{- end -}}
 {{- else if eq $_component "bootloader" -}}
   {{- if eq $_info "default" -}}
-    1.06
+    1.0.6
   {{- else if eq $_info "date" -}}
     {{- if eq $_dateFormat "de" -}}
       15.03.2024
