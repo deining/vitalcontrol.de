@@ -111,7 +111,7 @@ aliases: /vc/conf/zh
 
 ### 啟用 {{% T "VitalControl" %}} 裝置 {#activation-vitalcontrol}
 
-在機器的預設狀態下，{{<T "VitalControl" >}} 是停用的。將 <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> 開關 <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> 設置到右側位置 <span style="font-style: italic;">{{<T "YES" >}}</span> 以啟用 {{<T "VitalControl" >}} 裝置。隨後，在供料器選單的右側欄中，連接機器的圖標下方，將顯示 `{{<T "VitalControl" >}}` 裝置的圖標 <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl 裝置" title="VitalControl"/>（參見截圖 <span style="font-style: italic;"><a href="../synchronisation#synchronise-vc-ap">供料器選單</a></span>，圖 <span style="font-size: 140%">➁</span>）。
+在機器的預設狀態下，{{<T "VitalControl" >}} 是停用的。將 <span style="font-style: italic;">{{<T "NO" >}}/{{<T "YES" >}}</span> 開關 <span id="VitalControlSettingsPage1_Digit_1" style="font-size: 140%">➀</span> 設置到右側位置 <span style="font-style: italic;">{{<T "YES" >}}</span> 以啟用 {{<T "VitalControl" >}} 裝置。隨後，在供料器選單的右側欄中，連接機器的圖標下方，將顯示 `{{<T "VitalControl" >}}` 裝置的圖標 <img src="/icons/device.svg" width="20" align="bottom" alt="VitalControl 裝置" title="VitalControl"/>（參見截圖 <span style="font-style: italic;"><a href="../synchronisation#figure3_synchronize_vitalcontrol_alma_pro">供料器選單</a></span>，圖 <span style="font-size: 140%">➂</span>）。
 
 ### 同步自動供料器 <span style="font-size: 150%">🠲</span> {{% T "VitalControl" %}}
 
