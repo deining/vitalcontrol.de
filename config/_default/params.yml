@@ -79,7 +79,7 @@ links:
     url: https://example.org/twitter
     icon: fab fa-twitter
     desc: Follow us on Twitter to get the latest news!
-    name: Stack Overflow
+  - name: Stack Overflow
     url: https://example.org/stack
     icon: fab fa-stack-overflow
     desc: Practical questions and curated answers
