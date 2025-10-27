@@ -1,7 +1,6 @@
 ---
 title: "Configuración del dispositivo"
 linkTitle: "Dispositivo"
-date: 2023-07-28T13:25:28+02:00
 weight: 50
 slug: device
 description: >

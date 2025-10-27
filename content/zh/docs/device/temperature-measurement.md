@@ -1,7 +1,6 @@
 ---
 title: "溫度測量"
 linkTitle: "溫度測量"
-date: 2023-07-28T13:25:28+02:00
 weight: 40
 slug: temperature-measurement
 description: >

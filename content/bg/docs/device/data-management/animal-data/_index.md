@@ -1,7 +1,6 @@
 ---
 title: "Данни за животни"
 linkTitle: "Данни за животни"
-date: 2023-07-28T13:25:28+02:00
 weight: 20
 slug: animal-data
 description: >

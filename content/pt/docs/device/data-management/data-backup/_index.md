@@ -1,7 +1,6 @@
 ---
 title: "Backup de dados"
 linkTitle: "Backup de dados"
-date: 2023-07-28T13:25:28+02:00
 weight: 10
 slug: data-backup
 description: >

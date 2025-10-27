@@ -1,7 +1,6 @@
 ---
 title: "Резервне копіювання даних"
 linkTitle: "Резервне копіювання даних"
-date: 2023-07-28T13:25:28+02:00
 weight: 10
 slug: data-backup
 description: >

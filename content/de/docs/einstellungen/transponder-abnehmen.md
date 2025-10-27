@@ -1,7 +1,6 @@
 ---
 title: Transponder abnehmen
 linkTitle: Transponder abnehmen
-date: 2023-07-28T13:25:28+02:00
 weight: 75
 slug: transponder-abnehmen
 description: >

@@ -1,7 +1,6 @@
 ---
 title: "Σύνδεση τρανσπόντερ"
 linkTitle: "Σύνδεση τρανσπόντερ"
-date: 2023-07-28T13:25:28+02:00
 weight: 70
 slug: transponder-linkage
 description: >

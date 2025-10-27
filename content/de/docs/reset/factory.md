@@ -1,7 +1,6 @@
 ---
 title: "VitalControl-Gerät auf Werkseinstellungen zurücksetzen"
-linkTitle: "Werkseinstellungen"
-slug: "werkseinstellungen"
+linkTitle: Werkseinstellungen
 date: 2023-08-01T16:44:25+02:00
 draft: false
 description: >

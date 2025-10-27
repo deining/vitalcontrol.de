@@ -1,7 +1,6 @@
 ---
 title: "Datahantering"
 linkTitle: "Datahantering"
-date: 2023-07-28T13:25:28+02:00
 weight: 10
 slug: data-management
 description: >
