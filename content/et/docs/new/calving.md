@@ -25,7 +25,7 @@ Vasika registreerimiseks toimige järgmiselt:
 
 5. Seadistuste `{{<T "TypeAnimal" >}}`,`{{<T "Sex" >}}` ,`{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` ja `{{<T "CalvingEase" >}}` jaoks kasutage nooleklahve ◁ ▷, et valida soovitud seadistus.
 
-6. Seadistuste `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` ja `{{<T "DateBirth" >}}` jaoks kasutage nooleklahve △ ▽, et valida soovitud seadistuse valik ja kinnitage `{{<T "Ok" >}}`-ga. Kasutage nooleklahve △ ▽◁ ▷, et valida soovitud numbrid. Lõpuks kinnitage `{{<T "Ok" >}}`-ga.
+6. Seadistuste `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` ja `{{<T "DateBirth" >}}` jaoks kasutage nooleklahve △ ▽, et valida soovitud seadistuse valik ja kinnitage `{{<T "Ok" >}}`-ga. Kasutage nooleklahve △ ▽◁ ▷, et valida soovitud numbrid. Lõpuks kinnitage `{{<T "Ok" >}}`-ga.
 
 7. Salvestage seadistused ja looge uus loom klahviga `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
 

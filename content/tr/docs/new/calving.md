@@ -25,7 +25,7 @@ Bir buzağılama kaydetmek için şu adımları izleyin:
 
 5. `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` ve `{{<T "CalvingEase" >}}` ayarları için, istenen ayarı seçmek için ok tuşlarını ◁ ▷ kullanın.
 
-6. `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` ve `{{<T "DateBirth" >}}` ayarları için, istenen ayar seçeneğini seçmek için ok tuşlarını △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın. İstenen numaraları seçmek için ok tuşlarını △ ▽◁ ▷ kullanın. Son olarak, `{{<T "Ok" >}}` ile onaylayın.
+6. `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` ve `{{<T "DateBirth" >}}` ayarları için, istenen ayar seçeneğini seçmek için ok tuşlarını △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın. İstenen numaraları seçmek için ok tuşlarını △ ▽◁ ▷ kullanın. Son olarak, `{{<T "Ok" >}}` ile onaylayın.
 
 7. Ayarları kaydedin ve yeni hayvanı `F3` tuşu &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Kaydet ve çık" />&nbsp; ile oluşturun.
 

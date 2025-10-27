@@ -38,7 +38,7 @@ Hayvan verilerini değiştirmek için şu adımları izleyin:
 
 5. `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` ve `{{<T "CalvingEase" >}}` verileri için istenilen değişikliği yapmak için ok tuşlarını ◁ ▷ kullanın.
 
-6. `{{<T "ID" >}}` ve `{{<T "DateBirth" >}}` verileri için, ok tuşları △ ▽ ile seçin ve `{{<T "Ok" >}}` ile onaylayın. İlgili numarayı seçmek için ok tuşlarını △ ▽ ve numara alanları içinde gezinmek için ok tuşlarını ◁ ▷ kullanın.
+6. `{{<T "_ID" >}}` ve `{{<T "DateBirth" >}}` verileri için, ok tuşları △ ▽ ile seçin ve `{{<T "Ok" >}}` ile onaylayın. İlgili numarayı seçmek için ok tuşlarını △ ▽ ve numara alanları içinde gezinmek için ok tuşlarını ◁ ▷ kullanın.
 
 7. Değişikliği `F3` tuşu ile kaydedin.
 

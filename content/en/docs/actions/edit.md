@@ -38,7 +38,7 @@ To change the animal data, proceed as follows:
 
 5. For the data `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` and `{{<T "CalvingEase" >}}` use the arrow keys ◁ ▷ to make the desired change.
 
-6. For the data `{{<T "ID" >}}` and `{{<T "DateBirth" >}}` select them with the arrow keys △ ▽ and confirm with `{{<T "Ok" >}}`. Use the arrow keys △ ▽ to select the corresponding number and the arrow keys ◁ ▷ to navigate within the number fields.
+6. For the data `{{<T "_ID" >}}` and `{{<T "DateBirth" >}}` select them with the arrow keys △ ▽ and confirm with `{{<T "Ok" >}}`. Use the arrow keys △ ▽ to select the corresponding number and the arrow keys ◁ ▷ to navigate within the number fields.
 
 7. Save the change with the `F3` key.
 

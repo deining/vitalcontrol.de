@@ -25,7 +25,7 @@ For at registrere en kælvning, gør følgende:
 
 5. For indstillingerne `{{<T "TypeAnimal" >}}`,`{{<T "Sex" >}}` ,`{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` og `{{<T "CalvingEase" >}}`, brug piletasterne ◁ ▷ til at vælge den ønskede indstilling.
 
-6. For indstillingerne `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` og `{{<T "DateBirth" >}}` brug piletasterne △ ▽ til at vælge den ønskede indstillingsmulighed og bekræft med `{{<T "Ok" >}}`. Brug piletasterne △ ▽◁ ▷ til at vælge de ønskede numre. Til sidst bekræft med `{{<T "Ok" >}}`.
+6. For indstillingerne `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` og `{{<T "DateBirth" >}}` brug piletasterne △ ▽ til at vælge den ønskede indstillingsmulighed og bekræft med `{{<T "Ok" >}}`. Brug piletasterne △ ▽◁ ▷ til at vælge de ønskede numre. Til sidst bekræft med `{{<T "Ok" >}}`.
 
 7. Gem indstillingerne og opret det nye dyr med `F3` tasten &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 

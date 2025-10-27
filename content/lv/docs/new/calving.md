@@ -25,7 +25,7 @@ Lai reģistrētu telesošanu, rīkojieties šādi:
 
 5. Iestatījumiem `{{<T "TypeAnimal" >}}`,`{{<T "Sex" >}}` ,`{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` un `{{<T "CalvingEase" >}}`, izmantojiet bulttaustiņus ◁ ▷, lai izvēlētos vēlamo iestatījumu.
 
-6. Iestatījumiem `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` un `{{<T "DateBirth" >}}` izmantojiet bulttaustiņus △ ▽, lai izvēlētos vēlamo iestatījuma opciju un apstipriniet ar `{{<T "Ok" >}}`. Izmantojiet bulttaustiņus △ ▽◁ ▷, lai izvēlētos vēlamo numuru. Visbeidzot, apstipriniet ar `{{<T "Ok" >}}`.
+6. Iestatījumiem `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` un `{{<T "DateBirth" >}}` izmantojiet bulttaustiņus △ ▽, lai izvēlētos vēlamo iestatījuma opciju un apstipriniet ar `{{<T "Ok" >}}`. Izmantojiet bulttaustiņus △ ▽◁ ▷, lai izvēlētos vēlamo numuru. Visbeidzot, apstipriniet ar `{{<T "Ok" >}}`.
 
 7. Saglabājiet iestatījumus un izveidojiet jaunu dzīvnieku ar taustiņu `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Saglabāt un atgriezties" />&nbsp;.
 

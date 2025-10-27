@@ -25,7 +25,7 @@ För att registrera en kalvning, gör följande:
 
 5. För inställningarna `{{<T "TypeAnimal" >}}`,`{{<T "Sex" >}}` ,`{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` och `{{<T "CalvingEase" >}}`, använd piltangenterna ◁ ▷ för att välja önskad inställning.
 
-6. För inställningarna `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` och `{{<T "DateBirth" >}}` använd piltangenterna △ ▽ för att välja önskat inställningsalternativ och bekräfta med `{{<T "Ok" >}}`. Använd piltangenterna △ ▽◁ ▷ för att välja önskade siffror. Slutligen, bekräfta med `{{<T "Ok" >}}`.
+6. För inställningarna `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` och `{{<T "DateBirth" >}}` använd piltangenterna △ ▽ för att välja önskat inställningsalternativ och bekräfta med `{{<T "Ok" >}}`. Använd piltangenterna △ ▽◁ ▷ för att välja önskade siffror. Slutligen, bekräfta med `{{<T "Ok" >}}`.
 
 7. Spara inställningarna och skapa det nya djuret med `F3`-tangenten &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 

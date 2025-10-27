@@ -25,7 +25,7 @@ For å opprette et nytt dyr, gjør følgende:
 
 5. For innstillingene `{{<T "TypeAnimal" >}}`,`{{<T "Sex" >}}` ,`{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` og `{{<T "CalvingEase" >}}`, bruk piltastene ◁ ▷ for å velge ønsket innstilling.
 
-6. For innstillingene `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` og `{{<T "DateBirth" >}}` bruk piltastene △ ▽ for å velge ønsket innstillingsalternativ og bekreft med `{{<T "Ok" >}}`. Bruk piltastene △ ▽◁ ▷ for å velge ønskede tall. Til slutt, bekreft med `{{<T "Ok" >}}`.
+6. For innstillingene `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` og `{{<T "DateBirth" >}}` bruk piltastene △ ▽ for å velge ønsket innstillingsalternativ og bekreft med `{{<T "Ok" >}}`. Bruk piltastene △ ▽◁ ▷ for å velge ønskede tall. Til slutt, bekreft med `{{<T "Ok" >}}`.
 
 7. Lagre innstillingene og opprett det nye dyret med `F3`-tasten &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Lagre og gå tilbake" />&nbsp;.
 

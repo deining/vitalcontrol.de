@@ -25,7 +25,7 @@ Para crear un nuevo animal, proceda de la siguiente manera:
 
 5. Para las configuraciones `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` y `{{<T "CalvingEase" >}}`, use las teclas de flecha ◁ ▷ para seleccionar la configuración deseada.
 
-6. Para las configuraciones `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` y `{{<T "DateBirth" >}}` use las teclas de flecha △ ▽ para seleccionar la opción de configuración deseada y confirme con `{{<T "Ok" >}}`. Utilice las teclas de flecha △ ▽◁ ▷ para seleccionar los números deseados. Finalmente, confirme con `{{<T "Ok" >}}`.
+6. Para las configuraciones `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` y `{{<T "DateBirth" >}}` use las teclas de flecha △ ▽ para seleccionar la opción de configuración deseada y confirme con `{{<T "Ok" >}}`. Utilice las teclas de flecha △ ▽◁ ▷ para seleccionar los números deseados. Finalmente, confirme con `{{<T "Ok" >}}`.
 
 7. Guarde las configuraciones y cree el nuevo animal con la tecla `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y volver" />&nbsp;.
 

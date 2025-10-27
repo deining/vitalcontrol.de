@@ -25,7 +25,7 @@ To create a new animal, proceed as follows:
 
 5. For the settings `{{<T "TypeAnimal" >}}`,`{{<T "Sex" >}}` ,`{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` and `{{<T "CalvingEase" >}}`, use the arrow keys ◁ ▷ to select the desired setting.
 
-6. For the settings `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` and `{{<T "DateBirth" >}}` use the arrow keys △ ▽ to select the desired setting option and confirm with `{{<T "Ok" >}}`. Use the arrow keys △ ▽◁ ▷ to select the desired numbers. Finally, confirm with `{{<T "Ok" >}}`.
+6. For the settings `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` and `{{<T "DateBirth" >}}` use the arrow keys △ ▽ to select the desired setting option and confirm with `{{<T "Ok" >}}`. Use the arrow keys △ ▽◁ ▷ to select the desired numbers. Finally, confirm with `{{<T "Ok" >}}`.
 
 7. Save the settings and create the new animal with the `F3` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 

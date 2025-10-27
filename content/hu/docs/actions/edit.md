@@ -38,7 +38,7 @@ Az állatadatok módosításához kövesse az alábbi lépéseket:
 
 5. Az `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` és `{{<T "CalvingEase" >}}` adatok esetében használja a ◁ ▷ nyílgombokat a kívánt módosítás elvégzéséhez.
 
-6. Az `{{<T "ID" >}}` és `{{<T "DateBirth" >}}` adatok esetében válassza ki őket a △ ▽ nyílgombokkal, és erősítse meg az `{{<T "Ok" >}}` gombbal. Használja a △ ▽ nyílgombokat a megfelelő szám kiválasztásához, és a ◁ ▷ nyílgombokat a számmezőkön belüli navigáláshoz.
+6. Az `{{<T "_ID" >}}` és `{{<T "DateBirth" >}}` adatok esetében válassza ki őket a △ ▽ nyílgombokkal, és erősítse meg az `{{<T "Ok" >}}` gombbal. Használja a △ ▽ nyílgombokat a megfelelő szám kiválasztásához, és a ◁ ▷ nyílgombokat a számmezőkön belüli navigáláshoz.
 
 7. Mentse a módosítást az `F3` gombbal.
 

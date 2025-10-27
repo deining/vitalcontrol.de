@@ -25,7 +25,7 @@ translationKey: new/animal
 
 5. Az `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` és `{{<T "CalvingEase" >}}` beállításokhoz használja a ◁ ▷ nyílgombokat a kívánt beállítás kiválasztásához.
 
-6. A `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` és `{{<T "DateBirth" >}}` beállításokhoz használja a △ ▽ nyílgombokat a kívánt beállítási lehetőség kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal. Használja a △ ▽◁ ▷ nyílgombokat a kívánt számok kiválasztásához. Végül erősítse meg az `{{<T "Ok" >}}` gombbal.
+6. A `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` és `{{<T "DateBirth" >}}` beállításokhoz használja a △ ▽ nyílgombokat a kívánt beállítási lehetőség kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal. Használja a △ ▽◁ ▷ nyílgombokat a kívánt számok kiválasztásához. Végül erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 7. Mentse el a beállításokat és hozza létre az új állatot az `F3` gombbal &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
 

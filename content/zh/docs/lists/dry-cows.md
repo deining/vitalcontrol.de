@@ -50,7 +50,7 @@ translationKey: lists/dry-cows
 
 5. 現在掃描小牛的晶片，或者如果小牛尚未有晶片，則按 `F3` 鍵 `ESC` 跳過此步驟。您可以稍後使用動作 &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Link transponder" /> [`{{<T "LinkTransponder" >}}`](../../actions/link-transponder) 將其分配給動物。
 
-6. 另一個設定選單會打開，您可以在其中保存有關新小牛的各種詳細資訊。使用方向鍵 △ ▽ 選擇適當的設定選項。對於設定選項 `{{<T "TypeAnimal" >}}`、`{{<T "Sex" >}}`、`{{<T "BirthWeight" >}}`、`{{<T "Breed" >}}`、`{{<T "Whereabouts" >}}`、`{{<T "Multiples" >}}` 和 `{{<T "CalvingEase" >}}`，使用方向鍵 △ ▽ 選擇所需的設定。對於設定選項 `{{<T "NationalAnimalID" >}}`、`{{<T "ID" >}}` 和 `{{<T "DateBirth" >}}`，選擇相應的設定選項並按 `{{<T "Ok" >}}` 確認。現在使用方向鍵 △ ▽ ◁ ▷ 選擇所需的數字。
+6. 另一個設定選單會打開，您可以在其中保存有關新小牛的各種詳細資訊。使用方向鍵 △ ▽ 選擇適當的設定選項。對於設定選項 `{{<T "TypeAnimal" >}}`、`{{<T "Sex" >}}`、`{{<T "BirthWeight" >}}`、`{{<T "Breed" >}}`、`{{<T "Whereabouts" >}}`、`{{<T "Multiples" >}}` 和 `{{<T "CalvingEase" >}}`，使用方向鍵 △ ▽ 選擇所需的設定。對於設定選項 `{{<T "NationalAnimalID" >}}`、`{{<T "_ID" >}}` 和 `{{<T "DateBirth" >}}`，選擇相應的設定選項並按 `{{<T "Ok" >}}` 確認。現在使用方向鍵 △ ▽ ◁ ▷ 選擇所需的數字。
 
 7. 使用 `F3` 鍵 &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp; 保存設定。
 

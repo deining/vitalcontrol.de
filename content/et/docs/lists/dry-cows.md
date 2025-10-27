@@ -50,7 +50,7 @@ Mõned toimingud tuleb teostada samamoodi nagu [häireloendis](../alarm). Neid s
 
 5. Skaneerige nüüd vasika transponder või jätke see samm vahele klahviga `F3` `ESC`, kui vasikal ei ole veel transponderit. Hiljem saate selle loomale määrata tegevusega &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Link transponder" /> [`{{<T "LinkTransponder" >}}`](../../actions/link-transponder).
 
-6. Avaneb veel üks seadete menüü, kus saate salvestada erinevaid andmeid uue vasika kohta. Kasutage soovitud seade valimiseks nooleklahve △ ▽. Seadete valikute `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` ja `{{<T "CalvingEase" >}}` puhul kasutage soovitud seade valimiseks nooleklahve △ ▽. Seadete valikute `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` ja `{{<T "DateBirth" >}}` puhul valige vastav seade ja kinnitage nupuga `{{<T "Ok" >}}`. Nüüd kasutage soovitud numbrite valimiseks nooleklahve △ ▽ ◁ ▷.
+6. Avaneb veel üks seadete menüü, kus saate salvestada erinevaid andmeid uue vasika kohta. Kasutage soovitud seade valimiseks nooleklahve △ ▽. Seadete valikute `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` ja `{{<T "CalvingEase" >}}` puhul kasutage soovitud seade valimiseks nooleklahve △ ▽. Seadete valikute `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` ja `{{<T "DateBirth" >}}` puhul valige vastav seade ja kinnitage nupuga `{{<T "Ok" >}}`. Nüüd kasutage soovitud numbrite valimiseks nooleklahve △ ▽ ◁ ▷.
 
 7. Salvestage seaded klahviga `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
 

@@ -38,7 +38,7 @@ For at ændre dyredata, skal du gøre følgende:
 
 5. For dataene `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` og `{{<T "CalvingEase" >}}` brug piletasterne ◁ ▷ til at foretage den ønskede ændring.
 
-6. For dataene `{{<T "ID" >}}` og `{{<T "DateBirth" >}}` vælg dem med piletasterne △ ▽ og bekræft med `{{<T "Ok" >}}`. Brug piletasterne △ ▽ til at vælge det tilsvarende nummer og piletasterne ◁ ▷ til at navigere inden for nummerfelterne.
+6. For dataene `{{<T "_ID" >}}` og `{{<T "DateBirth" >}}` vælg dem med piletasterne △ ▽ og bekræft med `{{<T "Ok" >}}`. Brug piletasterne △ ▽ til at vælge det tilsvarende nummer og piletasterne ◁ ▷ til at navigere inden for nummerfelterne.
 
 
 7. Gem ændringen med `F3`-tasten.

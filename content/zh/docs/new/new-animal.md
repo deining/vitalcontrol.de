@@ -25,7 +25,7 @@ translationKey: new/animal
 
 5. 對於設置 `{{<T "TypeAnimal" >}}`，`{{<T "Sex" >}}` ，`{{<T "BirthWeight" >}}`，`{{<T "Breed" >}}`，`{{<T "Whereabouts" >}}`，`{{<T "Multiples" >}}` 和 `{{<T "CalvingEase" >}}`，使用箭頭鍵 ◁ ▷ 選擇所需的設置。
 
-6. 對於設置 `{{<T "NationalAnimalID" >}}`，`{{<T "ID" >}}` 和 `{{<T "DateBirth" >}}` 使用箭頭鍵 △ ▽ 選擇所需的設置選項並確認 `{{<T "Ok" >}}`。使用箭頭鍵 △ ▽◁ ▷ 選擇所需的數字。最後，確認 `{{<T "Ok" >}}`。
+6. 對於設置 `{{<T "NationalAnimalID" >}}`，`{{<T "_ID" >}}` 和 `{{<T "DateBirth" >}}` 使用箭頭鍵 △ ▽ 選擇所需的設置選項並確認 `{{<T "Ok" >}}`。使用箭頭鍵 △ ▽◁ ▷ 選擇所需的數字。最後，確認 `{{<T "Ok" >}}`。
 
 7. 使用 `F3` 鍵 &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp; 保存設置並創建新動物。
 

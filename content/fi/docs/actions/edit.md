@@ -38,7 +38,7 @@ Eläintietojen muuttamiseksi toimi seuraavasti:
 
 5. Tiedoille `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` ja `{{<T "CalvingEase" >}}` käytä nuolinäppäimiä ◁ ▷ tehdäksesi haluamasi muutoksen.
 
-6. Tiedoille `{{<T "ID" >}}` ja `{{<T "DateBirth" >}}` valitse ne nuolinäppäimillä △ ▽ ja vahvista `{{<T "Ok" >}}`:lla. Käytä nuolinäppäimiä △ ▽ valitaksesi vastaavan numeron ja nuolinäppäimiä ◁ ▷ navigoidaksesi numerokentissä.
+6. Tiedoille `{{<T "_ID" >}}` ja `{{<T "DateBirth" >}}` valitse ne nuolinäppäimillä △ ▽ ja vahvista `{{<T "Ok" >}}`:lla. Käytä nuolinäppäimiä △ ▽ valitaksesi vastaavan numeron ja nuolinäppäimiä ◁ ▷ navigoidaksesi numerokentissä.
 
 7. Tallenna muutos `F3`-näppäimellä.
 

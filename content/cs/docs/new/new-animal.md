@@ -25,7 +25,7 @@ Pro vytvoření nového zvířete postupujte následovně:
 
 5. Pro nastavení `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` a `{{<T "CalvingEase" >}}` použijte šipky ◁ ▷ k výběru požadovaného nastavení.
 
-6. Pro nastavení `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` a `{{<T "DateBirth" >}}` použijte šipky △ ▽ k výběru požadované možnosti nastavení a potvrďte tlačítkem `{{<T "Ok" >}}`. Pomocí šipek △ ▽◁ ▷ vyberte požadovaná čísla. Nakonec potvrďte tlačítkem `{{<T "Ok" >}}`.
+6. Pro nastavení `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` a `{{<T "DateBirth" >}}` použijte šipky △ ▽ k výběru požadované možnosti nastavení a potvrďte tlačítkem `{{<T "Ok" >}}`. Pomocí šipek △ ▽◁ ▷ vyberte požadovaná čísla. Nakonec potvrďte tlačítkem `{{<T "Ok" >}}`.
 
 7. Uložte nastavení a vytvořte nové zvíře pomocí klávesy `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
 

@@ -25,7 +25,7 @@ Za ustvarjanje nove živali sledite naslednjim korakom:
 
 5. Za nastavitve `{{<T "TypeAnimal" >}}`,`{{<T "Sex" >}}` ,`{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` in `{{<T "CalvingEase" >}}`, uporabite puščične tipke ◁ ▷ za izbiro želene nastavitve.
 
-6. Za nastavitve `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` in `{{<T "DateBirth" >}}` uporabite puščične tipke △ ▽ za izbiro želene nastavitvene možnosti in potrdite z `{{<T "Ok" >}}`. Uporabite puščične tipke △ ▽◁ ▷ za izbiro želenih številk. Na koncu potrdite z `{{<T "Ok" >}}`.
+6. Za nastavitve `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` in `{{<T "DateBirth" >}}` uporabite puščične tipke △ ▽ za izbiro želene nastavitvene možnosti in potrdite z `{{<T "Ok" >}}`. Uporabite puščične tipke △ ▽◁ ▷ za izbiro želenih številk. Na koncu potrdite z `{{<T "Ok" >}}`.
 
 7. Shranite nastavitve in ustvarite novo žival s tipko `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Shrani in se vrni" />&nbsp;.
 

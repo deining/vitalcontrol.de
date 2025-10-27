@@ -25,7 +25,7 @@ Yeni bir hayvan oluşturmak için şu adımları izleyin:
 
 5. `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` ve `{{<T "CalvingEase" >}}` ayarları için istenilen ayarı seçmek için ok tuşlarını ◁ ▷ kullanın.
 
-6. `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` ve `{{<T "DateBirth" >}}` ayarları için istenilen ayar seçeneğini seçmek için ok tuşlarını △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın. İstenilen numaraları seçmek için ok tuşlarını △ ▽◁ ▷ kullanın. Son olarak, `{{<T "Ok" >}}` ile onaylayın.
+6. `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` ve `{{<T "DateBirth" >}}` ayarları için istenilen ayar seçeneğini seçmek için ok tuşlarını △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın. İstenilen numaraları seçmek için ok tuşlarını △ ▽◁ ▷ kullanın. Son olarak, `{{<T "Ok" >}}` ile onaylayın.
 
 7. Ayarları kaydedin ve `F3` tuşu ile yeni hayvanı oluşturun &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Kaydet ve geri dön" />&nbsp;.
 

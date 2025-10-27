@@ -25,7 +25,7 @@ Za registracijo telitve sledite naslednjim korakom:
 
 5. Za nastavitve `{{<T "TypeAnimal" >}}`,`{{<T "Sex" >}}` ,`{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` in `{{<T "CalvingEase" >}}`, uporabite puščice ◁ ▷ za izbiro želene nastavitve.
 
-6. Za nastavitve `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` in `{{<T "DateBirth" >}}` uporabite puščice △ ▽ za izbiro želene nastavitvene možnosti in potrdite z `{{<T "Ok" >}}`. Uporabite puščice △ ▽◁ ▷ za izbiro želenih številk. Na koncu potrdite z `{{<T "Ok" >}}`.
+6. Za nastavitve `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` in `{{<T "DateBirth" >}}` uporabite puščice △ ▽ za izbiro želene nastavitvene možnosti in potrdite z `{{<T "Ok" >}}`. Uporabite puščice △ ▽◁ ▷ za izbiro želenih številk. Na koncu potrdite z `{{<T "Ok" >}}`.
 
 7. Shranite nastavitve in ustvarite novo žival s tipko `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 

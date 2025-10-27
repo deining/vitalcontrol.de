@@ -25,7 +25,7 @@ Vasikan rekisteröimiseksi toimi seuraavasti:
 
 5. Asetuksille `{{<T "TypeAnimal" >}}`,`{{<T "Sex" >}}` ,`{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` ja `{{<T "CalvingEase" >}}`, käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi asetuksen.
 
-6. Asetuksille `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` ja `{{<T "DateBirth" >}}` käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi asetusvaihtoehdon ja vahvista painamalla `{{<T "Ok" >}}`. Käytä nuolinäppäimiä △ ▽◁ ▷ valitaksesi haluamasi numerot. Lopuksi vahvista painamalla `{{<T "Ok" >}}`.
+6. Asetuksille `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` ja `{{<T "DateBirth" >}}` käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi asetusvaihtoehdon ja vahvista painamalla `{{<T "Ok" >}}`. Käytä nuolinäppäimiä △ ▽◁ ▷ valitaksesi haluamasi numerot. Lopuksi vahvista painamalla `{{<T "Ok" >}}`.
 
 7. Tallenna asetukset ja luo uusi eläin `F3`-näppäimellä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
 

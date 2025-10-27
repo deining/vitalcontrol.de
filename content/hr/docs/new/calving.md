@@ -25,7 +25,7 @@ Za registraciju teljenja, postupite na sljedeći način:
 
 5. Za postavke `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` i `{{<T "CalvingEase" >}}`, koristite tipke sa strelicama ◁ ▷ za odabir željene postavke.
 
-6. Za postavke `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` i `{{<T "DateBirth" >}}` koristite tipke sa strelicama △ ▽ za odabir željene opcije postavki i potvrdite s `{{<T "Ok" >}}`. Koristite tipke sa strelicama △ ▽◁ ▷ za odabir željenih brojeva. Na kraju, potvrdite s `{{<T "Ok" >}}`.
+6. Za postavke `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` i `{{<T "DateBirth" >}}` koristite tipke sa strelicama △ ▽ za odabir željene opcije postavki i potvrdite s `{{<T "Ok" >}}`. Koristite tipke sa strelicama △ ▽◁ ▷ za odabir željenih brojeva. Na kraju, potvrdite s `{{<T "Ok" >}}`.
 
 7. Spremite postavke i kreirajte novu životinju s tipkom `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 

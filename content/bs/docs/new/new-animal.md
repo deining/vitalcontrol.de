@@ -25,7 +25,7 @@ Da biste kreirali novu životinju, postupite na sledeći način:
 
 5. Za podešavanja `{{<T "TypeAnimal" >}}`,`{{<T "Sex" >}}` ,`{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` i `{{<T "CalvingEase" >}}`, koristite tastere sa strelicama ◁ ▷ da odaberete željeno podešavanje.
 
-6. Za podešavanja `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` i `{{<T "DateBirth" >}}` koristite tastere sa strelicama △ ▽ da odaberete željenu opciju podešavanja i potvrdite sa `{{<T "Ok" >}}`. Koristite tastere sa strelicama △ ▽◁ ▷ da odaberete željene brojeve. Na kraju, potvrdite sa `{{<T "Ok" >}}`.
+6. Za podešavanja `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` i `{{<T "DateBirth" >}}` koristite tastere sa strelicama △ ▽ da odaberete željenu opciju podešavanja i potvrdite sa `{{<T "Ok" >}}`. Koristite tastere sa strelicama △ ▽◁ ▷ da odaberete željene brojeve. Na kraju, potvrdite sa `{{<T "Ok" >}}`.
 
 7. Sačuvajte podešavanja i kreirajte novu životinju sa tasterom `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Sačuvaj i vrati se" />&nbsp;.
 

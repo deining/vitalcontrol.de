@@ -25,7 +25,7 @@ Aby zarejestrować wycielenie, postępuj w następujący sposób:
 
 5. Dla ustawień `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` i `{{<T "CalvingEase" >}}`, użyj klawiszy strzałek ◁ ▷, aby wybrać żądane ustawienie.
 
-6. Dla ustawień `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` i `{{<T "DateBirth" >}}` użyj klawiszy strzałek △ ▽, aby wybrać żądaną opcję ustawień i potwierdź przyciskiem `{{<T "Ok" >}}`. Użyj klawiszy strzałek △ ▽◁ ▷, aby wybrać żądane liczby. Na koniec potwierdź przyciskiem `{{<T "Ok" >}}`.
+6. Dla ustawień `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` i `{{<T "DateBirth" >}}` użyj klawiszy strzałek △ ▽, aby wybrać żądaną opcję ustawień i potwierdź przyciskiem `{{<T "Ok" >}}`. Użyj klawiszy strzałek △ ▽◁ ▷, aby wybrać żądane liczby. Na koniec potwierdź przyciskiem `{{<T "Ok" >}}`.
 
 7. Zapisz ustawienia i utwórz nowe zwierzę za pomocą klawisza `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Zapisz i wróć" />&nbsp;.
 

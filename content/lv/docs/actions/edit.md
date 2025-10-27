@@ -38,7 +38,7 @@ Lai mainītu dzīvnieka datus, rīkojieties šādi:
 
 5. Datiem `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` un `{{<T "CalvingEase" >}}` izmantojiet bultiņu taustiņus ◁ ▷, lai veiktu vēlamo maiņu.
 
-6. Datiem `{{<T "ID" >}}` un `{{<T "DateBirth" >}}` izvēlieties tos ar bultiņu taustiņiem △ ▽ un apstipriniet ar `{{<T "Ok" >}}`. Izmantojiet bultiņu taustiņus △ ▽, lai izvēlētos atbilstošo numuru, un bultiņu taustiņus ◁ ▷, lai pārvietotos numuru laukos.
+6. Datiem `{{<T "_ID" >}}` un `{{<T "DateBirth" >}}` izvēlieties tos ar bultiņu taustiņiem △ ▽ un apstipriniet ar `{{<T "Ok" >}}`. Izmantojiet bultiņu taustiņus △ ▽, lai izvēlētos atbilstošo numuru, un bultiņu taustiņus ◁ ▷, lai pārvietotos numuru laukos.
 
 7. Saglabājiet izmaiņas ar taustiņu `F3`.
 

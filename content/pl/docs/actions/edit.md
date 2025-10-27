@@ -38,7 +38,7 @@ Aby zmienić dane zwierzęcia, postępuj w następujący sposób:
 
 5. Dla danych `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` i `{{<T "CalvingEase" >}}` użyj klawiszy strzałek ◁ ▷, aby dokonać żądanej zmiany.
 
-6. Dla danych `{{<T "ID" >}}` i `{{<T "DateBirth" >}}` wybierz je za pomocą klawiszy strzałek △ ▽ i potwierdź `{{<T "Ok" >}}`. Użyj klawiszy strzałek △ ▽, aby wybrać odpowiednią liczbę i klawiszy strzałek ◁ ▷, aby nawigować w polach liczbowych.
+6. Dla danych `{{<T "_ID" >}}` i `{{<T "DateBirth" >}}` wybierz je za pomocą klawiszy strzałek △ ▽ i potwierdź `{{<T "Ok" >}}`. Użyj klawiszy strzałek △ ▽, aby wybrać odpowiednią liczbę i klawiszy strzałek ◁ ▷, aby nawigować w polach liczbowych.
 
 7. Zapisz zmianę za pomocą klawisza `F3`.
 

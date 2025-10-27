@@ -38,7 +38,7 @@ Da biste promijenili podatke o životinji, postupite na sljedeći način:
 
 5. Za podatke `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` i `{{<T "CalvingEase" >}}` koristite strelice ◁ ▷ da izvršite željenu promjenu.
 
-6. Za podatke `{{<T "ID" >}}` i `{{<T "DateBirth" >}}` odaberite ih sa strelicama △ ▽ i potvrdite sa `{{<T "Ok" >}}`. Koristite strelice △ ▽ da odaberete odgovarajući broj i strelice ◁ ▷ da se krećete unutar polja za broj.
+6. Za podatke `{{<T "_ID" >}}` i `{{<T "DateBirth" >}}` odaberite ih sa strelicama △ ▽ i potvrdite sa `{{<T "Ok" >}}`. Koristite strelice △ ▽ da odaberete odgovarajući broj i strelice ◁ ▷ da se krećete unutar polja za broj.
 
 7. Sačuvajte promjenu sa `F3` tipkom.
 

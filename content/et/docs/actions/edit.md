@@ -38,7 +38,7 @@ Looma andmete muutmiseks toimi järgmiselt:
 
 5. Andmete `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` ja `{{<T "CalvingEase" >}}` puhul kasuta nooleklahve ◁ ▷ soovitud muudatuse tegemiseks.
 
-6. Andmete `{{<T "ID" >}}` ja `{{<T "DateBirth" >}}` puhul vali need nooleklahvidega △ ▽ ja kinnita `{{<T "Ok" >}}`-ga. Kasuta nooleklahve △ ▽ vastava numbri valimiseks ja nooleklahve ◁ ▷ numbri väljades navigeerimiseks.
+6. Andmete `{{<T "_ID" >}}` ja `{{<T "DateBirth" >}}` puhul vali need nooleklahvidega △ ▽ ja kinnita `{{<T "Ok" >}}`-ga. Kasuta nooleklahve △ ▽ vastava numbri valimiseks ja nooleklahve ◁ ▷ numbri väljades navigeerimiseks.
 
 7. Salvesta muudatus klahviga `F3`.
 

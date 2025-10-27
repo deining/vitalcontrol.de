@@ -25,7 +25,7 @@ Uue looma loomiseks toimi järgnevalt:
 
 5. Seadistuste `{{<T "TypeAnimal" >}}`,`{{<T "Sex" >}}` ,`{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` ja `{{<T "CalvingEase" >}}` jaoks kasuta nooleklahve ◁ ▷, et valida soovitud seadistus.
 
-6. Seadistuste `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` ja `{{<T "DateBirth" >}}` jaoks kasuta nooleklahve △ ▽, et valida soovitud seadistuse variant ja kinnita `{{<T "Ok" >}}`-ga. Kasuta nooleklahve △ ▽◁ ▷, et valida soovitud numbrid. Lõpuks kinnita `{{<T "Ok" >}}`-ga.
+6. Seadistuste `{{<T "NationalAnimalID" >}}`, `{{<T "_ID" >}}` ja `{{<T "DateBirth" >}}` jaoks kasuta nooleklahve △ ▽, et valida soovitud seadistuse variant ja kinnita `{{<T "Ok" >}}`-ga. Kasuta nooleklahve △ ▽◁ ▷, et valida soovitud numbrid. Lõpuks kinnita `{{<T "Ok" >}}`-ga.
 
 7. Salvesta seadistused ja loo uus loom `F3` klahviga &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
 
