@@ -57,87 +57,139 @@ module:
   mounts:
     - source: static/demo
       target: static/en/demo
-      lang: en
+      sites:
+        matrix:
+          languages: en
     - source: static/demo
       target: static/bs/demo
-      lang: bs
+      sites:
+        matrix:
+          languages: bs
     - source: static/demo
       target: static/bg/demo
-      lang: bg
+      sites:
+        matrix:
+          languages: bg
     - source: static/demo
       target: static/cs/demo
-      lang: cs
+      sites:
+        matrix:
+          languages: cs
     - source: static/demo
       target: static/da/demo
-      lang: da
+      sites:
+        matrix:
+          languages: da
     - source: static/demo
       target: static/el/demo
-      lang: el
+      sites:
+        matrix:
+          languages: el
     - source: static/demo
       target: static/es/demo
-      lang: es
+      sites:
+        matrix:
+          languages: es
     - source: static/demo
       target: static/et/demo
-      lang: et
+      sites:
+        matrix:
+          languages: et
     - source: static/demo
       target: static/fi/demo
-      lang: fi
+      sites:
+        matrix:
+          languages: fi
     - source: static/demo
       target: static/fr/demo
-      lang: fr
+      sites:
+        matrix:
+          languages: fr
     - source: static/demo
       target: static/hr/demo
-      lang: hr
+      sites:
+        matrix:
+          languages: hr
     - source: static/demo
       target: static/hu/demo
-      lang: hu
+      sites:
+        matrix:
+          languages: hu
     - source: static/demo
       target: static/it/demo
-      lang: it
+      sites:
+        matrix:
+          languages: it
     - source: static/demo
       target: static/lt/demo
-      lang: lt
+      sites:
+        matrix:
+          languages: lt
     - source: static/demo
       target: static/lv/demo
-      lang: lv
+      sites:
+        matrix:
+          languages: lv
     - source: static/demo
       target: static/nl/demo
-      lang: nl
+      sites:
+        matrix:
+          languages: nl
     - source: static/demo
       target: static/no/demo
-      lang: no
+      sites:
+        matrix:
+          languages: "no"
     - source: static/demo
       target: static/pl/demo
-      lang: pl
+      sites:
+        matrix:
+          languages: pl
     - source: static/demo
       target: static/pt/demo
-      lang: pt
+      sites:
+        matrix:
+          languages: pt
     - source: static/demo
       target: static/ro/demo
-      lang: ro
+      sites:
+        matrix:
+          languages: ro
     - source: static/demo
       target: static/ru/demo
-      lang: ru
+      sites:
+        matrix:
+          languages: ru
     - source: static/demo
       target: static/sl/demo
-      lang: sl
+      sites:
+        matrix:
+          languages: sl
     - source: static/demo
       target: static/sv/demo
-      lang: sv
+      sites:
+        matrix:
+          languages: sv
     - source: static/demo
       target: static/tr/demo
-      lang: tr
+      sites:
+        matrix:
+          languages: tr
     - source: static/demo
       target: static/uk/demo
-      lang: uk
+      sites:
+        matrix:
+          languages: uk
     - source: static/demo
       target: static/zh/demo
-      lang: zh
+      sites:
+        matrix:
+          languages: zh
     - source: static
       target: static
   hugoVersion:
     extended: true
-    min: 0.147.5
+    min: 0.153.0
   imports:
     - path: github.com/google/docsy
       disable: false
