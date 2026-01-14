@@ -14,7 +14,7 @@ aliases: /vc/conf/da
 ---
 ## Krav
 
-Vi anbefaler at bruge en firmwareversion <span style="font-weight: bold">24-xx-xx</span> eller højere med VitalControl-enheden.\
+Vi anbefaler at bruge en firmwareversion <span style="font-weight: bold">25-04-Vxx</span> eller højere med VitalControl-enheden.\
 For at kontrollere hvilken firmwareversion der er installeret på din enhed:
 
 * Naviger til foderautomatens startside ved at klikke på den øverste `Home`-knap <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Hjem skærm ikon" title="Alma Pro: Hjem skærm"/>&nbsp; i navigationslinjen i venstre side af skærmen.
@@ -32,7 +32,7 @@ For at kontrollere hvilken firmwareversion der er installeret på din enhed:
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Opmærksomhed</span><br>
-        Hvis firmwareversionen på din foderautomat er lavere end <span style="font-weight: bold">24-xx-xx</span>, kan der være uoverensstemmelser mellem skærmbillederne nedenfor og visningen på din touchscreen, så du muligvis ikke kan følge instruktionerne. I dette tilfælde skal du kontakte din servicetekniker for at opdatere firmwaren på din foderautomat.<br>
+        Hvis firmwareversionen på din foderautomat er lavere end <span style="font-weight: bold">25-04-Vxx</span>, kan der være uoverensstemmelser mellem skærmbillederne nedenfor og visningen på din touchscreen, så du muligvis ikke kan følge instruktionerne. I dette tilfælde skal du kontakte din servicetekniker for at opdatere firmwaren på din foderautomat.<br>
     </div>
 </div>
 

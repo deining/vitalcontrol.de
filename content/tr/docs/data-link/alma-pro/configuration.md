@@ -14,7 +14,7 @@ aliases: /vc/conf/tr
 ---
 ## Gereksinimler
 
-VitalControl cihazıyla <span style="font-weight: bold">24-xx-xx</span> veya daha yüksek bir ürün yazılımı sürümü kullanmanızı öneririz.\
+VitalControl cihazıyla <span style="font-weight: bold">25-04-Vxx</span> veya daha yüksek bir ürün yazılımı sürümü kullanmanızı öneririz.\
 Cihazınıza hangi ürün yazılımı sürümünün yüklü olduğunu kontrol etmek için:
 
 * Ekranın sol tarafındaki gezinme çubuğunda üstteki `Ana Sayfa` düğmesine <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Ana ekran simgesi" title="Alma Pro: Ana ekran"/>&nbsp; tıklayarak besleyicinin ana sayfasına gidin.
@@ -32,7 +32,7 @@ Cihazınıza hangi ürün yazılımı sürümünün yüklü olduğunu kontrol et
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Dikkat</span><br>
-        Eğer besleyicinizin ürün yazılımı sürümü <span style="font-weight: bold">24-xx-xx</span>'den düşükse, aşağıdaki ekran görüntüleri ile dokunmatik ekranınızdaki görüntü arasında farklılıklar olabilir, bu nedenle talimatları takip edemeyebilirsiniz. Bu durumda, besleyicinizin ürün yazılımını güncellemek için servis teknisyeninize başvurun.<br>
+        Eğer besleyicinizin ürün yazılımı sürümü <span style="font-weight: bold">25-04-Vxx</span>'den düşükse, aşağıdaki ekran görüntüleri ile dokunmatik ekranınızdaki görüntü arasında farklılıklar olabilir, bu nedenle talimatları takip edemeyebilirsiniz. Bu durumda, besleyicinizin ürün yazılımını güncellemek için servis teknisyeninize başvurun.<br>
     </div>
 </div>
 

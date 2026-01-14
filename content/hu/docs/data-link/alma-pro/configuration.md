@@ -14,7 +14,7 @@ aliases: /vc/conf/hu
 ---
 ## Követelmények
 
-Javasoljuk, hogy a VitalControl eszközzel a <span style="font-weight: bold">24-xx-xx</span> vagy magasabb firmware verziót használja.\
+Javasoljuk, hogy a VitalControl eszközzel a <span style="font-weight: bold">25-04-Vxx</span> vagy magasabb firmware verziót használja.\
 A telepített firmware verzió ellenőrzéséhez az eszközön:
 
 * Navigáljon az etető kezdőlapjára a felső `Home` gombra kattintva <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Kezdőképernyő ikon" title="Alma Pro: Kezdőképernyő"/>&nbsp; a képernyő bal oldali navigációs sávjában.
@@ -32,7 +32,7 @@ A telepített firmware verzió ellenőrzéséhez az eszközön:
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Figyelem</span><br>
-        Ha az etető firmware verziója alacsonyabb, mint <span style="font-weight: bold">24-xx-xx</span>, eltérések lehetnek az alábbi képernyőképek és az Ön érintőképernyőjén megjelenő kijelzés között, így előfordulhat, hogy nem tudja követni az utasításokat. Ebben az esetben vegye fel a kapcsolatot a szerviztechnikusával az etető firmware-jének frissítése érdekében.<br>
+        Ha az etető firmware verziója alacsonyabb, mint <span style="font-weight: bold">25-04-Vxx</span>, eltérések lehetnek az alábbi képernyőképek és az Ön érintőképernyőjén megjelenő kijelzés között, így előfordulhat, hogy nem tudja követni az utasításokat. Ebben az esetben vegye fel a kapcsolatot a szerviztechnikusával az etető firmware-jének frissítése érdekében.<br>
     </div>
 </div>
 

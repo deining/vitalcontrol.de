@@ -14,7 +14,7 @@ aliases: /vc/conf/pl
 ---
 ## Wymagania
 
-Zalecamy używanie wersji oprogramowania układowego <span style="font-weight: bold">24-xx-xx</span> lub wyższej z urządzeniem VitalControl.\
+Zalecamy używanie wersji oprogramowania układowego <span style="font-weight: bold">25-04-Vxx</span> lub wyższej z urządzeniem VitalControl.\
 Aby sprawdzić, która wersja oprogramowania układowego jest zainstalowana na Twoim urządzeniu:
 
 * Przejdź do strony głównej podajnika, klikając górny przycisk `Home` <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Ikona ekranu głównego" title="Alma Pro: Ekran główny"/>&nbsp; w pasku nawigacyjnym po lewej stronie ekranu.
@@ -32,7 +32,7 @@ Aby sprawdzić, która wersja oprogramowania układowego jest zainstalowana na T
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Uwaga</span><br>
-        Jeśli wersja oprogramowania układowego Twojego podajnika jest niższa niż <span style="font-weight: bold">24-xx-xx</span>, mogą wystąpić rozbieżności między poniższymi zrzutami ekranu a wyświetlaczem na ekranie dotykowym, co uniemożliwi Ci wykonanie instrukcji. W takim przypadku skontaktuj się z technikiem serwisowym, aby zaktualizować oprogramowanie układowe na Twoim podajniku.<br>
+        Jeśli wersja oprogramowania układowego Twojego podajnika jest niższa niż <span style="font-weight: bold">25-04-Vxx</span>, mogą wystąpić rozbieżności między poniższymi zrzutami ekranu a wyświetlaczem na ekranie dotykowym, co uniemożliwi Ci wykonanie instrukcji. W takim przypadku skontaktuj się z technikiem serwisowym, aby zaktualizować oprogramowanie układowe na Twoim podajniku.<br>
     </div>
 </div>
 

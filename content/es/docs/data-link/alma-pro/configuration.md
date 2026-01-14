@@ -14,7 +14,7 @@ aliases: /vc/conf/es
 ---
 ## Requisitos
 
-Recomendamos usar una versión de firmware <span style="font-weight: bold">24-xx-xx</span> o superior con el dispositivo VitalControl.\
+Recomendamos usar una versión de firmware <span style="font-weight: bold">25-04-Vxx</span> o superior con el dispositivo VitalControl.\
 Para verificar qué versión de firmware está instalada en su dispositivo:
 
 * Navegue a la página de inicio del alimentador haciendo clic en el botón superior `Inicio` <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Icono de pantalla de inicio" title="Alma Pro: Pantalla de inicio"/>&nbsp; en la barra de navegación en el área izquierda de la pantalla.
@@ -32,7 +32,7 @@ Para verificar qué versión de firmware está instalada en su dispositivo:
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Atención</span><br>
-        Si la versión de firmware de su alimentador es inferior a <span style="font-weight: bold">24-xx-xx</span>, puede haber discrepancias entre las capturas de pantalla a continuación y la pantalla en su pantalla táctil, por lo que es posible que no pueda seguir las instrucciones. En este caso, contacte a su técnico de servicio para actualizar el firmware de su alimentador.<br>
+        Si la versión de firmware de su alimentador es inferior a <span style="font-weight: bold">25-04-Vxx</span>, puede haber discrepancias entre las capturas de pantalla a continuación y la pantalla en su pantalla táctil, por lo que es posible que no pueda seguir las instrucciones. En este caso, contacte a su técnico de servicio para actualizar el firmware de su alimentador.<br>
     </div>
 </div>
 

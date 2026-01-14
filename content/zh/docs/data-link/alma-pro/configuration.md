@@ -14,7 +14,7 @@ aliases: /vc/conf/zh
 ---
 ## 要求
 
-我們建議在 VitalControl 設備上使用固件版本 <span style="font-weight: bold">24-xx-xx</span> 或更高版本。\
+我們建議在 VitalControl 設備上使用固件版本 <span style="font-weight: bold">25-04-Vxx</span> 或更高版本。\
 要檢查您的設備上安裝了哪個固件版本：
 
 * 點擊頂部的 `Home` 按鈕 <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="主畫面圖標" title="Alma Pro: 主畫面"/>&nbsp;，導航到餵食器的主頁面，位於螢幕左側區域的導航欄中。
@@ -32,7 +32,7 @@ aliases: /vc/conf/zh
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">注意</span><br>
-        如果您的餵食器固件版本低於 <span style="font-weight: bold">24-xx-xx</span>，則以下截圖與您的觸控螢幕顯示可能會有差異，因此您可能無法按照指示進行操作。在這種情況下，請聯繫您的服務技術人員以更新餵食器上的固件。<br>
+        如果您的餵食器固件版本低於 <span style="font-weight: bold">25-04-Vxx</span>，則以下截圖與您的觸控螢幕顯示可能會有差異，因此您可能無法按照指示進行操作。在這種情況下，請聯繫您的服務技術人員以更新餵食器上的固件。<br>
     </div>
 </div>
 

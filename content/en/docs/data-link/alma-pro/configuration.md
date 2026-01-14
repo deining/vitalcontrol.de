@@ -14,7 +14,7 @@ aliases: /vc/conf/en
 ---
 ## Requirements
 
-We recommend using a firmware version <span style="font-weight: bold">24-xx-xx</span> or higher with the VitalControl device.\
+We recommend using a firmware version <span style="font-weight: bold">25-04-Vxx</span> or higher with the VitalControl device.\
 To check which firmware version is installed on your device:
 
 * Navigate to the feeder's home page by clicking the top `Home` button <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Home screen icon" title="Alma Pro: Home screen"/>&nbsp; in the navigation bar in the left-hand area of ​​the screen.
@@ -32,7 +32,7 @@ To check which firmware version is installed on your device:
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Attention</span><br>
-        If the firmware version of your feeder is lower than <span style="font-weight: bold">24-xx-xx</span>, there may be discrepancies between the screenshots below and the display on your touchscreen, so that you may not be able to follow the instructions. In this case, contact your service technician to update the firmware on your feeder.<br>
+        If the firmware version of your feeder is lower than <span style="font-weight: bold">25-04-Vxx</span>, there may be discrepancies between the screenshots below and the display on your touchscreen, so that you may not be able to follow the instructions. In this case, contact your service technician to update the firmware on your feeder.<br>
     </div>
 </div>
 

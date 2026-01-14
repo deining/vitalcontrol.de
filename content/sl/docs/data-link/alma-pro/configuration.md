@@ -14,7 +14,7 @@ aliases: /vc/conf/sl
 ---
 ## Zahteve
 
-Priporočamo uporabo različice vdelane programske opreme <span style="font-weight: bold">24-xx-xx</span> ali višje z napravo VitalControl.\
+Priporočamo uporabo različice vdelane programske opreme <span style="font-weight: bold">25-04-Vxx</span> ali višje z napravo VitalControl.\
 Za preverjanje, katera različica vdelane programske opreme je nameščena na vaši napravi:
 
 * Pomaknite se na domačo stran podajalnika s klikom na zgornji gumb `Domov` <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Ikona domačega zaslona" title="Alma Pro: Domači zaslon"/>&nbsp; v navigacijski vrstici na levi strani zaslona.
@@ -32,7 +32,7 @@ Za preverjanje, katera različica vdelane programske opreme je nameščena na va
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Pozor</span><br>
-        Če je različica vdelane programske opreme vašega podajalnika nižja od <span style="font-weight: bold">24-xx-xx</span>, lahko pride do neskladij med spodnjimi posnetki zaslona in prikazom na vašem zaslonu na dotik, zato morda ne boste mogli slediti navodilom. V tem primeru se obrnite na svojega servisnega tehnika za posodobitev vdelane programske opreme na vašem podajalniku.<br>
+        Če je različica vdelane programske opreme vašega podajalnika nižja od <span style="font-weight: bold">25-04-Vxx</span>, lahko pride do neskladij med spodnjimi posnetki zaslona in prikazom na vašem zaslonu na dotik, zato morda ne boste mogli slediti navodilom. V tem primeru se obrnite na svojega servisnega tehnika za posodobitev vdelane programske opreme na vašem podajalniku.<br>
     </div>
 </div>
 

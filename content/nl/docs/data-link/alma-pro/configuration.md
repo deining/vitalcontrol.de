@@ -14,7 +14,7 @@ aliases: /vc/conf/nl
 ---
 ## Vereisten
 
-We raden aan om een firmwareversie <span style="font-weight: bold">24-xx-xx</span> of hoger te gebruiken met het VitalControl-apparaat.\
+We raden aan om een firmwareversie <span style="font-weight: bold">25-04-Vxx</span> of hoger te gebruiken met het VitalControl-apparaat.\
 Om te controleren welke firmwareversie op uw apparaat is geïnstalleerd:
 
 * Navigeer naar de startpagina van de voerbak door op de bovenste `Home` knop <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Startscherm icoon" title="Alma Pro: Startscherm"/>&nbsp; in de navigatiebalk aan de linkerkant van het scherm te klikken.
@@ -32,7 +32,7 @@ Om te controleren welke firmwareversie op uw apparaat is geïnstalleerd:
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Let op</span><br>
-        Als de firmwareversie van uw voerbak lager is dan <span style="font-weight: bold">24-xx-xx</span>, kunnen er verschillen zijn tussen de onderstaande screenshots en de weergave op uw touchscreen, waardoor u de instructies mogelijk niet kunt volgen. Neem in dit geval contact op met uw servicetechnicus om de firmware op uw voerbak bij te werken.<br>
+        Als de firmwareversie van uw voerbak lager is dan <span style="font-weight: bold">25-04-Vxx</span>, kunnen er verschillen zijn tussen de onderstaande screenshots en de weergave op uw touchscreen, waardoor u de instructies mogelijk niet kunt volgen. Neem in dit geval contact op met uw servicetechnicus om de firmware op uw voerbak bij te werken.<br>
     </div>
 </div>
 

@@ -14,7 +14,7 @@ aliases: /vc/conf/ro
 ---
 ## Cerințe
 
-Recomandăm utilizarea unei versiuni de firmware <span style="font-weight: bold">24-xx-xx</span> sau mai mare cu dispozitivul VitalControl.\
+Recomandăm utilizarea unei versiuni de firmware <span style="font-weight: bold">25-04-Vxx</span> sau mai mare cu dispozitivul VitalControl.\
 Pentru a verifica ce versiune de firmware este instalată pe dispozitivul dumneavoastră:
 
 * Navigați la pagina principală a distribuitorului făcând clic pe butonul `Home` din partea de sus <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Pictogramă ecran principal" title="Alma Pro: Ecran principal"/>&nbsp; în bara de navigare din zona din stânga a ecranului.
@@ -32,7 +32,7 @@ Pentru a verifica ce versiune de firmware este instalată pe dispozitivul dumnea
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Atenție</span><br>
-        Dacă versiunea de firmware a distribuitorului dumneavoastră este mai mică de <span style="font-weight: bold">24-xx-xx</span>, pot exista discrepanțe între capturile de ecran de mai jos și afișajul de pe ecranul tactil, astfel încât este posibil să nu puteți urma instrucțiunile. În acest caz, contactați tehnicianul de service pentru a actualiza firmware-ul distribuitorului dumneavoastră.<br>
+        Dacă versiunea de firmware a distribuitorului dumneavoastră este mai mică de <span style="font-weight: bold">25-04-Vxx</span>, pot exista discrepanțe între capturile de ecran de mai jos și afișajul de pe ecranul tactil, astfel încât este posibil să nu puteți urma instrucțiunile. În acest caz, contactați tehnicianul de service pentru a actualiza firmware-ul distribuitorului dumneavoastră.<br>
     </div>
 </div>
 

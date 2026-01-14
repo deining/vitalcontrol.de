@@ -14,7 +14,7 @@ aliases: /vc/conf/sv
 ---
 ## Krav
 
-Vi rekommenderar att du använder en firmwareversion <span style="font-weight: bold">24-xx-xx</span> eller högre med VitalControl-enheten.\
+Vi rekommenderar att du använder en firmwareversion <span style="font-weight: bold">25-04-Vxx</span> eller högre med VitalControl-enheten.\
 För att kontrollera vilken firmwareversion som är installerad på din enhet:
 
 * Navigera till matarens startsida genom att klicka på den översta `Hem`-knappen <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Hemskärmsikon" title="Alma Pro: Hemskärm"/>&nbsp; i navigeringsfältet i den vänstra delen av skärmen.
@@ -32,7 +32,7 @@ För att kontrollera vilken firmwareversion som är installerad på din enhet:
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Uppmärksamhet</span><br>
-        Om firmwareversionen på din matare är lägre än <span style="font-weight: bold">24-xx-xx</span>, kan det finnas skillnader mellan skärmdumparna nedan och visningen på din pekskärm, så att du kanske inte kan följa instruktionerna. I detta fall, kontakta din servicetekniker för att uppdatera firmware på din matare.<br>
+        Om firmwareversionen på din matare är lägre än <span style="font-weight: bold">25-04-Vxx</span>, kan det finnas skillnader mellan skärmdumparna nedan och visningen på din pekskärm, så att du kanske inte kan följa instruktionerna. I detta fall, kontakta din servicetekniker för att uppdatera firmware på din matare.<br>
     </div>
 </div>
 

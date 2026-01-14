@@ -14,7 +14,7 @@ aliases: /vc/conf/lt
 ---
 ## Reikalavimai
 
-Rekomenduojame naudoti programinės įrangos versiją <span style="font-weight: bold">24-xx-xx</span> arba naujesnę su VitalControl įrenginiu.\
+Rekomenduojame naudoti programinės įrangos versiją <span style="font-weight: bold">25-04-Vxx</span> arba naujesnę su VitalControl įrenginiu.\
 Norėdami patikrinti, kuri programinės įrangos versija įdiegta jūsų įrenginyje:
 
 * Eikite į šėryklos pagrindinį puslapį spustelėdami viršutinį `Home` mygtuką <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Pagrindinio ekrano piktograma" title="Alma Pro: Pagrindinis ekranas"/>&nbsp; kairėje ekrano pusėje esančioje naršymo juostoje.
@@ -32,7 +32,7 @@ Norėdami patikrinti, kuri programinės įrangos versija įdiegta jūsų įrengi
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Dėmesio</span><br>
-        Jei jūsų šėryklos programinės įrangos versija yra mažesnė nei <span style="font-weight: bold">24-xx-xx</span>, gali būti neatitikimų tarp žemiau pateiktų ekrano nuotraukų ir jūsų jutiklinio ekrano vaizdo, todėl gali nepavykti sekti instrukcijų. Tokiu atveju susisiekite su savo techninės priežiūros specialistu, kad atnaujintumėte šėryklos programinę įrangą.<br>
+        Jei jūsų šėryklos programinės įrangos versija yra mažesnė nei <span style="font-weight: bold">25-04-Vxx</span>, gali būti neatitikimų tarp žemiau pateiktų ekrano nuotraukų ir jūsų jutiklinio ekrano vaizdo, todėl gali nepavykti sekti instrukcijų. Tokiu atveju susisiekite su savo techninės priežiūros specialistu, kad atnaujintumėte šėryklos programinę įrangą.<br>
     </div>
 </div>
 

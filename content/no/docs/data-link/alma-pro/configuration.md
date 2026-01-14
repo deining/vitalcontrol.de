@@ -14,7 +14,7 @@ aliases: /vc/conf/no
 ---
 ## Krav
 
-Vi anbefaler å bruke en firmwareversjon <span style="font-weight: bold">24-xx-xx</span> eller høyere med VitalControl-enheten.\
+Vi anbefaler å bruke en firmwareversjon <span style="font-weight: bold">25-04-Vxx</span> eller høyere med VitalControl-enheten.\
 For å sjekke hvilken firmwareversjon som er installert på enheten din:
 
 * Naviger til materens startside ved å klikke på den øverste `Hjem`-knappen <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Hjem-skjermikon" title="Alma Pro: Hjem-skjerm"/>&nbsp; i navigasjonsfeltet i venstre område av skjermen.
@@ -32,7 +32,7 @@ For å sjekke hvilken firmwareversjon som er installert på enheten din:
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Oppmerksomhet</span><br>
-        Hvis firmwareversjonen på materen din er lavere enn <span style="font-weight: bold">24-xx-xx</span>, kan det være avvik mellom skjermbildene nedenfor og visningen på berøringsskjermen din, slik at du kanskje ikke kan følge instruksjonene. I dette tilfellet, kontakt din servicetekniker for å oppdatere firmwaren på materen din.<br>
+        Hvis firmwareversjonen på materen din er lavere enn <span style="font-weight: bold">25-04-Vxx</span>, kan det være avvik mellom skjermbildene nedenfor og visningen på berøringsskjermen din, slik at du kanskje ikke kan følge instruksjonene. I dette tilfellet, kontakt din servicetekniker for å oppdatere firmwaren på materen din.<br>
     </div>
 </div>
 

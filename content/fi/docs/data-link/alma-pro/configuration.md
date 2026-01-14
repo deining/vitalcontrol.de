@@ -14,7 +14,7 @@ aliases: /vc/conf/fi
 ---
 ## Vaatimukset
 
-Suosittelemme käyttämään laiteohjelmistoversiota <span style="font-weight: bold">24-xx-xx</span> tai uudempaa VitalControl-laitteen kanssa.\
+Suosittelemme käyttämään laiteohjelmistoversiota <span style="font-weight: bold">25-04-Vxx</span> tai uudempaa VitalControl-laitteen kanssa.\
 Tarkista, mikä laiteohjelmistoversio on asennettu laitteeseesi:
 
 * Siirry syöttölaitteen aloitussivulle napsauttamalla yläreunan `Koti`-painiketta <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Koti-ikonin näyttö" title="Alma Pro: Koti-näyttö"/>&nbsp; näytön vasemmanpuoleisessa navigointipalkissa.
@@ -32,7 +32,7 @@ Tarkista, mikä laiteohjelmistoversio on asennettu laitteeseesi:
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Huomio</span><br>
-        Jos syöttölaitteesi laiteohjelmistoversio on alle <span style="font-weight: bold">24-xx-xx</span>, alla olevien kuvakaappausten ja kosketusnäytön näytön välillä voi olla eroja, joten et ehkä pysty seuraamaan ohjeita. Tässä tapauksessa ota yhteyttä huoltoteknikkoosi päivittääksesi syöttölaitteesi laiteohjelmiston.<br>
+        Jos syöttölaitteesi laiteohjelmistoversio on alle <span style="font-weight: bold">25-04-Vxx</span>, alla olevien kuvakaappausten ja kosketusnäytön näytön välillä voi olla eroja, joten et ehkä pysty seuraamaan ohjeita. Tässä tapauksessa ota yhteyttä huoltoteknikkoosi päivittääksesi syöttölaitteesi laiteohjelmiston.<br>
     </div>
 </div>
 

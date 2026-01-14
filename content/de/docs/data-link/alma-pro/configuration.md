@@ -23,11 +23,11 @@ aliases: /vc/conf/de
 
 ## Voraussetzungen
 
-Für den Einsatz des VitalControl-Geräts empfehlen wir eine Firmwareversion <span style="font-weight: bold">24-xx-xx</span> oder höher.\
+Für den Einsatz des VitalControl-Geräts empfehlen wir eine Firmwareversion <span style="font-weight: bold">25-04-Vxx</span> oder höher.\
 So prüfen Sie, welche Firmwareversion auf ihrem Automaten installiert ist:
 
 * Wechseln Sie zur Startseite des Automaten, klicken Sie dazu ggf. auf die oberste `Home`-Schaltfläche <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Icon Startbildschirm" title="Alma Pro: Startbildschirm"/>&nbsp; in der Navigationsleiste im linken Bildschirmbereich.
-* Klicken Sie im Startbildschirm auf die `Hilfe`-Schaltfläche <span style="font-size: 140%">➁</span> <img src="/icons/almapro/questionmark.svg" width="20" align="top" alt="Icon Hilfemenü" title="Alma Pro: Hilfebildscirm"/>&nbsp; im rechten oberen Bildschirmbereich.
+* Klicken Sie im Startbildschirm auf die `Hilfe`-Schaltfläche <span style="font-size: 140%">➁</span> <img src="/icons/almapro/questionmark.svg" width="20" align="top" alt="Icon Hilfemenü" title="Alma Pro: Hilfebildschirm"/>&nbsp; im rechten oberen Bildschirmbereich.
 * Die Versionsnummer <span style="font-size: 140%">➂</span> wird jetzt links neben der Schaltfläche zur Sprachumschaltung angezeigt.
 
 <figure class="figure" style="margin-top: 5px;">
@@ -41,7 +41,7 @@ So prüfen Sie, welche Firmwareversion auf ihrem Automaten installiert ist:
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Achtung</span><br>
-        Bei Firmwareversion niedriger als <span style="font-weight: bold">24-xx-xx</span> können Abweichungen zwischen den unten angegeben Screenshots und der Anzeige auf bei ihrem Touchscreen auftreten, so dass Sie die Anleitung möglicherweise nicht nachvollziehen können. Kontaktieren Sie in diesem Fall ihren Servicetechniker, damit dieser auf ihrem Automaten eine Aktualisierung der Firmware vornimmt.<br>
+        Bei Firmwareversion niedriger als <span style="font-weight: bold">25-04-Vxx</span> können Abweichungen zwischen den unten angegeben Screenshots und der Anzeige auf bei ihrem Touchscreen auftreten, so dass Sie die Anleitung möglicherweise nicht nachvollziehen können. Kontaktieren Sie in diesem Fall ihren Servicetechniker, damit dieser auf ihrem Automaten eine Aktualisierung der Firmware vornimmt.<br>
     </div>
 </div>
 

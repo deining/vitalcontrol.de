@@ -14,7 +14,7 @@ aliases: /vc/conf/bs
 ---
 ## Zahtjevi
 
-Preporučujemo korištenje verzije firmvera <span style="font-weight: bold">24-xx-xx</span> ili novije s uređajem VitalControl.\
+Preporučujemo korištenje verzije firmvera <span style="font-weight: bold">25-04-Vxx</span> ili novije s uređajem VitalControl.\
 Da biste provjerili koja je verzija firmvera instalirana na vašem uređaju:
 
 * Idite na početnu stranicu hranilice klikom na gornje dugme `Početna` <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Ikona početnog ekrana" title="Alma Pro: Početni ekran"/>&nbsp; u navigacijskoj traci na lijevoj strani ekrana.
@@ -32,7 +32,7 @@ Da biste provjerili koja je verzija firmvera instalirana na vašem uređaju:
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Pažnja</span><br>
-        Ako je verzija firmvera vaše hranilice niža od <span style="font-weight: bold">24-xx-xx</span>, mogu postojati razlike između snimaka ekrana ispod i prikaza na vašem ekranu osjetljivom na dodir, tako da možda nećete moći slijediti upute. U tom slučaju, kontaktirajte svog servisnog tehničara da ažurira firmver na vašoj hranilici.<br>
+        Ako je verzija firmvera vaše hranilice niža od <span style="font-weight: bold">25-04-Vxx</span>, mogu postojati razlike između snimaka ekrana ispod i prikaza na vašem ekranu osjetljivom na dodir, tako da možda nećete moći slijediti upute. U tom slučaju, kontaktirajte svog servisnog tehničara da ažurira firmver na vašoj hranilici.<br>
     </div>
 </div>
 

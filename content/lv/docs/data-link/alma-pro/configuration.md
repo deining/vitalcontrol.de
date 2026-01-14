@@ -14,7 +14,7 @@ aliases: /vc/conf/lv
 ---
 ## Prasības
 
-Mēs iesakām izmantot programmaparatūras versiju <span style="font-weight: bold">24-xx-xx</span> vai augstāku ar VitalControl ierīci.\
+Mēs iesakām izmantot programmaparatūras versiju <span style="font-weight: bold">25-04-Vxx</span> vai augstāku ar VitalControl ierīci.\
 Lai pārbaudītu, kura programmaparatūras versija ir instalēta jūsu ierīcē:
 
 * Dodieties uz padevēja sākumlapu, noklikšķinot uz augšējās `Home` pogas <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Sākuma ekrāna ikona" title="Alma Pro: Sākuma ekrāns"/>&nbsp; navigācijas joslā ekrāna kreisajā pusē.
@@ -32,7 +32,7 @@ Lai pārbaudītu, kura programmaparatūras versija ir instalēta jūsu ierīcē:
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Uzmanību</span><br>
-        Ja jūsu padevēja programmaparatūras versija ir zemāka par <span style="font-weight: bold">24-xx-xx</span>, var būt neatbilstības starp zemāk redzamajiem ekrānuzņēmumiem un jūsu skārienekrāna attēlojumu, tādējādi jūs, iespējams, nevarēsiet sekot instrukcijām. Šādā gadījumā sazinieties ar savu servisa tehniķi, lai atjauninātu programmaparatūru jūsu padevējā.<br>
+        Ja jūsu padevēja programmaparatūras versija ir zemāka par <span style="font-weight: bold">25-04-Vxx</span>, var būt neatbilstības starp zemāk redzamajiem ekrānuzņēmumiem un jūsu skārienekrāna attēlojumu, tādējādi jūs, iespējams, nevarēsiet sekot instrukcijām. Šādā gadījumā sazinieties ar savu servisa tehniķi, lai atjauninātu programmaparatūru jūsu padevējā.<br>
     </div>
 </div>
 

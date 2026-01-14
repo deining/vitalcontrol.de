@@ -14,7 +14,7 @@ aliases: /vc/conf/cs
 ---
 ## Požadavky
 
-Doporučujeme používat verzi firmwaru <span style="font-weight: bold">24-xx-xx</span> nebo vyšší se zařízením VitalControl.\
+Doporučujeme používat verzi firmwaru <span style="font-weight: bold">25-04-Vxx</span> nebo vyšší se zařízením VitalControl.\
 Chcete-li zkontrolovat, která verze firmwaru je nainstalována na vašem zařízení:
 
 * Přejděte na domovskou stránku podavače kliknutím na horní tlačítko `Domů` <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Ikona domovské obrazovky" title="Alma Pro: Domovská obrazovka"/>&nbsp; v navigačním panelu v levé části obrazovky.
@@ -32,7 +32,7 @@ Chcete-li zkontrolovat, která verze firmwaru je nainstalována na vašem zaří
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Pozor</span><br>
-        Pokud je verze firmwaru vašeho podavače nižší než <span style="font-weight: bold">24-xx-xx</span>, mohou se vyskytnout nesrovnalosti mezi níže uvedenými snímky obrazovky a zobrazením na vašem dotykovém displeji, takže nemusíte být schopni postupovat podle pokynů. V takovém případě kontaktujte svého servisního technika, aby aktualizoval firmware na vašem podavači.<br>
+        Pokud je verze firmwaru vašeho podavače nižší než <span style="font-weight: bold">25-04-Vxx</span>, mohou se vyskytnout nesrovnalosti mezi níže uvedenými snímky obrazovky a zobrazením na vašem dotykovém displeji, takže nemusíte být schopni postupovat podle pokynů. V takovém případě kontaktujte svého servisního technika, aby aktualizoval firmware na vašem podavači.<br>
     </div>
 </div>
 

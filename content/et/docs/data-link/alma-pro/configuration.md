@@ -14,7 +14,7 @@ aliases: /vc/conf/et
 ---
 ## Nõuded
 
-Soovitame kasutada VitalControl seadmega püsivara versiooni <span style="font-weight: bold">24-xx-xx</span> või uuemat.\
+Soovitame kasutada VitalControl seadmega püsivara versiooni <span style="font-weight: bold">25-04-Vxx</span> või uuemat.\
 Püsivara versiooni kontrollimiseks, mis on teie seadmesse installitud:
 
 * Liikuge sööturi avalehele, klõpsates ülemist `Avaleht` nuppu <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Avalehe ikoon" title="Alma Pro: Avaleht"/>&nbsp; ekraani vasakpoolses navigatsiooniribal.
@@ -32,7 +32,7 @@ Püsivara versiooni kontrollimiseks, mis on teie seadmesse installitud:
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Tähelepanu</span><br>
-        Kui teie sööturi püsivara versioon on madalam kui <span style="font-weight: bold">24-xx-xx</span>, võivad allpool toodud ekraanipildid ja teie puuteekraani kuva erineda, mistõttu ei pruugi te juhiseid järgida. Sellisel juhul võtke ühendust oma teenindustehnikuga, et uuendada sööturi püsivara.<br>
+        Kui teie sööturi püsivara versioon on madalam kui <span style="font-weight: bold">25-04-Vxx</span>, võivad allpool toodud ekraanipildid ja teie puuteekraani kuva erineda, mistõttu ei pruugi te juhiseid järgida. Sellisel juhul võtke ühendust oma teenindustehnikuga, et uuendada sööturi püsivara.<br>
     </div>
 </div>
 
