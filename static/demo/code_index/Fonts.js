@@ -40,23 +40,23 @@ fl=(function(){var A=index;var C={};
 C.Ak={_class:function(){return A.aci.B7;},0:{Data:function(){return A.acG;},Cache:[
 ],_this:null}};C.Af={_class:function(){return A.aci.B7;},0:{Data:function(){return A.
 acF;},Cache:[],_this:null}};C.EK={_class:function(){return A.aci.B7;},0:{Data:function(
-){return A.acE;},Cache:[],_this:null}};C.Aex={_class:function(){return A.aci.B7;
-},0:{Data:function(){return A.acK;},Cache:[],_this:null}};C.H6={_class:function(
-){return A.aci.B7;},0:{Data:function(){return A.acH;},Cache:[],_this:null}};C.Bh={
+){return A.acE;},Cache:[],_this:null}};C.Aes={_class:function(){return A.aci.B7;
+},0:{Data:function(){return A.acK;},Cache:[],_this:null}};C.H5={_class:function(
+){return A.aci.B7;},0:{Data:function(){return A.acH;},Cache:[],_this:null}};C.Bg={
 _class:function(){return A.aci.B7;},0:{Data:function(){return A.acL;},Cache:[],_this:
-null}};C.AOO={_class:function(){return A.aci.B7;},0:{Data:function(){return A.acI;
-},Cache:[],_this:null}};C.HL={_class:function(){return A.aci.B7;},0:{Data:function(
-){return A.acD;},Cache:[],_this:null}};C.Kt={_class:function(){return A.aci.B7;}
-,0:{Data:function(){return A.acC;},Cache:[],_this:null}};C.AOP={_class:function(
+null}};C.AOC={_class:function(){return A.aci.B7;},0:{Data:function(){return A.acI;
+},Cache:[],_this:null}};C.HJ={_class:function(){return A.aci.B7;},0:{Data:function(
+){return A.acD;},Cache:[],_this:null}};C.Ks={_class:function(){return A.aci.B7;}
+,0:{Data:function(){return A.acC;},Cache:[],_this:null}};C.AOD={_class:function(
 ){return A.aci.B7;},0:{Data:function(){return A.acJ;},Cache:[],_this:null}};
 C._Init=function(){};C._ReInit=function(){};C.DI=function(D){var B;if((B=C.Ak[0].
 _this)&&(B._cycle!=D))B._Done(C.Ak[0]._this=null);if((B=C.Af[0]._this)&&(B._cycle
 !=D))B._Done(C.Af[0]._this=null);if((B=C.EK[0]._this)&&(B._cycle!=D))B._Done(C.EK[
-0]._this=null);if((B=C.Aex[0]._this)&&(B._cycle!=D))B._Done(C.Aex[0]._this=null);
-if((B=C.H6[0]._this)&&(B._cycle!=D))B._Done(C.H6[0]._this=null);if((B=C.Bh[0]._this
-)&&(B._cycle!=D))B._Done(C.Bh[0]._this=null);if((B=C.AOO[0]._this)&&(B._cycle!=D
-))B._Done(C.AOO[0]._this=null);if((B=C.HL[0]._this)&&(B._cycle!=D))B._Done(C.HL[
-0]._this=null);if((B=C.Kt[0]._this)&&(B._cycle!=D))B._Done(C.Kt[0]._this=null);if((
-B=C.AOP[0]._this)&&(B._cycle!=D))B._Done(C.AOP[0]._this=null);};return C;})();
+0]._this=null);if((B=C.Aes[0]._this)&&(B._cycle!=D))B._Done(C.Aes[0]._this=null);
+if((B=C.H5[0]._this)&&(B._cycle!=D))B._Done(C.H5[0]._this=null);if((B=C.Bg[0]._this
+)&&(B._cycle!=D))B._Done(C.Bg[0]._this=null);if((B=C.AOC[0]._this)&&(B._cycle!=D
+))B._Done(C.AOC[0]._this=null);if((B=C.HJ[0]._this)&&(B._cycle!=D))B._Done(C.HJ[
+0]._this=null);if((B=C.Ks[0]._this)&&(B._cycle!=D))B._Done(C.Ks[0]._this=null);if((
+B=C.AOD[0]._this)&&(B._cycle!=D))B._Done(C.AOD[0]._this=null);};return C;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */
