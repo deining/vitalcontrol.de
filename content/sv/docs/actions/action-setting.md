@@ -1,14 +1,14 @@
 ---
 title: Åtgärdsinställningar
 linkTitle: Inställningar
-slug: setting
+slug: settings
 weight: 120
 description: >
  Ställ in menyalternativen för Åtgärdsmenyn och ställ in åtgärdskedjan
 date: 2023-07-26
 Kategorier: [Åtgärder, Åtgärdskedja]
 Taggar: [Åtgärder, Åtgärdskedja]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Menyalternativ {#menu-items}
 

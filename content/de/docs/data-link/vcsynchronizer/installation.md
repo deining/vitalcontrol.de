@@ -9,9 +9,8 @@ translationKey: vcsynchronizer/installation
 ---
 1. Laden Sie die [Installationsdatei](/download/SetupVitalControlSynchronizer.exe) des VC-Synchronizers herunter.
 
-   {{% alert title="Hinweis" %}}
-  Der heruntergeladene Installer eignet sich sowohl für die *Neuinstallation* als auch für die *Aktualisierung* einer bereits vorhandenen VC-Synchronizer Installation auf eine neuere Version. Beides Mal ist das Vorgehen komplett identisch.
-   {{% /alert %}}
+   > [!NOTE] Hinweis
+   > Der heruntergeladene Installer eignet sich sowohl für die *Neuinstallation* als auch für die *Aktualisierung* einer bereits vorhandenen VC-Synchronizer Installation auf eine neuere Version. Beides Mal ist das Vorgehen komplett identisch.
 
 2. Starten Sie die Installation des Programms durch einen Doppelklick auf die heruntergeladene Datei `SetupVitalControlSynchronizer.exe`.
 

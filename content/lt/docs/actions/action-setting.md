@@ -1,14 +1,14 @@
 ---
 title: Veiksmų nustatymai
 linkTitle: Nustatymai
-slug: setting
+slug: settings
 weight: 120
 description: >
  Nustatykite meniu elementus Veiksmų meniu ir nustatykite veiksmų grandinę
 date: 2023-07-26
 kategorijos: [Veiksmai, Veiksmų grandinė]
 Žymos: [Veiksmai, Veiksmų grandinė]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Meniu elementai {#menu-items}
 

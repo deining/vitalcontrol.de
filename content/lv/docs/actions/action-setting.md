@@ -1,14 +1,14 @@
 ---
 title: Darbību iestatījumi
 linkTitle: Iestatījumi
-slug: setting
+slug: settings
 weight: 120
 description: >
  Iestatiet izvēlnes vienumus Darbību izvēlnei un iestatiet darbību ķēdi
 date: 2023-07-26
 categories: [Darbības, Darbību ķēde]
 tags: [Darbības, Darbību ķēde]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Izvēlnes vienumi {#menu-items}
 

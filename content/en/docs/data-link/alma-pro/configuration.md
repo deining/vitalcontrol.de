@@ -38,9 +38,8 @@ To check which firmware version is installed on your device:
 
 ## Navigation to settings menu `{{% T "VitalControl" %}}`
 
-{{% alert title="Attention" %}}
-To activate and set up the {{<T "VitalControl" >}} device, you must be logged in as the {{<T "SiteManager" >}} user role at the automatic feeder. Otherwise, some of the buttons shown and described below will not be visible to you.
-{{% /alert %}}
+> [!NOTE] Attention
+> To activate and set up the {{<T "VitalControl" >}} device, you must be logged in as the `{{<T "SiteManager" >}}` user role at the automatic feeder. Otherwise, some of the buttons shown and described below will not be visible to you.
 
 1. Click on the bottom button <img src="/icons/gear.svg" id="Navigation_Digit_1" width="25" align="bottom" alt="Alma Pro: Settings Menu" title="Settings"/>`{{<T "Settings" >}}`<span style="font-size: 140%">➀</span> in the left sidebar of the touch terminal. If you are in the main menu where no sidebar is visible, press the button &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Feeder Menu" title="Feeder Menu"/>`{{<T "Feeder" >}}`to display the sidebar.
 

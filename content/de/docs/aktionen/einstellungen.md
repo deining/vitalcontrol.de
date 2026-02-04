@@ -40,3 +40,5 @@ In diesem Einstellungsmenü legen Sie die einzelnen Aktionen der &nbsp;<img src=
 4. Die weitere Anleitung finden Sie [hier](/docs/aktionskette/).
 
     ![VitalControl: Menüfolge Aktionen Aktionskette](../bilder/aktionskette.png "Aktionskette")
+
+XX

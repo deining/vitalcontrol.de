@@ -7,9 +7,8 @@ weight: 52
 no_list: true
 maphilight: true
 ---
-{{% alert title="Hint" %}}
-If you click on a menu item, you will be redirected to a description of the respective function.
-{{% /alert %}}
+> [!Note] Hint
+> If you click on a menu item, you will be redirected to a description of the respective function.
 
 <img src="images/newonfarm.png" alt="VitalControl New on farm" title="New on farm" usemap="#workmap" class="maphilight" />
 

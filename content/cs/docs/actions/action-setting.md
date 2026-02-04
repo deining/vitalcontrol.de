@@ -1,7 +1,7 @@
 ---
 title: Nastavení akcí
 linkTitle: Nastavení
-slug: settings
+slug: settingss
 weight: 120
 description: >
  Nastavte položky menu pro menu Akce a nastavte řetězec akcí

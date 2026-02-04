@@ -35,9 +35,9 @@ Depending on the animal type, you can perform up to 16 different actions for an 
    <area shape="rect" coords="100,340,140,375" alt="Settings" title="Call up the settings&#10;Mouse click: to the documentation" href="/en/docs/actions/setting/">
 </map>
 
-{{% alert title="Hint" %}}
-Each action is identified by a symbol. Move the mouse pointer over a symbol in the graphic below and let it rest for a moment. A tooltip appears, presenting information about the respective action. If you click on one of the symbols, you will be forwarded to a description of the respective action.
-{{% /alert %}}
+> [!NOTE] Hint
+>
+> Each action is identified by a symbol. Move the mouse pointer over a symbol in the graphic below and let it rest for a moment. A tooltip appears, presenting information about the respective action. If you click on one of the symbols, you will be forwarded to a description of the respective action.
 
 ## General procedure {#general-procedure}
 

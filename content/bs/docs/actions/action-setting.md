@@ -1,14 +1,14 @@
 ---
 title: Postavke akcija
 linkTitle: Postavke
-slug: setting
+slug: settings
 weight: 120
 description: >
  Postavite stavke menija za meni Akcija i postavite lanac akcija
 date: 2023-07-26
 categories: [Akcije, Lanac akcija]
 tags: [Akcije, Lanac akcija]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Stavke menija {#menu-items}
 

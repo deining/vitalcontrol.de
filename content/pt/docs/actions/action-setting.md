@@ -1,14 +1,14 @@
 ---
 title: Configurações de ações
 linkTitle: Configurações
-slug: setting
+slug: settings
 weight: 120
 description: >
  Defina os itens do menu para o menu de Ações e configure a cadeia de ações
 date: 2023-07-26
 categories: [Ações, Cadeia de Ações]
 tags: [Ações, Cadeia de ações]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Itens do menu {#menu-items}
 

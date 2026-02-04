@@ -1,14 +1,14 @@
 ---
 title: Configuración de acciones
 linkTitle: Configuración
-slug: setting
+slug: settings
 weight: 120
 description: >
  Configura los elementos del menú para el menú de Acciones y establece la cadena de acciones
 date: 2023-07-26
 categorías: [Acciones, Cadena de Acciones]
 etiquetas: [Acciones, Cadena de acciones]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Elementos del menú {#menu-items}
 

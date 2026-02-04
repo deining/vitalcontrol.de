@@ -1,14 +1,14 @@
 ---
 title: Műveleti beállítások
 linkTitle: Beállítások
-slug: setting
+slug: settings
 weight: 120
 description: >
  Állítsa be a Művelet menü elemeit és a műveletek láncolatát
 date: 2023-07-26
 kategóriák: [Műveletek, Műveletek láncolata]
 címkék: [Műveletek, Műveletek láncolata]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Menüelemek {#menu-items}
 

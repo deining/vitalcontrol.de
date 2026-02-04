@@ -1,14 +1,14 @@
 ---
 title: Налаштування дій
 linkTitle: Налаштування
-slug: setting
+slug: settings
 weight: 120
 description: >
  Встановіть пункти меню для меню Дій та налаштуйте ланцюг дій
 date: 2023-07-26
 categories: [Дії, Ланцюг дій]
 tags: [Дії, Ланцюг дій]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Пункти меню {#menu-items}
 

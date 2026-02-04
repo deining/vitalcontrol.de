@@ -1,14 +1,14 @@
 ---
 title: Handlingsinnstillinger
 linkTitle: Innstillinger
-slug: setting
+slug: settings
 weight: 120
 description: >
  Sett menyvalgene for Handlingsmenyen og sett opp handlingskjeden
 date: 2023-07-26
 categories: [Handlinger, Handlingskjede]
 tags: [Handlinger, Handlingskjede]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Menyelementer {#menu-items}
 

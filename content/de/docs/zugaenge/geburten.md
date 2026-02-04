@@ -15,9 +15,8 @@ translationKey: new-on-farm/births
 
 In dieser Liste können Sie ihre Geburten einsehen, diese bearbeiten und eine Export-Datei erstellen um die Anmeldung in HI-Tier vorzunehmen. Um eine Exportdatei zu erstellen gehen Sie wie folgt vor:
 
-{{% alert title="Hinweis" %}}
-Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie den USB-Stick mit dem USB-C Adapter an ihr VitalControl-Gerät an bevor Sie der Anleitung folgen.
-{{% /alert %}}
+> [!Note] Hinweis
+> Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie den USB-Stick mit dem USB-C Adapter an ihr VitalControl-Gerät an bevor Sie der Anleitung folgen.
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Zugänge" /> `Zugänge` und drücken Sie die Taste `OK`.
 
@@ -43,9 +42,8 @@ Sie haben, außer die Exportdatei zu erstellen, folgende weitere Möglichkeiten:
 - [Tier + Meldung ](../zukaeufe/#delete-animal--purchase-notice) löschen
 - [Geburtsmeldung](../zukaeufe/#clear-notice-of-purchase) löschen
 
-{{% alert title="Hinweis" %}}
-Einige Aktionen sind identisch mit den Aktionen in der Liste `Zukäufe`. Folgen Sie den Verlinkungen zu den Schritt für Schritt Anleitungen. Öffnen Sie immer zuerst die Liste `Geburten` wie in der Anleitung oben beschrieben.
-{{% /alert %}}
+> [!Note] Hinweis
+> Einige Aktionen sind identisch mit den Aktionen in der Liste `Zukäufe`. Folgen Sie den Verlinkungen zu den Schritt für Schritt Anleitungen. Öffnen Sie immer zuerst die Liste `Geburten` wie in der Anleitung oben beschrieben.
 
 ### Wechsel zwischen Listen- und Einzelansicht {#change-between-list-view-and-single-animal-view}
 
@@ -59,9 +57,8 @@ Einige Aktionen sind identisch mit den Aktionen in der Liste `Zukäufe`. Folgen 
 
 ### Bearbeiten der Tierdaten {#edit-data-of-birth-notice}
 
-{{% alert title="Hinweis" %}}
-Das Bearbeiten der Tierdaten ist nur in der Listenansicht möglich!
-{{% /alert %}}
+> [!Note] Hinweis
+> Das Bearbeiten der Tierdaten ist nur in der Listenansicht möglich!
 
 1. Wählen Sie mit den Pfeiltasten △ ▽ das Tier aus, das Sie bearbeiten möchten und bestätigen Sie mit `OK`.
 

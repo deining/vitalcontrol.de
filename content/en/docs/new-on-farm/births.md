@@ -15,9 +15,8 @@ translationKey: new-on-farm/births
 
 In this list you can view your births, edit them and create an export file to register in HI-Tier. To create an export file, proceed as follows:
 
-{{% alert title="Hint" %}}
-To export data you need the included UBS stick. Connect the USB stick with the USB-C adapter to your VitalControl device before following the instructions.
-{{% /alert %}}
+> [!Note] Hint
+> To export data you need the included UBS stick. Connect the USB stick with the USB-C adapter to your VitalControl device before following the instructions.
 
 1. In the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="New on farm" /> `{{<T "NewOnFarm" >}}` and press the `{{<T "Ok" >}}` button.
 
@@ -43,9 +42,8 @@ In addition to creating the export file, you have the following options:
 - [Clear notice of birth](../purchased-animals/#clear-notice-of-purchase)
 - [Edit](#edit-data-of-birth-notice) a notice
 
-{{% alert title="Hint" %}}
-Some actions are identical to the actions in the `{{<T "PurchasedAnimals" >}}` list. Follow the links to the step-by-step instructions. Always open the `{{<T "Births" >}}` list first as described in the instructions above.
-{{% /alert %}}
+> [!Note] Hint
+> Some actions are identical to the actions in the `{{<T "PurchasedAnimals" >}}` list. Follow the links to the step-by-step instructions. Always open the `{{<T "Births" >}}` list first as described in the instructions above.
 
 ### Change between list view and single animal view {#change-between-list-view-and-single-animal-view}
 
@@ -59,9 +57,8 @@ Some actions are identical to the actions in the `{{<T "PurchasedAnimals" >}}` l
 
 ### Edit data of birth notice {#edit-data-of-birth-notice}
 
-{{% alert title="Hint" %}}
-Editing the animal data is only possible in the list view!
-{{% /alert %}}
+> [!Note] Hint
+> Editing the animal data is only possible in the list view!
 
 1. Use the arrow keys △ ▽ to select the animal you want to edit and confirm with `{{<T "Ok" >}}`.
 

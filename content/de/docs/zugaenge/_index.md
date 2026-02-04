@@ -7,9 +7,9 @@ weight: 150
 no_list: true
 maphilight: true
 ---
-{{% alert title="Hinweis" %}}
-Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
-{{% /alert %}}
+
+> [!NOTE] Hinweis
+> Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 
 <img src="bilder/zukauefe.png" alt="VitalControl Zugänge" title="Zugänge" usemap="#workmap" class="maphilight" />
 

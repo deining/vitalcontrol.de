@@ -33,9 +33,9 @@ Je nach Tierart können Sie bis zu 16 verschiedene Aktionen für ein Tier ausfü
    <area shape="rect" coords="100,338,140,374" alt="Einstellungen" title="Rufen Sie die Einstellungen auf&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/einstellung/">
 </map>
 
-{{% alert title="Hinweis" %}}
-Jede Aktion ist über ein Symbol gekennzeichnet. Bewegen Sie den Mauszeiger über ein Symbol in der obigen Grafik und lassen ihn kurz ruhen. Im einem Tooltip werden ihnen jetzt Infos zur jeweiligen Aktion präsentiert. Klicken Sie auf eines der Symbole, so werden Sie zu einer Beschreibung der jeweiligen Aktion weitergeleitet.
-{{% /alert %}}
+> [!NOTE] Hinweis
+>
+> Jede Aktion ist über ein Symbol gekennzeichnet. Bewegen Sie den Mauszeiger über ein Symbol in der obigen Grafik und lassen ihn kurz ruhen. Im einem Tooltip werden ihnen jetzt Infos zur jeweiligen Aktion präsentiert. Klicken Sie auf eines der Symbole, so werden Sie zu einer Beschreibung der jeweiligen Aktion weitergeleitet.
 
 ## Allgemeiner Ablauf
 

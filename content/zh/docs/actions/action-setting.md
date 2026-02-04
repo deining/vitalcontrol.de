@@ -1,14 +1,14 @@
 ---
 title: 動作設定
 linkTitle: 設定
-slug: setting
+slug: settings
 weight: 120
 description: >
  設定動作選單的項目並設置動作鏈
 date: 2023-07-26
 categories: [動作, 動作鏈]
 tags: [動作, 動作鏈]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## 選單項目 {#menu-items}
 

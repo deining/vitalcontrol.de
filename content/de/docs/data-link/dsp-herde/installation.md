@@ -11,6 +11,9 @@ translationKey: DSPherde/installation
 ---
 Vor dem erstmaligen [Datenaustausch](../datentausch/) muss einmalig die Technikkopplung zum VitalControl-Gerät angelegt und eingerichtet werden.
 
+> [!NOTE] Achtung
+> Überprüfen Sie  vor der Einrichtung der Technikkopplung, ob die Software `VCSynchronizer` auf ihrem PC installiert ist, diese Software wird zwingend zum Datenaustausch benötigt.  Öffnen Sie dazu im Windows Startmenü die Liste ihrer Anwendungen und überprüfen Sie, ob dort den Eintrag `Urban VitalControl` finden können. Falls nicht, [installieren](../../vcsynchronizer/installation/) sie die Software `VCSynchronizer` auf ihren PC.
+
 {{% alert title="Achtung" %}}
 Überprüfen Sie  vor der Einrichtung der Technikkopplung, ob die Software `VCSynchronizer` auf ihrem PC installiert ist, diese Software wird zwingend zum Datenaustausch benötigt.  Öffnen Sie dazu im Windows Startmenü die Liste ihrer Anwendungen und überprüfen Sie, ob dort den Eintrag `Urban VitalControl` finden können. Falls nicht, [installieren](../../vcsynchronizer/installation/) sie die Software `VCSynchronizer` auf ihren PC.
 {{% /alert %}}

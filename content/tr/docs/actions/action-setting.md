@@ -1,14 +1,14 @@
 ---
 title: Eylem ayarları
 linkTitle: Ayarlar
-slug: setting
+slug: settings
 weight: 120
 description: >
  Eylem menüsü için menü öğelerini ayarlayın ve eylem zincirini ayarlayın
 date: 2023-07-26
 Kategoriler: [Eylemler, Eylem Zinciri]
 Etiketler: [Eylemler, Eylem zinciri]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Menü öğeleri {#menu-items}
 

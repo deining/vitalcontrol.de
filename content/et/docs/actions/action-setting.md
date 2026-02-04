@@ -1,14 +1,14 @@
 ---
 title: Tegevuste seaded
 linkTitle: Seaded
-slug: setting
+slug: settings
 weight: 120
 description: >
  Määra tegevusmenüü elemendid ja tegevuste jada
 date: 2023-07-26
 kategooriad: [Tegevused, Tegevuste jada]
 Sildid: [Tegevused, Tegevuste jada]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Menüüelemendid {#menu-items}
 

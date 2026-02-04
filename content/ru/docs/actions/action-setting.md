@@ -1,14 +1,14 @@
 ---
 title: Настройки действий
 linkTitle: Настройки
-slug: setting
+slug: settings
 weight: 120
 description: >
  Установите пункты меню для меню Действия и настройте цепочку действий
 date: 2023-07-26
 категории: [Действия, Цепочка действий]
 теги: [Действия, Цепочка действий]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Пункты меню {#menu-items}
 

@@ -1,14 +1,14 @@
 ---
 title: Action settings
 linkTitle: Settings
-slug: setting
+slug: settings
 weight: 120
 description: >
  Set the menu items for the Action menu and set the chain of actions
 date: 2023-07-26
 categories: [Actions, Chain of Actions]
 tags: [Actions, Chain of actions]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Menu items {#menu-items}
 

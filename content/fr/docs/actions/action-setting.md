@@ -1,14 +1,14 @@
 ---
 title: Paramètres d'action
 linkTitle: Paramètres
-slug: setting
+slug: settings
 weight: 120
 description: >
  Configurez les éléments de menu pour le menu Action et configurez la chaîne d'actions
 date: 2023-07-26
 catégories: [Actions, Chaîne d'actions]
 étiquettes: [Actions, Chaîne d'actions]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Éléments de menu {#menu-items}
 

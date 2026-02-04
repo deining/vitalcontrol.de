@@ -1,7 +1,7 @@
 ---
 title: Impostazioni delle azioni
 linkTitle: Impostazioni
-slug: settings
+slug: settingss
 weight: 120
 description: >
  Imposta gli elementi del menu per il menu Azioni e imposta la catena di azioni

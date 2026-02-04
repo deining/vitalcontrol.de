@@ -1,14 +1,14 @@
 ---
 title: Handlingsindstillinger
 linkTitle: Indstillinger
-slug: setting
+slug: settings
 weight: 120
 description: >
  Indstil menupunkterne for Handlingsmenuen og indstil rækken af handlinger
 date: 2023-07-26
 kategorier: [Handlinger, Række af handlinger]
 tags: [Handlinger, Række af handlinger]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Menupunkter {#menu-items}
 

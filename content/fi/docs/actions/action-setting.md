@@ -1,14 +1,14 @@
 ---
 title: Toiminnatasetukset
 linkTitle: Asetukset
-slug: setting
+slug: settings
 weight: 120
 description: >
  Aseta Toiminnatvalikon kohteet ja määritä Toiminnatjen ketju
 date: 2023-07-26
 luokat: [Toiminnat, Toiminnatjen ketju]
 tagit: [Toiminnat, Toiminnatjen ketju]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Valikkokohdat {#menu-items}
 

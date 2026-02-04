@@ -1,14 +1,14 @@
 ---
 title: Ustawienia akcji
 linkTitle: Ustawienia
-slug: setting
+slug: settings
 weight: 120
 description: >
  Ustaw elementy menu dla menu Akcji i ustaw łańcuch akcji
 date: 2023-07-26
 kategorie: [Akcje, Łańcuch Akcji]
 tagi: [Akcje, Łańcuch akcji]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Elementy menu {#menu-items}
 

@@ -1,14 +1,14 @@
 ---
 title: Nastavitve dejanj
 linkTitle: Nastavitve
-slug: setting
+slug: settings
 weight: 120
 description: >
  Nastavite elemente menija za meni Dejanje in nastavite verigo dejanj
 date: 2023-07-26
 categories: [Dejanja, Veriga dejanj]
 tags: [Dejanja, Veriga dejanj]
-translationKey: actions/setting
+translationKey: actions/settings
 ---
 ## Elementi menija {#menu-items}
 
