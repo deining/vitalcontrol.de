@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 > [!Note] Hinweise
 > Diese Funktion wird ihnen nur bei Kühen angezeigt, nicht aber bei Kälbern oder bei Lämmern.
-> Falls diese Funktion von ihnen nicht benötigt wird, können Sie sie im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellung/) deaktivieren.
+> Falls diese Funktion von ihnen nicht benötigt wird, können Sie sie im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/) deaktivieren.
 
 ## Abkalbung erfassen {#register-a-calving}
 
@@ -21,4 +21,4 @@ Sobald Sie das Aktionsmenü betreten haben wählen Sie den Menüpunkt <img src="
    ![VitalControl: Menüfolge Aktionen Abkalbung](../bilder/abkalbung.png "Abkalbung")
 
 >[!Note] Hinweis
-> Sollte diese Aktion für eine Kuh nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellung/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
+> Sollte diese Aktion für eine Kuh nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
