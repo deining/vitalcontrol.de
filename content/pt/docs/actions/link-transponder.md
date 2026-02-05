@@ -11,7 +11,7 @@ tags: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Warning" color="warning" %}}
-Esta ação não está habilitada por padrão! Ative isso conforme descrito em [configurações de ação](../setting/).
+Esta ação não está habilitada por padrão! Ative isso conforme descrito em [configurações de ação](../settings/).
 {{% /alert %}}
 
 ## Link transponder {#link-transponder}

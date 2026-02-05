@@ -92,5 +92,5 @@ Se a temperatura estiver na área amarela ("elevada") ou na área vermelha ("feb
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Cancel the action")
 
 {{% alert title="Dica" %}}
-Se esta ação não estiver disponível, provavelmente a ação foi desativada! Ative a ação no menu [configurações de ação](../setting/). Alternativamente, redefinir todas as ações trará essa ação de volta.
+Se esta ação não estiver disponível, provavelmente a ação foi desativada! Ative a ação no menu [configurações de ação](../settings/). Alternativamente, redefinir todas as ações trará essa ação de volta.
 {{% /alert %}}

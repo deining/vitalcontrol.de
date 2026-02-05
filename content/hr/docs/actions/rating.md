@@ -60,5 +60,5 @@ Ako ne napravite izbor koristeći tipke sa strelicama ◁ ▷, već direktno spr
 {{< /tabpane >}}
 
 {{% alert title="Savjet" %}}
-Ako ova akcija nije dostupna, vjerojatno je akcija deaktivirana! Aktivirajte akciju u izborniku [postavke akcija](../setting/). Alternativno, resetiranje svih akcija će vratiti tu akciju.
+Ako ova akcija nije dostupna, vjerojatno je akcija deaktivirana! Aktivirajte akciju u izborniku [postavke akcija](../settings/). Alternativno, resetiranje svih akcija će vratiti tu akciju.
 {{% /alert %}}

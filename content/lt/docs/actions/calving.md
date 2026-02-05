@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Patarimas" %}}
 Ši funkcija rodoma tik karvėms, bet ne veršeliams ar ėriukams.
-Jei jums nereikia šios funkcijos, galite ją išjungti [veiksmų nustatymų](../setting/) meniu.
+Jei jums nereikia šios funkcijos, galite ją išjungti [veiksmų nustatymų](../settings/) meniu.
 {{% /alert %}}
 
 ## Registruoti veršiavimąsi {#register-a-calving}

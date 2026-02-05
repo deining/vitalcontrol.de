@@ -11,7 +11,7 @@ kategorijos: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Įspėjimas" color="warning" %}}
-Šis veiksmas nėra įjungtas pagal numatytuosius nustatymus! Aktyvuokite tai, kaip aprašyta [veiksmo nustatymuose](../setting/).
+Šis veiksmas nėra įjungtas pagal numatytuosius nustatymus! Aktyvuokite tai, kaip aprašyta [veiksmo nustatymuose](../settings/).
 {{% /alert %}}
 
 ## Priskirti transponderį {#link-transponder}

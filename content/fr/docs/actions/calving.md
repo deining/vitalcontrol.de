@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Astuce" %}}
 Cette fonction est uniquement affichée pour les vaches, mais pas pour les veaux ou les agneaux.
-Si vous n'avez pas besoin de cette fonction, vous pouvez la désactiver dans le menu [paramètres d'action](../setting/).
+Si vous n'avez pas besoin de cette fonction, vous pouvez la désactiver dans le menu [paramètres d'action](../settings/).
 {{% /alert %}}
 
 ## Enregistrer un vêlage {#register-a-calving}

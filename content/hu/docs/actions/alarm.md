@@ -36,7 +36,7 @@ A `{{<T "Alarm" >}}` akcióval állatokat helyezhet a riasztási listára, vagy 
 {{< /tabpane >}}
 
 {{% alert title="Tipp" %}}
-Ha ez az akció nem elérhető, valószínűleg az akció deaktiválva lett! Aktiválja az akciót az [akció beállítások](../setting/) menüben. Alternatív megoldásként az összes akció visszaállítása visszahozza ezt az akciót.
+Ha ez az akció nem elérhető, valószínűleg az akció deaktiválva lett! Aktiválja az akciót az [akció beállítások](../settings/) menüben. Alternatív megoldásként az összes akció visszaállítása visszahozza ezt az akciót.
 {{% /alert %}}
 
 

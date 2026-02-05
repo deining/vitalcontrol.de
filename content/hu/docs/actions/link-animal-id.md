@@ -11,7 +11,7 @@ címkék: [Országos állat azonosító]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Figyelmeztetés" color="warning" %}}
-Ez a művelet alapértelmezés szerint nincs engedélyezve! Aktiválja ezt a [művelet beállítások](../setting/) leírása szerint.
+Ez a művelet alapértelmezés szerint nincs engedélyezve! Aktiválja ezt a [művelet beállítások](../settings/) leírása szerint.
 {{% /alert %}}
 
 ## Állat azonosító összekapcsolása {#link-animal-id}

@@ -11,7 +11,7 @@ tags: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Warning" color="warning" %}}
-Ця дія не ввімкнена за замовчуванням! Активуйте її, як описано в [налаштуваннях дій](../setting/).
+Ця дія не ввімкнена за замовчуванням! Активуйте її, як описано в [налаштуваннях дій](../settings/).
 {{% /alert %}}
 
 ## Прив'язати транспондер {#link-transponder}

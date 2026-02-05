@@ -30,5 +30,5 @@ blizu. Za uporabo akcije `nega novorojenčka` sledite naslednjim korakom:
     ![VitalControl: Meni Akcija Nega novorojenčka](../images/newborncare.png "Nega novorojenčka")
 
 {{% alert title="Namig" %}}
-Če ta akcija ni na voljo, je verjetno bila deaktivirana! Aktivirajte akcijo v meniju [nastavitve akcij](../setting/). Alternativno, ponastavitev vseh akcij bo ponovno omogočila to akcijo.
+Če ta akcija ni na voljo, je verjetno bila deaktivirana! Aktivirajte akcijo v meniju [nastavitve akcij](../settings/). Alternativno, ponastavitev vseh akcij bo ponovno omogočila to akcijo.
 {{% /alert %}}

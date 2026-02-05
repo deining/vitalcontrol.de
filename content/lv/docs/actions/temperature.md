@@ -92,5 +92,5 @@ Ja temperatūra ir dzeltenajā zonā ("paaugstināta") vai sarkanajā zonā ("dr
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Cancel the action")
 
 {{% alert title="Padoms" %}}
-Ja šī darbība nav pieejama, iespējams, ka darbība ir deaktivizēta! Aktivizējiet darbību [darbību iestatījumu](../setting/) izvēlnē. Alternatīvi, atiestatot visas darbības, šī darbība atkal būs pieejama.
+Ja šī darbība nav pieejama, iespējams, ka darbība ir deaktivizēta! Aktivizējiet darbību [darbību iestatījumu](../settings/) izvēlnē. Alternatīvi, atiestatot visas darbības, šī darbība atkal būs pieejama.
 {{% /alert %}}

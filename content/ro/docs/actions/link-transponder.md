@@ -11,7 +11,7 @@ etichete: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Warning" color="warning" %}}
-Această acțiune nu este activată implicit! Activați aceasta așa cum este descris în [setările acțiunii](../setting/).
+Această acțiune nu este activată implicit! Activați aceasta așa cum este descris în [setările acțiunii](../settings/).
 {{% /alert %}}
 
 ## Link transponder {#link-transponder}

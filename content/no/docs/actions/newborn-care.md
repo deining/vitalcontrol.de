@@ -30,5 +30,5 @@ nært. For å bruke handlingen `nyfødtomsorg`, gjør følgende:
     ![VitalControl: Menyhandling Nyfødtomsorg](../images/newborncare.png "Nyfødtomsorg")
 
 {{% alert title="Hint" %}}
-Hvis denne handlingen ikke er tilgjengelig, har handlingen sannsynligvis blitt deaktivert! Aktiver handlingen i [handlingsinnstillinger](../setting/) menyen. Alternativt vil tilbakestilling av alle handlinger bringe denne handlingen tilbake.
+Hvis denne handlingen ikke er tilgjengelig, har handlingen sannsynligvis blitt deaktivert! Aktiver handlingen i [handlingsinnstillinger](../settings/) menyen. Alternativt vil tilbakestilling av alle handlinger bringe denne handlingen tilbake.
 {{% /alert %}}

@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="İpucu" %}}
 Bu işlev yalnızca inekler için görüntülenir, buzağılar veya kuzular için değil.
-Bu işlevi kullanmanıza gerek yoksa, [eylem ayarları](../setting/) menüsünde devre dışı bırakabilirsiniz.
+Bu işlevi kullanmanıza gerek yoksa, [eylem ayarları](../settings/) menüsünde devre dışı bırakabilirsiniz.
 {{% /alert %}}
 
 ## Bir buzağılama kaydı {#register-a-calving}

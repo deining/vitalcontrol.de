@@ -61,5 +61,5 @@ Hvis du ikke gjør et valg ved hjelp av piltastene ◁ ▷ men lagrer direkte ve
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Hvis denne handlingen ikke er tilgjengelig, har handlingen sannsynligvis blitt deaktivert! Aktiver handlingen i [handlingsinnstillinger](../setting/) menyen. Alternativt vil tilbakestilling av alle handlinger bringe den handlingen tilbake.
+Hvis denne handlingen ikke er tilgjengelig, har handlingen sannsynligvis blitt deaktivert! Aktiver handlingen i [handlingsinnstillinger](../settings/) menyen. Alternativt vil tilbakestilling av alle handlinger bringe den handlingen tilbake.
 {{% /alert %}}

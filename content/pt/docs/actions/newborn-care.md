@@ -30,5 +30,5 @@ próximas. Para aplicar a ação `cuidados com o recém-nascido`, proceda da seg
     ![VitalControl: Menu Ação Cuidados com o recém-nascido](../images/newborncare.png "Cuidados com o recém-nascido")
 
 {{% alert title="Dica" %}}
-Se esta ação não estiver disponível, provavelmente a ação foi desativada! Ative a ação no menu [configurações de ação](../setting/). Alternativamente, redefinir todas as ações trará essa ação de volta.
+Se esta ação não estiver disponível, provavelmente a ação foi desativada! Ative a ação no menu [configurações de ação](../settings/). Alternativamente, redefinir todas as ações trará essa ação de volta.
 {{% /alert %}}

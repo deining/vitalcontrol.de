@@ -37,5 +37,5 @@ Ortalama ağırlık bir yönde çok fazla saparsa (çok yüksek/çok düşük), 
 {{< /tabpane >}}
 
 {{% alert title="İpucu" %}}
-Bu eylem mevcut değilse, muhtemelen devre dışı bırakılmıştır! Eylemi [eylem ayarları](../setting/) menüsünde etkinleştirin. Alternatif olarak, tüm eylemleri sıfırlamak bu eylemi geri getirecektir.
+Bu eylem mevcut değilse, muhtemelen devre dışı bırakılmıştır! Eylemi [eylem ayarları](../settings/) menüsünde etkinleştirin. Alternatif olarak, tüm eylemleri sıfırlamak bu eylemi geri getirecektir.
 {{% /alert %}}

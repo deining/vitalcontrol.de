@@ -36,7 +36,7 @@ Naudodami veiksmą `{{<T "OnWatch" >}}` galite įtraukti gyvūnus į stebėjimo 
 {{< /tabpane >}}
 
 {{% alert title="Patarimas" %}}
-Jei šis veiksmas nėra prieinamas, veiksmas tikriausiai buvo išjungtas! Aktyvuokite veiksmą meniu [veiksmų nustatymai](../setting/). Alternatyviai, atstatant visus veiksmus, šis veiksmas vėl bus prieinamas.
+Jei šis veiksmas nėra prieinamas, veiksmas tikriausiai buvo išjungtas! Aktyvuokite veiksmą meniu [veiksmų nustatymai](../settings/). Alternatyviai, atstatant visus veiksmus, šis veiksmas vėl bus prieinamas.
 {{% /alert %}}
 
 

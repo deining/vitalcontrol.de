@@ -11,7 +11,7 @@ catégories: [ID animal national]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Attention" color="warning" %}}
-Cette action n'est pas activée par défaut ! Activez-la comme décrit dans [paramètres d'action](../setting/).
+Cette action n'est pas activée par défaut ! Activez-la comme décrit dans [paramètres d'action](../settings/).
 {{% /alert %}}
 
 ## Lier l'ID animal {#link-animal-id}

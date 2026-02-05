@@ -11,7 +11,7 @@ Etiketler: [Ulusal hayvan kimliği]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Uyarı" color="warning" %}}
-Bu eylem varsayılan olarak etkinleştirilmemiştir! Bunu [eylem ayarları](../setting/) bölümünde açıklandığı gibi etkinleştirin.
+Bu eylem varsayılan olarak etkinleştirilmemiştir! Bunu [eylem ayarları](../settings/) bölümünde açıklandığı gibi etkinleştirin.
 {{% /alert %}}
 
 ## Hayvan Kimliğini Bağla {#link-animal-id}

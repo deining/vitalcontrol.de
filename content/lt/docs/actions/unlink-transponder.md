@@ -11,7 +11,7 @@ kategorijos: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Įspėjimas" color="warning" %}}
-Šis veiksmas nėra įjungtas pagal numatytuosius nustatymus! Aktyvuokite tai, kaip aprašyta [veiksmo nustatyme](../setting/).
+Šis veiksmas nėra įjungtas pagal numatytuosius nustatymus! Aktyvuokite tai, kaip aprašyta [veiksmo nustatyme](../settings/).
 {{% /alert %}}
 
 ## Atjungti transponderį {#unlink-transponder}

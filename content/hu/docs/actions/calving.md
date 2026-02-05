@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Tipp" %}}
 Ez a funkció csak tehenek esetében jelenik meg, borjak vagy bárányok esetében nem.
-Ha nincs szüksége erre a funkcióra, kikapcsolhatja az [akció beállítások](../setting/) menüben.
+Ha nincs szüksége erre a funkcióra, kikapcsolhatja az [akció beállítások](../settings/) menüben.
 {{% /alert %}}
 
 ## Ellés regisztrálása {#register-a-calving}

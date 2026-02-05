@@ -53,5 +53,5 @@ Da biste promijenili podatke o životinji, postupite na sljedeći način:
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Ako ova akcija nije dostupna, vjerojatno je deaktivirana! Aktivirajte akciju u izborniku [postavke akcije](../setting/). Alternativno, resetiranje svih akcija će vratiti tu akciju.
+Ako ova akcija nije dostupna, vjerojatno je deaktivirana! Aktivirajte akciju u izborniku [postavke akcije](../settings/). Alternativno, resetiranje svih akcija će vratiti tu akciju.
 {{% /alert %}}

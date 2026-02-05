@@ -36,5 +36,5 @@ Acțiunea `{{<T "AnimalLoss" >}}` îți permite să înregistrezi o pierdere de 
 {{< /tabpane >}}
 
 {{% alert title="Sfat" %}}
-Dacă această acțiune nu este disponibilă, probabil acțiunea a fost dezactivată! Activează acțiunea în meniul [setări acțiuni](../setting/). Alternativ, resetarea tuturor acțiunilor va readuce acea acțiune.
+Dacă această acțiune nu este disponibilă, probabil acțiunea a fost dezactivată! Activează acțiunea în meniul [setări acțiuni](../settings/). Alternativ, resetarea tuturor acțiunilor va readuce acea acțiune.
 {{% /alert %}}

@@ -36,5 +36,5 @@ Az `{{<T "AnimalLoss" >}}` művelet lehetővé teszi egy állatveszteség regisz
 {{< /tabpane >}}
 
 {{% alert title="Tipp" %}}
-Ha ez a művelet nem elérhető, valószínűleg a művelet deaktiválva lett! Aktiválja a műveletet a [művelet beállítások](../setting/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
+Ha ez a művelet nem elérhető, valószínűleg a művelet deaktiválva lett! Aktiválja a műveletet a [művelet beállítások](../settings/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
 {{% /alert %}}

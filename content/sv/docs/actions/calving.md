@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Tips" %}}
 Denna funktion visas endast för kor, men inte för kalvar eller lamm.
-Om du inte behöver denna funktion kan du inaktivera den i menyn [aktionsinställningar](../setting/).
+Om du inte behöver denna funktion kan du inaktivera den i menyn [aktionsinställningar](../settings/).
 {{% /alert %}}
 
 ## Registrera en kalvning {#register-a-calving}

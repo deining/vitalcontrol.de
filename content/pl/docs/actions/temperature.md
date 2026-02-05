@@ -94,5 +94,5 @@ Jeśli temperatura znajduje się w żółtym obszarze ("podwyższona") lub czerw
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Cancel the action")
 
 {{% alert title="Wskazówka" %}}
-Jeśli ta akcja nie jest dostępna, prawdopodobnie została dezaktywowana! Aktywuj akcję w menu [ustawienia akcji](../setting/). Alternatywnie, zresetowanie wszystkich akcji przywróci tę akcję.
+Jeśli ta akcja nie jest dostępna, prawdopodobnie została dezaktywowana! Aktywuj akcję w menu [ustawienia akcji](../settings/). Alternatywnie, zresetowanie wszystkich akcji przywróci tę akcję.
 {{% /alert %}}

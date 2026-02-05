@@ -65,5 +65,3 @@ All'interno del menu <img src="/icons/actions.svg" width="40" align="bottom" alt
 ![VitalControl: Menu Azioni Procedura generale](images/next-animal-manual-select.png "Esecuzione delle azioni sugli animali, selezione manuale")
 {{% /tab %}}
 {{< /tabpane >}}
-
-

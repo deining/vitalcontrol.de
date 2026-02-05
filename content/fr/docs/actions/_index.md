@@ -32,7 +32,7 @@ Selon le type d'animal, vous pouvez effectuer jusqu'à 16 actions différentes p
    <area shape="rect" coords="120,280,175,337" alt="Associer manuellement un ID animal" title="Attribuer un ID national à un animal qui n'a pas d'ID national&#10;Clic de souris : ouvrir la documentation" href="/fr/docs/actions/link-animal-id/#link-animal-id">
    <area shape="rect" coords="175,280,230,337" alt="Associer un ID animal avec scan" title="Attribuer un ID national à un animal qui n'a pas d'ID national&#10;Clic de souris : ouvrir la documentation" href="/fr/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
-<area shape="rect" coords="100,340,140,375" alt="Paramètres" title="Accéder aux paramètres&#10;Clic de souris : vers la documentation" href="/fr/docs/actions/setting/">
+<area shape="rect" coords="100,340,140,375" alt="Paramètres" title="Accéder aux paramètres&#10;Clic de souris : vers la documentation" href="/fr/docs/actions/settings/">
 </map>
 
 {{% alert title="Astuce" %}}

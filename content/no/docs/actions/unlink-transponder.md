@@ -11,7 +11,7 @@ tags: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Advarsel" color="warning" %}}
-Denne handlingen er ikke aktivert som standard! Aktiver dette som beskrevet i [handlingsinnstilling](../setting/).
+Denne handlingen er ikke aktivert som standard! Aktiver dette som beskrevet i [handlingsinnstilling](../settings/).
 {{% /alert %}}
 
 ## Fjern kobling til transponder {#unlink-transponder}

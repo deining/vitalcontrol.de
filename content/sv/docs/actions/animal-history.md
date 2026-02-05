@@ -42,5 +42,5 @@ För att visa djurhistoriken, gör följande:
 {{< /tabpane >}}
 
 {{% alert title="Tips" %}}
-Om denna åtgärd inte är tillgänglig har åtgärden förmodligen blivit inaktiverad! Aktivera åtgärden i menyn [åtgärdsinställningar](../setting/). Alternativt kan du återställa alla åtgärder för att få tillbaka åtgärden.
+Om denna åtgärd inte är tillgänglig har åtgärden förmodligen blivit inaktiverad! Aktivera åtgärden i menyn [åtgärdsinställningar](../settings/). Alternativt kan du återställa alla åtgärder för att få tillbaka åtgärden.
 {{% /alert %}}

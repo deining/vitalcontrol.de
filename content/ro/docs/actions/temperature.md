@@ -93,5 +93,5 @@ Dacă temperatura este în zona galbenă ("ridicată") sau zona roșie ("febră"
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Cancel the action")
 
 {{% alert title="Hint" %}}
-Dacă această acțiune nu este disponibilă, probabil acțiunea a fost dezactivată! Activează acțiunea în meniul [setări acțiuni](../setting/). Alternativ, resetarea tuturor acțiunilor va readuce acea acțiune.
+Dacă această acțiune nu este disponibilă, probabil acțiunea a fost dezactivată! Activează acțiunea în meniul [setări acțiuni](../settings/). Alternativ, resetarea tuturor acțiunilor va readuce acea acțiune.
 {{% /alert %}}

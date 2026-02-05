@@ -53,5 +53,5 @@ Lai mainītu dzīvnieka datus, rīkojieties šādi:
 {{< /tabpane >}}
 
 {{% alert title="Padoms" %}}
-Ja šī darbība nav pieejama, iespējams, ka darbība ir deaktivizēta! Aktivizējiet darbību [darbību iestatījumu](../setting/) izvēlnē. Alternatīvi, visu darbību atiestatīšana atjaunos šo darbību.
+Ja šī darbība nav pieejama, iespējams, ka darbība ir deaktivizēta! Aktivizējiet darbību [darbību iestatījumu](../settings/) izvēlnē. Alternatīvi, visu darbību atiestatīšana atjaunos šo darbību.
 {{% /alert %}}

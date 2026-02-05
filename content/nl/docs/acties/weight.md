@@ -37,5 +37,5 @@ Als het gemiddelde gewicht sterk afwijkt in één richting (te hoog/te laag), mo
 {{< /tabpane >}}
 
 {{% alert title="Tip" %}}
-Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](/nl/docs/acties/setting/) menu. Als alternatief zal het resetten van alle acties deze actie weer beschikbaar maken.
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](/nl/docs/acties/settings/) menu. Als alternatief zal het resetten van alle acties deze actie weer beschikbaar maken.
 {{% /alert %}}

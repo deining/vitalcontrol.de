@@ -32,7 +32,7 @@ maphilight: true
    <area shape="rect" coords="120,280,175,337" alt="Ручное присвоение ID животного" title="Присвоение национального ID животному, у которого нет национального ID&#10;Клик мыши: открыть документацию" href="/ru/docs/actions/link-animal-id/#link-animal-id">
    <area shape="rect" coords="175,280,230,337" alt="Присвоение ID животного с помощью сканирования" title="Присвоение национального ID животному, у которого нет национального ID&#10;Клик мыши: открыть документацию" href="/ru/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
-<area shape="rect" coords="100,340,140,375" alt="Настройки" title="Вызов настроек&#10;Клик мыши: к документации" href="/ru/docs/actions/setting/">
+<area shape="rect" coords="100,340,140,375" alt="Настройки" title="Вызов настроек&#10;Клик мыши: к документации" href="/ru/docs/actions/settings/">
 </map>
 
 {{% alert title="Подсказка" %}}

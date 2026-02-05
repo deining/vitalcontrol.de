@@ -36,5 +36,5 @@ Akcija `{{<T "AnimalLoss" >}}` omogućuje vam registraciju gubitka životinje. D
 {{< /tabpane >}}
 
 {{% alert title="Savjet" %}}
-Ako ova akcija nije dostupna, vjerojatno je deaktivirana! Aktivirajte akciju u izborniku [postavke akcija](../setting/). Alternativno, resetiranje svih akcija će vratiti tu akciju.
+Ako ova akcija nije dostupna, vjerojatno je deaktivirana! Aktivirajte akciju u izborniku [postavke akcija](../settings/). Alternativno, resetiranje svih akcija će vratiti tu akciju.
 {{% /alert %}}

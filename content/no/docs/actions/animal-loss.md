@@ -36,5 +36,5 @@ Handlingen `{{<T "AnimalLoss" >}}` lar deg registrere et dyretap. For å registr
 {{< /tabpane >}}
 
 {{% alert title="Tips" %}}
-Hvis denne handlingen ikke er tilgjengelig, er handlingen sannsynligvis deaktivert! Aktiver handlingen i [handlingsinnstillingene](../setting/) menyen. Alternativt vil tilbakestilling av alle handlinger bringe handlingen tilbake.
+Hvis denne handlingen ikke er tilgjengelig, er handlingen sannsynligvis deaktivert! Aktiver handlingen i [handlingsinnstillingene](../settings/) menyen. Alternativt vil tilbakestilling av alle handlinger bringe handlingen tilbake.
 {{% /alert %}}

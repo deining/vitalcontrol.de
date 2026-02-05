@@ -36,5 +36,5 @@ A ação `{{<T "AnimalLoss" >}}` permite registrar uma perda de animal. Para reg
 {{< /tabpane >}}
 
 {{% alert title="Dica" %}}
-Se esta ação não estiver disponível, provavelmente a ação foi desativada! Ative a ação no menu de [configurações de ação](../setting/). Alternativamente, redefinir todas as ações trará essa ação de volta.
+Se esta ação não estiver disponível, provavelmente a ação foi desativada! Ative a ação no menu de [configurações de ação](../settings/). Alternativamente, redefinir todas as ações trará essa ação de volta.
 {{% /alert %}}

@@ -33,7 +33,7 @@ maphilight: true
    <area shape="rect" coords="175,280,230,337" alt="Прив'язати ідентифікатор тварини зі скануванням" title="Призначення національного ідентифікатора тварині, яка не має національного ідентифікатора&#10;Клік мишкою: відкрити документацію" href="/uk/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
 
-   <area shape="rect" coords="100,340,140,375" alt="Settings" title="Виклик налаштувань&#10;Клацніть мишею: до документації" href="/uk/docs/actions/setting/">
+   <area shape="rect" coords="100,340,140,375" alt="Settings" title="Виклик налаштувань&#10;Клацніть мишею: до документації" href="/uk/docs/actions/settings/">
 </map>
 
 {{% alert title="Підказка" %}}

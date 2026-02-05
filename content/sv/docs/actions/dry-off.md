@@ -60,5 +60,5 @@ Beroende på kons initiala status kan du antingen torka av djuret och lägga til
 
 
 {{% alert title="Hint" %}}
-Om denna åtgärd inte är tillgänglig har åtgärden förmodligen blivit avaktiverad! Aktivera åtgärden i menyn [åtgärdsinställningar](../setting). Alternativt kommer återställning av alla åtgärder att återställa denna åtgärd.
+Om denna åtgärd inte är tillgänglig har åtgärden förmodligen blivit avaktiverad! Aktivera åtgärden i menyn [åtgärdsinställningar](../settings). Alternativt kommer återställning av alla åtgärder att återställa denna åtgärd.
 {{% /alert %}}

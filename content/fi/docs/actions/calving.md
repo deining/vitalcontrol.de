@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Vihje" %}}
 Tämä toiminto näkyy vain lehmille, ei vasikoille tai karitsoille.
-Jos et tarvitse tätä toimintoa, voit poistaa sen käytöstä [toimintoasetukset](../setting/) -valikossa.
+Jos et tarvitse tätä toimintoa, voit poistaa sen käytöstä [toimintoasetukset](../settings/) -valikossa.
 {{% /alert %}}
 
 ## Rekisteröi poikiminen {#register-a-calving}

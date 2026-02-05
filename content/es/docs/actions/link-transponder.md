@@ -11,7 +11,7 @@ etiquetas: [Transpondedor]
 translationKey: actions/transponder
 ---
 {{% alert title="Advertencia" color="warning" %}}
-¡Esta acción no está habilitada por defecto! Actívala como se describe en [configuración de acciones](../setting/).
+¡Esta acción no está habilitada por defecto! Actívala como se describe en [configuración de acciones](../settings/).
 {{% /alert %}}
 
 ## Vincular transpondedor {#link-transponder}

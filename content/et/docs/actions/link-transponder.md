@@ -11,7 +11,7 @@ Sildid: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Hoiatus" color="warning" %}}
-See toiming ei ole vaikimisi lubatud! Aktiveeri see, nagu kirjeldatud [toimingute seadetes](../setting/).
+See toiming ei ole vaikimisi lubatud! Aktiveeri see, nagu kirjeldatud [toimingute seadetes](../settings/).
 {{% /alert %}}
 
 ## Lingi transponder {#link-transponder}

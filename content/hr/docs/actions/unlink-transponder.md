@@ -11,7 +11,7 @@ tags: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Upozorenje" color="warning" %}}
-Ova akcija nije omogućena prema zadanim postavkama! Aktivirajte ovo kako je opisano u [postavkama akcije](../setting/).
+Ova akcija nije omogućena prema zadanim postavkama! Aktivirajte ovo kako je opisano u [postavkama akcije](../settings/).
 {{% /alert %}}
 
 ## Odspoji transponder {#unlink-transponder}

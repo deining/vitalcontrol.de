@@ -30,5 +30,5 @@ tuvumā. Lai piemērotu darbību `jaundzimušā aprūpe`, rīkojieties šādi:
    ![VitalControl: Izvēlnes darbība Jaundzimušā aprūpe](../images/newborncare.png "Jaundzimušā aprūpe")
 
 {{% alert title="Padoms" %}}
-Ja šī darbība nav pieejama, iespējams, ka darbība ir deaktivizēta! Aktivizējiet darbību izvēlnē [darbību iestatījumi](../setting/). Alternatīvi, visu darbību atiestatīšana atjaunos šo darbību.
+Ja šī darbība nav pieejama, iespējams, ka darbība ir deaktivizēta! Aktivizējiet darbību izvēlnē [darbību iestatījumi](../settings/). Alternatīvi, visu darbību atiestatīšana atjaunos šo darbību.
 {{% /alert %}}

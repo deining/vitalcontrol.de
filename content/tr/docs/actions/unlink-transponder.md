@@ -11,7 +11,7 @@ Etiketler: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Uyarı" color="warning" %}}
-Bu eylem varsayılan olarak etkinleştirilmemiştir! Bunu [eylem ayarı](../setting/) bölümünde açıklandığı gibi etkinleştirin.
+Bu eylem varsayılan olarak etkinleştirilmemiştir! Bunu [eylem ayarı](../settings/) bölümünde açıklandığı gibi etkinleştirin.
 {{% /alert %}}
 
 ## Transponder bağlantısını kaldır {#unlink-transponder}

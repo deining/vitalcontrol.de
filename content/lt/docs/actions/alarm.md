@@ -36,5 +36,5 @@ Naudodami veiksmą `{{<T "Alarm" >}}` galite pridėti gyvūnus į signalizacijos
 {{< /tabpane >}}
 
 {{% alert title="Patarimas" %}}
-Jei ši veiksmo parinktis nėra prieinama, tikėtina, kad veiksmas buvo išjungtas! Įjunkite veiksmą [veiksmo nustatymų](../setting/) meniu. Arba, atstatant visus veiksmus, šis veiksmas vėl taps prieinamas.
+Jei ši veiksmo parinktis nėra prieinama, tikėtina, kad veiksmas buvo išjungtas! Įjunkite veiksmą [veiksmo nustatymų](../settings/) meniu. Arba, atstatant visus veiksmus, šis veiksmas vėl taps prieinamas.
 {{% /alert %}}

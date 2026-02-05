@@ -38,5 +38,5 @@ Hvis gjennomsnittsvekten avviker veldig sterkt i en retning (for høy/for lav), 
 
 
 {{% alert title="Hint" %}}
-Hvis denne handlingen ikke er tilgjengelig, har handlingen sannsynligvis blitt deaktivert! Aktiver handlingen i [handlingsinnstillingene](../setting/) menyen. Alternativt vil tilbakestilling av alle handlinger bringe den handlingen tilbake.
+Hvis denne handlingen ikke er tilgjengelig, har handlingen sannsynligvis blitt deaktivert! Aktiver handlingen i [handlingsinnstillingene](../settings/) menyen. Alternativt vil tilbakestilling av alle handlinger bringe den handlingen tilbake.
 {{% /alert %}}

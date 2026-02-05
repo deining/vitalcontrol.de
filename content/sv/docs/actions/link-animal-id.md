@@ -11,7 +11,7 @@ Taggar: [Nationellt djur-ID]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Varning" color="warning" %}}
-Denna åtgärd är inte aktiverad som standard! Aktivera detta enligt beskrivningen i [åtgärdsinställningar](../setting/).
+Denna åtgärd är inte aktiverad som standard! Aktivera detta enligt beskrivningen i [åtgärdsinställningar](../settings/).
 {{% /alert %}}
 
 ## Länka djur-ID {#link-animal-id}

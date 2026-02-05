@@ -54,5 +54,5 @@ För att ändra djurdata, gör följande:
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Om denna åtgärd inte är tillgänglig har åtgärden förmodligen inaktiverats! Aktivera åtgärden i menyn [action settings](../setting/). Alternativt kommer återställning av alla åtgärder att återställa denna åtgärd.
+Om denna åtgärd inte är tillgänglig har åtgärden förmodligen inaktiverats! Aktivera åtgärden i menyn [action settings](../settings/). Alternativt kommer återställning av alla åtgärder att återställa denna åtgärd.
 {{% /alert %}}

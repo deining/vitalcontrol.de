@@ -30,5 +30,5 @@ blizu. Da biste primijenili akciju `njega novorođenčeta`, postupite na sljede�
     ![VitalControl: Menu Action Newborn care](../images/newborncare.png "Newborn care")
 
 {{% alert title="Hint" %}}
-Ako ova akcija nije dostupna, vjerojatno je akcija deaktivirana! Aktivirajte akciju u izborniku [postavke akcije](../setting/). Alternativno, resetiranje svih akcija će vratiti tu akciju.
+Ako ova akcija nije dostupna, vjerojatno je akcija deaktivirana! Aktivirajte akciju u izborniku [postavke akcije](../settings/). Alternativno, resetiranje svih akcija će vratiti tu akciju.
 {{% /alert %}}

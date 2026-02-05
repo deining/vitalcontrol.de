@@ -61,5 +61,5 @@ Rumena ali rdeča ocena pomeni, da VitalControl žival razvrsti kot opazno in jo
 {{< /tabpane >}}
 
 {{% alert title="Namig" %}}
-Če ta akcija ni na voljo, je verjetno bila deaktivirana! Aktivirajte akcijo v meniju [nastavitve akcij](../setting/). Alternativno bo ponastavitev vseh akcij ponovno omogočila to akcijo.
+Če ta akcija ni na voljo, je verjetno bila deaktivirana! Aktivirajte akcijo v meniju [nastavitve akcij](../settings/). Alternativno bo ponastavitev vseh akcij ponovno omogočila to akcijo.
 {{% /alert %}}

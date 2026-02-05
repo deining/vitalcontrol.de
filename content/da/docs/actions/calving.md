@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Hint" %}}
 Denne funktion vises kun for køer, men ikke for kalve eller lam.
-Hvis du ikke har brug for denne funktion, kan du deaktivere den i [handlingsindstillingerne](../setting/) menuen.
+Hvis du ikke har brug for denne funktion, kan du deaktivere den i [handlingsindstillingerne](../settings/) menuen.
 {{% /alert %}}
 
 ## Registrer en kælvning {#register-a-calving}

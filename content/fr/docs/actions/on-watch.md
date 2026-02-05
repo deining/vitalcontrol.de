@@ -36,5 +36,5 @@ Avec l'action `{{<T "OnWatch" >}}`, vous placez des animaux sur la liste de surv
 {{< /tabpane >}}
 
 {{% alert title="Astuce" %}}
-Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres des actions](../setting/). Alternativement, la réinitialisation de toutes les actions fera réapparaître cette action.
+Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres des actions](../settings/). Alternativement, la réinitialisation de toutes les actions fera réapparaître cette action.
 {{% /alert %}}

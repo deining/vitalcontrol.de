@@ -61,5 +61,5 @@ Om du inte gör ett val med piltangenterna ◁ ▷ men sparar direkt med `F3` el
 {{< /tabpane >}}
 
 {{% alert title="Tips" %}}
-Om denna åtgärd inte är tillgänglig har åtgärden förmodligen blivit avaktiverad! Aktivera åtgärden i menyn [åtgärdsinställningar](../setting/). Alternativt, återställ alla åtgärder för att få tillbaka den åtgärden.
+Om denna åtgärd inte är tillgänglig har åtgärden förmodligen blivit avaktiverad! Aktivera åtgärden i menyn [åtgärdsinställningar](../settings/). Alternativt, återställ alla åtgärder för att få tillbaka den åtgärden.
 {{% /alert %}}

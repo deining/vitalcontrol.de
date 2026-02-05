@@ -11,7 +11,7 @@ tags: [Nasjonal dyre-ID]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Advarsel" color="warning" %}}
-Denne handlingen er ikke aktivert som standard! Aktiver dette som beskrevet i [handlingsinnstillinger](../setting/).
+Denne handlingen er ikke aktivert som standard! Aktiver dette som beskrevet i [handlingsinnstillinger](../settings/).
 {{% /alert %}}
 
 ## Koble dyre-ID {#link-animal-id}

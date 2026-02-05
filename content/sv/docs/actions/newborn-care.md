@@ -30,5 +30,5 @@ nära. För att tillämpa åtgärden `nyföddvård`, gör följande:
     ![VitalControl: Menyåtgärd Nyföddvård](../images/newborncare.png "Nyföddvård")
 
 {{% alert title="Hint" %}}
-Om denna åtgärd inte är tillgänglig har åtgärden förmodligen blivit inaktiverad! Aktivera åtgärden i menyn [åtgärdsinställningar](../setting/). Alternativt kommer en återställning av alla åtgärder att återställa denna åtgärd.
+Om denna åtgärd inte är tillgänglig har åtgärden förmodligen blivit inaktiverad! Aktivera åtgärden i menyn [åtgärdsinställningar](../settings/). Alternativt kommer en återställning av alla åtgärder att återställa denna åtgärd.
 {{% /alert %}}

@@ -37,5 +37,5 @@ Jei vidutinis svoris labai skiriasi viena kryptimi (per didelis/per mažas), rei
 {{< /tabpane >}}
 
 {{% alert title="Patarimas" %}}
-Jei ši veiksmas nėra prieinamas, tikriausiai jis buvo išjungtas! Įjunkite veiksmą [veiksmų nustatymų](../setting/) meniu. Arba, atstatant visus veiksmus, šis veiksmas vėl bus prieinamas.
+Jei ši veiksmas nėra prieinamas, tikriausiai jis buvo išjungtas! Įjunkite veiksmą [veiksmų nustatymų](../settings/) meniu. Arba, atstatant visus veiksmus, šis veiksmas vėl bus prieinamas.
 {{% /alert %}}

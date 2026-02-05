@@ -11,7 +11,7 @@ Sildid: [Rahvuslik looma ID]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Hoiatus" color="warning" %}}
-See toiming ei ole vaikimisi lubatud! Aktiveeri see, nagu kirjeldatud [toimingute seadetes](../setting).
+See toiming ei ole vaikimisi lubatud! Aktiveeri see, nagu kirjeldatud [toimingute seadetes](../settings).
 {{% /alert %}}
 
 ## Looma ID sidumine {#link-animal-id}

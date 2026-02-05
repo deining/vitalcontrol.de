@@ -58,5 +58,5 @@ Ovisno o početnom statusu krave, možete ili osušiti životinju i dodati je na
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Ako ova radnja nije dostupna, vjerovatno je radnja deaktivirana! Aktivirajte radnju u meniju [postavke radnji](../setting). Alternativno, resetovanje svih radnji će vratiti tu radnju.
+Ako ova radnja nije dostupna, vjerovatno je radnja deaktivirana! Aktivirajte radnju u meniju [postavke radnji](../settings). Alternativno, resetovanje svih radnji će vratiti tu radnju.
 {{% /alert %}}

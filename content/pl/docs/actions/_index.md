@@ -33,7 +33,7 @@ W zależności od rodzaju zwierzęcia, możesz wykonać do 16 różnych działa�
    <area shape="rect" coords="175,280,230,337" alt="Przypisanie ID zwierzęcia za pomocą skanu" title="Przypisz krajowy identyfikator zwierzęcia do zwierzęcia, które go nie posiada&#10;Kliknięcie myszą: otwórz dokumentację" href="/pl/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
 
-   <area shape="rect" coords="100,340,140,375" alt="Settings" title="Call up the settings&#10;Mouse click: to the documentation" href="/pl/docs/actions/setting/">
+   <area shape="rect" coords="100,340,140,375" alt="Settings" title="Call up the settings&#10;Mouse click: to the documentation" href="/pl/docs/actions/settings/">
 </map>
 
 {{% alert title="Wskazówka" %}}

@@ -11,7 +11,7 @@ tagit: [Lähetin]
 translationKey: actions/transponder
 ---
 {{% alert title="Varoitus" color="warning" %}}
-Tämä Toiminnat ei ole oletusarvoisesti käytössä! Aktivoi tämä kuten on kuvattu [Toiminnatasetuksissa](../setting/).
+Tämä Toiminnat ei ole oletusarvoisesti käytössä! Aktivoi tämä kuten on kuvattu [Toiminnatasetuksissa](../settings/).
 {{% /alert %}}
 
 ## Linkitä transponderi {#link-transponder}

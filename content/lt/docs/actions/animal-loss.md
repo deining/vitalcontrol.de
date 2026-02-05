@@ -36,5 +36,5 @@ Veiksmas `{{<T "AnimalLoss" >}}` leidžia užregistruoti gyvūno praradimą. Nor
 {{< /tabpane >}}
 
 {{% alert title="Patarimas" %}}
-Jei šis veiksmas nėra prieinamas, veiksmas tikriausiai buvo išjungtas! Aktyvuokite veiksmą [veiksmų nustatymų](../setting/) meniu. Alternatyviai, visų veiksmų atstatymas sugrąžins šį veiksmą.
+Jei šis veiksmas nėra prieinamas, veiksmas tikriausiai buvo išjungtas! Aktyvuokite veiksmą [veiksmų nustatymų](../settings/) meniu. Alternatyviai, visų veiksmų atstatymas sugrąžins šį veiksmą.
 {{% /alert %}}

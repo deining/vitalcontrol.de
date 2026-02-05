@@ -36,5 +36,5 @@ Tegevusega `{{<T "OnWatch" >}}` paned loomad valvele või eemaldad nad sealt. Va
 {{< /tabpane >}}
 
 {{% alert title="Vihje" %}}
-Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveeri tegevus [tegevuste seadistuste](../setting/) menüüs. Alternatiivselt, kõikide tegevuste taastamine toob selle tegevuse tagasi.
+Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveeri tegevus [tegevuste seadistuste](../settings/) menüüs. Alternatiivselt, kõikide tegevuste taastamine toob selle tegevuse tagasi.
 {{% /alert %}}

@@ -60,5 +60,5 @@ Si vous ne faites pas de sélection en utilisant les touches fléchées ◁ ▷ 
 {{< /tabpane >}}
 
 {{% alert title="Astuce" %}}
-Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres des actions](../setting/). Alternativement, la réinitialisation de toutes les actions fera réapparaître cette action.
+Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres des actions](../settings/). Alternativement, la réinitialisation de toutes les actions fera réapparaître cette action.
 {{% /alert %}}

@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Dica" %}}
 Esta função é exibida apenas para vacas, mas não para bezerros ou cordeiros.
-Se você não precisar desta função, pode desativá-la no menu de [configurações de ação](../setting/).
+Se você não precisar desta função, pode desativá-la no menu de [configurações de ação](../settings/).
 {{% /alert %}}
 
 ## Registrar um parto {#register-a-calving}

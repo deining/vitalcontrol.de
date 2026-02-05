@@ -39,5 +39,5 @@ Akcija `{{<T "Unregister" >}}` vam omogućava da odjavite životinju čim se pre
 {{< /tabpane >}}
 
 {{% alert title="Savjet" %}}
-Ako ova akcija nije dostupna, vjerovatno je deaktivirana! Aktivirajte akciju u meniju [postavke akcije](../setting/). Alternativno, resetovanje svih akcija će vratiti tu akciju.
+Ako ova akcija nije dostupna, vjerovatno je deaktivirana! Aktivirajte akciju u meniju [postavke akcije](../settings/). Alternativno, resetovanje svih akcija će vratiti tu akciju.
 {{% /alert %}}

@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Hint" %}}
 Denne funksjonen vises kun for kyr, men ikke for kalver eller lam.
-Hvis du ikke trenger denne funksjonen, kan du deaktivere den i [handlingsinnstillingene](../setting/) menyen.
+Hvis du ikke trenger denne funksjonen, kan du deaktivere den i [handlingsinnstillingene](../settings/) menyen.
 {{% /alert %}}
 
 ## Registrer en kalving {#register-a-calving}

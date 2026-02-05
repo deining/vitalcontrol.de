@@ -38,5 +38,5 @@ Dacă greutatea medie deviază foarte mult într-o direcție (prea mare/prea mic
 
 
 {{% alert title="Sfat" %}}
-Dacă această acțiune nu este disponibilă, probabil că a fost dezactivată! Activați acțiunea în meniul [setări acțiune](../setting/). Alternativ, resetarea tuturor acțiunilor va readuce acea acțiune.
+Dacă această acțiune nu este disponibilă, probabil că a fost dezactivată! Activați acțiunea în meniul [setări acțiune](../settings/). Alternativ, resetarea tuturor acțiunilor va readuce acea acțiune.
 {{% /alert %}}

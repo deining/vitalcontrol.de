@@ -30,5 +30,5 @@ blisko. Aby zastosować akcję `opieka nad noworodkiem`, postępuj zgodnie z pon
     ![VitalControl: Menu Action Newborn care](../images/newborncare.png "Opieka nad noworodkiem")
 
 {{% alert title="Wskazówka" %}}
-Jeśli ta akcja nie jest dostępna, prawdopodobnie została dezaktywowana! Aktywuj akcję w menu [ustawienia akcji](../setting/). Alternatywnie, zresetowanie wszystkich akcji przywróci tę akcję.
+Jeśli ta akcja nie jest dostępna, prawdopodobnie została dezaktywowana! Aktywuj akcję w menu [ustawienia akcji](../settings/). Alternatywnie, zresetowanie wszystkich akcji przywróci tę akcję.
 {{% /alert %}}

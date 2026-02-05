@@ -11,7 +11,7 @@ tags: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Brīdinājums" color="warning" %}}
-Šī darbība nav iespējota pēc noklusējuma! Aktivizējiet to, kā aprakstīts [darbības iestatījumā](../setting/).
+Šī darbība nav iespējota pēc noklusējuma! Aktivizējiet to, kā aprakstīts [darbības iestatījumā](../settings/).
 {{% /alert %}}
 
 ## Atvienot transponderu {#unlink-transponder}

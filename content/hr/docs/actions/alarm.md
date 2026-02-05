@@ -37,5 +37,5 @@ S akcijom `{{<T "Alarm" >}}` stavljate životinje na popis alarma ili ih uklanja
 
 
 {{% alert title="Savjet" %}}
-Ako ova akcija nije dostupna, vjerojatno je deaktivirana! Aktivirajte akciju u izborniku [postavke akcije](../setting/). Alternativno, resetiranje svih akcija će vratiti tu akciju.
+Ako ova akcija nije dostupna, vjerojatno je deaktivirana! Aktivirajte akciju u izborniku [postavke akcije](../settings/). Alternativno, resetiranje svih akcija će vratiti tu akciju.
 {{% /alert %}}

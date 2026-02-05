@@ -58,5 +58,5 @@ Glede na začetni status krave lahko žival posušite in jo dodate na seznam su�
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Če to dejanje ni na voljo, je verjetno bilo deaktivirano! Aktivirajte dejanje v meniju [nastavitve dejanj](../setting). Alternativno bo ponastavitev vseh dejanj ponovno prikazala to dejanje.
+Če to dejanje ni na voljo, je verjetno bilo deaktivirano! Aktivirajte dejanje v meniju [nastavitve dejanj](../settings). Alternativno bo ponastavitev vseh dejanj ponovno prikazala to dejanje.
 {{% /alert %}}

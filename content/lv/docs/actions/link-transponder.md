@@ -11,7 +11,7 @@ tags: [Transponderis]
 translationKey: actions/transponder
 ---
 {{% alert title="Brīdinājums" color="warning" %}}
-Šī darbība pēc noklusējuma nav iespējota! Aktivizējiet to, kā aprakstīts [darbības iestatījumos](../setting/).
+Šī darbība pēc noklusējuma nav iespējota! Aktivizējiet to, kā aprakstīts [darbības iestatījumos](../settings/).
 {{% /alert %}}
 
 ## Savienot transponderi {#link-transponder}

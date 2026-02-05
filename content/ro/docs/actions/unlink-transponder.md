@@ -11,7 +11,7 @@ etichete: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Avertisment" color="warning" %}}
-Această acțiune nu este activată în mod implicit! Activați aceasta așa cum este descris în [setarea acțiunii](../setting/).
+Această acțiune nu este activată în mod implicit! Activați aceasta așa cum este descris în [setarea acțiunii](../settings/).
 {{% /alert %}}
 
 ## Deconectează transponderul {#unlink-transponder}

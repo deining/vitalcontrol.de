@@ -36,5 +36,5 @@ Handlingen `{{<T "AnimalLoss" >}}` giver dig mulighed for at registrere et dyret
 {{< /tabpane >}}
 
 {{% alert title="Tip" %}}
-Hvis denne handling ikke er tilgængelig, er handlingen sandsynligvis blevet deaktiveret! Aktivér handlingen i [handlingsindstillingerne](../setting/) menuen. Alternativt vil nulstilling af alle handlinger bringe denne handling tilbage.
+Hvis denne handling ikke er tilgængelig, er handlingen sandsynligvis blevet deaktiveret! Aktivér handlingen i [handlingsindstillingerne](../settings/) menuen. Alternativt vil nulstilling af alle handlinger bringe denne handling tilbage.
 {{% /alert %}}

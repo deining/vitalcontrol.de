@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Sugestie" %}}
 Această funcție este afișată doar pentru vaci, nu și pentru viței sau miei.
-Dacă nu aveți nevoie de această funcție, o puteți dezactiva în meniul [setări acțiuni](../setting/).
+Dacă nu aveți nevoie de această funcție, o puteți dezactiva în meniul [setări acțiuni](../settings/).
 {{% /alert %}}
 
 ## Înregistrare fătare {#register-a-calving}

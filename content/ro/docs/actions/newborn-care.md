@@ -30,5 +30,5 @@ aproape. Pentru a aplica acțiunea `îngrijirea nou-născutului`, procedați dup
     ![VitalControl: Meniu Acțiune Îngrijirea nou-născutului](../images/newborncare.png "Îngrijirea nou-născutului")
 
 {{% alert title="Sfat" %}}
-Dacă această acțiune nu este disponibilă, probabil acțiunea a fost dezactivată! Activați acțiunea în meniul [setări acțiuni](../setting/). Alternativ, resetarea tuturor acțiunilor va readuce acea acțiune.
+Dacă această acțiune nu este disponibilă, probabil acțiunea a fost dezactivată! Activați acțiunea în meniul [setări acțiuni](../settings/). Alternativ, resetarea tuturor acțiunilor va readuce acea acțiune.
 {{% /alert %}}

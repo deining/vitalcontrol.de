@@ -94,5 +94,5 @@ Hvis temperaturen er i det gule område ("forhøjet") eller røde område ("febe
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Cancel the action")
 
 {{% alert title="Hint" %}}
-Hvis denne handling ikke er tilgængelig, er handlingen sandsynligvis blevet deaktiveret! Aktivér handlingen i [handlingsindstillingerne](../setting/) menuen. Alternativt vil nulstilling af alle handlinger bringe denne handling tilbage.
+Hvis denne handling ikke er tilgængelig, er handlingen sandsynligvis blevet deaktiveret! Aktivér handlingen i [handlingsindstillingerne](../settings/) menuen. Alternativt vil nulstilling af alle handlinger bringe denne handling tilbage.
 {{% /alert %}}

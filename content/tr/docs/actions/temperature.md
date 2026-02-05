@@ -92,5 +92,5 @@ Sıcaklık sarı alanda ("yükselmiş") veya kırmızı alanda ("ateş") ise, Vi
     ![VitalControl: Menü Eylemleri Eylemi iptal et](../images/saveresults.png "Eylemi iptal et")
 
 {{% alert title="İpucu" %}}
-Bu eylem mevcut değilse, eylem muhtemelen devre dışı bırakılmıştır! Eylemi [eylem ayarları](../setting/) menüsünde etkinleştirin. Alternatif olarak, tüm eylemleri sıfırlamak bu eylemi geri getirecektir.
+Bu eylem mevcut değilse, eylem muhtemelen devre dışı bırakılmıştır! Eylemi [eylem ayarları](../settings/) menüsünde etkinleştirin. Alternatif olarak, tüm eylemleri sıfırlamak bu eylemi geri getirecektir.
 {{% /alert %}}

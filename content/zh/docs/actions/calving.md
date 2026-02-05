@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="提示" %}}
 此功能僅顯示於母牛，不適用於小牛或羔羊。
-如果您不需要此功能，可以在[動作設定](../setting/)選單中停用。
+如果您不需要此功能，可以在[動作設定](../settings/)選單中停用。
 {{% /alert %}}
 
 ## 登記分娩 {#register-a-calving}

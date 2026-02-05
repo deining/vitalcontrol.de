@@ -33,7 +33,7 @@ Dependendo do tipo de animal, você pode realizar até 16 ações diferentes par
    <area shape="rect" coords="175,280,230,337" alt="Vincular ID do animal com escaneamento" title="Atribuir um ID nacional de animal a um animal que não possui um ID nacional de animal&#10;Clique do mouse: abrir documentação" href="/pt/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
 
-   <area shape="rect" coords="100,340,140,375" alt="Configurações" title="Chamar as configurações&#10;Clique do mouse: para a documentação" href="/pt/docs/actions/setting/">
+   <area shape="rect" coords="100,340,140,375" alt="Configurações" title="Chamar as configurações&#10;Clique do mouse: para a documentação" href="/pt/docs/actions/settings/">
 </map>
 
 {{% alert title="Dica" %}}

@@ -33,7 +33,7 @@ maphilight: true
    <area shape="rect" coords="175,280,230,337" alt="Asociere ID animal cu scanare" title="Asociați un ID național unui animal care nu are un ID național&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
 
-   <area shape="rect" coords="100,340,140,375" alt="Setări" title="Accesați setările&#10;Click mouse: către documentație" href="/ro/docs/actions/setting/">
+   <area shape="rect" coords="100,340,140,375" alt="Setări" title="Accesați setările&#10;Click mouse: către documentație" href="/ro/docs/actions/settings/">
 </map>
 
 {{% alert title="Sfat" %}}

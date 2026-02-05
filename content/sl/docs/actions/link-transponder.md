@@ -11,7 +11,7 @@ tags: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Opozorilo" color="warning" %}}
-Ta akcija ni privzeto omogočena! Aktivirajte jo, kot je opisano v [nastavitvah akcij](../setting/).
+Ta akcija ni privzeto omogočena! Aktivirajte jo, kot je opisano v [nastavitvah akcij](../settings/).
 {{% /alert %}}
 
 ## Povezava transponderja {#link-transponder}

@@ -42,5 +42,5 @@ Norėdami peržiūrėti gyvūnų istoriją, atlikite šiuos veiksmus:
 {{< /tabpane >}}
 
 {{% alert title="Patarimas" %}}
-Jei šis veiksmas nėra prieinamas, veiksmas tikriausiai buvo išjungtas! Aktyvuokite veiksmą [veiksmų nustatymų](../setting/) meniu. Arba, atstatant visus veiksmus, šis veiksmas vėl bus prieinamas.
+Jei šis veiksmas nėra prieinamas, veiksmas tikriausiai buvo išjungtas! Aktyvuokite veiksmą [veiksmų nustatymų](../settings/) meniu. Arba, atstatant visus veiksmus, šis veiksmas vėl bus prieinamas.
 {{% /alert %}}

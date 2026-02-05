@@ -11,7 +11,7 @@ tags: [Nacionalni ID životinje]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Upozorenje" color="warning" %}}
-Ova akcija nije omogućena po defaultu! Aktivirajte je kako je opisano u [postavkama akcije](../setting/).
+Ova akcija nije omogućena po defaultu! Aktivirajte je kako je opisano u [postavkama akcije](../settings/).
 {{% /alert %}}
 
 ## Poveži ID životinje {#link-animal-id}

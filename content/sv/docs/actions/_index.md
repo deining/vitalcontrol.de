@@ -33,7 +33,7 @@ Beroende på djurtypen kan du utföra upp till 16 olika åtgärder för ett djur
    <area shape="rect" coords="175,280,230,337" alt="Länka djur-ID med skanning" title="Tilldela ett nationellt djur-ID till ett djur som inte har ett nationellt djur-ID&#10;Mus klick: öppna dokumentation" href="/sv/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
 
-   <area shape="rect" coords="100,340,140,375" alt="Inställningar" title="Öppna inställningarna&#10;Mus klick: till dokumentationen" href="/sv/docs/actions/setting/">
+   <area shape="rect" coords="100,340,140,375" alt="Inställningar" title="Öppna inställningarna&#10;Mus klick: till dokumentationen" href="/sv/docs/actions/settings/">
 </map>
 
 {{% alert title="Tips" %}}

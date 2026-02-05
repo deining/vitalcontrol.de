@@ -32,7 +32,7 @@ maphilight: true
    <area shape="rect" coords="175,280,230,337" alt="Link animal ID with scan" title="為沒有國家動物 ID 的動物分配一個國家動物 ID&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
 
-<area shape="rect" coords="100,340,140,375" alt="設定" title="呼叫設定&#10;滑鼠點擊：前往文件" href="/zh/docs/actions/setting/">
+<area shape="rect" coords="100,340,140,375" alt="設定" title="呼叫設定&#10;滑鼠點擊：前往文件" href="/zh/docs/actions/settings/">
 </map>
 
 {{% alert title="提示" %}}

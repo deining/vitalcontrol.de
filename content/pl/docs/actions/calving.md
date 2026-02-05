@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Wskazówka" %}}
 Ta funkcja jest wyświetlana tylko dla krów, ale nie dla cieląt ani jagniąt.
-Jeśli nie potrzebujesz tej funkcji, możesz ją dezaktywować w menu [ustawienia akcji](../setting/).
+Jeśli nie potrzebujesz tej funkcji, możesz ją dezaktywować w menu [ustawienia akcji](../settings/).
 {{% /alert %}}
 
 ## Zarejestruj wycielenie {#register-a-calving}

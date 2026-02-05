@@ -32,7 +32,7 @@ Glede na vrsto živali lahko izvedete do 16 različnih dejanj na živali.
    <area shape="rect" coords="120,280,175,337" alt="Ročna povezava ID živali" title="Dodelitev nacionalnega ID živali živali, ki nima nacionalnega ID živali&#10;Klik z miško: odpri dokumentacijo" href="/sl/docs/actions/link-animal-id/#link-animal-id">
    <area shape="rect" coords="175,280,230,337" alt="Povezava ID živali s skeniranjem" title="Dodelitev nacionalnega ID živali živali, ki nima nacionalnega ID živali&#10;Klik z miško: odpri dokumentacijo" href="/sl/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
-<area shape="rect" coords="100,340,140,375" alt="Settings" title="Call up the settings&#10;Mouse click: to the documentation" href="/sl/docs/actions/setting/">
+<area shape="rect" coords="100,340,140,375" alt="Settings" title="Call up the settings&#10;Mouse click: to the documentation" href="/sl/docs/actions/settings/">
 </map>
 
 {{% alert title="Hint" %}}

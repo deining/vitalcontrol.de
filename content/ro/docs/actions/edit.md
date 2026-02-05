@@ -54,5 +54,5 @@ Pentru a schimba datele animalului, urmează pașii de mai jos:
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Dacă această acțiune nu este disponibilă, probabil că a fost dezactivată! Activați acțiunea în meniul [setări acțiuni](../setting/). Alternativ, resetarea tuturor acțiunilor va readuce această acțiune.
+Dacă această acțiune nu este disponibilă, probabil că a fost dezactivată! Activați acțiunea în meniul [setări acțiuni](../settings/). Alternativ, resetarea tuturor acțiunilor va readuce această acțiune.
 {{% /alert %}}

@@ -11,7 +11,7 @@ címkék: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Figyelem" color="warning" %}}
-Ez a művelet alapértelmezés szerint nincs engedélyezve! Aktiválja ezt a [műveleti beállítások](../setting/) leírása szerint.
+Ez a művelet alapértelmezés szerint nincs engedélyezve! Aktiválja ezt a [műveleti beállítások](../settings/) leírása szerint.
 {{% /alert %}}
 
 ## Link transponder {#link-transponder}

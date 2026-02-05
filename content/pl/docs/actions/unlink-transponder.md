@@ -11,7 +11,7 @@ tagi: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Ostrzeżenie" color="warning" %}}
-Ta akcja nie jest domyślnie włączona! Aktywuj ją zgodnie z opisem w [ustawieniach akcji](../setting/).
+Ta akcja nie jest domyślnie włączona! Aktywuj ją zgodnie z opisem w [ustawieniach akcji](../settings/).
 {{% /alert %}}
 
 ## Odłącz transponder {#unlink-transponder}

@@ -58,5 +58,5 @@ Atkarībā no govs sākotnējā statusa, jūs varat vai nu nosusināt dzīvnieku
 {{< /tabpane >}}
 
 {{% alert title="Padoms" %}}
-Ja šī darbība nav pieejama, iespējams, ka darbība ir deaktivizēta! Aktivizējiet darbību [darbību iestatījumu](../setting) izvēlnē. Alternatīvi, visu darbību atiestatīšana atjaunos šo darbību.
+Ja šī darbība nav pieejama, iespējams, ka darbība ir deaktivizēta! Aktivizējiet darbību [darbību iestatījumu](../settings) izvēlnē. Alternatīvi, visu darbību atiestatīšana atjaunos šo darbību.
 {{% /alert %}}

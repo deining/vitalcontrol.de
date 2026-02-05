@@ -11,7 +11,7 @@ tags: [晶片]
 translationKey: actions/transponder
 ---
 {{% alert title="警告" color="warning" %}}
-此操作預設未啟用！請按照[操作設定](../setting/)中的說明啟用。
+此操作預設未啟用！請按照[操作設定](../settings/)中的說明啟用。
 {{% /alert %}}
 
 ## 連結晶片 {#link-transponder}

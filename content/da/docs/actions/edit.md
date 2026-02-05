@@ -54,5 +54,5 @@ For at ændre dyredata, skal du gøre følgende:
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Hvis denne handling ikke er tilgængelig, er handlingen sandsynligvis blevet deaktiveret! Aktivér handlingen i [handlingsindstillinger](../setting/) menuen. Alternativt vil nulstilling af alle handlinger bringe denne handling tilbage.
+Hvis denne handling ikke er tilgængelig, er handlingen sandsynligvis blevet deaktiveret! Aktivér handlingen i [handlingsindstillinger](../settings/) menuen. Alternativt vil nulstilling af alle handlinger bringe denne handling tilbage.
 {{% /alert %}}

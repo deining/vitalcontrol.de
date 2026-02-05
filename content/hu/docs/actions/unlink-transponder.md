@@ -11,7 +11,7 @@ címkék: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Figyelem" color="warning" %}}
-Ez a művelet alapértelmezés szerint nincs engedélyezve! Aktiválja ezt a [művelet beállítás](../setting/) leírása szerint.
+Ez a művelet alapértelmezés szerint nincs engedélyezve! Aktiválja ezt a [művelet beállítás](../settings/) leírása szerint.
 {{% /alert %}}
 
 ## Transzponder leválasztása {#unlink-transponder}

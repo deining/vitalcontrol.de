@@ -33,7 +33,7 @@ Avhengig av dyretypen kan du utføre opptil 16 forskjellige handlinger for et dy
    <area shape="rect" coords="175,280,230,337" alt="Koble dyre-ID med skanning" title="Tildel en nasjonal dyre-ID til et dyr som ikke har en nasjonal dyre-ID&#10;Museklikk: åpne dokumentasjon" href="/no/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
 
-   <area shape="rect" coords="100,340,140,375" alt="Innstillinger" title="Åpne innstillingene&#10;Museklikk: til dokumentasjonen" href="/no/docs/actions/setting/">
+   <area shape="rect" coords="100,340,140,375" alt="Innstillinger" title="Åpne innstillingene&#10;Museklikk: til dokumentasjonen" href="/no/docs/actions/settings/">
 </map>
 
 {{% alert title="Hint" %}}

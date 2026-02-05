@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Namig" %}}
 Ta funkcija je prikazana samo za krave, ne pa za teleta ali jagnjeta.
-Če te funkcije ne potrebujete, jo lahko deaktivirate v meniju [nastavitve akcij](../setting/).
+Če te funkcije ne potrebujete, jo lahko deaktivirate v meniju [nastavitve akcij](../settings/).
 {{% /alert %}}
 
 ## Registracija telitve {#register-a-calving}

@@ -92,5 +92,5 @@ Ako je temperatura u žutom području ("povišena") ili crvenom području ("groz
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Cancel the action")
 
 {{% alert title="Hint" %}}
-Ako ova akcija nije dostupna, vjerovatno je deaktivirana! Aktivirajte akciju u meniju [postavke akcije](../setting/). Alternativno, resetovanje svih akcija će vratiti tu akciju.
+Ako ova akcija nije dostupna, vjerovatno je deaktivirana! Aktivirajte akciju u meniju [postavke akcije](../settings/). Alternativno, resetovanje svih akcija će vratiti tu akciju.
 {{% /alert %}}

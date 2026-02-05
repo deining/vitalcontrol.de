@@ -38,5 +38,5 @@ Uporabite dejanje &nbsp;<img src="/icons/actions/weight.svg" width="20" align="b
 
 
 {{% alert title="Namig" %}}
-Če ta akcija ni na voljo, je verjetno bila deaktivirana! Aktivirajte akcijo v meniju [nastavitve akcij](../setting/). Alternativno, ponastavitev vseh akcij bo ponovno omogočila to akcijo.
+Če ta akcija ni na voljo, je verjetno bila deaktivirana! Aktivirajte akcijo v meniju [nastavitve akcij](../settings/). Alternativno, ponastavitev vseh akcij bo ponovno omogočila to akcijo.
 {{% /alert %}}

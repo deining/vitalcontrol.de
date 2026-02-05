@@ -58,5 +58,5 @@ Priklausomai nuo pradinės karvės būklės, galite arba nusausinti gyvūną ir 
 {{< /tabpane >}}
 
 {{% alert title="Patarimas" %}}
-Jei šis veiksmas nėra prieinamas, veiksmas tikriausiai buvo išjungtas! Aktyvuokite veiksmą [veiksmų nustatymų](../setting) meniu. Arba, atstatant visus veiksmus, šis veiksmas vėl bus prieinamas.
+Jei šis veiksmas nėra prieinamas, veiksmas tikriausiai buvo išjungtas! Aktyvuokite veiksmą [veiksmų nustatymų](../settings) meniu. Arba, atstatant visus veiksmus, šis veiksmas vėl bus prieinamas.
 {{% /alert %}}

@@ -11,7 +11,7 @@ tags: [Nationaal dier-ID]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Waarschuwing" color="warning" %}}
-Deze actie is standaard niet ingeschakeld! Activeer dit zoals beschreven in [actie-instellingen](../setting/).
+Deze actie is standaard niet ingeschakeld! Activeer dit zoals beschreven in [actie-instellingen](../settings/).
 {{% /alert %}}
 
 ## Link dier ID {#link-animal-id}

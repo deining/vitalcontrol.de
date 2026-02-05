@@ -11,7 +11,7 @@ tags: [國家動物 ID]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="警告" color="warning" %}}
-此操作預設未啟用！請按照[操作設定](../setting/)中的說明啟用此功能。
+此操作預設未啟用！請按照[操作設定](../settings/)中的說明啟用此功能。
 {{% /alert %}}
 
 ## 連結動物 ID {#link-animal-id}

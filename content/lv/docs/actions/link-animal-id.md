@@ -11,7 +11,7 @@ tags: [Nacionālais dzīvnieka ID]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Brīdinājums" color="warning" %}}
-Šī darbība pēc noklusējuma nav iespējota! Aktivizējiet to, kā aprakstīts [darbības iestatījumos](../setting/).
+Šī darbība pēc noklusējuma nav iespējota! Aktivizējiet to, kā aprakstīts [darbības iestatījumos](../settings/).
 {{% /alert %}}
 
 ## Piesaistīt dzīvnieka ID {#link-animal-id}

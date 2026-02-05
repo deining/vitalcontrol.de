@@ -42,5 +42,5 @@ Pentru a vizualiza istoricul animalului, procedați după cum urmează:
 {{< /tabpane >}}
 
 {{% alert title="Sfat" %}}
-Dacă această acțiune nu este disponibilă, probabil că acțiunea a fost dezactivată! Activați acțiunea în meniul [setări acțiune](../setting/). Alternativ, resetarea tuturor acțiunilor va readuce acea acțiune.
+Dacă această acțiune nu este disponibilă, probabil că acțiunea a fost dezactivată! Activați acțiunea în meniul [setări acțiune](../settings/). Alternativ, resetarea tuturor acțiunilor va readuce acea acțiune.
 {{% /alert %}}

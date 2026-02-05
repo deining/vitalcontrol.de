@@ -33,7 +33,7 @@ Hayvan türüne bağlı olarak, bir hayvan için 16 farklı işlem gerçekleşti
    <area shape="rect" coords="175,280,230,337" alt="Tarama ile hayvan kimliğini bağla" title="Ulusal hayvan kimliği olmayan bir hayvana ulusal hayvan kimliği atayın&#10;Fare tıklaması: belgeleri aç" href="/tr/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
 
-   <area shape="rect" coords="100,340,140,375" alt="Ayarlar" title="Ayarları aç&#10;Fare tıklaması: belgeler" href="/tr/docs/actions/setting/">
+   <area shape="rect" coords="100,340,140,375" alt="Ayarlar" title="Ayarları aç&#10;Fare tıklaması: belgeler" href="/tr/docs/actions/settings/">
 </map>
 
 {{% alert title="İpucu" %}}

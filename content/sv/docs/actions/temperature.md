@@ -94,5 +94,5 @@ Om temperaturen är i det gula området ("förhöjd") eller röda området ("feb
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Cancel the action")
 
 {{% alert title="Hint" %}}
-Om denna åtgärd inte är tillgänglig har åtgärden förmodligen inaktiverats! Aktivera åtgärden i menyn [action settings](../setting/). Alternativt kommer en återställning av alla åtgärder att återställa denna åtgärd.
+Om denna åtgärd inte är tillgänglig har åtgärden förmodligen inaktiverats! Aktivera åtgärden i menyn [action settings](../settings/). Alternativt kommer en återställning av alla åtgärder att återställa denna åtgärd.
 {{% /alert %}}

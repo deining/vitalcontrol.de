@@ -11,7 +11,7 @@ tags: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Opozorilo" color="warning" %}}
-Ta akcija ni privzeto omogočena! Aktivirajte to, kot je opisano v [nastavitvah akcije](../setting/).
+Ta akcija ni privzeto omogočena! Aktivirajte to, kot je opisano v [nastavitvah akcije](../settings/).
 {{% /alert %}}
 
 ## Odstrani povezavo transponderja {#unlink-transponder}

@@ -11,7 +11,7 @@ etiquetas: [ID nacional de animal]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Advertencia" color="warning" %}}
-¡Esta acción no está habilitada por defecto! Actívala como se describe en [configuración de acciones](../setting/).
+¡Esta acción no está habilitada por defecto! Actívala como se describe en [configuración de acciones](../settings/).
 {{% /alert %}}
 
 ## Vincular ID del animal {#link-animal-id}

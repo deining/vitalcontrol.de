@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Vihje" %}}
 See funktsioon kuvatakse ainult lehmadele, mitte vasikatele või talledele.
-Kui te seda funktsiooni ei vaja, saate selle deaktiveerida [tegevuste seadistuste](../setting/) menüüs.
+Kui te seda funktsiooni ei vaja, saate selle deaktiveerida [tegevuste seadistuste](../settings/) menüüs.
 {{% /alert %}}
 
 ## Registreeri poegimine {#register-a-calving}

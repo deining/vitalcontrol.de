@@ -53,5 +53,5 @@ Aby zmienić dane zwierzęcia, postępuj w następujący sposób:
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Jeśli ta akcja nie jest dostępna, prawdopodobnie została dezaktywowana! Aktywuj akcję w menu [ustawienia akcji](../setting/). Alternatywnie, zresetowanie wszystkich akcji przywróci tę akcję.
+Jeśli ta akcja nie jest dostępna, prawdopodobnie została dezaktywowana! Aktywuj akcję w menu [ustawienia akcji](../settings/). Alternatywnie, zresetowanie wszystkich akcji przywróci tę akcję.
 {{% /alert %}}

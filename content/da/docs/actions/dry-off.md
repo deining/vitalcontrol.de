@@ -58,5 +58,5 @@ Afhængigt af koens oprindelige status kan du enten tørre dyret af og tilføje 
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Hvis denne handling ikke er tilgængelig, er handlingen sandsynligvis blevet deaktiveret! Aktiver handlingen i [handlingsindstillinger](../setting) menuen. Alternativt vil nulstilling af alle handlinger bringe denne handling tilbage.
+Hvis denne handling ikke er tilgængelig, er handlingen sandsynligvis blevet deaktiveret! Aktiver handlingen i [handlingsindstillinger](../settings) menuen. Alternativt vil nulstilling af alle handlinger bringe denne handling tilbage.
 {{% /alert %}}

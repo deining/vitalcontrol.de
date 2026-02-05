@@ -40,5 +40,5 @@ Så snart du raderar djurets dataregister är det inte längre tillgängligt fö
 
 
 {{% alert title="Tips" %}}
-Om denna åtgärd inte är tillgänglig har åtgärden förmodligen blivit avaktiverad! Aktivera åtgärden i menyn [åtgärdsinställningar](../setting/). Alternativt kan du återställa alla åtgärder för att få tillbaka den åtgärden.
+Om denna åtgärd inte är tillgänglig har åtgärden förmodligen blivit avaktiverad! Aktivera åtgärden i menyn [åtgärdsinställningar](../settings/). Alternativt kan du återställa alla åtgärder för att få tillbaka den åtgärden.
 {{% /alert %}}

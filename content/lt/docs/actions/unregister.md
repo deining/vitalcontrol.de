@@ -40,5 +40,5 @@ Veiksmas `{{<T "Unregister" >}}` leidžia išregistruoti gyvūną, kai tik jis y
 
 
 {{% alert title="Patarimas" %}}
-Jei ši veiksmo parinktis nėra prieinama, veiksmas tikriausiai buvo išjungtas! Aktyvuokite veiksmą [veiksmo nustatymų](../setting/) meniu. Arba, atstatant visus veiksmus, šis veiksmas vėl bus prieinamas.
+Jei ši veiksmo parinktis nėra prieinama, veiksmas tikriausiai buvo išjungtas! Aktyvuokite veiksmą [veiksmo nustatymų](../settings/) meniu. Arba, atstatant visus veiksmus, šis veiksmas vėl bus prieinamas.
 {{% /alert %}}

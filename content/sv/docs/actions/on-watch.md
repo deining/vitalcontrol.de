@@ -36,7 +36,7 @@ Med åtgärden `{{<T "OnWatch" >}}` sätter du djur på bevakningslistan eller t
 {{< /tabpane >}}
 
 {{% alert title="Tips" %}}
-Om denna åtgärd inte är tillgänglig, har åtgärden förmodligen blivit avaktiverad! Aktivera åtgärden i menyn [åtgärdsinställningar](../setting/). Alternativt, återställ alla åtgärder för att få tillbaka den åtgärden.
+Om denna åtgärd inte är tillgänglig, har åtgärden förmodligen blivit avaktiverad! Aktivera åtgärden i menyn [åtgärdsinställningar](../settings/). Alternativt, återställ alla åtgärder för att få tillbaka den åtgärden.
 {{% /alert %}}
 
 

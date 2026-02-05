@@ -31,7 +31,7 @@ Atkarībā no dzīvnieka veida, jūs varat veikt līdz 16 dažādām darbībām 
    <area shape="rect" coords="120,280,175,337" alt="Piesaistīt dzīvnieka ID manuāli" title="Piesaistīt nacionālo dzīvnieka ID dzīvniekam, kuram nav nacionālā dzīvnieka ID&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/link-animal-id/#link-animal-id">
    <area shape="rect" coords="175,280,230,337" alt="Piesaistīt dzīvnieka ID ar skenēšanu" title="Piesaistīt nacionālo dzīvnieka ID dzīvniekam, kuram nav nacionālā dzīvnieka ID&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
-<area shape="rect" coords="100,340,140,375" alt="Iestatījumi" title="Iestatījumu izsaukšana&#10;Peles klikšķis: uz dokumentāciju" href="/lv/docs/actions/setting/">
+<area shape="rect" coords="100,340,140,375" alt="Iestatījumi" title="Iestatījumu izsaukšana&#10;Peles klikšķis: uz dokumentāciju" href="/lv/docs/actions/settings/">
 </map>
 
 {{% alert title="Padoms" %}}

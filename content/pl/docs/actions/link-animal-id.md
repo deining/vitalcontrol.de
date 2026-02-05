@@ -11,7 +11,7 @@ tagi: [Krajowy identyfikator zwierzęcia]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Ostrzeżenie" color="warning" %}}
-Ta akcja nie jest domyślnie włączona! Aktywuj ją zgodnie z opisem w [ustawieniach akcji](../setting/).
+Ta akcja nie jest domyślnie włączona! Aktywuj ją zgodnie z opisem w [ustawieniach akcji](../settings/).
 {{% /alert %}}
 
 ## Powiąż identyfikator zwierzęcia {#link-animal-id}

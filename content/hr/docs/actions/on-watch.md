@@ -36,7 +36,7 @@ S akcijom `{{<T "OnWatch" >}}` stavljate životinje na listu za promatranje ili 
 {{< /tabpane >}}
 
 {{% alert title="Savjet" %}}
-Ako ova akcija nije dostupna, vjerojatno je deaktivirana! Aktivirajte akciju u izborniku [postavke akcija](../setting/). Alternativno, resetiranje svih akcija će ponovno omogućiti tu akciju.
+Ako ova akcija nije dostupna, vjerojatno je deaktivirana! Aktivirajte akciju u izborniku [postavke akcija](../settings/). Alternativno, resetiranje svih akcija će ponovno omogućiti tu akciju.
 {{% /alert %}}
 
 

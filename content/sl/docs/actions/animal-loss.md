@@ -36,5 +36,5 @@ Dejanje `{{<T "AnimalLoss" >}}` vam omogoča registracijo izgube živali. Za reg
 {{< /tabpane >}}
 
 {{% alert title="Namig" %}}
-Če to dejanje ni na voljo, je verjetno bilo deaktivirano! Aktivirajte dejanje v meniju [nastavitve dejanj](../setting/). Alternativno, ponastavitev vseh dejanj bo ponovno omogočila to dejanje.
+Če to dejanje ni na voljo, je verjetno bilo deaktivirano! Aktivirajte dejanje v meniju [nastavitve dejanj](../settings/). Alternativno, ponastavitev vseh dejanj bo ponovno omogočila to dejanje.
 {{% /alert %}}

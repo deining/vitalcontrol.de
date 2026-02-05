@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Padoms" %}}
 Šī funkcija tiek parādīta tikai govīm, bet ne teļiem vai jēriem.
-Ja jums šī funkcija nav nepieciešama, varat to deaktivizēt [darbības iestatījumu](../setting/) izvēlnē.
+Ja jums šī funkcija nav nepieciešama, varat to deaktivizēt [darbības iestatījumu](../settings/) izvēlnē.
 {{% /alert %}}
 
 ## Reģistrēt teļošanu {#register-a-calving}

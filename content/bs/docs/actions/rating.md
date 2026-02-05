@@ -61,5 +61,5 @@ Ako ne napravite izbor koristeći tastere sa strelicama ◁ ▷ već direktno sa
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Ako ova akcija nije dostupna, vjerovatno je deaktivirana! Aktivirajte akciju u meniju [postavke akcija](../setting/). Alternativno, resetovanje svih akcija će vratiti tu akciju.
+Ako ova akcija nije dostupna, vjerovatno je deaktivirana! Aktivirajte akciju u meniju [postavke akcija](../settings/). Alternativno, resetovanje svih akcija će vratiti tu akciju.
 {{% /alert %}}

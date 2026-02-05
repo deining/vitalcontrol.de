@@ -11,7 +11,7 @@ etichete: [National animal ID]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Warning" color="warning" %}}
-Această acțiune nu este activată implicit! Activați aceasta așa cum este descris în [setările acțiunii](../setting/).
+Această acțiune nu este activată implicit! Activați aceasta așa cum este descris în [setările acțiunii](../settings/).
 {{% /alert %}}
 
 ## Link animal ID {#link-animal-id}

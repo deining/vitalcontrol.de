@@ -94,5 +94,5 @@ Jei temperatūra yra geltonoje srityje ("padidėjusi") arba raudonoje srityje ("
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Cancel the action")
 
 {{% alert title="Patarimas" %}}
-Jei šis veiksmas nėra prieinamas, tikriausiai veiksmas buvo išjungtas! Įjunkite veiksmą [veiksmų nustatymų](../setting/) meniu. Arba, atstatant visus veiksmus, šis veiksmas vėl bus prieinamas.
+Jei šis veiksmas nėra prieinamas, tikriausiai veiksmas buvo išjungtas! Įjunkite veiksmą [veiksmų nustatymų](../settings/) meniu. Arba, atstatant visus veiksmus, šis veiksmas vėl bus prieinamas.
 {{% /alert %}}

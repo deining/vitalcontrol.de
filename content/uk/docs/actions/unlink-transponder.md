@@ -11,7 +11,7 @@ tags: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Попередження" color="warning" %}}
-Ця дія не увімкнена за замовчуванням! Активуйте це, як описано в [налаштуваннях дій](../setting/).
+Ця дія не увімкнена за замовчуванням! Активуйте це, як описано в [налаштуваннях дій](../settings/).
 {{% /alert %}}
 
 ## Від'єднати транспондер {#unlink-transponder}

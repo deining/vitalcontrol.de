@@ -58,5 +58,5 @@ W zależności od początkowego statusu krowy, możesz albo osuszyć zwierzę i 
 {{< /tabpane >}}
 
 {{% alert title="Wskazówka" %}}
-Jeśli ta akcja nie jest dostępna, prawdopodobnie została dezaktywowana! Aktywuj akcję w menu [ustawienia akcji](../setting). Alternatywnie, zresetowanie wszystkich akcji przywróci tę akcję.
+Jeśli ta akcja nie jest dostępna, prawdopodobnie została dezaktywowana! Aktywuj akcję w menu [ustawienia akcji](../settings). Alternatywnie, zresetowanie wszystkich akcji przywróci tę akcję.
 {{% /alert %}}

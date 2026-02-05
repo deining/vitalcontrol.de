@@ -36,7 +36,7 @@ Cu acțiunea `{{<T "OnWatch" >}}` puteți pune animalele pe lista de supravegher
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Dacă această acțiune nu este disponibilă, probabil că a fost dezactivată! Activați acțiunea în meniul [setări acțiuni](../setting/). Alternativ, resetarea tuturor acțiunilor va readuce această acțiune.
+Dacă această acțiune nu este disponibilă, probabil că a fost dezactivată! Activați acțiunea în meniul [setări acțiuni](../settings/). Alternativ, resetarea tuturor acțiunilor va readuce această acțiune.
 {{% /alert %}}
 
 

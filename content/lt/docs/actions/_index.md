@@ -32,7 +32,7 @@ Priklausomai nuo gyvūno tipo, galite atlikti iki 16 skirtingų veiksmų su gyv�
    <area shape="rect" coords="120,280,175,337" alt="Priskirti gyvūno ID rankiniu būdu" title="Priskirti nacionalinį gyvūno ID gyvūnui, kuris neturi nacionalinio gyvūno ID&#10;Pelės paspaudimas: atidaryti dokumentaciją" href="/lt/docs/actions/link-animal-id/#link-animal-id">
    <area shape="rect" coords="175,280,230,337" alt="Priskirti gyvūno ID su skenavimu" title="Priskirti nacionalinį gyvūno ID gyvūnui, kuris neturi nacionalinio gyvūno ID&#10;Pelės paspaudimas: atidaryti dokumentaciją" href="/lt/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
-   <area shape="rect" coords="100,340,140,375" alt="Nustatymai" title="Iššaukti nustatymus&#10;Pelės paspaudimas: į dokumentaciją" href="/lt/docs/actions/setting/">
+   <area shape="rect" coords="100,340,140,375" alt="Nustatymai" title="Iššaukti nustatymus&#10;Pelės paspaudimas: į dokumentaciją" href="/lt/docs/actions/settings/">
 </map>
 
 {{% alert title="Patarimas" %}}

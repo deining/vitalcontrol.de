@@ -29,5 +29,5 @@ translationKey: actions/newborn-care
     ![VitalControl: Menu Action Newborn care](../images/newborncare.png "Newborn care")
 
 {{% alert title="提示" %}}
-如果此操作不可用，可能是該操作已被停用！在[操作設置](../setting/)菜單中啟用該操作。或者，重置所有操作將使該操作重新出現。
+如果此操作不可用，可能是該操作已被停用！在[操作設置](../settings/)菜單中啟用該操作。或者，重置所有操作將使該操作重新出現。
 {{% /alert %}}

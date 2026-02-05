@@ -11,7 +11,7 @@ Taggar: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Varning" color="warning" %}}
-Denna åtgärd är inte aktiverad som standard! Aktivera detta som beskrivs i [åtgärdsinställning](../setting/).
+Denna åtgärd är inte aktiverad som standard! Aktivera detta som beskrivs i [åtgärdsinställning](../settings/).
 {{% /alert %}}
 
 ## Avlänka transponder {#unlink-transponder}

@@ -11,7 +11,7 @@ tagit: [Transponderi]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Varoitus" color="warning" %}}
-Tämä toiminto ei ole oletusarvoisesti käytössä! Aktivoi tämä kuten on kuvattu [toiminnon asetuksissa](../setting/).
+Tämä toiminto ei ole oletusarvoisesti käytössä! Aktivoi tämä kuten on kuvattu [toiminnon asetuksissa](../settings/).
 {{% /alert %}}
 
 ## Poista transponderin linkitys {#unlink-transponder}

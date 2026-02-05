@@ -11,7 +11,7 @@ tags: [Nacionalni ID živali]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Opozorilo" color="warning" %}}
-To dejanje ni privzeto omogočeno! Aktivirajte to, kot je opisano v [nastavitvah dejanj](../setting/).
+To dejanje ni privzeto omogočeno! Aktivirajte to, kot je opisano v [nastavitvah dejanj](../settings/).
 {{% /alert %}}
 
 ## Poveži ID živali {#link-animal-id}

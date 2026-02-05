@@ -60,5 +60,5 @@ Dacă nu faceți o selecție folosind tastele săgeată ◁ ▷ dar salvați dir
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Dacă această acțiune nu este disponibilă, probabil acțiunea a fost dezactivată! Activați acțiunea în meniul [setări acțiuni](../setting/). Alternativ, resetarea tuturor acțiunilor va readuce acea acțiune.
+Dacă această acțiune nu este disponibilă, probabil acțiunea a fost dezactivată! Activați acțiunea în meniul [setări acțiuni](../settings/). Alternativ, resetarea tuturor acțiunilor va readuce acea acțiune.
 {{% /alert %}}

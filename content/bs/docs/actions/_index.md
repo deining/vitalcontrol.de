@@ -32,7 +32,7 @@ Ovisno o vrsti životinje, možete izvršiti do 16 različitih radnji na životi
    <area shape="rect" coords="120,280,175,337" alt="Ručno povezivanje ID-a životinje" title="Dodijelite nacionalni ID životinji koja nema nacionalni ID&#10;Klik mišem: otvorite dokumentaciju" href="/bs/docs/actions/link-animal-id/#link-animal-id">
    <area shape="rect" coords="175,280,230,337" alt="Povezivanje ID-a životinje skeniranjem" title="Dodijelite nacionalni ID životinji koja nema nacionalni ID&#10;Klik mišem: otvorite dokumentaciju" href="/bs/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
-<area shape="rect" coords="100,340,140,375" alt="Settings" title="Pozivanje postavki&#10;Klik mišem: na dokumentaciju" href="/bs/docs/actions/setting/">
+<area shape="rect" coords="100,340,140,375" alt="Settings" title="Pozivanje postavki&#10;Klik mišem: na dokumentaciju" href="/bs/docs/actions/settings/">
 </map>
 
 {{% alert title="Savjet" %}}

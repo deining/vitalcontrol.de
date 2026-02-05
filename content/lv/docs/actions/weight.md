@@ -37,5 +37,5 @@ Ja vidējais svars ļoti stipri atšķiras vienā virzienā (pārāk augsts/pār
 {{< /tabpane >}}
 
 {{% alert title="Padoms" %}}
-Ja šī darbība nav pieejama, iespējams, ka darbība ir deaktivizēta! Aktivizējiet darbību [darbību iestatījumu](../setting/) izvēlnē. Alternatīvi, atiestatot visas darbības, šī darbība atkal būs pieejama.
+Ja šī darbība nav pieejama, iespējams, ka darbība ir deaktivizēta! Aktivizējiet darbību [darbību iestatījumu](../settings/) izvēlnē. Alternatīvi, atiestatot visas darbības, šī darbība atkal būs pieejama.
 {{% /alert %}}

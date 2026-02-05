@@ -36,7 +36,7 @@ Z dejanjem `{{<T "OnWatch" >}}` dodate živali na seznam opazovanja ali jih odst
 {{< /tabpane >}}
 
 {{% alert title="Namig" %}}
-Če to dejanje ni na voljo, je verjetno deaktivirano! Aktivirajte dejanje v meniju [nastavitve dejanj](../setting/). Alternativno, ponastavitev vseh dejanj bo ponovno omogočila to dejanje.
+Če to dejanje ni na voljo, je verjetno deaktivirano! Aktivirajte dejanje v meniju [nastavitve dejanj](../settings/). Alternativno, ponastavitev vseh dejanj bo ponovno omogočila to dejanje.
 {{% /alert %}}
 
 

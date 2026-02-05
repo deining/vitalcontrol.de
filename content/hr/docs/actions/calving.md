@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Savjet" %}}
 Ova funkcija je prikazana samo za krave, ali ne i za telad ili janjad.
-Ako vam ova funkcija nije potrebna, možete je deaktivirati u izborniku [postavke akcija](../setting/).
+Ako vam ova funkcija nije potrebna, možete je deaktivirati u izborniku [postavke akcija](../settings/).
 {{% /alert %}}
 
 ## Registracija telenja {#register-a-calving}

@@ -39,5 +39,5 @@ Akcija `{{<T "Unregister" >}}` omogućuje vam odjavu životinje čim se premjest
 {{< /tabpane >}}
 
 {{% alert title="Savjet" %}}
-Ako ova radnja nije dostupna, vjerojatno je deaktivirana! Aktivirajte radnju u izborniku [postavke radnji](../setting/). Alternativno, resetiranje svih radnji će ponovno omogućiti tu radnju.
+Ako ova radnja nije dostupna, vjerojatno je deaktivirana! Aktivirajte radnju u izborniku [postavke radnji](../settings/). Alternativno, resetiranje svih radnji će ponovno omogućiti tu radnju.
 {{% /alert %}}

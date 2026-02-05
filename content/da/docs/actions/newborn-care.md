@@ -30,5 +30,5 @@ tæt på. For at anvende handlingen `nyfødtpleje`, skal du gøre følgende:
     ![VitalControl: Menu Handling Nyfødtpleje](../images/newborncare.png "Nyfødtpleje")
 
 {{% alert title="Tip" %}}
-Hvis denne handling ikke er tilgængelig, er handlingen sandsynligvis blevet deaktiveret! Aktivér handlingen i [handlingsindstillinger](../setting/) menuen. Alternativt vil nulstilling af alle handlinger bringe denne handling tilbage.
+Hvis denne handling ikke er tilgængelig, er handlingen sandsynligvis blevet deaktiveret! Aktivér handlingen i [handlingsindstillinger](../settings/) menuen. Alternativt vil nulstilling af alle handlinger bringe denne handling tilbage.
 {{% /alert %}}

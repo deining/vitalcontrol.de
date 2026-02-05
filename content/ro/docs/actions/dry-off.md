@@ -58,5 +58,5 @@ translationKey: actions/dry-cows
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Dacă această acțiune nu este disponibilă, probabil că acțiunea a fost dezactivată! Activează acțiunea în meniul [setări acțiuni](../setting). Alternativ, resetarea tuturor acțiunilor va readuce acea acțiune.
+Dacă această acțiune nu este disponibilă, probabil că acțiunea a fost dezactivată! Activează acțiunea în meniul [setări acțiuni](../settings). Alternativ, resetarea tuturor acțiunilor va readuce acea acțiune.
 {{% /alert %}}

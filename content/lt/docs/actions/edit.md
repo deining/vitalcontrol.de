@@ -53,5 +53,5 @@ Norėdami pakeisti gyvūno duomenis, atlikite šiuos veiksmus:
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Jei ši veiksmo parinktis nėra prieinama, veiksmas tikriausiai buvo išjungtas! Įjunkite veiksmą [veiksmų nustatymų](../setting/) meniu. Arba, atstatant visus veiksmus, šis veiksmas vėl bus prieinamas.
+Jei ši veiksmo parinktis nėra prieinama, veiksmas tikriausiai buvo išjungtas! Įjunkite veiksmą [veiksmų nustatymų](../settings/) meniu. Arba, atstatant visus veiksmus, šis veiksmas vėl bus prieinamas.
 {{% /alert %}}

@@ -92,5 +92,5 @@ translationKey: actions/temperature
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Cancel the action")
 
 {{% alert title="提示" %}}
-如果此操作不可用，可能是因為操作已被停用！在[action settings](../setting/)選單中啟用該操作。或者，重置所有操作將使該操作重新出現。
+如果此操作不可用，可能是因為操作已被停用！在[action settings](../settings/)選單中啟用該操作。或者，重置所有操作將使該操作重新出現。
 {{% /alert %}}

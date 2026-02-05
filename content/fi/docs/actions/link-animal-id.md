@@ -11,7 +11,7 @@ tagit: [Kansallinen eläin ID]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Varoitus" color="warning" %}}
-Tämä toiminto ei ole oletusarvoisesti käytössä! Aktivoi tämä kuten on kuvattu [toimintoasetuksissa](../setting/).
+Tämä toiminto ei ole oletusarvoisesti käytössä! Aktivoi tämä kuten on kuvattu [toimintoasetuksissa](../settings/).
 {{% /alert %}}
 
 ## Linkitä eläimen ID {#link-animal-id}
