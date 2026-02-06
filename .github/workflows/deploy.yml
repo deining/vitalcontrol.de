@@ -19,19 +19,20 @@ jobs:
       - name: Setup Hugo
         uses: deining/actions-hugo@23c742ac548b48b5db7f35074895505e8a06d6db # v3.1.0-0
         with:
-          hugo-version: '0.155.2'
+          hugo-version: 0.155.2
           withdeploy: true
           extended: true
 
       - name: Setup Go
         uses: actions/setup-go@7a3fe6cf4cb3a834922a1244abfce67bcef6a0c5 # v6.2.0
         with:
-          go-version: '1.25.6'
+          go-version: 1.25.7
+          cache: true
 
       - name: Setup Node
         uses: actions/setup-node@6044e13b5dc448c55e2357c09f80417699197238 # v6.2.0
         with:
-          node-version: '24'
+          node-version: 24
           cache: 'npm'
           # The action defaults to search for the dependency file (package-lock.json,
           # npm-shrinkwrap.json or yarn.lock) in the repository root, and uses its

@@ -21,9 +21,8 @@ Legen Sie die Tierpässe aller zugekauften Tiere als Stapel vor sich hin, Sie we
 
 1. Es wird jetzt automatisch der Bildschirm `Massenzugang` aufgerufen (<a href="#AnschlussBarcodescanner">Abbildung 1</a>: <span style="font-style: italic;">Schritt</span> <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Schritt 2" />).
 
-{{% alert title="Hinweis" %}}
-Sollte nach dem Einstecken des Barcodescanner der Bildschirm `Massenzugang` nicht aufgerufen werden, so folgend sie den untenstehenden [Anweisungen](#manueller-aufruf-des-bildschirms-massenzugang), um den Bildschirm manuell aufzurufen.
-{{% /alert %}}
+> [!Note] Hinweis
+> Sollte nach dem Einstecken des Barcodescanner der Bildschirm `Massenzugang` nicht aufgerufen werden, so folgend sie den untenstehenden [Anweisungen](#manueller-aufruf-des-bildschirms-massenzugang), um den Bildschirm manuell aufzurufen.
 
 <br>
 <figure class="figure">
@@ -45,28 +44,25 @@ Sollte nach dem Einstecken des Barcodescanner der Bildschirm `Massenzugang` nich
 
 1. Scannen Sie nacheinander alle Tierpässe gemäß dem in den obigen Punkten erläuterten Ablauf ein.
 
-[Exportieren](../export-csv) Sie nach der erfolgreichen Erfassung aller zugekauften Tiere die von Ihnen erfassten Daten auf einen USB-Stick. 
+[Erzeugen](../erzeugung-csv) Sie nach der erfolgreichen Erfassung aller zugekauften Tiere eine Meldedatei mit den von Ihnen erfassten Tierdaten und speichern Sie diese auf einen USB-Stick. 
 
 <figure class="figure">
   <img src="../images/ablauf-massenzugang.png" class="border border-2 figure-img img-fluid rounded p-3" width="900px" align="bottom" alt="Ablaufplan Massenzugang" title="Ablauf Massenzugang" />
   <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Abbildung 2: Ablauf bei der Registrierung von Neuzugängen</figcaption></a>
 </figure>
 
-{{% alert title="Hinweis" %}}
-Nach jedem erfolgreichen Scan eines Tierpasses wird der Zähler rechts neben den Symbol &nbsp;<img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Tierpässe" title="Tierpässe" /> `Tierpässe` in der Kopfzeile wird von 0 auf 1 erhöht. Gleichzeitig erhöht sich auch der mit dem Symbol <img src="/icons/header/group.svg" width="35" align="bottom" alt="Tiergruppe" title="Tiergruppe" /> `Zukäufe` assoziierte Zähler für die Gesamtzahl der zugekauften Tiere. 
-{{% /alert %}}
+> [!Note] Hinweis
+> Nach jedem erfolgreichen Scan eines Tierpasses wird der Zähler rechts neben den Symbol &nbsp;<img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Tierpässe" title="Tierpässe" /> `Tierpässe` in der Kopfzeile um eins erhöht. Gleichzeitig erhöht sich auch der mit dem Symbol <img src="/icons/header/group.svg" width="35" align="bottom" alt="Tiergruppe" title="Tiergruppe" /> `Zukäufe` assoziierte Zähler für die Gesamtzahl der zugekauften Tiere.
 
 ## Ergänzungen und Erläuterungen
 
-{{% alert title="Hinweis" %}}
-Verwenden Sie bitte ausschließlich den mitgelieferten Barcodescanner des Herstellers! Nur mit diesem diesem Scanner bekommen Sie ein akustisches und visuelles Feedback, wenn es während des Scanvorgangs zu Fehlern kommt (doppeltes Einscannen einer Tiernummern, Einscannen eines ungültigen Wertes, etc.).
-{{% /alert %}}
+> [!Note] Hinweis
+> Verwenden Sie bitte ausschließlich den mitgelieferten Barcodescanner des Herstellers! Nur mit diesem diesem Scanner bekommen Sie ein akustisches und visuelles Feedback, wenn es während des Scanvorgangs zu Fehlern kommt (doppeltes Einscannen einer Tiernummern, Einscannen eines ungültigen Wertes, etc.).
 
 ### Anpassung der Einstellungen Massenzugang
 
-{{% alert title="Hinweis" %}}
-Bezüglich des Ablaufs bei der Erfassung ihrer zugekauften Tiere bestehen zahlreiche Einstellungsmöglichkeiten, welche auf der entsprechenden [Dokumentationsseite](/docs/neu/massenzugang/#einstellungen-massenzugang) erläutert sind.
-{{% /alert %}}
+> [!Note] Hinweis
+> Bezüglich des Ablaufs bei der Erfassung ihrer zugekauften Tiere bestehen zahlreiche Einstellungsmöglichkeiten, welche auf der entsprechenden [Dokumentationsseite](/docs/neu/massenzugang/#einstellungen-massenzugang) erläutert sind.
 
 ### Manueller Aufruf des Bildschirms Massenzugang
 
@@ -94,7 +90,7 @@ Bezüglich des Ablaufs bei der Erfassung ihrer zugekauften Tiere bestehen zahlre
       <div class="col">
         <div class="d-grid gap-2">
           <div class="btn btn-lg btn-primary text-end" role="button" ><span class="float-start fw-semibold fs-5">Tränkeautomat:</span><span class="fs-6">Nächste Seite:</span><br>
-            <span class="float-start fs-5">mit</span><span class="fs-4 fw-semibold"><a href="../transponder-zuordnen" class="link-light">Transponder zuordnen »</a></span><br><span class="float-start fs-5">ohne</span><span class="fs-4 fw-semibold"><a href="../export-csv" class="link-light">Export CSV-Datei »</a></span>
+            <span class="float-start fs-5">mit</span><span class="fs-4 fw-semibold"><a href="../transponder-zuordnen" class="link-light">Transponder zuordnen »</a></span><br><span class="float-start fs-5">ohne</span><span class="fs-4 fw-semibold"><a href="../erzeugung-csv" class="link-light">Erzeugung CSV-Datei »</a></span>
           </div>
         </div>
       </div>

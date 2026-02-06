@@ -51,9 +51,8 @@ description: >
         <a name="screen-link-transponder" ><figcaption class="figure-caption fs-6">Abbildung 2: Wechsel zum Bildschirm <span style="font-style: italic;">Transponder zuordnen</span> durch Abziehen des USB-Kabels</figcaption></a>
     </figure>
 
-{{% alert title="Hinweis" %}}
-Sollte nach dem Einstecken des Barcodescanner der Bildschirm `MassenTransponder zuordnen` nicht aufgerufen werden, so folgend sie den untenstehenden [Anweisungen](#manueller-aufruf-des-bildschirms-transponder-zuordnen), um den Bildschirm manuell aufzurufen.
-{{% /alert %}}
+> [!Note] Hinweis
+> Sollte nach dem Einstecken des Barcodescanner der Bildschirm `MassenTransponder zuordnen` nicht aufgerufen werden, so folgend sie den untenstehenden [Anweisungen](#manueller-aufruf-des-bildschirms-transponder-zuordnen), um den Bildschirm manuell aufzurufen.
 
 ## Transponder zuordnen
 
