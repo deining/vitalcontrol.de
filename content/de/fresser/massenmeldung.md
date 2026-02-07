@@ -45,7 +45,7 @@ description: >
 
 1. Wählen Sie aus dem DropDown-Menü `(Art der) Meldung` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> den Wert `Zugangsmeldung` aus.
 
-1. Wählen Sie über den Punkt `Daten-Datei` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie im vorherigen Schritt [Erzeugung CSV-Datei](erzeugung-csv) erstellt haben.
+1. Wählen Sie über den Punkt `Daten-Datei` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie im vorherigen Schritt [Erzeugung CSV-Datei](../erzeugung-csv/) erstellt haben.
 
 1. Klicken Sie auf die Schaltfläche `Einfügen` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" />, um die Massenmeldung ihrer Zukäufe vorzunehmen.
 
@@ -125,7 +125,7 @@ Ihre zugekauften Tiere wurden damit bei HI-Tier erfolgreich als Zugänge gemelde
 
 1. Wählen Sie aus dem DropDown-Menü `(Art der) Meldung` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> den Wert `Zugang (Rind)` aus.
 
-1. Wählen Sie über den Punkt `Datei` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie im vorherigen Schritt [Erzeugung CSV-Datei](erzeugung-csv) erstellt haben.
+1. Wählen Sie über den Punkt `Datei` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie im vorherigen Schritt [Erzeugung CSV-Datei](../erzeugung-csv/) erstellt haben.
 
 1. Machen sie die erweiterten Optionen sichtbar, indem Sie auf `weitere Optionen` klicken. Wählen Sie aus dem DropDown-Menü `Unpassende Spalten` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> die Option `alle unpassenden Spalten ignorieren, nur passende verwenden` aus. Dies verhindert unnötige Warnmeldungen.
 
@@ -173,7 +173,7 @@ Ihre zugekauften Tiere wurden damit bei HI-Tier erfolgreich als Zugänge gemelde
   <div class="row">
     <div class="col">
       <div class="d-grid gap-2">
-        <a class="text-start btn btn-lg btn-outline-primary" role="button"  href="../erzeugung-csv"><span class="fs-6">Vorherige</span><br><span class="fs-4 fw-semibold">« Erzeugung CSV-Datei</span></a>
+        <a class="text-start btn btn-lg btn-outline-primary" role="button"  href="../erzeugung-csv/"><span class="fs-6">Vorherige</span><br><span class="fs-4 fw-semibold">« Erzeugung CSV-Datei</span></a>
       </div>
     </div>
     <div class="col">

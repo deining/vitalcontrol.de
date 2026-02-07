@@ -58,7 +58,7 @@ type: docs
     </div>
     <div class="col">
       <div class="d-grid gap-2">
-        <a class="btn btn-lg btn-outline-primary text-end" role="button" href="../erzeugung-csv"><span class="fs-6">Nächste</span><br><span class="fs-4 fw-semibold">Erzeugung CSV-Datei »</span></a>
+        <a class="btn btn-lg btn-outline-primary text-end" role="button" href="../erzeugung-csv/"><span class="fs-6">Nächste</span><br><span class="fs-4 fw-semibold">Erzeugung CSV-Datei »</span></a>
       </div>
     </div>
   </div>

@@ -44,7 +44,7 @@ Legen Sie die Tierpässe aller zugekauften Tiere als Stapel vor sich hin, Sie we
 
 1. Scannen Sie nacheinander alle Tierpässe gemäß dem in den obigen Punkten erläuterten Ablauf ein.
 
-[Erzeugen](../erzeugung-csv) Sie nach der erfolgreichen Erfassung aller zugekauften Tiere eine Meldedatei mit den von Ihnen erfassten Tierdaten und speichern Sie diese auf einen USB-Stick. 
+[Erzeugen](../erzeugung-csv/) Sie nach der erfolgreichen Erfassung aller zugekauften Tiere eine Meldedatei mit den von Ihnen erfassten Tierdaten und speichern Sie diese auf einen USB-Stick. 
 
 <figure class="figure">
   <img src="../images/ablauf-massenzugang.png" class="border border-2 figure-img img-fluid rounded p-3" width="900px" align="bottom" alt="Ablaufplan Massenzugang" title="Ablauf Massenzugang" />
@@ -90,7 +90,7 @@ Legen Sie die Tierpässe aller zugekauften Tiere als Stapel vor sich hin, Sie we
       <div class="col">
         <div class="d-grid gap-2">
           <div class="btn btn-lg btn-primary text-end" role="button" ><span class="float-start fw-semibold fs-5">Tränkeautomat:</span><span class="fs-6">Nächste Seite:</span><br>
-            <span class="float-start fs-5">mit</span><span class="fs-4 fw-semibold"><a href="../transponder-zuordnen" class="link-light">Transponder zuordnen »</a></span><br><span class="float-start fs-5">ohne</span><span class="fs-4 fw-semibold"><a href="../erzeugung-csv" class="link-light">Erzeugung CSV-Datei »</a></span>
+            <span class="float-start fs-5">mit</span><span class="fs-4 fw-semibold"><a href="../transponder-zuordnen" class="link-light">Transponder zuordnen »</a></span><br><span class="float-start fs-5">ohne</span><span class="fs-4 fw-semibold"><a href="../erzeugung-csv/" class="link-light">Erzeugung CSV-Datei »</a></span>
           </div>
         </div>
       </div>
