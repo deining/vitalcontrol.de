@@ -13,11 +13,34 @@ description: >
   {{% tab header="*Erzeugung auf:*" disabled=true /%}}
 
   {{% tab header="**PC**&nbsp; (mittels Excel-Datei)" %}}
-  
-  <figure class="figure" style="margin-top: 20px">
+
+  1. Speichern Sie die bereitgestellte [Excel-Datei](/download/MassenmeldungZugang.xlsm) zur Massenmeldung ihrer Zugänge in einem beliebigen Verzeichnis auf ihrem PC.
+
+  1. Öffnen Sie die heruntergeladene Excel-Datei mittels eines Doppelklicks:
+    <figure class="figure" style="margin-top: 0px">
+    <img src="../images/meldetool/home.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Meldetool Zugänge, Startbildschirm" title="Meldetool Zugänge, Home" />
+    <a name="TabelleZugaenge" ><figcaption class="figure-caption fs-6">Abbildung 1: Excel-basiertes Meldetool, Startbildschirm</span></figcaption></a>
+    </figure>
+
+  1. Das Meldetool kann Daten von bis zu 8 verschiedenen Automaten <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> abrufen. Initial ist es ist einmalig erforderlich, für jeden Automaten, von dem Daten abgerufen werden sollen, die URL-Adresse der REST-API <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> anzugeben, die für den Datenabruf genutzt wird. Die URL-Adresse ist in der Form `http://IP-Adresse:Portnummer` einzugeben. In der untenstehenden Tabelle sind die relevanten URL-Parameter `IP-Adresse` und `Portnummer` je nach Art der genutzten Verbindung aufgeführt:
+  | Verbindung über                           | IP-Adresse                                           | Portnummer          |
+  |-------------------------------------------|------------------------------------------------------|---------------------|
+  | *Urban Router, LAN-Anschluss* oder *WLAN* | `10.140.140.21` bis `10.140.140.28`                  | `8080`              |
+  | *Urban Router, WAN-Anschluss*             | Per DHCP zugewiesene Adresse (z.B. `192.168.178.20)` | `18021` bis `18028` |
+
+  1. Klicken Sie auf den dritten Menüeintrag `Urban` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> um die anwendungsspezifische Werkzeugleiste aufzurufen.
+
+  1. Wählen Sie das Arbeitsblatt `Zugänge` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> der Tabelle aus.
+    <figure class="figure" style="margin-top: 0px">
     <img src="../images/meldetool/zugaenge.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Exportvorgang CSV-Datei" title="Aufruf CSV-Export" />
-    <a name="TabelleZugaenge" ><figcaption class="figure-caption fs-6">Abbildung 1: Excel-basiertes Meldetool, Tabelle <span style="font-style: italic;">Zugänge</span></figcaption></a>
-  </figure>
+    <a name="TabelleZugaenge" ><figcaption class="figure-caption fs-6">Abbildung 2: Excel-basiertes Meldetool, Tabelle <span style="font-style: italic;">Zugänge</span></figcaption></a>
+    </figure>
+
+  ## Einstellungen
+  
+  ### Ländereinstellungen (DE / AT)
+
+  ### Betriebsnummer (relevant nur für DE)
 
   {{% /tab %}}
 
@@ -51,7 +74,7 @@ description: >
           <a name="ExportZukaeufe" ><figcaption class="figure-caption fs-6">Abbildung 3: CSV-Exportvorgang</figcaption></a>
       </figure>
   
-  1. Nach dem erfolgreichem Abschluss des Exports ist auf dem USB-Stick im Verzeichnis `zugaenge` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> eine Datei mit dem Namen `zugang-TT-MM-JJJJ_HH-MM.csv` <img src="/digits/2_negative_circled.svg" width="25"    align="middle" alt="Circled digit 2" title="Ziffer 2" /> hinterlegt. Diese CSV-Datei wird im nächsten Schritt zur [Massenmeldung](../massenmeldung) bei HI-Tier genutzt.
+  1. Nach dem erfolgreichem Abschluss des Exports ist auf dem USB-Stick im Verzeichnis `zugaenge` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> eine Datei mit dem Namen `zugang-TT-MM-JJJJ_HH-MM.csv` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> hinterlegt. Diese CSV-Datei wird im nächsten Schritt zur [Massenmeldung](../massenmeldung) bei HI-Tier genutzt.
   
       <figure class="figure" style="margin-top: 20px">
           <img src="../images/exportdatei.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Exportvorgang CSV-Datei" title="Export CSV-Datei" />

@@ -38,10 +38,12 @@ Bei der Datensicherung handelt es sich um eine empfohlene Vorsichtsmaßnahme. Al
 
 1. Stecken Sie den USB-Stick (C-Stecker) in die Buchse im Handgriff des Geräts und bestätigen Sie mit `OK`.
 
-   <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" alt="VitalControl: USB-Stick einstecken" title="USB-Stick einstecken" width="30%" />
+    <figure class="figure" style="width: 20%">
+    <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="VitalControl: USB-Stick einstecken" title="USB-Stick einstecken" />
+    </figure>
 
-   Das Gerät führt das Update automatisch durch. Während des Updates informiert das Display über den Fortschritt der Aktualisierung. Nach Abschluss des Updates startet das Gerät automatisch neu und zeigt nach dem Neustart eine Erfolgsmeldung an:
+    Das Gerät führt das Update automatisch durch. Während des Updates informiert das Display über den Fortschritt der Aktualisierung. Nach Abschluss des Updates startet das Gerät automatisch neu und zeigt nach dem Neustart eine Erfolgsmeldung an:
 
-   ![VitalControl: Erfolgsmeldung Aktualisierung Firmware](../images/update-success.png "Erfolgsmeldung Aktualisierung Firmware")
+    ![VitalControl: Erfolgsmeldung Aktualisierung Firmware](../images/update-success.png "Erfolgsmeldung Aktualisierung Firmware")
 
-   Damit ist die neue Firmware eingespielt.
+    Damit ist die neue Firmware eingespielt.
