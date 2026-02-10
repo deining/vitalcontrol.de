@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 Introducerea numărului de fermă este în prezent de interes doar pentru fermierii germani. Fermierii de alte naționalități în prezent nu beneficiază de introducerea ID-ului de fermă. Acest lucru se poate schimba cu viitoarele [versiuni de firmware]({{< relref "../firmware/versions/" >}}) ale VitalControl.
 {{< /alert >}}
 
-## Setează numărul fermei tale {#set-your-farm-number}
+## Setează numărul fermei tale {#set-your-farm-data}
 
 Pentru a seta numărul companiei pe dispozitivul tău, procedează după cum urmează:
 

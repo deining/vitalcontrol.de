@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 Vnos številke kmetije trenutno zanima le nemške kmete. Kmetje vseh drugih narodnosti trenutno **ne** koristijo vnosa ID številke kmetije. To se lahko spremeni z bodočimi [različicami vdelane programske opreme]({{< relref "../firmware/versions/" >}}) VitalControl.
 {{< /alert >}}
 
-## Nastavite svojo številko kmetije {#set-your-farm-number}
+## Nastavite svojo številko kmetije {#set-your-farm-data}
 
 Za nastavitev številke podjetja na vaši napravi sledite naslednjim korakom:
 

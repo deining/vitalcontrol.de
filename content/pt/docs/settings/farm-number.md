@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 Inserir o número da fazenda é atualmente de interesse apenas para agricultores alemães. Agricultores de todas as outras nacionalidades atualmente **não** se beneficiam ao inserir o ID da fazenda. Isso pode mudar com futuras [versões de firmware]({{< relref "../firmware/versions/" >}}) do VitalControl.
 {{< /alert >}}
 
-## Defina seu número da fazenda {#set-your-farm-number}
+## Defina seu número da fazenda {#set-your-farm-data}
 
 Para definir o número da empresa no seu dispositivo, proceda da seguinte forma:
 

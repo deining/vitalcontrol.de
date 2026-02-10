@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 輸入農場編號目前僅對德國農民有意義。其他國籍的農民目前輸入農場 ID 並**無**益處。這可能會隨著 VitalControl 的未來[韌體版本]({{< relref "../firmware/versions/" >}})而改變。
 {{< /alert >}}
 
-## 設定您的農場編號 {#set-your-farm-number}
+## 設定您的農場編號 {#set-your-farm-data}
 
 要在您的裝置上設定公司編號，請按以下步驟操作：
 

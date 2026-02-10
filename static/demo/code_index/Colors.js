@@ -37,10 +37,10 @@ var index;if(!index)throw new Error("The application file '_project.js' isn't ye
 );if(index.jb)throw new Error("The unit file 'Colors.js' included twice!");index.
 jb=(function(){var A=index;var C={};
 
-C.CU=0xFFFFFFFF;C.CJ=0xFFE6DED8;C.Ri=0x00000000;C.Text=0xFF333333;C.AV=0xFFB6771A;
-C.Ia=0xFF00DCFF;C.E1=0xFF3DD87D;C.Gk=0xFF001EFF;C.Bm=0xFFFFFFFF;C.Bb=0xFF7B7975;
-C.Afu=0xFFFFB03B;C.Bj2=0xFFD9D2CC;C.ARa=0xFFF5ECE5;C.Am2=0xFF6E6E6E;C.Ad$=0xFF5F5350;
-C.Bpi=0xAA5F5350;C.Bkr=0xE6FFFFFF;
-C._Init=function(){};C._ReInit=function(){};C.DI=function(D){};return C;})();
+C.CV=0xFFFFFFFF;C.CK=0xFFE6DED8;C.Ri=0x00000000;C.Text=0xFF333333;C.AV=0xFFB6771A;
+C.Ia=0xFF00DCFF;C.E1=0xFF3DD87D;C.Gm=0xFF001EFF;C.Bm=0xFFFFFFFF;C.Bb=0xFF7B7975;
+C.Afv=0xFFFFB03B;C.Bka=0xFFD9D2CC;C.ARe=0xFFF5ECE5;C.Am3=0xFF6E6E6E;C.Aea=0xFF5F5350;
+C.Bps=0xAA5F5350;C.BkB=0xE6FFFFFF;
+C._Init=function(){};C._ReInit=function(){};C.DJ=function(D){};return C;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */

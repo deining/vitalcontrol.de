@@ -41,7 +41,7 @@ A.Bosnian=1;A.Bulgarian=2;A.Chinese_TWN=3;A.Czech=4;A.Danish=5;A.Default=0;A.Dut
 13;A.Japanese=14;A.Latvian=15;A.Norwegian=16;A.Polish=17;A.Portuguese=18;A.Romanian=
 19;A.Russian=20;A.Spanish=21;A.Swedish=22;A.Turkish=23;A.Ukrainian=24;A.Croatian=
 25;A.Lithuanian=26;A.Slovenian=27;
-A.abC=[1000,740];A.rs=function(){return A.kR.AMM;};A.zU="URBAN VitalControl - Demo App";
+A.abC=[1000,740];A.rs=function(){return A.kR.AMP;};A.zU="URBAN VitalControl - Demo App";
 A.o7=0;A.wA=0;A.j0=[];A._Init=function(){A.Core._Init();A.acl._Init();A.Graphics.
 _Init();A.aci._Init();A.acg._Init();A.kR._Init();A.acf._Init();A.ach._Init();A.jb.
 _Init();A.fl._Init();A.acx._Init();A.acn._Init();A.acv._Init();A.Device._Init();
@@ -54,10 +54,10 @@ _ReInit();A.fl._ReInit();A.acx._ReInit();A.acn._ReInit();A.acv._ReInit();A.Devic
 _ReInit();A.acq._ReInit();A.aco._ReInit();A.acw._ReInit();A.acr._ReInit();A.acy.
 _ReInit();A.acj._ReInit();A.acA._ReInit();A.acB._ReInit();A.acs._ReInit();A.acm.
 _ReInit();A.acz._ReInit();A.acu._ReInit();A.ack._ReInit();A.acp._ReInit();A.act.
-_ReInit();};A.abA=function(D){A.Core.DI(D);A.acl.DI(D);A.Graphics.DI(D);A.aci.DI(
-D);A.acg.DI(D);A.kR.DI(D);A.acf.DI(D);A.ach.DI(D);A.jb.DI(D);A.fl.DI(D);A.acx.DI(
-D);A.acn.DI(D);A.acv.DI(D);A.Device.DI(D);A.acq.DI(D);A.aco.DI(D);A.acw.DI(D);A.
-acr.DI(D);A.acy.DI(D);A.acj.DI(D);A.acA.DI(D);A.acB.DI(D);A.acs.DI(D);A.acm.DI(D
-);A.acz.DI(D);A.acu.DI(D);A.ack.DI(D);A.acp.DI(D);A.act.DI(D);};return A;})();
+_ReInit();};A.abA=function(D){A.Core.DJ(D);A.acl.DJ(D);A.Graphics.DJ(D);A.aci.DJ(
+D);A.acg.DJ(D);A.kR.DJ(D);A.acf.DJ(D);A.ach.DJ(D);A.jb.DJ(D);A.fl.DJ(D);A.acx.DJ(
+D);A.acn.DJ(D);A.acv.DJ(D);A.Device.DJ(D);A.acq.DJ(D);A.aco.DJ(D);A.acw.DJ(D);A.
+acr.DJ(D);A.acy.DJ(D);A.acj.DJ(D);A.acA.DJ(D);A.acB.DJ(D);A.acs.DJ(D);A.acm.DJ(D
+);A.acz.DJ(D);A.acu.DJ(D);A.ack.DJ(D);A.acp.DJ(D);A.act.DJ(D);};return A;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */

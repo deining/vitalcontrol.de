@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 Å legge inn gårdsnummeret er for øyeblikket kun relevant for tyske bønder. Bønder fra alle andre nasjonaliteter har for øyeblikket **ikke** nytte av å legge inn gårds-ID. Dette kan endre seg med fremtidige [fastvareversjoner]({{< relref "../firmware/versions/" >}}) av VitalControl.
 {{< /alert >}}
 
-## Sett ditt gårdsnummer {#set-your-farm-number}
+## Sett ditt gårdsnummer {#set-your-farm-data}
 
 For å sette selskapsnummeret på enheten din, gjør følgende:
 

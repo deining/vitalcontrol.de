@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 Indtastning af gårdnummer er i øjeblikket kun relevant for tyske landmænd. Landmænd fra alle andre nationaliteter har i øjeblikket **ikke** fordel af at indtaste gård-ID'et. Dette kan ændre sig med fremtidige [firmware versioner]({{< relref "../firmware/versions/" >}}) af VitalControl.
 {{< /alert >}}
 
-## Indstil dit gårdnummer {#set-your-farm-number}
+## Indstil dit gårdnummer {#set-your-farm-data}
 
 For at indstille virksomhedens nummer på din enhed, skal du gøre følgende:
 

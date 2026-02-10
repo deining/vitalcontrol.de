@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 Ūkio numerio įvedimas šiuo metu aktualus tik Vokietijos ūkininkams. Kitų tautybių ūkininkai šiuo metu **ne** gauna naudos iš ūkio ID įvedimo. Tai gali pasikeisti su būsimomis VitalControl [programinės įrangos versijomis]({{< relref "../firmware/versions/" >}}).
 {{< /alert >}}
 
-## Nustatykite savo ūkio numerį {#set-your-farm-number}
+## Nustatykite savo ūkio numerį {#set-your-farm-data}
 
 Norėdami nustatyti įmonės numerį savo įrenginyje, atlikite šiuos veiksmus:
 

@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 Çiftlik numarasını girmek şu anda yalnızca Alman çiftçiler için önemlidir. Diğer tüm milletlerden çiftçiler şu anda çiftlik kimliğini girmekten **faydalanmaz**. Bu, VitalControl'ün gelecekteki [yazılım sürümleri]({{< relref "../firmware/versions/" >}}) ile değişebilir.
 {{< /alert >}}
 
-## Çiftlik numaranızı ayarlayın {#set-your-farm-number}
+## Çiftlik numaranızı ayarlayın {#set-your-farm-data}
 
 Cihazınızda şirket numarasını ayarlamak için şu adımları izleyin:
 

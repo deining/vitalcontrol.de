@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 Unos broja farme trenutno je relevantan samo za njemačke farmere. Farmeri svih drugih nacionalnosti trenutno **ne** imaju koristi od unosa ID-a farme. Ovo se može promijeniti s budućim [verzijama firmvera]({{< relref "../firmware/versions/" >}}) VitalControl-a.
 {{< /alert >}}
 
-## Postavite broj svoje farme {#set-your-farm-number}
+## Postavite broj svoje farme {#set-your-farm-data}
 
 Da biste postavili broj kompanije na svom uređaju, postupite na sljedeći način:
 

@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 Wprowadzenie numeru gospodarstwa jest obecnie istotne tylko dla niemieckich rolników. Rolnicy innych narodowości obecnie **nie** odnoszą korzyści z wprowadzenia identyfikatora gospodarstwa. Może się to zmienić w przyszłych [wersjach oprogramowania]({{< relref "../firmware/versions/" >}}) VitalControl.
 {{< /alert >}}
 
-## Ustaw swój numer gospodarstwa {#set-your-farm-number}
+## Ustaw swój numer gospodarstwa {#set-your-farm-data}
 
 Aby ustawić numer firmy na swoim urządzeniu, postępuj w następujący sposób:
 

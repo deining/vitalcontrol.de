@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 Saimniecības numura ievadīšana pašlaik ir aktuāla tikai Vācijas lauksaimniekiem. Lauksaimnieki no citām valstīm pašlaik **ne** gūst labumu no saimniecības ID ievadīšanas. Tas var mainīties ar nākotnes [programmatūras versijām]({{< relref "../firmware/versions/" >}}) VitalControl ierīcē.
 {{< /alert >}}
 
-## Iestatiet savu saimniecības numuru {#set-your-farm-number}
+## Iestatiet savu saimniecības numuru {#set-your-farm-data}
 
 Lai iestatītu uzņēmuma numuru uz jūsu ierīces, rīkojieties šādi:
 
