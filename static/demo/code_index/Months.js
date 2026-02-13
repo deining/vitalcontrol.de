@@ -96,7 +96,7 @@ C.AB1={2:"\u0410\u043F\u0440\u0438\u043B",25:"travanj",4:"duben",0:"April",7:"ap
 ,12:"okt\xF3ber",13:"Ottobre",14:"\u3058\u3085\u3046\u304C\u3064",15:"oktobris",
 26:"Spalis",16:"Oktober",17:"Pa\u017Adziernik",18:"Outubro",19:"Octombrie",20:"\u041E\u043A\u0442\u044F\u0431\u0440\u044C"
 ,27:"Oktober",21:"Octubre",22:"Oktober",23:"Ekim",24:"\u0436\u043E\u0432\u0442\u0435\u043D\u044C"
-};C.AGK={1:"Septembar",2:"\u0421\u0435\u043F\u0442\u0435\u043C\u0432\u0440\u0438"
+};C.AGL={1:"Septembar",2:"\u0421\u0435\u043F\u0442\u0435\u043C\u0432\u0440\u0438"
 ,25:"rujan",4:"z\xE1\u0159\xED",0:"September",7:"september",8:"Syyskuu",9:"Septembre"
 ,11:"\u03A3\u03B5\u03C0\u03C4\u03AD\u03BC\u03B2\u03C1\u03B9\u03BF\u03C2",12:"szeptember"
 ,13:"settembre",14:"\u304F\u304C\u3064",15:"Septembris",26:"Rugs\u0117jis",17:"wrzesie\u0144"
