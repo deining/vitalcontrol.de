@@ -1,26 +1,26 @@
 ---
-title: "Vorbereitung: Einmalige Eingabe der Betriebsnummer"
-linkTitle: Eingabe Betriebsnummer
+title: "Vorbereitung: Einmalige Eingabe der Betriebsdaten"
+linkTitle: Eingabe Betriebsdaten
 date: 2025-02-22T13:08:03+01:00
 draft: false
 weight: 10
 type: docs
-slug: betriebsnummer
+slug: betriebsdaten
 description: >
- Betriebsnummer in den Einstellungen des VitalControls hinterlegen.
+ Betriebsdaten in den Einstellungen des VitalControls hinterlegen.
 ---
-Um erfolgreich eine [Massenmeldung] ihrer zugekauften Tiere bei der HI-Tier Datenbank durchführen zu können, müssen Sie einmalig ihre zehnstellige Betriebsnummer eingeben und abspeichern. Gehen Sie hierfür wie folgt vor:
+Um erfolgreich eine [Massenmeldung] ihrer zugekauften Tiere bei der HI-Tier Datenbank durchführen zu können, müssen Sie einmalig ihre Betriebsdaten im VitalControl eingeben und abspeichern. Gehen Sie hierfür wie folgt vor:
 
 1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen`.
 
-2. Wechseln Sie ins Untermenü `Betrieb`. Es erscheint eine Eingabemaske, in der Sie bequem ihre Betriebsnummer einstellen können. Nutzen Sie die Pfeiltasten, um ihr Bundesland und ihre zehnstellige Betriebsnummer einzugeben.
+2. Wechseln Sie ins Untermenü `Betrieb`. Es erscheint eine Eingabemaske, in der Sie zunächst das Land ihrer Betriebsstätte auswählen und anschließend bequem ihre Betriebsnummer einstellen können. Nutzen Sie die Pfeiltasten, um ihr Bundesland und ihre zehnstellige Betriebsnummer einzugeben. Falls nötig, können sie auch mit den Pfeiltasten im Eingabefeld nach ganz links außen navigieren und dort dann ihr Land auswählen (z.B. `AT` für Österreich, `CH` für die Schweiz, etc.).
 
     <figure class="figure mt-2">
-        <img src="/images/settings/de/betriebsnummer.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Menüfolge Einstellung Betriebsnummer" title="Betriebsnummer einstellen" />
-        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Abbildung 1: Aufruf des Bildschirms <span style="font-style: italic;">Einstellung Betriebsnummer</span></figcaption></a>
+        <img src="/docs/einstellungen/bilder/betriebsdaten.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Menüfolge Einstellung Betriebsdaten" title="Betriebsdaten einstellen" />
+        <a name="EingabeBetriebsdaten"><figcaption class="figure-caption fs-6">Abbildung 1: Aufruf des Bildschirms <span style="font-style: italic;">Eingabe Betriebsdaten</span></figcaption></a>
     </figure>
 
-3. Bestätigen sie mit `OK`, sobald Sie ihre Nummernfolge korrekt eingeben ist. Die Betriebsnummer ist jetzt auf dem Gerät gespeichert.
+3. Bestätigen sie mit `OK`, sobald Sie ihre Nummernfolge korrekt eingeben ist. Das Land ihrer Betriebsstätte und ihre Betriebsnummer sind jetzt auf dem Gerät gespeichert.
 
 <div style="max-width: 80%; margin-top: 45px;">
 <div class="container-fluid">

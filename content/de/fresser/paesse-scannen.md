@@ -84,7 +84,7 @@ Legen Sie die Tierpässe aller zugekauften Tiere als Stapel vor sich hin, Sie we
     <div class="row">
       <div class="col">
         <div class="d-grid gap-2">
-          <a class="text-start btn btn-lg btn-primary" role="button"  href="../betriebsnummer"><span class="fs-6">Vorherige Seite</span><br><br><span class="fs-4 fw-semibold">« Eingabe Betriebsnummer</span></a>
+          <a class="text-start btn btn-lg btn-primary" role="button"  href="../betriebsdaten"><span class="fs-6">Vorherige Seite</span><br><br><span class="fs-4 fw-semibold">« Eingabe Betriebsdaten</span></a>
         </div>
       </div>
       <div class="col">
