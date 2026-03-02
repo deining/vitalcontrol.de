@@ -114,7 +114,25 @@ Hier definieren Sie welcher Verbleib den Tieren beim Anlegen neuer Nutztiere zug
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Verbleib](../bilder/verbleib.png "Verbleib einstellen")
 
-Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü `Tiere neu anlegen`.
+Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das übergeordnete Menü `Tiere neu anlegen`.
+
+### Status Zugangsmeldung einstellen {#set-status-registration}
+
+Hier definieren Sie, welcher Status neu angelegten Tieren bezüglich ihrer Zugangsmeldung zugewiesen wird. Um den Status `Zugangsmeldung` eines auf ihrem Gerät neu erzeugten Tieres festzulegen, gehen Sie wie folgt vor:
+
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
+
+2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
+
+3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Standardwerte` aus und bestätigen Sie mit `OK`.
+
+4. Nutzen Sie die Pfeiltasten △ ▽ um das Einstellungsfeld `Zugangsmeldung ausstehend` auszuwählen.
+
+5. Nutzen Sie die Pfeiltasten ◁ ▷ um entweder den Wert `Ja` oder den Wert `Nein` einzustellen.
+
+    ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Status Zugangsmeldung](../bilder/zugangsmeldung.png "Status Zugangsmeldung")
+
+Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das übergeordnete Menü `Tiere neu anlegen`.
 
 ## Tiere automatisch anlegen {#auto-registration}
 Hier definieren Sie, das Verhalten des Geräts, wenn ein neuer, dem VitalControl-Gerät noch unbekannter Transponder eingescannt wird. Für diesem Fall könnten drei verschiedene Verhaltensweisen definiert werden.
@@ -203,7 +221,7 @@ Um das Offset rechts des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie f
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Offset rechts](../bilder/offsetrechts.png "Offset rechts einstellen")
 
-Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü `Tiere neu anlegen`.
+Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das übergeordnete Menü `Tiere neu anlegen`.
 
 ## Zuordnung Ohrmarkennummern einstellen {#assignment-ear-tag-number}
 
@@ -219,6 +237,6 @@ Hier definieren Sie, ob bei der Zuordnung der Ohrmarkennummer im Zuge des manuel
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Zuordnung Ohrmarkennummer](../bilder/ohrmarkenzuordnung.png "Zuordnung Ohrmarkennummer einstellen")
 
-Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü `Tiere neu anlegen`.
+Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das übergeordnete Menü `Tiere neu anlegen`.
 
-Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen`.
+Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das übergeordnete Menü <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen`.
