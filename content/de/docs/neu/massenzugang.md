@@ -23,19 +23,16 @@ Mithilfe des Massenzuganges können Sie eine Vielzahl von Tieren in kurzer Zeit 
 
 4. Es öffnet sich der Erfassungsbildschirm, in dem je ein Feld für die Ohrmarkennummer und ein Feld für das Geburtsdatum des zu erfassenden Tieres angezeigt werden. Scannen Sie zuerst den Barcode für die Ohrmarkennummer. Die Umrandung des Feldes wechselt von rot zu grün. Scannen Sie anschließend das Geburtsdatum. Die Umrandung wird kurzzeitig grün, bevor beide Umrandungen wieder rot erscheinen. Der Zähler rechts neben den Symbol &nbsp;<img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Tierpässe" title="Tierpässe" /> `Tierpässe` in der Kopfzeile wird von 0 auf 1 erhöht. Das erste Tier wurde gespeichert. Fahren Sie fort und scannen Sie die weiteren Rinderpässe ein. Nach jedem gescannten Pass erhöht sich der Zähler am Passsymbol <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Tierpässe"  title="Tierpässe" /> um eins. Der Zähler am Herdensymbol <img src="/icons/header/group.svg" width="35" align="bottom" alt="Tiergruppe" title="Tiergruppe" /> erhöht sich ebenfalls um eins. 
 
-{{% alert title="Hinweis" %}}
-Der Zähler am Passsymbol <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Tierpässe"  title="Tierpässe" /> verdeutlicht wie viele Pässe Sie in einem Zug, ohne den Bildschirm `Massenzugang` zu verlassen, eingescannt haben. Der Zähler am Herdensymbol <img src="/icons/header/group.svg" width="35" align="bottom" alt="Tiergruppe"  title="Tiergruppe" /> verdeutlicht wie viele Pässe Sie insgesamt eingescannt haben. Dieser setzt sich nicht auf Null zurück, sollten Sie den Bildschirm `Massenzugang` verlassen. Der Zähler ist äquivalent zu Ihrem Einträgen in dem Menüpunkt [`Zukäufe`](../zugaenge/zukaeufe/).
-{{% /alert %}}
+> [!NOTE] Hinweis
+> Der Zähler am Passsymbol <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Tierpässe"  title="Tierpässe" /> verdeutlicht wie viele Pässe Sie in einem Zug, ohne den Bildschirm `Massenzugang` zu verlassen, eingescannt haben. Der Zähler am Herdensymbol <img src="/icons/header/group.svg" width="35" align="bottom" alt="Tiergruppe"  title="Tiergruppe" /> verdeutlicht wie viele Pässe Sie insgesamt eingescannt haben. Dieser setzt sich nicht auf Null zurück, sollten Sie den Bildschirm `Massenzugang` verlassen. Der Zähler ist äquivalent zu Ihrem Einträgen in dem Menüpunkt [`Zukäufe`](../zugaenge/zukaeufe/).
 
    ![VitalControl: Menüfolge Neu Massenzugang](../bilder/massenzugang.png "Massenzugang nutzen")
 
-{{% alert title="Hinweis" %}}
-Innerhalb des Menüpunktes Massenzuganges haben Sie noch weitere Einstellungsmöglichkeiten. Diese sind im Folgenden erläutert. Rufen Sie als vorbereitende Schritte immer zuerst den Menüpunkt Massenzugang auf und verfahren Sie dann wie in der Anleitung.
-{{% /alert %}}
+> [!NOTE] Hinweis
+> Innerhalb des Menüpunktes Massenzuganges haben Sie noch weitere Einstellungsmöglichkeiten. Diese sind im Folgenden erläutert. Rufen Sie als vorbereitende Schritte immer zuerst den Menüpunkt Massenzugang auf und verfahren Sie dann wie in der Anleitung.
 
-{{% alert title="Hinweis" %}}
-Während des Scanvorgangs kann es zu Fehlermeldungen kommen. Der Barcodescanner gibt in diesem Falle einen Ton aus und ein weiteres Scannen ist nicht möglich. Quittieren Sie die entsprechende Fehlermeldung im Display des VitalControls und fahren Sie mit dem Scannen fort. 
-{{% /alert %}}
+> [!NOTE] Hinweis
+> Während des Scanvorgangs kann es zu Fehlermeldungen kommen. Der Barcodescanner gibt in diesem Falle einen Ton aus und ein weiteres Scannen ist nicht möglich. Quittieren Sie die entsprechende Fehlermeldung im Display des VitalControls und fahren Sie mit dem Scannen fort. 
 
 ## Einstellungen Massenzugang
 
@@ -68,6 +65,9 @@ Innerhalb des Einstellungsmenüs `Erfasste Werte` legen Sie fest, welche Werte z
 5. Möchten Sie alle zu erfassenden Werte wieder deaktivieren wählen Sie im Menüpunkt `Erfasste Werte` unten die Einstellungsoption Reihenfolge zurücksetzen und bestätigen Sie mit `OK`.
 
    ![VitalControl: Menüfolge Neu Erfasste Werte](../bilder/erfasstewerte.png "Erfasste Werte einstellen")
+
+> [!NOTE] Hinweis
+> Insbesondere nach einem Softwareupdate kann es passieren, dass auf ihrem Gerät in der Liste der erfassten Werte ein oder mehrere Einträge fehlen. Verwenden Sie in diesem Fall die Pfeiltasten △ ▽ um den untersten Menüpunkt `Alle Werte deaktivieren` auszuwählen und bestätigen Sie mit `OK`. Die bisher nicht vorhandenen Werte werden jetzt in der Liste angezeigt.
 
 ### Geburtsdatum als Pflichtfeld {#birth-date-mandatory}
 
