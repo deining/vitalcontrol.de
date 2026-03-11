@@ -4,7 +4,7 @@ linkTitle: Transponder zuordnen
 weight: 70
 slug: zuordnung-transponder
 description: >
-  Legen Sie die Zuordnung des Transponders auf ihrem VitalControl-Gerät fest.
+  Hier treffen Sie Einstellungen bezüglich der Zuordnung des Transponders auf ihrem VitalControl-Gerät.
 date: 2023-07-26
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Maximalalter, Vergabe Tiernummern]
