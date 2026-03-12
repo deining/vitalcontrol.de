@@ -66,7 +66,7 @@ description: >
 
 <figure class="figure" style="margin-top: 20px">
   <img src="../images/aufruf-transponder-zuordnen.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Bildschirm Transponder zuordnen" title="Bildschirm Transponder zuordnen" />
-  <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Abbildung 4: Aufruf des Bildschirms <span style="font-style: italic;">Transponder zuordnen</span></figcaption></a>
+  <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Abbildung 3: Aufruf des Bildschirms <span style="font-style: italic;">Transponder zuordnen</span></figcaption></a>
 </figure>
 
 ## Transponder zuordnen
@@ -74,42 +74,46 @@ description: >
 {{< tabpane persist="header" >}}
 {{< tab header="**Tierauswahl:**" text=true disabled=true />}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
-Im Listenbildschirm `Zukäufe, kein Transponder zugeordnet` (Abbildung 3: <span style="font-style: italic;">Buchstabe</span> <img src="/digits/L_negative_circled.svg" width="25" align="middle" alt="Circled letter L" title="Buchstabe L" />) werden alle Zukäufe aufgelistet, denen aktuell noch kein Transponder zugewiesen wurde.
+Im Listenbildschirm `Zukäufe, kein Transponder zugeordnet` (Abbildung 4: <span style="font-style: italic;">Buchstabe</span> <img src="/digits/L_negative_circled.svg" width="25" align="middle" alt="Circled letter L" title="Buchstabe L" />) werden alle Zukäufe aufgelistet, denen aktuell noch kein Transponder zugewiesen wurde.
 
 Gehen sie wie folgt vor, um nacheinander allen Tieren Transponder zuzuweisen:
 
-1. ...
+1. Drücken Sie die mittlere `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Lupe" /> um die Suchfunktion aufzurufen. Ganz oben auf dem Bildschirm wird jetzt ein sechsstelliges Suchfeld angezeigt. Stellen Sie in diesem Suchfeld mittels der Pfeiltasten ◁ ▷ △ ▽ die letzten zwei bzw. drei Ziffern der gesuchten Tiernummer ein. Mit jeder weiteren eingegeben Ziffer wird verkürzt sich die Liste der angezeigten Tiere. Fahren Sie mit der Eingabe der Ziffern nur solange fort, bis das von Ihnen gesuchte Tier in der verkürzten Liste auftaucht (<a href="#screen-link-transponder">Abbildung 4</a>: <span style="font-style: italic;">Aktion</span> <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Aktion 1" />).
 
-1. ...
+1. Nutzen Sie die mittlere obere Pfeiltaste `Hoch` <span style="font-size: 175%;">⇧</span> bzw. die rechte obere Pfeiltaste `Runter` <span style="font-size: 175%;">⇩</span> um das gewünschte Tier in der Liste zu markieren. Drücken Sie anschließend die Taste `OK` um zum Bildschirm `Transponder zuordnen` weiterzuschalten (<a href="#screen-link-transponder">Abbildung 4</a>: <span style="font-style: italic;">Aktion</span> <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Aktion 2" />).
+
+1. Scannen Sie jetzt den Transponder des Tieres ein, welches Sie in <span style="font-style: italic;">Aktion</span> <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Aktion 2" /> manuell ausgewählt hatten (<a href="#screen-link-transponder">Abbildung 4</a>: <span style="font-style: italic;">Aktion</span> <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Aktion 3" />).
+
+1. In einem Popup wird jetzt eine Erfolgsmeldung bezüglich der Zuordnung des Transponders angezeigt. Bestätigen Sie die Meldung mit `OK`. Anschließend wird automatisch zur Tierliste weitergeleitet. Auf dieser Liste ist das Tier, dem Sie soeben einen Transponder zugeordnet haben, jetzt nicht mehr enthalten.
 
 Wiederholen sie den in den obigen Punkten erläuterten Ablauf so lange, bis allen Tieren ein Transponder zugeordnet wurde und eine leere Liste angezeigt wird.  
 
 <figure class="figure" style="margin-top: 20px;margin-bottom: 10px;">
     <img src="../images/ablauf-zuordnung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Ablauf der Verknüpfung von Transpondern, manuelle Tiersuche" title="Ablauf Transponder verknüpfen" />
-    <figcaption class="figure-caption fs-6">Abbildung 3: Ablauf der Verknüpfung von Transpondern, manuelle Tierauswahl</figcaption>
+    <figcaption class="figure-caption fs-6">Abbildung 4: Ablauf der Verknüpfung von Transpondern, manuelle Tierauswahl</figcaption>
 </figure>
 
 {{% /tab %}}
 {{% tab header="Scan des Barcodes auf der Ohrmarke" text=true %}}
-Im Listenbildschirm `Zukäufe, kein Transponder zugeordnet` (Abbildung 3: <span style="font-style: italic;">Buchstabe</span> <img src="/digits/L_negative_circled.svg" width="25" align="middle" alt="Circled letter L" title="Buchstabe L" />) werden alle Zukäufe aufgelistet, denen aktuell noch kein Transponder zugewiesen wurde.
+Im Listenbildschirm `Zukäufe, kein Transponder zugeordnet` (Abbildung 4: <span style="font-style: italic;">Buchstabe</span> <img src="/digits/L_negative_circled.svg" width="25" align="middle" alt="Circled letter L" title="Buchstabe L" />) werden alle Zukäufe aufgelistet, denen aktuell noch kein Transponder zugewiesen wurde.
 
 Gehen sie wie folgt vor, um nacheinander allen Tieren Transponder zuzuweisen:
 
 1. Stecken Sie das Kabel des Barcodescanners in die USB-C Buchse des VitalControl-Geräts ein.
 
-1. Scannen Sie für ein beliebiges Tier den Barcode auf der gelben Ohrmarke ein (<a href="#screen-link-transponder">Abbildung 3</a>: <span style="font-style: italic;">Aktion</span> <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Aktion 1" />).
+1. Scannen Sie für ein beliebiges Tier den Barcode auf der gelben Ohrmarke ein (<a href="#screen-link-transponder">Abbildung 4</a>: <span style="font-style: italic;">Aktion</span> <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Aktion 1" />).
 
-1. Das eingescannte Tier wird in der Liste selektiert und es wird automatisch zum Bildschirm `Transponder zuordnen` weitergeschaltet (<a href="#screen-link-transponder">Abbildung 3</a>: <span style="font-style: italic;">Autoaktion</span> <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Autoaktion 2" />).
+1. Das eingescannte Tier wird in der Liste selektiert und es wird automatisch zum Bildschirm `Transponder zuordnen` weitergeschaltet (<a href="#screen-link-transponder">Abbildung 4</a>: <span style="font-style: italic;">Autoaktion</span> <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Autoaktion 2" />).
 
-1. Scannen Sie jetzt den Transponder des Tieres ein, dessen Barcode sie in <span style="font-style: italic;">Aktion</span> <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Aktion 1" /> eingescannt hatten (<a href="#screen-link-transponder">Abbildung 3</a>: <span style="font-style: italic;">Aktion</span> <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Aktion 3" />).
+1. Scannen Sie jetzt den Transponder des Tieres ein, dessen Barcode Sie in <span style="font-style: italic;">Aktion</span> <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Aktion 1" /> eingescannt hatten (<a href="#screen-link-transponder">Abbildung 4</a>: <span style="font-style: italic;">Aktion</span> <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Aktion 3" />).
 
-1. In einem Popup wird jetzt eine Erfolgsmeldung bezüglich der Zuordnung des Transponders angezeigt. Bestätigen Sie die Meldung mit `OK`. Anschließend wird automatisch zur Tierliste weitergeleitet. Auf dieser Liste ist das Tier, dem Sie soeben einen zugeordnet haben, jetzt nicht mehr enthalten.
+1. In einem Popup wird jetzt eine Erfolgsmeldung bezüglich der Zuordnung des Transponders angezeigt. Bestätigen Sie die Meldung mit `OK`. Anschließend wird automatisch zur Tierliste weitergeleitet. Auf dieser Liste ist das Tier, dem Sie soeben einen Transponder zugeordnet haben, jetzt nicht mehr enthalten.
 
 Wiederholen sie den in den obigen Punkten 1 bis 5 erläuterten Ablauf so lange, bis allen Tieren ein Transponder zugeordnet wurde und eine leere Liste angezeigt wird.  
 
 <figure class="figure" style="margin-top: 20px;margin-bottom: 10px;">
     <img src="../images/ablauf-zuordnung-barcodescan.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Ablauf der Verknüpfung von Transpondern, Barcodescan" title="Ablauf Transponder verknüpfen, Barcodescan" />
-    <figcaption class="figure-caption fs-6">Abbildung 3: Ablauf der Verknüpfung von Transpondern, Barcodescan</figcaption>
+    <figcaption class="figure-caption fs-6">Abbildung 4: Ablauf der Verknüpfung von Transpondern, Barcodescan</figcaption>
 </figure>
 {{% /tab %}}
 {{< /tabpane >}}
