@@ -54,9 +54,9 @@ description: >
     </figure>
 
 > [!Note] Hinweis
-> Sollte nach dem Einstecken des Barcodescanner der Bildschirm `MassenTransponder zuordnen` nicht aufgerufen werden, so folgend sie den folgenden [Anweisungen](#manueller-aufruf-des-bildschirms-transponder-zuordnen), um den Bildschirm manuell aufzurufen.
+> Sollte nach dem Einstecken des Barcodescanner der Bildschirm `MassenTransponder zuordnen` nicht aufgerufen werden, so folgend sie den folgenden [Anweisungen](#go-to-list-manually), um den Bildschirm manuell aufzurufen.
 
-### Manueller Aufruf der Liste
+### Manueller Aufruf der Liste {#go-to-list-manually}
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Zugänge" /> `Zugänge` und drücken Sie die Taste `OK`.
 
