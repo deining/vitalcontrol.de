@@ -116,7 +116,7 @@ description: >
     </div>
     <div class="col">
       <div class="d-grid gap-2">
-        <a class="btn btn-lg btn-primary text-end" role="button" href="../massenmeldung"><span class="fs-6">Nächste Seite</span><br><br><span class="fs-4 fw-semibold">Massenmeldung HI-Tier »</span></a>
+        <a class="btn btn-lg btn-primary text-end" role="button" href="../massenmeldung/zugang/"><span class="fs-6">Nächste Seite</span><br><br><span class="fs-4 fw-semibold">Massenmeldung HI-Tier »</span></a>
       </div>
     </div>
   </div>
