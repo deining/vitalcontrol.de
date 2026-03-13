@@ -24,14 +24,18 @@ description: >
 {{< tabpane persist="header" text=true >}}
   {{% tab header="**Meldeportal**:" disabled=true /%}}
   {{% tab header="HI-Tier klassisch" %}}
-1. Rufen Sie die [Anmeldeseite](https://www.hi-tier.de/hitCom/login.asp) des HI-Tier Portals auf und melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
+1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite bei HI-Tier aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
+
+    <a href="https://www.hi-tier.de/hitCom/login.asp" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Anmeldeseite_</a>
 
     <figure class="figure" style="margin-top: 20px">
         <img src="../screenshots/anmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Anmeldebildschirm HI-Tier" title="Anmeldung bei HI-Tier" />
         <figcaption class="figure-caption fs-6">Screenshot 1: Anmeldung beim HI-Tier Portal</figcaption>
     </figure>
 
-1. Rufen Sie Bildschirmseite [Massenmeldung per Datei](https://www.hi-tier.de/hitCom/l_upload1.asp?M=SON&txtLangFormUpl=False) auf. Sollte dieser Link für Sie nicht funktionieren, so folgen sie den untenstehenden [Anweisungen](#call-screen-via-links), um die Bildschirmseite manuell linkgestützt aufzurufen.
+1. Klicken Sie auf die untenstehende Schaltfläche, um bei HI-Tier direkt die Bildschirmseite zur Massenmeldung von Zugängen per Datei aufzurufen. Sollte dieser Link für Sie nicht funktionieren, so folgen sie den untenstehenden [Anweisungen](#call-screen-via-links), um die Bildschirmseite manuell linkgestützt aufzurufen.
+
+    <a href="https://www.hi-tier.de/hitCom/l_upload1.asp?M=SON&txtLangFormUpl=False" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Massenmeldung von Zugängen_</a>
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="45px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Tipp:">
@@ -96,8 +100,9 @@ Ihre zugekauften Tiere wurden damit bei HI-Tier erfolgreich als Zugänge gemelde
   {{% /tab %}}
   {{% tab header="HI Tier Version 3" %}}
 
-1. Rufen Sie die [Anmeldeseite](https://www3.hi-tier.de/HitCom3/Home/Login) des HI-Tier Portals V3 auf und melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
+1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite des HI-Tier Portals V3 aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
 
+    <a href="https://www.hi-tier.de/HitCom3/Home/Login" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier (V3): _Anmeldeseite_</a>
     <figure class="figure" style="margin-top: 20px">
         <img src="../screenshots/anmeldung_v3.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Anmeldebildschirm HI-Tier V3" title="Anmeldung bei HI-Tier V3" />
         <figcaption class="figure-caption fs-6">Screenshot 1: Anmeldung beim HI-Tier Portal (Version 3)</figcaption>

@@ -12,38 +12,6 @@ description: >
 {{< tabpane persist="header" text=true >}}
   {{% tab header="*Erzeugung auf:*" disabled=true /%}}
 
-  {{% tab header="**PC**&nbsp; (mittels Excel-Datei)" %}}
-
-  1. Speichern Sie die bereitgestellte [Excel-Datei](/download/MassenmeldungZugang.xlsm) zur Massenmeldung ihrer Zugänge in einem beliebigen Verzeichnis auf ihrem PC.
-
-  1. Öffnen Sie die heruntergeladene Excel-Datei mittels eines Doppelklicks:
-    <figure class="figure" style="margin-top: 0px">
-    <img src="../images/meldetool/home.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Meldetool Zugänge, Startbildschirm" title="Meldetool Zugänge, Home" />
-    <a name="TabelleZugaenge" ><figcaption class="figure-caption fs-6">Abbildung 1: Excel-basiertes Meldetool, Startbildschirm</span></figcaption></a>
-    </figure>
-
-  1. Das Meldetool kann Daten von bis zu 8 verschiedenen Automaten <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> abrufen. Initial ist es ist einmalig erforderlich, für jeden Automaten, von dem Daten abgerufen werden sollen, die URL-Adresse der REST-API <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> anzugeben, die für den Datenabruf genutzt wird. Die URL-Adresse ist in der Form `http://IP-Adresse:Portnummer` einzugeben. In der untenstehenden Tabelle sind die relevanten URL-Parameter `IP-Adresse` und `Portnummer` je nach Art der genutzten Verbindung aufgeführt:
-  | Verbindung über                           | IP-Adresse                                           | Portnummer          |
-  |-------------------------------------------|------------------------------------------------------|---------------------|
-  | *Urban Router, LAN-Anschluss* oder *WLAN* | `10.140.140.21` bis `10.140.140.28`                  | `8080`              |
-  | *Urban Router, WAN-Anschluss*             | Per DHCP zugewiesene Adresse (z.B. `192.168.178.20)` | `18021` bis `18028` |
-
-  1. Klicken Sie auf den dritten Menüeintrag `Urban` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> um die anwendungsspezifische Werkzeugleiste aufzurufen.
-
-  1. Wählen Sie das Arbeitsblatt `Zugänge` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> der Tabelle aus.
-    <figure class="figure" style="margin-top: 0px">
-    <img src="../images/meldetool/zugaenge.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Exportvorgang CSV-Datei" title="Aufruf CSV-Export" />
-    <a name="TabelleZugaenge" ><figcaption class="figure-caption fs-6">Abbildung 2: Excel-basiertes Meldetool, Tabelle <span style="font-style: italic;">Zugänge</span></figcaption></a>
-    </figure>
-
-  ## Einstellungen
-  
-  ### Ländereinstellungen (DE / AT)
-
-  ### Betriebsnummer (relevant nur für DE)
-
-  {{% /tab %}}
-
   {{% tab header="**VitalControl**&nbsp; (Export auf USB-Stick)" %}}
 
   Das VitalControl-Gerät kann eine CSV-Meldedatei auf einen USB-Stick exportieren.
@@ -104,6 +72,16 @@ description: >
   </figure>
   
   {{% /tab %}}
+
+  {{% tab header="**PC**&nbsp; (mittels VCSynchronizer)" %}}
+
+> [!NOTE] Achtung
+> Überprüfen Sie zunächst, ob die Software `VCSynchronizer` auf ihrem PC installiert ist, diese Software wird zwingend zur Erzeugung der CSV-Datei am PC benötigt.  Öffnen Sie dazu im Windows Startmenü die Liste ihrer Anwendungen und überprüfen Sie, ob dort den Eintrag `Urban VitalControl` finden können. Falls nicht, [installieren](/docs/data-link/vcsynchronizer/installation/) sie die Software `VCSynchronizer` auf ihren PC.
+
+  1. ...
+
+  {{% /tab %}}
+
 {{< /tabpane >}}
 
 <div style="max-width: 80%; margin-top: 20px;">
