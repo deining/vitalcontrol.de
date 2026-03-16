@@ -22,8 +22,89 @@ description: >
 </svg>
 
 {{< tabpane persist="header" text=true >}}
-  {{% tab header="**Meldeportal**:" disabled=true /%}}
-  {{% tab header="HI-Tier klassisch" %}}
+  {{% tab header="**Meldeformular**:" disabled=true /%}}
+
+  {{% tab header="_Umbuchung_ (Empfehlung)" %}}
+1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite bei HI-Tier aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
+
+    <a href="https://www.hi-tier.de/hitCom/login.asp" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Anmeldeseite_</a>
+
+    <figure class="figure" style="margin-top: 20px">
+        <img src="../screenshots/anmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Anmeldebildschirm HI-Tier" title="Anmeldung bei HI-Tier" />
+        <figcaption class="figure-caption fs-6">Screenshot 1: Anmeldung beim HI-Tier Portal</figcaption>
+    </figure>
+
+1. Klicken Sie auf die untenstehende Schaltfläche, um bei HI-Tier direkt die Bildschirmseite zur Massenmeldung von Tieren aufzurufen. Sollte dieser Link für Sie nicht funktionieren, so folgen sie den untenstehenden [Anweisungen](#call-screen-via-links), um die Bildschirmseite manuell linkgestützt aufzurufen.
+
+    <a href="https://www.hi-tier.de/hitCom/l_uploadabzu.asp?M=WEI" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Massenmeldung von Zugängen_</a>
+
+    <div class="alert alert-primary d-flex align-items-center" role="alert">
+    <svg xmlns="http://www.w3.org/2000/svg" width="45px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Tipp:">
+      <use xlink:href="#check-circle-fill"/>
+    </svg>
+    <div>
+      <span class="text-primary fs-3 fw-semibold">Tipp</span><br>
+      Setzen Sie sich in ihrem Browser ein Lesezeichen auf diese Seite, damit Sie sie beim nächsten Meldevorgang leichter wiederfinden können.
+    </div>
+    </div>
+
+1. Lassen Sie das Textfeld `Abgangsbetrieb` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> leer, da sie keine Tiere abmelden wollen.
+
+1. Geben Sie in das Textfeld `Zugangsbetrieb` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> die zwölfstellige Betriebsnummer ihres Betriebs ein. Die Zukäufe werden auf diesen Betrieb gebucht.
+
+1. Geben Sie in das Textfeld `Datum` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> dasjenige Datum an, an dem die Ummeldung erfolgt ist (Format: `TT.MM.JJJJ`).
+
+1. Wählen Sie über den Punkt `Daten-Datei` <img src="/digits/4_negative_circled.svg" width="25" align="middle" alt="Circled digit 4" title="Ziffer 4" /> diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie im vorherigen Schritt [Erzeugung CSV-Datei](/fresser/erzeugung-csv/) erstellt haben.
+
+1. Klicken Sie auf die Schaltfläche `Einfügen` <img src="/digits/5_negative_circled.svg" width="25" align="middle" alt="Circled digit 5" title="Ziffer 5" />, um die Massenmeldung ihrer Zukäufe vorzunehmen.
+
+    <div class="alert alert-primary d-flex align-items-center" role="alert">
+    <svg xmlns="http://www.w3.org/2000/svg" width="45px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
+      <use xlink:href="#info-fill"/>
+    </svg>
+    <div>
+      <span class="text-primary fs-3 fw-semibold">Hinweis</span><br>
+      Bei einer größeren Anzahl an zu meldenden Tieren kann der Exportvorgang 30 Sekunden (oder mehr) in Anspruch nehmen. Seien Sie bitte geduldig und warten das Erscheinen der Erfolgsmeldung ab!
+    </div>
+    </div>
+
+<figure class="figure" style="margin-top: 10px;">
+    <img src="../screenshots/massenmeldung-txt.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Massenummeldung" title="Massenummeldung HI-Tier" />
+    <figcaption class="figure-caption fs-6">Screenshot 2: Bildschirm <span style="font-style: italic;">Massenmeldung</span></figcaption>
+</figure>
+
+6. Nach Abschluss der Massenmeldung wird in der unteren Bildschirmhälfte eine Statistik ihres Meldevorgangs angezeigt. In dieser Statistik wird die Anzahl <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> der erfolgreichen Meldungen ebenso aufgeführt wie die Anzahl der fehlgeschlagenen Meldungen.
+
+    <div class="alert alert-primary d-flex align-items-center" role="alert">
+    <svg xmlns="http://www.w3.org/2000/svg" width="64px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Attention:">
+      <use xlink:href="#exclamation-triangle-fill"/>
+    </svg>
+    <div>
+    <span class="text-primary fs-3 fw-semibold">ACHTUNG</span><br>Sollte es bei Ihrer Meldung zu Fehlern gekommen sein, nehmen Sie diese ernst und stellen Sie die aufgetretenen Fehler anhand der gegebenen Hinweise ab!
+    </div>
+    </div>
+
+<figure class="figure" style="margin-top: 20px;margin-bottom: 40px;">
+    <img src="../screenshots/erfolg-massenmeldung-txt.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgsmeldung Massenmeldung" title="Erfolgsmeldung Massenmeldung" />
+    <figcaption class="figure-caption fs-6">Screenshot 3: Erfolgreiche Ausführung der Massenmeldung</figcaption>
+</figure>
+
+Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugangsbetrieb umgemeldet.
+
+## Linkgeführter Aufruf des Bildschirms <span style="font-style: italic;">Massenmeldung</span> {#call-screen-via-links}
+
+1. Rufen Sie den Startbildschirm des HI-Tier Portals auf. Dort finden Sie unter der Überschrift `Rinderdatenbank - Abfragen` den Menüpunkt `weitere Abfragen und Funktionen` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />. Klicken Sie auf diesen Menüpunkt.
+
+2.  Sie werden jetzt auf eine neue Seite weitergeleitet, auf der sich ein zweispaltiges Auswahlmenü `Weitere Abfragen und Funktionen` befindet. Klicken Sie in diesem Menü auf den Menüpunkt `Ab- und Zugang` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> in der linken Spalte. Sie werden jetzt auf die gewünschte Bildschirmseite zur [Massenmeldung](https://www.hi-tier.de/hitCom/l_uploadabzu.asp?M=WEI) weitergeleitet.
+
+<figure class="figure" style="margin-top: 20px;">
+    <img src="../screenshots/ummeldung/aufruf-massenummeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Bildschirm Massenummeldung" title="Aufruf Massenummeldung" />
+    <figcaption class="figure-caption fs-6">Screenshot 4: Aufruf des Bildschirm <span style="font-style: italic;">Massenummeldung</span> via Links</figcaption>
+</figure>
+
+  {{% /tab %}}
+
+  {{% tab header="_Massenmeldung_ (Alternative)" %}}
 1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite bei HI-Tier aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
 
     <a href="https://www.hi-tier.de/hitCom/login.asp" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Anmeldeseite_</a>
@@ -98,7 +179,7 @@ Ihre zugekauften Tiere wurden damit bei HI-Tier erfolgreich als Zugänge gemelde
 </figure>
 
   {{% /tab %}}
-  {{% tab header="HI Tier Version 3" %}}
+  {{% tab header="_Massenmeldung_ (HI Tier Version 3)" %}}
 
 1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite des HI-Tier Portals V3 aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
 

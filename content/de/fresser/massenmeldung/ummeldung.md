@@ -68,7 +68,7 @@ description: >
     </div>
 
 <figure class="figure" style="margin-top: 10px;">
-    <img src="../screenshots/massenummeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Massenummeldung" title="Massenummeldung HI-Tier" />
+    <img src="../screenshots/ummeldung/massenummeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Massenummeldung" title="Massenummeldung HI-Tier" />
     <figcaption class="figure-caption fs-6">Screenshot 2: Bildschirm <span style="font-style: italic;">Ummeldung zwischen zwei Betrieben (Massenmeldung)</span></figcaption>
 </figure>
 
@@ -84,8 +84,8 @@ description: >
     </div>
 
 <figure class="figure" style="margin-top: 20px;margin-bottom: 40px;">
-    <img src="../screenshots/erfolg-massenmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgsmeldung Massenmeldung" title="Erfolgsmeldung Massenmeldung" />
-    <figcaption class="figure-caption fs-6">Screenshot 3: Erfolgreiche Ausführung der Massenmeldung</figcaption>
+    <img src="../screenshots/ummeldung/erfolg-ummeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgsmeldung Ummeldung" title="Erfolgsmeldung Ummeldung" />
+    <figcaption class="figure-caption fs-6">Screenshot 3: Erfolgreiche Ausführung der Ummeldung zwischen zwei Betrieben</figcaption>
 </figure>
 
 Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugangsbetrieb umgemeldet.
@@ -97,7 +97,7 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugan
 2.  Sie werden jetzt auf eine neue Seite weitergeleitet, auf der sich ein zweispaltiges Auswahlmenü `Weitere Abfragen und Funktionen` befindet. Klicken Sie in diesem Menü auf den Menüpunkt `Ab- und Zugang` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> in der linken Spalte. Sie werden jetzt auf die gewünschte Bildschirmseite [Ummeldung zwischen Betrieben](https://www.hi-tier.de/hitCom/l_uploadabzu.asp?M=WEI) weitergeleitet.
 
 <figure class="figure" style="margin-top: 20px;">
-    <img src="../screenshots/aufruf-massenummeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Bildschirm Massenummeldung" title="Aufruf Massenummeldung" />
+    <img src="../screenshots/ummeldung/aufruf-massenummeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Bildschirm Massenummeldung" title="Aufruf Massenummeldung" />
     <figcaption class="figure-caption fs-6">Screenshot 4: Aufruf des Bildschirm <span style="font-style: italic;">Massenummeldung</span> via Links</figcaption>
 </figure>
 
