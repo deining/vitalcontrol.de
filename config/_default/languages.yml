@@ -1,14 +1,14 @@
 de:
-  languageName: Deutsch
+  label: Deutsch
   contentDir: content/de
-  languageCode: de-DE
+  locale: de-DE
   # Weight used for sorting.
   weight: 10
   taxonomies:
     tag: tags
     kategorie: kategorien
 en:
-  languageName: English
+  label: English
   contentDir: content/en
   weight: 20
   disabled: false
@@ -16,7 +16,7 @@ en:
     tag: tags
     category: categories
 bs:
-  languageName: Bosanski
+  label: Bosanski
   contentDir: content/bs
   weight: 30
   disabled: false
@@ -24,7 +24,7 @@ bs:
     nadimak: oznake
     kategorija: kategorije  
 bg:
-  languageName: Български
+  label: Български
   contentDir: content/bg
   weight: 35
   disabled: false
@@ -32,7 +32,7 @@ bg:
     етикет: тагове
     категория: категории
 cs:
-  languageName: Čeština
+  label: Čeština
   contentDir: content/cs
   weight: 40
   disabled: false
@@ -40,7 +40,7 @@ cs:
     značka: štítky
     kategorie: kategorie
 da:
-  languageName: Dansk
+  label: Dansk
   contentDir: content/da
   disabled: false
   taxonomies:
@@ -48,7 +48,7 @@ da:
     kategori: kategorier
   weight: 45
 et:
-  languageName: Eesti
+  label: Eesti
   contentDir: content/et
   weight: 50
   disabled: false
@@ -56,7 +56,7 @@ et:
     silt: sildid
     kategooria: kategooriad
 el:
-  languageName: Ελληνικά
+  label: Ελληνικά
   contentDir: content/el
   weight: 55
   disabled: false
@@ -64,7 +64,7 @@ el:
     ετικέτα: ετικέτες
     κατηγορία: κατηγορίες
 es:
-  languageName: Español
+  label: Español
   contentDir: content/es
   disabled: false
   taxonomies:
@@ -72,7 +72,7 @@ es:
     categoría: categorías
   weight: 60
 fi:
-  languageName: Suomalainen
+  label: Suomalainen
   contentDir: content/fi
   weight: 125
   disabled: false
@@ -80,7 +80,7 @@ fi:
     tagi: tagit
     luokka: luokat  
 fr:
-  languageName: Français
+  label: Français
   contentDir: content/fr
   disabled: false
   taxonomies:
@@ -88,7 +88,7 @@ fr:
     catégorie: catégories
   weight: 80
 hr:
-  languageName: Hrvatski
+  label: Hrvatski
   contentDir: content/hr
   weight: 95
   disabled: false
@@ -96,7 +96,7 @@ hr:
     címke: címkék
     kategória: kategóriák
 hu:
-  languageName: Magyar
+  label: Magyar
   contentDir: content/hu
   weight: 90
   disabled: false
@@ -104,7 +104,7 @@ hu:
     címke: címkék
     kategória: kategóriák  
 it:
-  languageName: Italiano
+  label: Italiano
   contentDir: content/it
   disabled: false
   taxonomies:
@@ -112,7 +112,7 @@ it:
     categoria: categorie
   weight: 93
 lt:
-  languageName: Lietuviškas
+  label: Lietuviškas
   contentDir: content/lt
   weight: 94
   disabled: false
@@ -120,11 +120,11 @@ lt:
     žyma: žymos
     kategorija: kategorijos  
 lv:
-  languageName: Latviešu
+  label: Latviešu
   contentDir: content/lv
   weight: 95
 nl:
-  languageName: Nederlands
+  label: Nederlands
   contentDir: content/nl
   disabled: false
   taxonomies:
@@ -132,7 +132,7 @@ nl:
     categorie: categorieën
   weight: 100
 no:
-  languageName: Norsk
+  label: Norsk
   contentDir: content/no
   weight: 110
   disabled: false
@@ -140,7 +140,7 @@ no:
     merke: tagger
     kategori: kategorier
 pl:
-  languageName: Polski
+  label: Polski
   contentDir: content/pl
   weight: 120
   disabled: false
@@ -148,7 +148,7 @@ pl:
     znacznik: tagi
     kategoria: kategorie
 pt:
-  languageName: Português
+  label: Português
   contentDir: content/pt
   disabled: false
   taxonomies:
@@ -156,7 +156,7 @@ pt:
     categoria: categorias
   weight: 122
 ro:
-  languageName: Română
+  label: Română
   contentDir: content/ro
   weight: 123
   disabled: false
@@ -164,7 +164,7 @@ ro:
     etichetă: etichete
     categorie: categorii  
 ru:
-  languageName: Русский
+  label: Русский
   contentDir: content/ru
   weight: 125
   disabled: false
@@ -172,7 +172,7 @@ ru:
     тег: теги
     категория: категории
 sl:
-  languageName: Slovenščina
+  label: Slovenščina
   contentDir: content/sl
   weight: 125
   disabled: false
@@ -180,7 +180,7 @@ sl:
     oznaka: oznake
     kategorija: kategorije
 sv:
-  languageName: Svenska
+  label: Svenska
   contentDir: content/sv
   weight: 128
   disabled: false
@@ -188,7 +188,7 @@ sv:
     tagg: taggar
     kategori: kategorier
 tr:
-  languageName: Türkçe
+  label: Türkçe
   contentDir: content/tr
   weight: 130
   disabled: false
@@ -196,7 +196,7 @@ tr:
     etiket: Etiketler
     Kategori: Kategoriler
 uk:
-  languageName: Український
+  label: Український
   contentDir: content/uk
   weight: 150
   disabled: false
@@ -204,8 +204,8 @@ uk:
     тег: теги
     категорія: категорії
 zh:
-  languageName: 正體字/繁體字
-  languageCode: zh-TW
+  label: 正體字/繁體字
+  locale: zh-TW
   disabled: false
   contentDir: content/zh
   weight: 140
