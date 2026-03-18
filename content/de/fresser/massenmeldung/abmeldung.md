@@ -1,14 +1,14 @@
 ---
-title: Ummeldung zwischen zwei Betrieben
-linkTitle: Ummeldung
+title: Abmeldung von Tieren vom Betrieb
+linkTitle: Abmeldung
 date: 2025-02-22T13:07:52+01:00
 draft: false
-weight: 20
+weight: 30
 type: docs
-slug: ummeldung
-translationKey: massenmeldung/ummeldung
+slug: abgang
+translationKey: massenmeldung/abgang
 description: >
-  Melden Sie gemäß der folgenden Anleitung im HI-Tier Portal unter Zuhilfenahme der CSV-Exportdatei ihre Tiere von einem Betrieb auf einen anderen um.
+  Nutzen Sie die folgende Anleitung, um im HI-Tier Portal Tiere von ihrem Betrieb abzumelden.
 ---
 <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
   <symbol id="check-circle-fill" viewBox="0 0 16 16">
@@ -23,7 +23,7 @@ description: >
 </svg>
 
 {{< tabpane persist="header" text=true >}}
-  {{% tab header="**Umzumeldende Tiere einlesen aus**:" disabled=true /%}}
+  {{% tab header="**Abzumeldende Tiere einlesen aus**:" disabled=true /%}}
   {{% tab header="Exportdatei von VitalControl" %}}
 1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite bei HI-Tier aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
 
@@ -34,9 +34,9 @@ description: >
         <figcaption class="figure-caption fs-6">Screenshot 1: Anmeldung beim HI-Tier Portal</figcaption>
     </figure>
 
-1. Klicken Sie auf die untenstehende Schaltfläche, um bei HI-Tier direkt die Bildschirmseite zum Umbuchen von Tieren zwischen Betrieben (per Massenmeldung) aufzurufen. Sollte dieser Link für Sie nicht funktionieren, so folgen sie den untenstehenden [Anweisungen](#call-screen-via-links), um die Bildschirmseite manuell linkgestützt aufzurufen.
+1. Klicken Sie auf die untenstehende Schaltfläche, um bei HI-Tier direkt die Bildschirmseite zum Abmelden von Tieren von ihrem Betrieb (per Massenmeldung) aufzurufen. Sollte dieser Link für Sie nicht funktionieren, so folgen sie den untenstehenden [Anweisungen](#call-screen-via-links), um die Bildschirmseite manuell linkgestützt aufzurufen.
 
-    <a href="https://www.hi-tier.de/hitCom/l_uploadabzu.asp?M=WEI" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Tiere zwischen Betrieben umbuchen_</a>
+    <a href="https://www.hi-tier.de/hitCom/l_uploadabzu.asp?M=WEI" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Tiere vom Betrieb abmelden_</a>
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="45px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Tipp:">
@@ -50,13 +50,11 @@ description: >
 
 1. Geben Sie in das Textfeld `Abgangsbetrieb` (<a href="#screenshot-2">Screenshot 2</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) die zwölfstellige Betriebsnummer desjenigen Betriebs ein, von dem die Tiere abgehen.
 
-1. Geben Sie in das Textfeld `Zugangsbetrieb` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> die zwölfstellige Betriebsnummer desjenigen Betriebs ein, auf den die Tiere zugehen.
+1. Lassen Sie das Textfeld `Zugangsbetrieb` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> leer, da sie keine Tiere als Zugänge anmelden wollen.
 
-1. Geben Sie in das Textfeld `Datum` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> dasjenige Datum an, an dem die Ummeldung erfolgt ist (Format: `TT.MM.JJJJ`).
+1. Geben Sie in das Textfeld `Datum` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> das Abmeldedatum (Format: `TT.MM.JJJJ`) für ihre abgehenden Tiere an.
 
-1. Wählen Sie über den Punkt `Ohrmarken-Datei` <img src="/digits/4_negative_circled.svg" width="25" align="middle" alt="Circled digit 4" title="Ziffer 4" /> diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie seinerzeit beim Zukauf der Tiere mit ihrem VitalControl erstellt haben.
-
-1. Klicken Sie auf die Schaltfläche `Einfügen` <img src="/digits/5_negative_circled.svg" width="25" align="middle" alt="Circled digit 5" title="Ziffer 5" />, um die Massenmeldung ihrer Zukäufe vorzunehmen.
+1. Wählen Sie über den Punkt `Ohrmarken-Datei` <img src="/digits/4_negative_circled.svg" width="25" align="middle" alt="Circled digit 4" title="Ziffer 4" /> diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie seinerzeit beim Zugang der Tiere auf ihren Betrieb mit ihrem VitalControl erstellt haben.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="45px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -64,17 +62,28 @@ description: >
     </svg>
     <div>
       <span class="text-primary fs-3 fw-semibold">Hinweis</span><br>
-      Bei einer größeren Anzahl an umzumeldenden Tieren kann der Exportvorgang 30 Sekunden (oder mehr) in Anspruch nehmen. Seien Sie bitte geduldig und warten das Erscheinen der Erfolgsmeldung ab!
+      Die von ihnen auszuwählende Datei wird den Namen <span style="font-style: italic;">zugaenge-TT-MM-JJJJ-HH-MM.csv</span> tragen. Stören Sie sich nicht an der Namensgebung der Datei! Aus ihren Zugängen sind mittlerweile Abgänge geworden, die entscheidende Information in der Datei, die Ohrmarkennummer des Tieres, hat sich aber nicht geändert! Sollte diese Datei Tiere enthalten, die nicht mehr auf dem Betrieb sind, können Sie diese trotzdem verwenden! Es werden dann zwar Fehler zu fehlgeschlagenen Abmeldungen angezeigt, diese können Sie aber ignorieren.
     </div>
     </div>
 
-<a name="screenshot-2"></a>
-<figure class="figure" style="margin-top: 10px;">
-    <img src="../screenshots/ummeldung/massenummeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Massenummeldung" title="Massenummeldung HI-Tier" />
-    <figcaption class="figure-caption fs-6">Screenshot 2: Bildschirm <span style="font-style: italic;">Ummeldung zwischen zwei Betrieben (Massenmeldung)</span></figcaption>
+1. Klicken Sie auf die Schaltfläche `Einfügen` <img src="/digits/5_negative_circled.svg" width="25" align="middle" alt="Circled digit 5" title="Ziffer 5" />, um die Abmeldung der mittlerweile von ihnen großgezogenen Tiere vorzunehmen.
+
+    <div class="alert alert-primary d-flex align-items-center" role="alert">
+    <svg xmlns="http://www.w3.org/2000/svg" width="45px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
+      <use xlink:href="#info-fill"/>
+    </svg>
+    <div>
+      <span class="text-primary fs-3 fw-semibold">Hinweis</span><br>
+      Bei einer größeren Anzahl an abzumeldenden Tieren kann der Exportvorgang 30 Sekunden (oder mehr) in Anspruch nehmen. Seien Sie bitte geduldig und warten das Erscheinen der Erfolgsmeldung ab!
+    </div>
+    </div>
+
+<figure class="figure" style="margin-top: 10px;"><a name="screenshot-2"></a>
+    <img src="../screenshots/abmeldung/massenabmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Massenabmeldung" title="Massenabmeldung HI-Tier" />
+    <figcaption class="figure-caption fs-6">Screenshot 2: Bildschirm <span style="font-style: italic;">Abmeldung von Tieren vom Betrieb (Massenmeldung)</span></figcaption>
 </figure>
 
-6. Nach Abschluss der Massenmeldung wird in der unteren Bildschirmhälfte eine Statistik ihres Meldevorgangs angezeigt. In dieser Statistik wird die Anzahl der erfolgreichen Meldungen (<a href="#screenshot-3">Screenshot 3</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) ebenso aufgeführt wie die Anzahl der fehlgeschlagenen Meldungen.
+6. Nach Abschluss der Massenmeldung wird in der unteren Bildschirmhälfte eine Statistik ihres Meldevorgangs angezeigt. In dieser Statistik wird die Anzahl der erfolgreichen Abmeldungen (<a href="#screenshot-3">Screenshot 3</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) ebenso aufgeführt wie die Anzahl der fehlgeschlagenen Abmeldungen.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="64px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Attention:">
@@ -87,21 +96,21 @@ description: >
 
 <a name="screenshot-3"></a>
 <figure class="figure" style="margin-top: 20px;margin-bottom: 40px;">
-    <img src="../screenshots/ummeldung/erfolg-ummeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgsmeldung Ummeldung" title="Erfolgsmeldung Ummeldung" />
-    <figcaption class="figure-caption fs-6">Screenshot 3: Erfolgreiche Ausführung der Ummeldung zwischen zwei Betrieben</figcaption>
+    <img src="../screenshots/abmeldung/erfolg-abmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgsmeldung Abmeldung" title="Erfolgsmeldung Abmeldung" />
+    <figcaption class="figure-caption fs-6">Screenshot 3: Erfolgreiche Ausführung der Abmeldung von ihrem Betrieb</figcaption>
 </figure>
 
-Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugangsbetrieb umgemeldet.
+Ihre Tiere wurden damit bei HI-Tier erfolgreich von ihrem Betrieb abgemeldet.
 
-## Linkgeführter Aufruf des Bildschirms <span style="font-style: italic;">Ummeldung zwischen Betrieben</span> {#call-screen-via-links}
+## Linkgeführter Aufruf des Bildschirms <span style="font-style: italic;">Abmeldung von Tieren von ihrem Betrieb</span> {#call-screen-via-links}
 
 1. Rufen Sie den Startbildschirm des HI-Tier Portals auf. Dort finden Sie unter der Überschrift `Rinderdatenbank - Abfragen` den Menüpunkt `weitere Abfragen und Funktionen` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />. Klicken Sie auf diesen Menüpunkt.
 
-2.  Sie werden jetzt auf eine neue Seite weitergeleitet, auf der sich ein zweispaltiges Auswahlmenü `Weitere Abfragen und Funktionen` befindet. Klicken Sie in diesem Menü auf den Menüpunkt `Ab- und Zugang` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> in der linken Spalte. Sie werden jetzt auf die gewünschte Bildschirmseite [Ummeldung zwischen Betrieben](https://www.hi-tier.de/hitCom/l_uploadabzu.asp?M=WEI) weitergeleitet.
+2.  Sie werden jetzt auf eine neue Seite weitergeleitet, auf der sich ein zweispaltiges Auswahlmenü `Weitere Abfragen und Funktionen` befindet. Klicken Sie in diesem Menü auf den Menüpunkt `Ab- und Zugang` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> in der linken Spalte. Sie werden jetzt auf die gewünschte Bildschirmseite zur [Massenmeldung](https://www.hi-tier.de/hitCom/l_uploadabzu.asp?M=WEI) weitergeleitet.
 
 <figure class="figure" style="margin-top: 20px;">
-    <img src="../screenshots/ummeldung/aufruf-massenummeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Bildschirm Massenummeldung" title="Aufruf Massenummeldung" />
-    <figcaption class="figure-caption fs-6">Screenshot 4: Aufruf des Bildschirm <span style="font-style: italic;">Massenummeldung</span> via Links</figcaption>
+    <img src="../screenshots/ummeldung/aufruf-massenummeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Bildschirm Massenabmmeldung" title="Aufruf Massenabmeldung" />
+    <figcaption class="figure-caption fs-6">Screenshot 4: Aufruf des Bildschirm <span style="font-style: italic;">Massenabmeldung</span> via Links</figcaption>
 </figure>
 
   {{% /tab %}}
@@ -116,9 +125,9 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugan
         <figcaption class="figure-caption fs-6">Screenshot 1: Anmeldung beim HI-Tier Portal</figcaption>
     </figure>
 
-1. Klicken Sie auf die untenstehende Schaltfläche, um bei HI-Tier direkt die Bildschirmseite zum Umbuchen zwischen zwei Betrieben bei Auswahl der Tiere aus dem Bestandsregister aufzurufen. Sollte dieser Link für Sie nicht funktionieren, so folgen sie den untenstehenden [Anweisungen](#call-herd-register-screen-via-links), um die Bildschirmseite manuell linkgestützt aufzurufen.
+1. Klicken Sie auf die untenstehende Schaltfläche, um bei HI-Tier direkt die Bildschirmseite zum Abmelden von Tieren bei Auswahl aus dem Bestandsregister aufzurufen. Sollte dieser Link für Sie nicht funktionieren, so folgen sie den untenstehenden [Anweisungen](#call-herd-register-screen-via-links), um die Bildschirmseite manuell linkgestützt aufzurufen.
 
-    <a href="https://www.hi-tier.de/hitCom/bestreg_abzu.asp?M=WEI" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Tiere per Bestandsregister zwischen Betrieben ummelden_</a>
+    <a href="https://www.hi-tier.de/hitCom/bestreg_abzu.asp?M=WEI" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Tiere per Bestandsregister abmelden_</a>
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="45px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Tipp:">
@@ -132,11 +141,11 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugan
 
 1. Geben Sie in das Textfeld `Abgangsbetrieb` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> die zwölfstellige Betriebsnummer desjenigen Betriebs ein, von dem die Tiere abgehen.
 
-1. Geben Sie in das Textfeld `Zugangsbetrieb` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> die zwölfstellige Betriebsnummer desjenigen Betriebs ein, auf den die Tiere zugehen.
+1. Lassen Sie das Textfeld `Zugangsbetrieb` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> leer, da sie keine Tiere als Zugänge anmelden wollen.
 
-1. Geben Sie in das Textfeld `Ab/Zugangsdatum` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> dasjenige Datum an, das als Meldedatum für die zu erstellenden Meldungen genutzt werden soll (Format: `TT.MM.JJJJ`).
+1. Geben Sie in das Textfeld `Ab/Zugangsdatum` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> das Abmeldedatum (Format: `TT.MM.JJJJ`) für ihre abgehenden Tiere an.
 
-1. Geben Sie als Selektionskriterium in das Textfeld `Zugang` <img src="/digits/4_negative_circled.svg" width="25" align="middle" alt="Circled digit 4" title="Ziffer 4" /> dasjenige Datum an, an dem die Tiere auf den jetzt abgebenden Betrieb zugegangen sind (Format: `TT.MM.JJJJ`).
+1. Geben Sie als Selektionskriterium in das Textfeld `Zugang` <img src="/digits/4_negative_circled.svg" width="25" align="middle" alt="Circled digit 4" title="Ziffer 4" /> dasjenige Datum an, an dem die Tiere seinerzeit auf ihrem Betrieb zugegangen sind (Format: `TT.MM.JJJJ`).
 
 1. Klicken Sie auf die Schaltfläche `Anzeigen` <img src="/digits/5_negative_circled.svg" width="25" align="middle" alt="Circled digit 5" title="Ziffer 5" />. Im unteren Bildschirmbereich werden jetzt alle Tiere <img src="/digits/6_negative_circled.svg" width="25" align="middle" alt="Circled digit 6" title="Ziffer 6" /> aufgelistet, die den angegebenen Selektionskriterien entsprechen. Alle Tiere, bei denen jeweils die Checkbox <img src="/digits/7_negative_circled.svg" width="25" align="middle" alt="Circled digit 7" title="Ziffer 7" /> am Beginn der Datenzeile ausgewählt ist, werden bei der noch anzustoßenden Tiermeldung berücksichtigt.
 
@@ -153,11 +162,11 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugan
     </div>
 
 <figure class="figure" style="margin-top: 10px;">
-    <img src="../screenshots/ummeldung/ummeldung-bestandsregister.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Ummeldung via Bestandsregister" title="Ummeldung via Bestandsregister" />
+    <img src="../screenshots/abmeldung/abmeldung-bestandsregister.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Ummeldung via Bestandsregister" title="Ummeldung via Bestandsregister" />
     <figcaption class="figure-caption fs-6">Screenshot 2: Bildschirm <span style="font-style: italic;">Ummeldung zwischen zwei Betrieben mittels Bestandsregister</span></figcaption>
 </figure>
 
-6. Nach Abschluss der Ummeldung wird in der unteren Bildschirmhälfte Hinweise zum Erfolg ihrer Ummeldung angezeigt. In diesen Hinweisen (Screenshot 3, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) sind alle erfolgreichen An- und Abmeldungen einzeln aufgeführt. Beim Auftreten von Fehler werden zusätzlich auch die jeweiligen Fehlermeldungen wiedergegeben.
+6. Nach Abschluss der Abmeldung wird in der unteren Bildschirmhälfte Hinweise zum Erfolg ihrer Ummeldung angezeigt. In diesen Hinweisen (Screenshot 3, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) sind alle erfolgreichen An- und Abmeldungen einzeln aufgeführt. Beim Auftreten von Fehler werden zusätzlich auch die jeweiligen Fehlermeldungen wiedergegeben.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="64px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Attention:">
@@ -169,13 +178,13 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugan
     </div>
 
 <figure class="figure" style="margin-top: 20px;margin-bottom: 40px;">
-    <img src="../screenshots/ummeldung/erfolg-ummeldung-bestandsregister.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgsmeldung Ummeldung via Bestandsregister" title="Erfolgsmeldung Ummeldung Bestandsregister" />
-    <figcaption class="figure-caption fs-6">Screenshot 3: Erfolgreiche Ausführung der Ummeldung via Bestandsregister</figcaption>
+    <img src="../screenshots/abmeldung/erfolg-abmeldung-bestandsregister.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgsmeldung Abmeldung via Bestandsregister" title="Erfolgsmeldung Abmeldung Bestandsregister" />
+    <figcaption class="figure-caption fs-6">Screenshot 3: Erfolgreiche Ausführung der Abmeldung via Bestandsregister</figcaption>
 </figure>
 
 Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugangsbetrieb umgemeldet.
 
-## Linkgeführter Aufruf des Bildschirms <span style="font-style: italic;">Ummeldung zwischen Betrieben per Bestandsregister</span> {#call-herd-register-screen-via-links}
+## Linkgeführter Aufruf des Bildschirms <span style="font-style: italic;">Abmeldung von Tieren via Bestandsregister</span> {#call-herd-register-screen-via-links}
 
 1. Rufen Sie den Startbildschirm des HI-Tier Portals auf. Dort finden Sie unter der Überschrift `Rinderdatenbank - Abfragen` den Menüpunkt `weitere Abfragen und Funktionen` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />. Klicken Sie auf diesen Menüpunkt.
 

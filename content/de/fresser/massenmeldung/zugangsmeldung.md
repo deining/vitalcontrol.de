@@ -6,6 +6,7 @@ draft: false
 weight: 10
 type: docs
 slug: zugang
+translationKey: massenmeldung/zugang
 description: >
   Nehmen Sie gemäß der folgenden Anleitung im HI-Tier Portal unter Zuhilfenahme der CSV-Exportdatei eine Massenmeldung für ihre zugekauften Tiere vor.
 ---
@@ -48,7 +49,7 @@ description: >
     </div>
     </div>
 
-1. Lassen Sie das Textfeld `Abgangsbetrieb` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> leer, da sie keine Tiere abmelden wollen.
+1. Lassen Sie das Textfeld `Abgangsbetrieb` (<a href="#screenshot-2">Screenshot 2</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) leer, da sie keine Tiere abmelden wollen.
 
 1. Geben Sie in das Textfeld `Zugangsbetrieb` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> die zwölfstellige Betriebsnummer ihres Betriebs ein. Die Zukäufe werden auf diesen Betrieb gebucht.
 
@@ -68,7 +69,7 @@ description: >
     </div>
     </div>
 
-<figure class="figure" style="margin-top: 10px;">
+<figure class="figure" style="margin-top: 10px;"><a name="screenshot-2"></a>
     <img src="../screenshots/massenmeldung-txt.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Massenummeldung" title="Massenummeldung HI-Tier" />
     <figcaption class="figure-caption fs-6">Screenshot 2: Bildschirm <span style="font-style: italic;">Massenmeldung</span></figcaption>
 </figure>
