@@ -26,10 +26,11 @@ description: >
   {{% tab header="**Meldeformular**:" disabled=true /%}}
 
   {{% tab header="_Umbuchung_ (Empfehlung)" %}}
-1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite bei HI-Tier aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
+1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite bei HI-Tier aufzurufen. Melden Sie sich dort mit ihrer (<a href="#screenshot-1a">Screenshot 1</a>, Ziffer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
 
     <a href="https://www.hi-tier.de/hitCom/login.asp" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Anmeldeseite_</a>
 
+    <a name="screenshot-1a"></a>
     <figure class="figure" style="margin-top: 20px">
         <img src="../screenshots/anmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Anmeldebildschirm HI-Tier" title="Anmeldung bei HI-Tier" />
         <figcaption class="figure-caption fs-6">Screenshot 1: Anmeldung beim HI-Tier Portal</figcaption>
@@ -49,7 +50,7 @@ description: >
     </div>
     </div>
 
-1. Lassen Sie das Textfeld `Abgangsbetrieb` (<a href="#screenshot-2">Screenshot 2</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) leer, da sie keine Tiere abmelden wollen.
+1. Lassen Sie das Textfeld `Abgangsbetrieb` (<a href="#screenshot-2a">Screenshot 2</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) leer, da sie keine Tiere abmelden wollen.
 
 1. Geben Sie in das Textfeld `Zugangsbetrieb` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> die zwölfstellige Betriebsnummer ihres Betriebs ein. Die Zukäufe werden auf diesen Betrieb gebucht.
 
@@ -69,12 +70,13 @@ description: >
     </div>
     </div>
 
-<figure class="figure" style="margin-top: 10px;"><a name="screenshot-2"></a>
+<a name="screenshot-2a"></a>
+<figure class="figure" style="margin-top: 10px;">
     <img src="../screenshots/massenmeldung-txt.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Massenummeldung" title="Massenummeldung HI-Tier" />
     <figcaption class="figure-caption fs-6">Screenshot 2: Bildschirm <span style="font-style: italic;">Massenmeldung</span></figcaption>
 </figure>
 
-6. Nach Abschluss der Massenmeldung wird in der unteren Bildschirmhälfte eine Statistik ihres Meldevorgangs angezeigt. In dieser Statistik wird die Anzahl <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> der erfolgreichen Meldungen ebenso aufgeführt wie die Anzahl der fehlgeschlagenen Meldungen.
+6. Nach Abschluss der Massenmeldung wird in der unteren Bildschirmhälfte eine Statistik ihres Meldevorgangs angezeigt. In dieser Statistik wird die Anzahl  der erfolgreichen Meldungen (<a href="#screenshot-3a">Screenshot 3</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) ebenso aufgeführt wie die Anzahl der fehlgeschlagenen Meldungen.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="64px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Attention:">
@@ -85,6 +87,7 @@ description: >
     </div>
     </div>
 
+<a name="screenshot-3a"></a>
 <figure class="figure" style="margin-top: 20px;margin-bottom: 40px;">
     <img src="../screenshots/erfolg-massenmeldung-txt.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgsmeldung Massenmeldung" title="Erfolgsmeldung Massenmeldung" />
     <figcaption class="figure-caption fs-6">Screenshot 3: Erfolgreiche Ausführung der Massenmeldung</figcaption>
@@ -94,10 +97,11 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugan
 
 ## Linkgeführter Aufruf des Bildschirms <span style="font-style: italic;">Massenmeldung</span> {#call-screen-via-links}
 
-1. Rufen Sie den Startbildschirm des HI-Tier Portals auf. Dort finden Sie unter der Überschrift `Rinderdatenbank - Abfragen` den Menüpunkt `weitere Abfragen und Funktionen` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />. Klicken Sie auf diesen Menüpunkt.
+1. Rufen Sie den Startbildschirm des HI-Tier Portals auf. Dort finden Sie unter der Überschrift `Rinderdatenbank - Abfragen` den Menüpunkt `weitere Abfragen und Funktionen` (<a href="#screenshot-4a">Screenshot 4</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />). Klicken Sie auf diesen Menüpunkt.
 
 2.  Sie werden jetzt auf eine neue Seite weitergeleitet, auf der sich ein zweispaltiges Auswahlmenü `Weitere Abfragen und Funktionen` befindet. Klicken Sie in diesem Menü auf den Menüpunkt `Ab- und Zugang` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> in der linken Spalte. Sie werden jetzt auf die gewünschte Bildschirmseite zur [Massenmeldung](https://www.hi-tier.de/hitCom/l_uploadabzu.asp?M=WEI) weitergeleitet.
 
+<a name="screenshot-4a"></a>
 <figure class="figure" style="margin-top: 20px;">
     <img src="../screenshots/ummeldung/aufruf-massenummeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Bildschirm Massenummeldung" title="Aufruf Massenummeldung" />
     <figcaption class="figure-caption fs-6">Screenshot 4: Aufruf des Bildschirm <span style="font-style: italic;">Massenummeldung</span> via Links</figcaption>
@@ -106,10 +110,11 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugan
   {{% /tab %}}
 
   {{% tab header="_Massenmeldung_ (Alternative)" %}}
-1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite bei HI-Tier aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
+1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite bei HI-Tier aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer (<a href="#screenshot-1b">Screenshot 1</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
 
     <a href="https://www.hi-tier.de/hitCom/login.asp" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Anmeldeseite_</a>
 
+    <a name="screenshot-1b"></a>
     <figure class="figure" style="margin-top: 20px">
         <img src="../screenshots/anmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Anmeldebildschirm HI-Tier" title="Anmeldung bei HI-Tier" />
         <figcaption class="figure-caption fs-6">Screenshot 1: Anmeldung beim HI-Tier Portal</figcaption>
@@ -129,7 +134,7 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugan
     </div>
     </div>
 
-1. Wählen Sie aus dem DropDown-Menü `(Art der) Meldung` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> den Wert `Zugangsmeldung` aus.
+1. Wählen Sie aus dem DropDown-Menü `(Art der) Meldung` (<a href="#screenshot-2b">Screenshot 2</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) den Wert `Zugangsmeldung` aus.
 
 1. Wählen Sie über den Punkt `Daten-Datei` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie im vorherigen Schritt [Erzeugung CSV-Datei](/fresser/erzeugung-csv/) erstellt haben.
 
@@ -145,12 +150,13 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugan
     </div>
     </div>
 
+<a name="screenshot-2b"></a>
 <figure class="figure" style="margin-top: 10px;">
     <img src="../screenshots/massenmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Massenmeldung" title="Massenmeldung HI-Tier" />
     <figcaption class="figure-caption fs-6">Screenshot 2: Bildschirm <span style="font-style: italic;">Massenmeldung</span></figcaption>
 </figure>
 
-6. Nach Abschluss der Massenmeldung wird in der unteren Bildschirmhälfte eine Statistik ihres Meldevorgangs angezeigt. In dieser Statistik wird die Anzahl <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> der erfolgreichen Meldungen ebenso aufgeführt wie die Anzahl der fehlgeschlagenen Meldungen.
+6. Nach Abschluss der Massenmeldung wird in der unteren Bildschirmhälfte eine Statistik ihres Meldevorgangs angezeigt. In dieser Statistik wird die Anzahl der erfolgreichen Meldungen (<a href="#screenshot-3b">Screenshot 3</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) ebenso aufgeführt wie die Anzahl der fehlgeschlagenen Meldungen.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="64px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Attention:">
@@ -161,6 +167,7 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugan
     </div>
     </div>
 
+<a name="screenshot-3b"></a>
 <figure class="figure" style="margin-top: 20px;margin-bottom: 40px;">
     <img src="../screenshots/erfolg-massenmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgsmeldung Massenmeldung" title="Erfolgsmeldung Massenmeldung" />
     <figcaption class="figure-caption fs-6">Screenshot 3: Erfolgreiche Ausführung der Massenmeldung</figcaption>
@@ -170,10 +177,11 @@ Ihre zugekauften Tiere wurden damit bei HI-Tier erfolgreich als Zugänge gemelde
 
 ## Linkgeführter Aufruf des Bildschirms <span style="font-style: italic;">Massenmeldung</span> {#call-screen-via-links}
 
-1. Rufen Sie den Startbildschirm des HI-Tier Portals auf. Dort finden Sie unter der Überschrift `Rinderdatenbank - Abfragen` den Menüpunkt `weitere Abfragen und Funktionen` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />. Klicken Sie auf diesen Menüpunkt.
+1. Rufen Sie den Startbildschirm des HI-Tier Portals auf. Dort finden Sie unter der Überschrift `Rinderdatenbank - Abfragen` den Menüpunkt `weitere Abfragen und Funktionen` (<a href="#screenshot-4b">Screenshot 4</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />. Klicken Sie auf diesen Menüpunkt.
 
 2.  Sie werden jetzt auf eine neue Seite weitergeleitet, auf der sich ein zweispaltiges Auswahlmenü `Weitere Abfragen und Funktionen` befindet. Klicken Sie in diesem Menü auf den Menüpunkt `Massenabfragen per Datei` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" />. Sie werden jetzt auf die gewünschte Bildschirmseite [Massenmeldung per Datei](https://www.hi-tier.de/hitCom/l_upload1.asp?M=SON&txtLangFormUpl=False) weitergeleitet.
 
+<a name="screenshot-4b"></a>
 <figure class="figure" style="margin-top: 20px;">
     <img src="../screenshots/aufruf-massenmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Bildschirm Massenmeldung" title="Aufruf Massenmeldung" />
     <figcaption class="figure-caption fs-6">Screenshot 4: Aufruf des Bildschirm <span style="font-style: italic;">Massenmeldung</span> via Links</figcaption>
@@ -182,16 +190,19 @@ Ihre zugekauften Tiere wurden damit bei HI-Tier erfolgreich als Zugänge gemelde
   {{% /tab %}}
   {{% tab header="_Massenmeldung_ (HI Tier Version 3)" %}}
 
-1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite des HI-Tier Portals V3 aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
+1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite des HI-Tier Portals V3 aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer (<a href="#screenshot-1c">Screenshot 1</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
 
     <a href="https://www.hi-tier.de/HitCom3/Home/Login" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier (V3): _Anmeldeseite_</a>
+
+    <a name="screenshot-1c"></a>
     <figure class="figure" style="margin-top: 20px">
         <img src="../screenshots/anmeldung_v3.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Anmeldebildschirm HI-Tier V3" title="Anmeldung bei HI-Tier V3" />
         <figcaption class="figure-caption fs-6">Screenshot 1: Anmeldung beim HI-Tier Portal (Version 3)</figcaption>
     </figure>
 
-1. Klicken Sie auf der Startseite auf den Hauptmenüpunkt `Rind` und wählen Sie aus dem Dropdown-Menü den Wert `Massenmeldungen` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> aus.
+1. Klicken Sie auf der Startseite auf den Hauptmenüpunkt `Rind` und wählen Sie aus dem Dropdown-Menü den Wert `Massenmeldungen` (<a href="#screenshot-2c">Screenshot 2</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) aus.
 
+<a name="screenshot-2c"></a>
 <figure class="figure" style="margin-top: 10px;">
     <img src="../screenshots/aufruf-massenmeldung_v3.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Massenmeldung V3" title="Massenmeldung HI-Tier V3" />
     <figcaption class="figure-caption fs-6">Screenshot 2: Aufruf des Bildschirms <span style="font-style: italic;">Massenmeldung (HIT V3)</span></figcaption>
@@ -209,7 +220,7 @@ Ihre zugekauften Tiere wurden damit bei HI-Tier erfolgreich als Zugänge gemelde
     </div>
     </div>
 
-1. Wählen Sie aus dem DropDown-Menü `(Art der) Meldung` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> den Wert `Zugang (Rind)` aus.
+1. Wählen Sie aus dem DropDown-Menü `(Art der) Meldung` (<a href="#screenshot-3c">Screenshot 3</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) den Wert `Zugang (Rind)` aus.
 
 1. Wählen Sie über den Punkt `Datei` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie im vorherigen Schritt [Erzeugung CSV-Datei](/fresser/erzeugung-csv/) erstellt haben.
 
@@ -227,12 +238,13 @@ Ihre zugekauften Tiere wurden damit bei HI-Tier erfolgreich als Zugänge gemelde
     </div>
     </div>
 
+<a name="screenshot-3c"></a>
 <figure class="figure" style="margin-top: 10px;">
     <a name="screenshot_massenmeldung_v3"><img src="../screenshots/massenmeldung_v3.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Massenmeldung" title="Massenmeldung HI-Tier" /></a>
     <figcaption class="figure-caption fs-6">Screenshot 3: Bildschirm <span style="font-style: italic;">Massenmeldung</span></figcaption>
 </figure>
 
-8. Nach Abschluss der Massenmeldung wird in der unteren Bildschirmhälfte eine Statistik ihres Meldevorgangs angezeigt. In dieser Statistik wird die Anzahl <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> der erfolgreichen Meldungen ebenso aufgeführt wie die Anzahl der fehlgeschlagenen Meldungen.
+8. Nach Abschluss der Massenmeldung wird in der unteren Bildschirmhälfte eine Statistik ihres Meldevorgangs angezeigt. In dieser Statistik wird die Anzahl der erfolgreichen Meldungen (<a href="#screenshot-4c">Screenshot 4</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) ebenso aufgeführt wie die Anzahl der fehlgeschlagenen Meldungen.
 
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
@@ -244,6 +256,7 @@ Ihre zugekauften Tiere wurden damit bei HI-Tier erfolgreich als Zugänge gemelde
     </div>
     </div>
 
+<a name="screenshot-4c"></a>
 <figure class="figure" style="margin-top: 20px;margin-bottom: 40px;">
     <img src="../screenshots/erfolg-massenmeldung_v3.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgsmeldung Massenmeldung" title="Erfolgsmeldung Massenmeldung" />
     <figcaption class="figure-caption fs-6">Screenshot 4: Erfolgreiche Ausführung der Massenmeldung</figcaption>

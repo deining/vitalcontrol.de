@@ -25,10 +25,11 @@ description: >
 {{< tabpane persist="header" text=true >}}
   {{% tab header="**Abzumeldende Tiere einlesen aus**:" disabled=true /%}}
   {{% tab header="Exportdatei von VitalControl" %}}
-1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite bei HI-Tier aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
+1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite bei HI-Tier aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer (<a href="#screenshot-1a">Screenshot 1</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
 
     <a href="https://www.hi-tier.de/hitCom/login.asp" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Anmeldeseite_</a>
 
+    <a name="screenshot-1a"></a>
     <figure class="figure" style="margin-top: 20px">
         <img src="../screenshots/anmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Anmeldebildschirm HI-Tier" title="Anmeldung bei HI-Tier" />
         <figcaption class="figure-caption fs-6">Screenshot 1: Anmeldung beim HI-Tier Portal</figcaption>
@@ -48,7 +49,7 @@ description: >
     </div>
     </div>
 
-1. Geben Sie in das Textfeld `Abgangsbetrieb` (<a href="#screenshot-2">Screenshot 2</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) die zwölfstellige Betriebsnummer desjenigen Betriebs ein, von dem die Tiere abgehen.
+1. Geben Sie in das Textfeld `Abgangsbetrieb` (<a href="#screenshot-2a">Screenshot 2</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) die zwölfstellige Betriebsnummer desjenigen Betriebs ein, von dem die Tiere abgehen.
 
 1. Lassen Sie das Textfeld `Zugangsbetrieb` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> leer, da sie keine Tiere als Zugänge anmelden wollen.
 
@@ -78,12 +79,13 @@ description: >
     </div>
     </div>
 
-<figure class="figure" style="margin-top: 10px;"><a name="screenshot-2"></a>
+<a name="screenshot-2a"></a>
+<figure class="figure" style="margin-top: 10px;">
     <img src="../screenshots/abmeldung/massenabmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Massenabmeldung" title="Massenabmeldung HI-Tier" />
     <figcaption class="figure-caption fs-6">Screenshot 2: Bildschirm <span style="font-style: italic;">Abmeldung von Tieren vom Betrieb (Massenmeldung)</span></figcaption>
 </figure>
 
-6. Nach Abschluss der Massenmeldung wird in der unteren Bildschirmhälfte eine Statistik ihres Meldevorgangs angezeigt. In dieser Statistik wird die Anzahl der erfolgreichen Abmeldungen (<a href="#screenshot-3">Screenshot 3</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) ebenso aufgeführt wie die Anzahl der fehlgeschlagenen Abmeldungen.
+6. Nach Abschluss der Massenmeldung wird in der unteren Bildschirmhälfte eine Statistik ihres Meldevorgangs angezeigt. In dieser Statistik wird die Anzahl der erfolgreichen Abmeldungen (<a href="#screenshot-3a">Screenshot 3</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) ebenso aufgeführt wie die Anzahl der fehlgeschlagenen Abmeldungen.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="64px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Attention:">
@@ -94,7 +96,7 @@ description: >
     </div>
     </div>
 
-<a name="screenshot-3"></a>
+<a name="screenshot-3a"></a>
 <figure class="figure" style="margin-top: 20px;margin-bottom: 40px;">
     <img src="../screenshots/abmeldung/erfolg-abmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgsmeldung Abmeldung" title="Erfolgsmeldung Abmeldung" />
     <figcaption class="figure-caption fs-6">Screenshot 3: Erfolgreiche Ausführung der Abmeldung von ihrem Betrieb</figcaption>
@@ -104,10 +106,11 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich von ihrem Betrieb abgemeldet.
 
 ## Linkgeführter Aufruf des Bildschirms <span style="font-style: italic;">Abmeldung von Tieren von ihrem Betrieb</span> {#call-screen-via-links}
 
-1. Rufen Sie den Startbildschirm des HI-Tier Portals auf. Dort finden Sie unter der Überschrift `Rinderdatenbank - Abfragen` den Menüpunkt `weitere Abfragen und Funktionen` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />. Klicken Sie auf diesen Menüpunkt.
+1. Rufen Sie den Startbildschirm des HI-Tier Portals auf. Dort finden Sie unter der Überschrift `Rinderdatenbank - Abfragen` den Menüpunkt `weitere Abfragen und Funktionen` (<a href="#screenshot-4a">Screenshot 4</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />). Klicken Sie auf diesen Menüpunkt.
 
 2.  Sie werden jetzt auf eine neue Seite weitergeleitet, auf der sich ein zweispaltiges Auswahlmenü `Weitere Abfragen und Funktionen` befindet. Klicken Sie in diesem Menü auf den Menüpunkt `Ab- und Zugang` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> in der linken Spalte. Sie werden jetzt auf die gewünschte Bildschirmseite zur [Massenmeldung](https://www.hi-tier.de/hitCom/l_uploadabzu.asp?M=WEI) weitergeleitet.
 
+<a name="screenshot-4a"></a>
 <figure class="figure" style="margin-top: 20px;">
     <img src="../screenshots/ummeldung/aufruf-massenummeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Bildschirm Massenabmmeldung" title="Aufruf Massenabmeldung" />
     <figcaption class="figure-caption fs-6">Screenshot 4: Aufruf des Bildschirm <span style="font-style: italic;">Massenabmeldung</span> via Links</figcaption>
@@ -116,10 +119,11 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich von ihrem Betrieb abgemeldet.
   {{% /tab %}}
   {{% tab header="HI-Tier Bestandsregister" %}}
 
-1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite bei HI-Tier aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
+1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite bei HI-Tier aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer (<a href="#screenshot-1b">Screenshot 1</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
 
     <a href="https://www.hi-tier.de/hitCom/login.asp" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Anmeldeseite_</a>
 
+    <a name="screenshot-1b"></a>
     <figure class="figure" style="margin-top: 20px">
         <img src="../screenshots/anmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Anmeldebildschirm HI-Tier" title="Anmeldung bei HI-Tier" />
         <figcaption class="figure-caption fs-6">Screenshot 1: Anmeldung beim HI-Tier Portal</figcaption>
@@ -139,7 +143,7 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich von ihrem Betrieb abgemeldet.
     </div>
     </div>
 
-1. Geben Sie in das Textfeld `Abgangsbetrieb` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> die zwölfstellige Betriebsnummer desjenigen Betriebs ein, von dem die Tiere abgehen.
+1. Geben Sie in das Textfeld `Abgangsbetrieb` (<a href="#screenshot-2b">Screenshot 2</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) die zwölfstellige Betriebsnummer desjenigen Betriebs ein, von dem die Tiere abgehen.
 
 1. Lassen Sie das Textfeld `Zugangsbetrieb` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> leer, da sie keine Tiere als Zugänge anmelden wollen.
 
@@ -157,26 +161,28 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich von ihrem Betrieb abgemeldet.
     </svg>
     <div>
       <span class="text-primary fs-3 fw-semibold">Hinweis</span><br>
-      Bei einer größeren Anzahl an umzumeldenden Tieren kann der Exportvorgang 30 Sekunden (oder mehr) in Anspruch nehmen. Seien Sie bitte geduldig und warten das Erscheinen der Erfolgsmeldung ab!
+      Bei einer größeren Anzahl an abzumeldenden Tieren kann der Exportvorgang 30 Sekunden (oder mehr) in Anspruch nehmen. Seien Sie bitte geduldig und warten das Erscheinen der Erfolgsmeldung ab!
     </div>
     </div>
 
+<a name="screenshot-2b"></a>
 <figure class="figure" style="margin-top: 10px;">
-    <img src="../screenshots/abmeldung/abmeldung-bestandsregister.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Ummeldung via Bestandsregister" title="Ummeldung via Bestandsregister" />
-    <figcaption class="figure-caption fs-6">Screenshot 2: Bildschirm <span style="font-style: italic;">Ummeldung zwischen zwei Betrieben mittels Bestandsregister</span></figcaption>
+    <img src="../screenshots/abmeldung/abmeldung-bestandsregister.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Abmeldung via Bestandsregister" title="Abmeldung via Bestandsregister" />
+    <figcaption class="figure-caption fs-6">Screenshot 2: Bildschirm <span style="font-style: italic;">Abmeldung von Tieren vom Betrieb mittels Bestandsregister</span></figcaption>
 </figure>
 
-6. Nach Abschluss der Abmeldung wird in der unteren Bildschirmhälfte Hinweise zum Erfolg ihrer Ummeldung angezeigt. In diesen Hinweisen (Screenshot 3, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) sind alle erfolgreichen An- und Abmeldungen einzeln aufgeführt. Beim Auftreten von Fehler werden zusätzlich auch die jeweiligen Fehlermeldungen wiedergegeben.
+6. Nach Abschluss der Abmeldung wird in der unteren Bildschirmhälfte Hinweise zum Erfolg ihrer Ummeldung angezeigt. In diesen Hinweisen (<a href="#screenshot-3b">Screenshot 3</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) sind alle erfolgreichen An- und Abmeldungen einzeln aufgeführt. Beim Auftreten von Fehler werden zusätzlich auch die jeweiligen Fehlermeldungen wiedergegeben.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="64px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Attention:">
       <use xlink:href="#exclamation-triangle-fill"/>
     </svg>
     <div>
-    <span class="text-primary fs-3 fw-semibold">ACHTUNG</span><br>Sollte es bei Ihrer Meldung zu Fehlern gekommen sein, nehmen Sie diese ernst und stellen Sie die aufgetretenen Fehler anhand der gegebenen Hinweise ab!
+    <span class="text-primary fs-3 fw-semibold">ACHTUNG</span><br>Sollte es bei Ihrer Abmeldung zu Fehlern gekommen sein, nehmen Sie diese ernst und stellen Sie die aufgetretenen Fehler anhand der gegebenen Hinweise ab!
     </div>
     </div>
 
+<a name="screenshot-3b"></a>
 <figure class="figure" style="margin-top: 20px;margin-bottom: 40px;">
     <img src="../screenshots/abmeldung/erfolg-abmeldung-bestandsregister.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgsmeldung Abmeldung via Bestandsregister" title="Erfolgsmeldung Abmeldung Bestandsregister" />
     <figcaption class="figure-caption fs-6">Screenshot 3: Erfolgreiche Ausführung der Abmeldung via Bestandsregister</figcaption>
@@ -186,13 +192,14 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugan
 
 ## Linkgeführter Aufruf des Bildschirms <span style="font-style: italic;">Abmeldung von Tieren via Bestandsregister</span> {#call-herd-register-screen-via-links}
 
-1. Rufen Sie den Startbildschirm des HI-Tier Portals auf. Dort finden Sie unter der Überschrift `Rinderdatenbank - Abfragen` den Menüpunkt `weitere Abfragen und Funktionen` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />. Klicken Sie auf diesen Menüpunkt.
+1. Rufen Sie den Startbildschirm des HI-Tier Portals auf. Dort finden Sie unter der Überschrift `Rinderdatenbank - Abfragen` den Menüpunkt `weitere Abfragen und Funktionen` (<a href="#screenshot-4b">Screenshot 4</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />). Klicken Sie auf diesen Menüpunkt.
 
-2.  Sie werden jetzt auf eine neue Seite weitergeleitet, auf der sich ein zweispaltiges Auswahlmenü `Weitere Abfragen und Funktionen` befindet. Klicken Sie in diesem Menü auf den Menüpunkt _per Bestandsregister Ab- und Zugang melden_ <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> in der rechten Spalte. Sie werden jetzt auf die gewünschte Bildschirmseite [Ummeldung zwischen Betrieben](https://www.hi-tier.de/hitCom/bestreg_abzu.asp) weitergeleitet.
+2.  Sie werden jetzt auf eine neue Seite weitergeleitet, auf der sich ein zweispaltiges Auswahlmenü `Weitere Abfragen und Funktionen` befindet. Klicken Sie in diesem Menü auf den Menüpunkt _per Bestandsregister Ab- und Zugang melden_ <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> in der rechten Spalte. Sie werden jetzt auf die gewünschte Bildschirmseite zur [Massenmeldung](https://www.hi-tier.de/hitCom/bestreg_abzu.asp) weitergeleitet.
 
+<a name="screenshot-4b"></a>
 <figure class="figure" style="margin-top: 20px;">
-    <img src="../screenshots/ummeldung/aufruf-ummeldung-bestandsregister.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Bildschirm Massenummeldung" title="Aufruf Massenummeldung" />
-    <figcaption class="figure-caption fs-6">Screenshot 4: Aufruf des Bildschirm <span style="font-style: italic;">Massenummeldung</span> via Links</figcaption>
+    <img src="../screenshots/ummeldung/aufruf-ummeldung-bestandsregister.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Bildschirm Massenabmeldung" title="Aufruf Massenabmeldung" />
+    <figcaption class="figure-caption fs-6">Screenshot 4: Aufruf des Bildschirm <span style="font-style: italic;">Massenabmeldung</span> via Links</figcaption>
 </figure>
 
   {{% /tab %}}
