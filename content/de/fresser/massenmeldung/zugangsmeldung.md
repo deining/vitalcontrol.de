@@ -26,7 +26,7 @@ description: >
   {{% tab header="**Meldeformular**:" disabled=true /%}}
 
   {{% tab header="_Umbuchung_ (Empfehlung)" %}}
-1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite bei HI-Tier aufzurufen. Melden Sie sich dort mit ihrer (<a href="#screenshot-1a">Screenshot 1</a>, Ziffer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
+1. Klicken Sie auf die untenstehende Schaltfläche, um die Anmeldeseite bei HI-Tier aufzurufen. Melden Sie sich dort mit ihrer Betriebsnummer (<a href="#screenshot-1a">Screenshot 1</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
 
     <a href="https://www.hi-tier.de/hitCom/login.asp" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Anmeldeseite_</a>
 
@@ -76,7 +76,7 @@ description: >
     <figcaption class="figure-caption fs-6">Screenshot 2: Bildschirm <span style="font-style: italic;">Massenmeldung</span></figcaption>
 </figure>
 
-6. Nach Abschluss der Massenmeldung wird in der unteren Bildschirmhälfte eine Statistik ihres Meldevorgangs angezeigt. In dieser Statistik wird die Anzahl  der erfolgreichen Meldungen (<a href="#screenshot-3a">Screenshot 3</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) ebenso aufgeführt wie die Anzahl der fehlgeschlagenen Meldungen.
+6. Nach Abschluss der Massenmeldung wird in der unteren Bildschirmhälfte eine Statistik ihres Meldevorgangs angezeigt. In dieser Statistik wird die Anzahl der erfolgreichen Meldungen (<a href="#screenshot-3a">Screenshot 3</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) ebenso aufgeführt wie die Anzahl der fehlgeschlagenen Meldungen.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="64px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Attention:">

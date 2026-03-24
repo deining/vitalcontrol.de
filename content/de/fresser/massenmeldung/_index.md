@@ -1,8 +1,9 @@
 ---
 title: Massenmeldung bei HI-Tier
-linkTitle: Massenmeldung
+linkTitle: Massenmeldung (DE, HI-Tier)
 date: 2026-03-12T15:38:13+01:00
 draft: false
+weight: 40
 translationKey: massenmeldung
 cascade:
   - type: docs
