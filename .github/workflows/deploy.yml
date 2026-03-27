@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-24.04
     env:
       GO_VERSION: 1.26.1
-      HUGO_VERSION: 0.159.0
+      HUGO_VERSION: 0.159.1
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:

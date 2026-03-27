@@ -1,0 +1,7 @@
+{{ partial "footer/copyright.html"  . -}}
+<br>
+{{ with .Site.Params.privacy_policy -}}
+  <span class="me-2"><a href="{{ . }}" target="_blank" rel="noopener">{{ T "footer_privacy_policy" }}</a></span>
+{{- end -}}
+|
+<span class="ms-1"><a href="https://www.urbanonline.de/impressum" target="_blank" rel="noopener">Impressum</a></span>
