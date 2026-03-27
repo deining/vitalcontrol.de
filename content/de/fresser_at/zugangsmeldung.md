@@ -1,11 +1,12 @@
 ---
 title: Zugangsmeldung bei eAMA (Österreich)
-linkTitle: Zugangsmeldung (AT, AMA)
+linkTitle: Zugangsmeldung
 date: 2025-02-22T13:07:52+01:00
 draft: false
 weight: 50
+url: fresser/at/zugang
 type: docs
-slug: zugang/ama
+slug: zugang
 translationKey: massenmeldung/zugang/ama
 description: >
   Nehmen Sie gemäß der folgenden Anleitung im österreichischen AMA-Portal unter Zuhilfenahme der CSV-Exportdatei eine Massenmeldung für ihre zugekauften Tiere vor.
@@ -39,7 +40,7 @@ Alternativ können Sie auch die Adresse https://services.ama.at/ in die Adressze
 
     <a name="screenshot-1"></a>
     <figure class="figure" style="margin-top: 20px">
-        <img src="../../images/ama-at/Startbildschirm_eAMA.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Startseite eAMA Austria" title="eAMA Austria" />
+        <img src="../images/Startbildschirm_eAMA.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Startseite eAMA Austria" title="eAMA Austria" />
         <figcaption class="figure-caption fs-6">Screenshot 1: eAMA Internetserviceportal, Startseite</figcaption>
     </figure>
 
@@ -48,7 +49,7 @@ In einem Popup wird jetzt die Anmeldemaske angezeigt.
 
     <a name="screenshot-2"></a>
     <figure class="figure" style="margin-top: 10px;">
-        <img src="../../images/ama-at/LoginAMA.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="eAMA Anmeldebildschirm" title="eAMA Anmeldebildschirm" />
+        <img src="../images/LoginAMA.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="eAMA Anmeldebildschirm" title="eAMA Anmeldebildschirm" />
         <figcaption class="figure-caption fs-6">Screenshot 2: eAMA Anmeldebildschirm</figcaption>
     </figure>
 
@@ -57,7 +58,7 @@ Alternativ können Sie sich auch mit ihrer ID Austria anmelden, falls vorhanden.
 
     <a name="screenshot-3"></a>
     <figure class="figure" style="margin-top: 20px;margin-bottom: 40px;">
-        <img src="../../images/ama-at/Massenmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Eingabemaske zur Massenmeldung" title="Eingabemaske Massenmeldung" />
+        <img src="../images/Massenmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Eingabemaske zur Massenmeldung" title="Eingabemaske Massenmeldung" />
         <figcaption class="figure-caption fs-6">Screenshot 3: Eingabemaske zur Massenmeldung</figcaption>
     </figure>
 
@@ -83,7 +84,7 @@ Alternativ können Sie sich auch mit ihrer ID Austria anmelden, falls vorhanden.
 
     <a name="screenshot-4"></a>
     <figure class="figure" style="margin-top: 20px;">
-        <img src="../../images/ama-at/Erfolgsmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgreiche Sendung der Massenmeldung" title="Erfolgsmeldung Massenmeldung" />
+        <img src="../images/Erfolgsmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgreiche Sendung der Massenmeldung" title="Erfolgsmeldung Massenmeldung" />
         <figcaption class="figure-caption fs-6">Screenshot 4: Erfolgreiche Sendung der Massenmeldung</figcaption>
     </figure>
 
@@ -91,7 +92,7 @@ Alternativ können Sie sich auch mit ihrer ID Austria anmelden, falls vorhanden.
 
     <a name="screenshot-5"></a>
     <figure class="figure" style="margin-top: 20px;">
-        <img src="../../images/ama-at/ErgebnisseMeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="E-Mail Ergebnisse Massenmeldung" title="Ergebnisse Massenmeldung" />
+        <img src="../images/ErgebnisseMeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="E-Mail Ergebnisse Massenmeldung" title="Ergebnisse Massenmeldung" />
         <figcaption class="figure-caption fs-6">Screenshot 5: E-Mail mit den Ergebnissen der Massenmeldung</figcaption>
     </figure>
 

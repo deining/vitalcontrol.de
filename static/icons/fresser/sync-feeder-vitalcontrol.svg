@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Feeder_Alma_Pro" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 118.4 88.8">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3 {
+        stroke: #000;
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st3 {
+        stroke-width: 1.5px;
+      }
+
+      .st1 {
+        stroke-linecap: round;
+      }
+
+      .st1, .st2 {
+        stroke-width: 2px;
+      }
+
+      .st1, .st2, .st3 {
+        fill: none;
+      }
+
+      .st5 {
+        fill: #fff;
+      }
+
+      .st4 {
+        stroke: #fff;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <path class="st2" d="M12.6,21.9h22.3v44.5H12.6V21.9Z"/>
+  <rect x="16" y="26" width="15.5" height="1.8"/>
+  <rect class="st0" x="16.4" y="66.7" width="1.5" height="4.1"/>
+  <path class="st2" d="M34.9,42.3l7.3,3.2h3.8v13.7h-11.1"/>
+  <path class="st1" d="M74.7,20.3l14.6,2.1"/>
+  <path d="M105.4,26.9v19.2l-2.2.6-.6,22.9h-10.4l-.6-22.9-2.2-.6v-19.2h16.2M107.5,24.9h-20.2v22.5l1.5.5.8.3.6,21.4v1.9h14.3v-1.9l.6-21.4.8-.3,1.5-.5v-22.5h.2s-.2,0-.2,0Z"/>
+  <path class="st5" d="M89.7,19.3h15.2v7.1h-15.2s0-7.1,0-7.1Z"/>
+  <path d="M104,20.2v5.2h-13.3v-5.2h13.3M106.1,18.2h-17.5v9.1h17.2v-9.1h.2ZM97.3,54.7c-2.4,0-4.3-1.9-4.3-4.3v-5.5h8.6v5.5c.2,2.6-1.8,4.3-4.2,4.3ZM101.3,42.8h-8.1c-1,0-1.8-.8-1.8-1.8v-9.7c0-1,.8-1.8,1.8-1.8h8.1c1,0,1.8.8,1.8,1.8v9.7c.2,1-.6,1.8-1.8,1.8Z"/>
+  <circle class="st4" cx="97.3" cy="50.7" r="2.2"/>
+  <path class="st3" d="M51,41.3c0,7.9,6.4,14.3,14.3,14.3s8.1-2.2,9.9-4l-3-2.9c-1.8,1.7-4.3,2.7-6.9,2.7-5.6,0-10.2-4.6-10.2-10.2h5l-6.7-7.3-6.5,7.3h4.1Z"/>
+  <path class="st0" d="M79.5,42.2c0-7.9-6.4-14.3-14.3-14.3s-7.3,1.5-9.9,4l3,2.9c1.8-1.7,4.3-2.7,6.9-2.7,5.6,0,10.2,4.6,10.2,10.2h-5l6.7,7.3,6.5-7.3h-4.1Z"/>
+  <rect class="st0" x="29.4" y="66.7" width="1.5" height="4.1"/>
+</svg>
