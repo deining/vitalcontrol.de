@@ -55,7 +55,9 @@ description: >
 
 1. Geben Sie in das Textfeld `Datum` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> dasjenige Datum an, an dem die Ummeldung erfolgt ist (Format: `TT.MM.JJJJ`).
 
-1. Wählen Sie über den Punkt `Ohrmarken-Datei` <img src="/digits/4_negative_circled.svg" width="25" align="middle" alt="Circled digit 4" title="Ziffer 4" /> diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie seinerzeit beim Zukauf der Tiere mit ihrem VitalControl erstellt haben.
+1. Stecken Sie in die USB-Buchse ihres Computers denjenigen USB-Stick an, auf den Sie seinerzeit beim Zugang der Tiere die Exportdatei gespeichert haben.
+
+1. Wählen Sie über den Punkt `Ohrmarken-Datei` <img src="/digits/4_negative_circled.svg" width="25" align="middle" alt="Circled digit 4" title="Ziffer 4" /> diese damals erzeugte CSV-Exportdatei aus. Das damalige Zugangsdatum ist Teil des Dateinamens der Exportdatei (z.&nbsp;B `zugang-20-03-2026_09-22.csv`), dies sollte beim Wiederfinden der Datei hilfreich sein. 
 
 1. Klicken Sie auf die Schaltfläche `Einfügen` <img src="/digits/5_negative_circled.svg" width="25" align="middle" alt="Circled digit 5" title="Ziffer 5" />, um die Massenmeldung ihrer Zukäufe vorzunehmen.
 

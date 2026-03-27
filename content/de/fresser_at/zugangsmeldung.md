@@ -66,9 +66,11 @@ Alternativ können Sie sich auch mit ihrer ID Austria anmelden, falls vorhanden.
 
 1. Klicken Sie in der linken Seitenleiste auf den Eintrag `Massenmeldung` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> unter der Rubrik `Abfragen & Erfassen`.
 
-1. Tragen Sie in das Textfeld `Empfänger E-Mail Adresse` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> die E-Mail Datum ihres Betriebs an.
+1. Tragen Sie in das Textfeld `Empfänger E-Mail Adresse` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> die E-Mail-Adresse ihres Betriebs an.
 
-1. Klicken Sie auf die Schaltfläche `Datei hochladen` <img src="/digits/4_negative_circled.svg" width="25" align="middle" alt="Circled digit 4" title="Ziffer 4" /> und wählen Sie diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie im vorherigen Schritt [Erzeugung CSV-Datei](/fresser/erzeugung-csv/) erstellt haben.
+1. Stecken Sie in die USB-Buchse ihres Computers denjenigen USB-Stick an, auf den Sie im vorherigen Schritt [Erzeugung CSV-Datei](../erzeugung-csv/) die Exportdatei gespeichert haben.
+
+1. Klicken Sie auf die Schaltfläche `Datei hochladen` <img src="/digits/4_negative_circled.svg" width="25" align="middle" alt="Circled digit 4" title="Ziffer 4" /> und wählen Sie diese CSV-Exportdatei aus.
 
 1. Klicken Sie abschließend auf die Schaltfläche `Massenmeldung senden` <img src="/digits/5_negative_circled.svg" width="25" align="middle" alt="Circled digit 5" title="Ziffer 5" />, um die Massenmeldung ihrer Zukäufe vorzunehmen.
 
@@ -114,7 +116,7 @@ Alternativ können Sie sich auch mit ihrer ID Austria anmelden, falls vorhanden.
   <div class="row">
     <div class="col">
       <div class="d-grid gap-2">
-        <a class="text-start btn btn-lg btn-outline-primary" role="button"  href="/fresser/erzeugung-csv/"><span class="fs-6">Vorherige</span><br><span class="fs-4 fw-semibold">« Erzeugung CSV-Datei</span></a>
+        <a class="text-start btn btn-lg btn-outline-primary" role="button"  href="../erzeugung-csv/"><span class="fs-6">Vorherige</span><br><span class="fs-4 fw-semibold">« Erzeugung CSV-Datei</span></a>
       </div>
     </div>
     <div class="col">

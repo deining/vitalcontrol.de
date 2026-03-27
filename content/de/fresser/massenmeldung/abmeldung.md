@@ -55,7 +55,9 @@ description: >
 
 1. Geben Sie in das Textfeld `Datum` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> das Abmeldedatum (Format: `TT.MM.JJJJ`) für ihre abgehenden Tiere an.
 
-1. Wählen Sie über den Punkt `Ohrmarken-Datei` <img src="/digits/4_negative_circled.svg" width="25" align="middle" alt="Circled digit 4" title="Ziffer 4" /> diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie seinerzeit beim Zugang der Tiere auf ihren Betrieb mit ihrem VitalControl erstellt haben.
+1. Stecken Sie in die USB-Buchse ihres Computers denjenigen USB-Stick an, auf den Sie seinerzeit beim Zugang der Tiere die Exportdatei gespeichert haben.
+
+1. Wählen Sie über den Punkt `Ohrmarken-Datei` <img src="/digits/4_negative_circled.svg" width="25" align="middle" alt="Circled digit 4" title="Ziffer 4" /> diese damals erzeugte CSV-Exportdatei aus. Das damalige Zugangsdatum ist Teil des Dateinamens der Exportdatei (z.&nbsp;B `zugang-20-03-2026_09-22.csv`), dies sollte beim Wiederfinden der Datei hilfreich sein. 
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
     <svg xmlns="http://www.w3.org/2000/svg" width="45px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
@@ -63,7 +65,7 @@ description: >
     </svg>
     <div>
       <span class="text-primary fs-3 fw-semibold">Hinweis</span><br>
-      Die von ihnen auszuwählende Datei wird den Namen <span style="font-style: italic;">zugaenge-TT-MM-JJJJ-HH-MM.csv</span> tragen. Stören Sie sich nicht an der Namensgebung der Datei! Aus ihren Zugängen sind mittlerweile Abgänge geworden, die entscheidende Information in der Datei, die Ohrmarkennummer des Tieres, hat sich aber nicht geändert! Sollte diese Datei Tiere enthalten, die nicht mehr auf dem Betrieb sind, können Sie diese trotzdem verwenden! Es werden dann zwar Fehler zu fehlgeschlagenen Abmeldungen angezeigt, diese können Sie aber ignorieren.
+      Die von ihnen auszuwählende Datei wird den Namen <span style="font-style: italic;">zugang-TT-MM-JJJJ-HH-MM.csv</span> tragen. Stören Sie sich nicht an der Namensgebung der Datei! Aus ihren Zugängen sind mittlerweile Abgänge geworden, die entscheidende Information in der Datei, die Ohrmarkennummer des Tieres, hat sich aber nicht geändert! Sollte diese Datei Tiere enthalten, die nicht mehr auf dem Betrieb sind, können Sie diese trotzdem verwenden! Es werden dann zwar Fehler zu fehlgeschlagenen Abmeldungen angezeigt, diese können Sie aber ignorieren.
     </div>
     </div>
 

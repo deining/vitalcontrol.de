@@ -56,7 +56,9 @@ description: >
 
 1. Geben Sie in das Textfeld `Datum` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> dasjenige Datum an, an dem die Ummeldung erfolgt ist (Format: `TT.MM.JJJJ`).
 
-1. Wählen Sie über den Punkt `Daten-Datei` <img src="/digits/4_negative_circled.svg" width="25" align="middle" alt="Circled digit 4" title="Ziffer 4" /> diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie im vorherigen Schritt [Erzeugung CSV-Datei](/fresser/erzeugung-csv/) erstellt haben.
+1. Stecken Sie in die USB-Buchse ihres Computers denjenigen USB-Stick an, auf den Sie im vorherigen Schritt [Erzeugung CSV-Datei](../erzeugung-csv/) die Exportdatei gespeichert haben.
+
+1. Wählen Sie über den Punkt `Ohrmarken-Datei` <img src="/digits/4_negative_circled.svg" width="25" align="middle" alt="Circled digit 4" title="Ziffer 4" /> diese CSV-Exportdatei aus.
 
 1. Klicken Sie auf die Schaltfläche `Einfügen` <img src="/digits/5_negative_circled.svg" width="25" align="middle" alt="Circled digit 5" title="Ziffer 5" />, um die Massenmeldung ihrer Zukäufe vorzunehmen.
 
@@ -136,7 +138,9 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugan
 
 1. Wählen Sie aus dem DropDown-Menü `(Art der) Meldung` (<a href="#screenshot-2b">Screenshot 2</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) den Wert `Zugangsmeldung` aus.
 
-1. Wählen Sie über den Punkt `Daten-Datei` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie im vorherigen Schritt [Erzeugung CSV-Datei](/fresser/erzeugung-csv/) erstellt haben.
+1. Stecken Sie in die USB-Buchse ihres Computers denjenigen USB-Stick an, auf den Sie im vorherigen Schritt [Erzeugung CSV-Datei](../erzeugung-csv/) die Exportdatei gespeichert haben.
+
+1. Wählen Sie über den Punkt `Daten-Datei` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> diese CSV-Exportdatei aus.
 
 1. Klicken Sie auf die Schaltfläche `Einfügen` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" />, um die Massenmeldung ihrer Zukäufe vorzunehmen.
 
@@ -222,7 +226,9 @@ Ihre zugekauften Tiere wurden damit bei HI-Tier erfolgreich als Zugänge gemelde
 
 1. Wählen Sie aus dem DropDown-Menü `(Art der) Meldung` (<a href="#screenshot-3c">Screenshot 3</a>, Ziffer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" />) den Wert `Zugang (Rind)` aus.
 
-1. Wählen Sie über den Punkt `Datei` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie im vorherigen Schritt [Erzeugung CSV-Datei](/fresser/erzeugung-csv/) erstellt haben.
+1. Stecken Sie in die USB-Buchse ihres Computers denjenigen USB-Stick an, auf den Sie im vorherigen Schritt [Erzeugung CSV-Datei](../erzeugung-csv/) die Exportdatei gespeichert haben.
+
+1. Wählen Sie über den Punkt `Datei` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> diese CSV-Exportdatei aus.
 
 1. Machen sie die erweiterten Optionen sichtbar, indem Sie auf `weitere Optionen` klicken. Wählen Sie aus dem DropDown-Menü `Unpassende Spalten` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> die Option `alle unpassenden Spalten ignorieren, nur passende verwenden` aus. Dies verhindert unnötige Warnmeldungen.
 
