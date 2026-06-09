@@ -31,7 +31,7 @@ So prüfen Sie, welche Firmwareversion auf ihrem Automaten installiert ist:
 * Die Versionsnummer <span style="font-size: 140%">➂</span> wird jetzt links neben der Schaltfläche zur Sprachumschaltung angezeigt.
 
 <figure class="figure" style="margin-top: 5px;">
-    <img src="../images/version-check.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Einstellungen VitalControl: Aufruf" title="Aufruf Einstellungsmenü VitalControl" />
+    <img src="../images/version-check.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Alma Pro: Prüfung Firmwareversion" title="Alma Pro: Prüfung Firmwareversion" />
     <figcaption class="figure-caption fs-6">Screenshot 1: <span style="font-style: italic;">Alma Pro</span>, Überprüfung der Firmwareversion</figcaption>
 </figure>
 
