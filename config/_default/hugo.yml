@@ -190,7 +190,7 @@ module:
       target: static
   hugoVersion:
     extended: true
-    min: 0.153.0
+    min: 0.160.1
   imports:
-    - path: github.com/google/docsy
+    - path: github.com/google/docsy/theme
       disable: false

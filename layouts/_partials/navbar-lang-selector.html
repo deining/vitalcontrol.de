@@ -2,12 +2,12 @@
 {{ $langPage := cond .IsTranslated . .Site.Home -}}
 <div class="dropdown">
   <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    {{- $langPage.Language.LanguageName -}}
+    {{- $langPage.Language.Label -}}
   </a>
   {{ if .IsTranslated -}}
   <ul class="dropdown-menu">
     {{ range $langPage.Translations -}}
-       <li><a class="dropdown-item" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a></li>
+       <li><a class="dropdown-item" href="{{ .RelPermalink }}">{{ .Language.Label }}</a></li>
     {{ end -}}
   </ul>
   {{ end -}}

@@ -39,5 +39,8 @@
   },
   "allowScripts": {
     "hugo-extended@0.164.0": true
-  }
+  },
+  "workspaces": [
+    "packages/hugoautogen"
+  ]
 }

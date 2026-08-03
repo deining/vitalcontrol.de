@@ -2,4 +2,6 @@ module urban-gmbh/vitalcontrol/docu
 
 go 1.12
 
-require github.com/google/docsy v0.15.0 // indirect
+require (
+	github.com/google/docsy/theme v0.16.0 // indirect
+)
