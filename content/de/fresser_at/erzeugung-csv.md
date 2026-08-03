@@ -47,7 +47,7 @@ description: >
           <a name="ExportZukaeufe" ><figcaption class="figure-caption fs-6">Abbildung 4: CSV-Exportvorgang</figcaption></a>
       </figure>
   
-  1. Nach dem erfolgreichem Abschluss des Exports ist auf dem USB-Stick im Verzeichnis `zugaenge` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> eine Datei mit dem Namen `zugang-TT-MM-JJJJ_HH-MM.csv` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> hinterlegt. Diese CSV-Datei wird im nächsten Schritt zur [Massenmeldung](../massenmeldung) bei AMA genutzt.
+  1. Nach dem erfolgreichem Abschluss des Exports ist auf dem USB-Stick im Verzeichnis `zugaenge` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> eine Datei mit dem Namen `zugang-TT-MM-JJJJ_HH-MM.csv` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> hinterlegt. Diese CSV-Datei wird im nächsten Schritt zur [Massenmeldung](../zugang) bei AMA genutzt.
   
       <figure class="figure" style="margin-top: 20px">
           <img src="/fresser/images/exportdatei.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Exportvorgang CSV-Datei" title="Export CSV-Datei" />
