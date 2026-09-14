@@ -13,8 +13,9 @@ jobs:
   deploy:
     runs-on: ubuntu-24.04
     env:
-      GO_VERSION: 1.26.6
-      HUGO_VERSION: 0.165.0
+      GO_VERSION: 1.27.1
+      HUGO_VERSION: 0.166.0
+      DART_SASS_VERSION: 1.104.1
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
@@ -25,14 +26,6 @@ jobs:
       - name: Create directory for user-specific executable files
         run: |
           mkdir -p "${HOME}/.local"
-
-      - name: Install Hugo
-        run: |
-          curl -sLJO "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_withdeploy_${HUGO_VERSION}_linux-amd64.tar.gz"
-          mkdir "${HOME}/.local/hugo"
-          tar -C "${HOME}/.local/hugo" -xf "hugo_extended_withdeploy_${HUGO_VERSION}_linux-amd64.tar.gz"
-          rm "hugo_extended_withdeploy_${HUGO_VERSION}_linux-amd64.tar.gz"
-          echo "${HOME}/.local/hugo" >> "${GITHUB_PATH}"
 
       - name: Setup Go
         uses: actions/setup-go@b7ad1dad31e06c5925ef5d2fc7ad053ef454303e # v7.0.0
@@ -51,11 +44,28 @@ jobs:
           # https://github.com/actions/setup-node/blob/main/docs/advanced-usage.md#caching-packages-data
           cache-dependency-path: '**/package-lock.json'
 
+      - name: Install Dart Sass
+        run: |
+          echo "Installing Dart Sass ${DART_SASS_VERSION}..."
+          curl -sfL --output-dir "${{ runner.temp }}" -O "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+          tar -C "${HOME}/.local" -xf "${{ runner.temp }}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+          echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
+
+      - name: Install Hugo
+        run: |
+          curl -sLJO "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_withdeploy_${HUGO_VERSION}_linux-amd64.tar.gz"
+          mkdir "${HOME}/.local/hugo"
+          tar -C "${HOME}/.local/hugo" -xf "hugo_extended_withdeploy_${HUGO_VERSION}_linux-amd64.tar.gz"
+          rm "hugo_extended_withdeploy_${HUGO_VERSION}_linux-amd64.tar.gz"
+          echo "${HOME}/.local/hugo" >> "${GITHUB_PATH}"
+
       - name: Verify installations
         run: |
-          echo "Go: $(go version)"
-          echo "Hugo: $(hugo version)"
-          echo "Node.js: $(node --version)"
+          echo "Logging tool versions..."
+          command -v sass &> /dev/null && echo "Dart Sass: $(sass --version)" || echo "Dart Sass: not installed"
+          command -v go &> /dev/null && echo "Go: $(go version)" || echo "Go: not installed"
+          command -v hugo &> /dev/null && echo "Hugo: $(hugo version)" || echo "Hugo: not installed"
+          command -v node &> /dev/null && echo "Node.js: $(node --version)" || echo "Node.js: not installed"
 
       - name: Setup caching of hugo modules
         uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
@@ -78,7 +88,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
       - name: Remove output 'print' (prevents broken links)
-        run: sed -i '47d' config/_default/hugo.yml
+        run: sed -i '51d' config/_default/hugo.yml
 
       - name: Rebuild site for link checking
         run: hugo --buildDrafts --minify --cleanDestinationDir

@@ -42,10 +42,15 @@ markup:
 
 # Comment out '-print' if you don't want the "print entire section" link enabled.
 outputs:
+  home:
+   - HTML
+   - RSS
+   - LLMS
   section:
    - HTML
    - print
    - RSS
+   - LLMS
 
 security:
   http:
