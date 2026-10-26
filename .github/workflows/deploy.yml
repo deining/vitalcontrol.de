@@ -11,11 +11,11 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-26.04
     env:
-      GO_VERSION: 1.27.1
-      HUGO_VERSION: 0.166.0
-      DART_SASS_VERSION: 1.104.1
+      GO_VERSION: 1.27.3
+      HUGO_VERSION: 0.168.0
+      DART_SASS_VERSION: 1.106.1
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
@@ -34,7 +34,7 @@ jobs:
           cache: true
 
       - name: Setup Node
-        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
           node-version: 26
           cache: 'npm'
