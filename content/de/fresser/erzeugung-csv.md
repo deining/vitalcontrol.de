@@ -76,7 +76,7 @@ description: >
   {{% tab header="**PC**&nbsp; (mittels VCSynchronizer)" %}}
 
 > [!NOTE] Achtung
-> Überprüfen Sie zunächst, ob die Software `VCSynchronizer` auf ihrem PC installiert ist, diese Software wird zwingend zur Erzeugung der CSV-Datei am PC benötigt.  Öffnen Sie dazu im Windows Startmenü die Liste ihrer Anwendungen und überprüfen Sie, ob dort den Eintrag `Urban VitalControl` finden können. Falls nicht, [installieren](/docs/data-link/vcsynchronizer/installation/) sie die Software `VCSynchronizer` auf ihren PC.
+> Überprüfen Sie zunächst, ob die Software `VCSynchronizer` auf ihrem PC installiert ist, diese Software wird zwingend zur Erzeugung der CSV-Datei am PC benötigt.  Öffnen Sie dazu im Windows Startmenü die Liste ihrer Anwendungen und überprüfen Sie, ob Sie dort den Eintrag `Urban VitalControl` finden können. Falls nicht, [installieren](/docs/data-link/vcsynchronizer/installation/) sie die Software `VCSynchronizer` auf ihren PC.
 
   1. ...
 

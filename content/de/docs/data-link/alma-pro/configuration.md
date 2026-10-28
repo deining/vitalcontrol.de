@@ -4,7 +4,7 @@ linkTitle: Konfiguration
 date: 2023-08-04T12:32:28+02:00
 draft: false
 description: >
-  Vor der erstmaligen Nutzung müssen Sie das VitalControl einmalig am Automaten aktivieren und passend für ihren Einsatzfall konfigurieren.
+  Vor der erstmaligen Nutzung müssen Sie das VitalControl einmalig am Automaten aktivieren und passend für Ihren Einsatzfall konfigurieren.
 slug: konfiguration
 weight: 10
 Kategorien: [VitalControl, Alma Pro]
@@ -24,7 +24,7 @@ aliases: /vc/conf/de
 ## Voraussetzungen
 
 Für den Einsatz des VitalControl-Geräts empfehlen wir eine Firmwareversion <span style="font-weight: bold">25-04-Vxx</span> oder höher.\
-So prüfen Sie, welche Firmwareversion auf ihrem Automaten installiert ist:
+So prüfen Sie, welche Firmwareversion auf Ihrem Automaten installiert ist:
 
 * Wechseln Sie zur Startseite des Automaten, klicken Sie dazu ggf. auf die oberste `Home`-Schaltfläche <span style="font-size: 140%">➀</span> <img src="/icons/almapro/home.svg" width="20" align="top" alt="Icon Startbildschirm" title="Alma Pro: Startbildschirm"/>&nbsp; in der Navigationsleiste im linken Bildschirmbereich.
 * Klicken Sie im Startbildschirm auf die `Hilfe`-Schaltfläche <span style="font-size: 140%">➁</span> <img src="/icons/almapro/questionmark.svg" width="20" align="top" alt="Icon Hilfemenü" title="Alma Pro: Hilfebildschirm"/>&nbsp; im rechten oberen Bildschirmbereich.
@@ -41,20 +41,20 @@ So prüfen Sie, welche Firmwareversion auf ihrem Automaten installiert ist:
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Achtung</span><br>
-        Bei Firmwareversion niedriger als <span style="font-weight: bold">25-04-Vxx</span> können Abweichungen zwischen den unten angegeben Screenshots und der Anzeige auf bei ihrem Touchscreen auftreten, so dass Sie die Anleitung möglicherweise nicht nachvollziehen können. Kontaktieren Sie in diesem Fall ihren Servicetechniker, damit dieser auf ihrem Automaten eine Aktualisierung der Firmware vornimmt.<br>
+        Bei Firmwareversion niedriger als <span style="font-weight: bold">25-04-Vxx</span> können Abweichungen zwischen den unten angegeben Screenshots und der Anzeige auf bei ihrem Touchscreen auftreten, so dass Sie die Anleitung möglicherweise nicht nachvollziehen können. Kontaktieren Sie in diesem Fall Ihren Servicetechniker, damit dieser auf ihrem Automaten eine Aktualisierung der Firmware vornimmt.<br>
     </div>
 </div>
 
 ## Einstellungsmenü `VitalControl` aufrufen
 
 > [!NOTE] Achtung
-> Um die Aktivierung und Einrichtung des VitalControl-Geräts vornehmen zu können, müssen Sie in der Benutzerrolle `Betriebsleiter` am Automaten angemeldet sein. Andernfalls sind einige der unten abgebildeten und beschriebenen Schaltflächen für sie nicht sichtbar.
+> Um die Aktivierung und Einrichtung des VitalControl-Geräts vornehmen zu können, müssen Sie in der Benutzerrolle `Betriebsleiter` am Automaten angemeldet sein. Andernfalls sind einige der unten abgebildeten und beschriebenen Schaltflächen für Sie nicht sichtbar.
 
 1. Klicken Sie in der linken Seitenliste des Touch-Terminals auf die unterste Schaltfläche <img src="/icons/gear.svg" id="Navigation_Digit_1" width="25" align="bottom" alt="Alma Pro: Menü Einstellungen" title="Einstellungen"/> `Einstellungen` <span style="font-size: 140%">➀</span>. Sollten Sie sich im Hauptmenü befinden, wo keine Seitenleiste sichtbar ist, drücken sie die Schaltfläche &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Automatenmenü" title="Automatenmenü"/> `Automat`, um die Seitenleiste anzuzeigen.
 
 1. Klicken Sie in der unteren Symbolleiste des Touch-Terminals auf die zweite Schaltfläche von links <img src="/icons/touch-gear.svg" id="Navigation_Digit_2" width="25" align="bottom" alt="Einstellungen Touch-Terminal" title="Einstellungen Touch"/> `Einstellungen Touch-Terminal` <span style="font-size: 140%">➁</span>.
 
-1. In der linken Hälfte des zentralen Bildschirmbereichs erscheint jetzt einen Reihe von Menüpunkten. Klicken Sie auf die unterste Schaltfläche `Zubehör` <span style="font-size: 140%" id="Navigation_Digit_3">➂</span>.
+1. In der linken Hälfte des zentralen Bildschirmbereichs erscheint jetzt eine Reihe von Menüpunkten. Klicken Sie auf die unterste Schaltfläche `Zubehör` <span style="font-size: 140%" id="Navigation_Digit_3">➂</span>.
 
 1. In der rechten Hälfte des zentralen Bildschirmbereichs erscheint jetzt ein (oder ggf. auch mehrere) Menüpunkt(e). Klicken Sie auf die oberste Schaltfläche `VitalControl` <span style="font-size: 140%" id="Navigation_Digit_4">➃</span>. Die Schaltfläche wechselt jetzt auf die linke Bildschirmhälfte.
 

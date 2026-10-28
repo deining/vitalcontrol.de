@@ -6,7 +6,7 @@ weight: 30
 draft: false
 slug: temperatur
 description: >
- Legen Sie die Temperatureinstellungen bei der Anwendung ihres VitalControl Gerät fest.
+ Legen Sie die Temperatureinstellungen bei der Anwendung Ihres VitalControl-Geräts fest.
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Temperatur, Schwellenwert, Beleuchtung Messort]
 translationKey: settings/temperature
@@ -16,17 +16,17 @@ translationKey: settings/temperature
 Hier sind Schwellenwerte für die Körpertemperatur jeweils individuell für die Tierarten Kalb, Kuh und Lamm hinterlegt. Das gelbe und das rote Feld zeigen jeweils den Schwellenwert für „erhöhte Temperatur“ bzw. für „Fieber“. VitalControl setzt Tiere im gelben und roten Bereich auf die Alarmliste und erleichtert Ihnen so die Kontrolle kranker Tiere. Ein Schwellenwert für Untertemperatur kann ebenfalls frei definiert werden.
 {{% /alert %}}
 
-Um die Tierart des Schwellenwertes & Temperaturbereiche auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Um die tierartspezifischen Schwellenwerte und Temperaturbereiche auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Schwellenwert` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽, um `Schwellenwert` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern für `Schwellenwerte`, `Untertemperatur` und `Beleuchtung Messort` wechseln können. Wählen Sie das Einstellungsfeld `Schwellenwert` aus.
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Tierart auszuwählen.
 
-5. Nutzen Sie das Stiftsymbol mit der Taste <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Bearbeiten" /> `F3` oder den Button `OK` um den Schwellenwert des gelben und roten Bereiches einzustellen. Nutzen Sie die Pfeile △ ▽ um die gewünschte "größer gleich" Temperatur einzustellen. Nutzen Sie die Tasten `F2`/`F3` 🡄 🡆 oder die Pfeiltasten ◁ ▷ um zwischen dem gelben und dem roten Bereich zu wechseln.
+5. Nutzen Sie das Stiftsymbol mit der Taste <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Bearbeiten" /> `F3` oder den Button `OK` um den Schwellenwert des gelben und roten Bereiches einzustellen. Nutzen Sie die Pfeiltasten △ ▽, um die gewünschte "größer gleich" Temperatur einzustellen. Nutzen Sie die Tasten `F2`/`F3` 🡄 🡆 oder die Pfeiltasten ◁ ▷ um zwischen dem gelben und dem roten Bereich zu wechseln.
 
 6. Sobald Sie die gewünschte "größer gleich" Temperatur festgelegt haben, nutzen Sie den Zurück-Pfeil mit der Taste `F1` um zurück auf `Schwellenwerte` zu springen.
 
