@@ -4,7 +4,7 @@ linkTitle: Datan vienti (PC)
 date: 2023-07-19
 weight: 15
 description: >
- VitalControl-laitteesta useisiin CVS-tiedostoihin vietävien eläindatan ja mittausarvojen vienti
+ VitalControl-laitteesta useisiin CSV-tiedostoihin vietävien eläindatan ja mittausarvojen vienti
 luokat: [Data export]
 translationKey: farmPC
 ---
@@ -30,7 +30,7 @@ Noudata seuraavia ohjeita viedäksesi dataa VitalControl-laitteesta massamuistil
 Jos et löydä `Urban VitalControl` -kohtaa sovelluslistastasi, sinun on ehkä asennettava ensin `VCSynchronizer`-ohjelmisto tietokoneellesi.
    {{% /alert %}}
 
-1. Napsauta valikkokohtaa `Datan vienti (CVS)`.
+1. Napsauta valikkokohtaa `Datan vienti (CSV)`.
 
    ![Windowsin Käynnistä-valikko, valikkokohta Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/data-export/data-export.png "Windowsin käynnistä-valikko, VitalControl")
 

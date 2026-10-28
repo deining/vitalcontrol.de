@@ -4,7 +4,7 @@ linkTitle: Tramite VCSynchronizer su un PC
 date: 2023-07-20
 weight: 20
 description: >
-  Esporta file CVS con dati sugli animali e valori misurati del dispositivo VitalControl nell'archiviazione di massa di un computer.
+  Esporta file CSV con dati sugli animali e valori misurati del dispositivo VitalControl nell'archiviazione di massa di un computer.
 manualLink: /it/docs/data-link/farm-pc/
 ---
 <script>

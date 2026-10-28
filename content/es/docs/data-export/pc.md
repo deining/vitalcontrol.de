@@ -4,7 +4,7 @@ linkTitle: Mediante VCSynchronizer en un PC
 date: 2023-07-20
 weight: 20
 description: >
-  Exportar archivos CVS con datos de animales y valores medidos del dispositivo VitalControl al almacenamiento masivo de una computadora.
+  Exportar archivos CSV con datos de animales y valores medidos del dispositivo VitalControl al almacenamiento masivo de una computadora.
 manualLink: /es/docs/data-link/farm-pc/
 ---
 <script>

@@ -4,7 +4,7 @@ linkTitle: 數據匯出 (PC)
 date: 2023-07-19
 weight: 15
 description: >
- 將動物數據和測量值從 VitalControl 設備匯出到多個 CVS 文件
+ 將動物數據和測量值從 VitalControl 設備匯出到多個 CSV 文件
 categories: [數據匯出]
 translationKey: farmPC
 ---
@@ -30,7 +30,7 @@ translationKey: farmPC
 如果您在應用程式列表中找不到 `Urban VitalControl` 項目，您可能需要先在電腦上[安裝](../vcsynchronizer/installation/) `VCSynchronizer` 軟體。
    {{% /alert %}}
 
-1. 點擊選單項目 `數據匯出 (CVS)`。
+1. 點擊選單項目 `數據匯出 (CSV)`。
 
    ![Windows 開始選單，Urban VitalControl (VCSynchronizer) 的選單項目](../vcsynchronizer/images/data-export/data-export.png "Windows 開始選單，VitalControl")
 

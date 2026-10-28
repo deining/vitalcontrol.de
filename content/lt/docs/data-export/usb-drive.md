@@ -4,7 +4,7 @@ linkTitle: Į USB atmintinę
 date: 2023-07-20
 weight: 10
 description: >
-  Eksportuokite CVS duomenų failus, kuriuose yra gyvūnų duomenys ir matavimo vertės, saugomos VitalControl įrenginyje, į USB atmintinę.
+  Eksportuokite CSV duomenų failus, kuriuose yra gyvūnų duomenys ir matavimo vertės, saugomos VitalControl įrenginyje, į USB atmintinę.
 kategorijos: [Duomenų eksportavimas]
 Žymos: [CSV failai, USB atmintinė]
 translationKey: data-export/usb-drive

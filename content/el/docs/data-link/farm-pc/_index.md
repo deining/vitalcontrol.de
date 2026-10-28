@@ -4,7 +4,7 @@ linkTitle: Εξαγωγή δεδομένων (PC)
 date: 2023-07-19
 weight: 15
 description: >
- Εξαγωγή δεδομένων ζώων και τιμών μετρήσεων από τη συσκευή VitalControl σε αρκετά αρχεία CVS
+ Εξαγωγή δεδομένων ζώων και τιμών μετρήσεων από τη συσκευή VitalControl σε αρκετά αρχεία CSV
 κατηγορίες: [Εξαγωγή δεδομένων]
 translationKey: farmPC
 ---
@@ -30,7 +30,7 @@ translationKey: farmPC
 Εάν δεν μπορείτε να βρείτε την καταχώρηση `Urban VitalControl` στη λίστα των εφαρμογών σας, μπορεί να χρειαστεί να [εγκαταστήσετε](../vcsynchronizer/installation/) πρώτα το λογισμικό `VCSynchronizer` στον υπολογιστή σας.
    {{% /alert %}}
 
-1. Κάντε κλικ στην καταχώρηση μενού `Εξαγωγή δεδομένων (CVS)`.
+1. Κάντε κλικ στην καταχώρηση μενού `Εξαγωγή δεδομένων (CSV)`.
 
    ![Μενού Έναρξη Windows, καταχώρηση μενού για Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/data-export/data-export.png "Μενού έναρξης Windows, VitalControl")
 

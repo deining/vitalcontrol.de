@@ -4,7 +4,7 @@ linkTitle: Izmantojot VCSynchronizer uz PC
 date: 2023-07-20
 weight: 20
 description: >
-  Eksportējiet CVS failus ar dzīvnieku datiem un VitalControl ierīces mērījumu vērtībām uz datora masveida atmiņu.
+  Eksportējiet CSV failus ar dzīvnieku datiem un VitalControl ierīces mērījumu vērtībām uz datora masveida atmiņu.
 manualLink: /lv/docs/data-link/farm-pc/
 ---
 <script>

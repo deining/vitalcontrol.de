@@ -4,7 +4,7 @@ linkTitle: Μέσω VCSynchronizer σε Η/Υ
 date: 2023-07-20
 weight: 20
 description: >
-  Εξαγωγή αρχείων CVS με δεδομένα ζώων και μετρημένες τιμές της συσκευής VitalControl στη μαζική αποθήκευση ενός υπολογιστή.
+  Εξαγωγή αρχείων CSV με δεδομένα ζώων και μετρημένες τιμές της συσκευής VitalControl στη μαζική αποθήκευση ενός υπολογιστή.
 manualLink: /el/docs/data-link/farm-pc/
 ---
 <script>

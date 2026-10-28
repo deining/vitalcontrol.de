@@ -4,7 +4,7 @@ linkTitle: USB mälupulgale
 date: 2023-07-20
 weight: 10
 description: >
-  Ekspordi CVS andmefailid, mis sisaldavad loomade andmeid ja mõõtmistulemusi, mis on salvestatud VitalControl seadmesse, USB mälupulgale.
+  Ekspordi CSV andmefailid, mis sisaldavad loomade andmeid ja mõõtmistulemusi, mis on salvestatud VitalControl seadmesse, USB mälupulgale.
 kategooriad: [Andmete eksport]
 Sildid: [CSV failid, USB mälupulk]
 translationKey: data-export/usb-drive

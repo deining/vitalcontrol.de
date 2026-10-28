@@ -4,7 +4,7 @@ linkTitle: Через VCSynchronizer на ПК
 date: 2023-07-20
 weight: 20
 description: >
-  Экспорт файлов CVS с данными животных и измеренными значениями устройства VitalControl на массовое хранилище компьютера.
+  Экспорт файлов CSV с данными животных и измеренными значениями устройства VitalControl на массовое хранилище компьютера.
 manualLink: /ru/docs/data-link/farm-pc/
 ---
 <script>

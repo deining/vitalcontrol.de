@@ -4,7 +4,7 @@ linkTitle: Exportation des données (PC)
 date: 2023-07-19
 weight: 15
 description: >
- Exportez les données des animaux et les valeurs de mesure depuis l'appareil VitalControl vers plusieurs fichiers CVS
+ Exportez les données des animaux et les valeurs de mesure depuis l'appareil VitalControl vers plusieurs fichiers CSV
 catégories: [Exportation des données]
 translationKey: farmPC
 ---
@@ -30,7 +30,7 @@ Procédez comme suit pour exporter les données de VitalControl vers un disposit
 Si vous ne trouvez pas l'entrée `Urban VitalControl` dans votre liste d'applications, vous devrez peut-être [installer](../vcsynchronizer/installation/) d'abord le logiciel `VCSynchronizer` sur votre PC.
    {{% /alert %}}
 
-1. Cliquez sur l'élément de menu `Exportation des données (CVS)`.
+1. Cliquez sur l'élément de menu `Exportation des données (CSV)`.
 
    ![Menu Démarrer Windows, entrée de menu pour Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/data-export/data-export.png "Menu démarrer Windows, VitalControl")
 

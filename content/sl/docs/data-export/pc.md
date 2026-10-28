@@ -4,7 +4,7 @@ linkTitle: Preko VCSynchronizer na računalniku
 date: 2023-07-20
 weight: 20
 description: >
-  Izvozite CVS datoteke s podatki o živalih in izmerjenimi vrednostmi naprave VitalControl na masovno shranjevanje računalnika.
+  Izvozite CSV datoteke s podatki o živalih in izmerjenimi vrednostmi naprave VitalControl na masovno shranjevanje računalnika.
 manualLink: /sl/docs/data-link/farm-pc/
 ---
 <script>

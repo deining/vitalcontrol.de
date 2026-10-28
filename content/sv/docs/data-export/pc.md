@@ -4,7 +4,7 @@ linkTitle: Via VCSynchronizer på en PC
 date: 2023-07-20
 weight: 20
 description: >
-  Exportera CVS-filer med djurdata och mätvärden från VitalControl-enheten till masslagringen på en dator.
+  Exportera CSV-filer med djurdata och mätvärden från VitalControl-enheten till masslagringen på en dator.
 manualLink: /sv/docs/data-link/farm-pc/
 ---
 <script>

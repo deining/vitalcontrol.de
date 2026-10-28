@@ -4,7 +4,7 @@ linkTitle: Duomenų eksportas (PC)
 date: 2023-07-19
 weight: 15
 description: >
- Eksportuokite gyvūnų duomenis ir matavimo reikšmes iš VitalControl įrenginio į kelis CVS failus
+ Eksportuokite gyvūnų duomenis ir matavimo reikšmes iš VitalControl įrenginio į kelis CSV failus
 kategorijos: [Duomenų eksportas]
 translationKey: farmPC
 ---
@@ -30,7 +30,7 @@ Norėdami eksportuoti duomenis iš VitalControl į masinės atminties įrenginį
 Jei savo programų sąraše nerandate įrašo `Urban VitalControl`, gali tekti pirmiausia [įdiegti](../vcsynchronizer/installation/) programinę įrangą `VCSynchronizer` savo kompiuteryje.
    {{% /alert %}}
 
-1. Spustelėkite meniu punktą `Duomenų eksportas (CVS)`.
+1. Spustelėkite meniu punktą `Duomenų eksportas (CSV)`.
 
    ![Windows Pradžios meniu, meniu įrašas Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/data-export/data-export.png "Windows pradžios meniu, VitalControl")
 

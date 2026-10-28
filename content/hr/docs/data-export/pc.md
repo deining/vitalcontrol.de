@@ -4,7 +4,7 @@ linkTitle: Putem VCSynchronizera na računalu
 date: 2023-07-20
 weight: 20
 description: >
-  Izvoz CVS datoteka s podacima o životinjama i izmjerenim vrijednostima uređaja VitalControl na masovnu pohranu računala.
+  Izvoz CSV datoteka s podacima o životinjama i izmjerenim vrijednostima uređaja VitalControl na masovnu pohranu računala.
 manualLink: /hr/docs/data-link/farm-pc/
 ---
 <script>

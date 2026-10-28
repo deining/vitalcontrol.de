@@ -4,6 +4,6 @@ linkTitle: Export dat
 date: 2023-07-20
 weight: 30
 description: >
-  Exportujte data o zvířatech a hodnoty měření na VitalControl do souborů CVS.
+  Exportujte data o zvířatech a hodnoty měření na VitalControl do souborů CSV.
 translationKey: data-export
 ---

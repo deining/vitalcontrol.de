@@ -4,7 +4,7 @@ linkTitle: Prin VCSynchronizer pe un PC
 date: 2023-07-20
 weight: 20
 description: >
-  Exportați fișiere CVS cu date despre animale și valori măsurate ale dispozitivului VitalControl pe stocarea în masă a unui computer.
+  Exportați fișiere CSV cu date despre animale și valori măsurate ale dispozitivului VitalControl pe stocarea în masă a unui computer.
 manualLink: /ro/docs/data-link/farm-pc/
 ---
 <script>

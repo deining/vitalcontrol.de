@@ -4,7 +4,7 @@ linkTitle: USB-muistitikulle
 date: 2023-07-20
 weight: 10
 description: >
-  Vie CVS-tiedostoja, jotka sisältävät eläintietoja ja mittausarvoja VitalControl-laitteesta USB-muistitikulle.
+  Vie CSV-tiedostoja, jotka sisältävät eläintietoja ja mittausarvoja VitalControl-laitteesta USB-muistitikulle.
 luokat: [Tietojen vienti]
 tagit: [CSV-tiedostot, USB-muistitikku]
 translationKey: data-export/usb-drive

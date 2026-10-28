@@ -4,7 +4,7 @@ linkTitle: Per VCSynchronizer kompiuteryje
 date: 2023-07-20
 weight: 20
 description: >
-  Eksportuokite CVS failus su gyvūnų duomenimis ir VitalControl įrenginio matavimo reikšmėmis į kompiuterio masinę atmintį.
+  Eksportuokite CSV failus su gyvūnų duomenimis ir VitalControl įrenginio matavimo reikšmėmis į kompiuterio masinę atmintį.
 manualLink: /lt/docs/data-link/farm-pc/
 ---
 <script>

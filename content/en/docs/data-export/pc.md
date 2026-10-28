@@ -4,7 +4,7 @@ linkTitle: Via VCSynchronizer on a PC
 date: 2023-07-20
 weight: 20
 description: >
-  Export CVS files with animal data and measured values of the VitalControl device to the mass storage of a computer.
+  Export CSV files with animal data and measured values of the VitalControl device to the mass storage of a computer.
 manualLink: /en/docs/data-link/farm-pc/
 ---
 <script>

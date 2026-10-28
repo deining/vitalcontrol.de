@@ -4,7 +4,7 @@ linkTitle: Su chiavetta USB
 date: 2023-07-20
 weight: 10
 description: >
-  Esporta i file di dati CVS contenenti i dati degli animali e i valori di misurazione memorizzati sul dispositivo VitalControl su una chiavetta USB.
+  Esporta i file di dati CSV contenenti i dati degli animali e i valori di misurazione memorizzati sul dispositivo VitalControl su una chiavetta USB.
 categorie: [Esportazione dei dati]
 etichette: [File CSV, Chiavetta USB]
 translationKey: data-export/usb-drive

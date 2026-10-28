@@ -4,7 +4,7 @@ linkTitle: Uz USB zibatmiņu
 date: 2023-07-20
 weight: 10
 description: >
-  Eksportējiet CVS datu failus, kas satur dzīvnieku datus un mērījumu vērtības, kas saglabātas VitalControl ierīcē, uz USB zibatmiņu.
+  Eksportējiet CSV datu failus, kas satur dzīvnieku datus un mērījumu vērtības, kas saglabātas VitalControl ierīcē, uz USB zibatmiņu.
 categories: [Datu eksports]
 tags: [CSV faili, USB zibatmiņa]
 translationKey: data-export/usb-drive

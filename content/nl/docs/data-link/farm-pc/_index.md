@@ -4,7 +4,7 @@ linkTitle: Gegevensexport (PC)
 date: 2023-07-19
 weight: 15
 description: >
- Exporteer diergegevens en meetwaarden vanuit het VitalControl-apparaat naar verschillende CVS-bestanden
+ Exporteer diergegevens en meetwaarden vanuit het VitalControl-apparaat naar verschillende CSV-bestanden
 categorieën: [Data export]
 translationKey: farmPC
 ---
@@ -30,7 +30,7 @@ Ga als volgt te werk om gegevens van VitalControl naar een opslagapparaat van uw
 Als u het item `Urban VitalControl` niet kunt vinden in uw applicatielijst, moet u mogelijk eerst de software `VCSynchronizer` op uw PC [installeren](../vcsynchronizer/installation/).
    {{% /alert %}}
 
-1. Klik op het menu-item `Gegevensexport (CVS)`.
+1. Klik op het menu-item `Gegevensexport (CSV)`.
 
    ![Windows Startmenu, menu-item voor Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/data-export/data-export.png "Windows startmenu, VitalControl")
 

@@ -4,7 +4,7 @@ linkTitle: Експорт на данни (PC)
 date: 2023-07-19
 weight: 15
 description: >
- Експортиране на данни за животни и измервателни стойности от устройството VitalControl в няколко CVS файла
+ Експортиране на данни за животни и измервателни стойности от устройството VitalControl в няколко CSV файла
 категории: [Експорт на данни]
 translationKey: farmPC
 ---
@@ -30,7 +30,7 @@ translationKey: farmPC
 Ако не намерите записа `Urban VitalControl` в списъка си с приложения, може да се наложи първо да [инсталирате](../vcsynchronizer/installation/) софтуера `VCSynchronizer` на вашия компютър.
    {{% /alert %}}
 
-1. Кликнете върху менюто `Експорт на данни (CVS)`.
+1. Кликнете върху менюто `Експорт на данни (CSV)`.
 
    ![Меню Start на Windows, менюто за Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/data-export/data-export.png "Меню Start на Windows, VitalControl")
 

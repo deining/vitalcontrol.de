@@ -4,7 +4,7 @@ linkTitle: Na USB flash disk
 date: 2023-07-20
 weight: 10
 description: >
-  Izvoz CVS datoteka koje sadrže podatke o životinjama i vrijednosti mjerenja pohranjenih na uređaju VitalControl na USB flash disk.
+  Izvoz CSV datoteka koje sadrže podatke o životinjama i vrijednosti mjerenja pohranjenih na uređaju VitalControl na USB flash disk.
 categories: [Izvoz podataka]
 tags: [CSV datoteke, USB flash disk]
 translationKey: data-export/usb-drive

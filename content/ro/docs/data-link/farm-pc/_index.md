@@ -4,7 +4,7 @@ linkTitle: Export de date (PC)
 date: 2023-07-19
 weight: 15
 description: >
- Exportul datelor despre animale și valorile măsurătorilor de pe dispozitivul VitalControl în mai multe fișiere CVS
+ Exportul datelor despre animale și valorile măsurătorilor de pe dispozitivul VitalControl în mai multe fișiere CSV
 categorii: [Export de date]
 translationKey: farmPC
 ---
@@ -30,7 +30,7 @@ Procedați după cum urmează pentru a exporta datele de pe VitalControl pe un d
 Dacă nu găsiți intrarea `Urban VitalControl` în lista aplicațiilor dvs., este posibil să trebuiască să [instalați](../vcsynchronizer/installation/) software-ul `VCSynchronizer` pe PC-ul dvs. mai întâi.
    {{% /alert %}}
 
-1. Faceți clic pe elementul de meniu `Export de date (CVS)`.
+1. Faceți clic pe elementul de meniu `Export de date (CSV)`.
 
    ![Meniul Start Windows, intrare de meniu pentru Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/data-export/data-export.png "Meniul Start Windows, VitalControl")
 

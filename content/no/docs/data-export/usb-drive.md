@@ -4,7 +4,7 @@ linkTitle: Til USB-flashdrive
 date: 2023-07-20
 weight: 10
 description: >
-  Eksporter CVS-datafiler som inneholder dyredata og måleverdier lagret på VitalControl-enheten til en USB-flashdrive.
+  Eksporter CSV-datafiler som inneholder dyredata og måleverdier lagret på VitalControl-enheten til en USB-flashdrive.
 categories: [Dataeksport]
 tags: [CSV-filer, USB-flashdrive]
 translationKey: data-export/usb-drive

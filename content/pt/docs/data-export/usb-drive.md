@@ -4,7 +4,7 @@ linkTitle: Para pen drive USB
 date: 2023-07-20
 weight: 10
 description: >
-  Exportar arquivos de dados CVS contendo dados de animais e valores de medição armazenados no dispositivo VitalControl para um pen drive USB.
+  Exportar arquivos de dados CSV contendo dados de animais e valores de medição armazenados no dispositivo VitalControl para um pen drive USB.
 categories: [Exportação de dados]
 tags: [Arquivos CSV, Pen drive USB]
 translationKey: data-export/usb-drive

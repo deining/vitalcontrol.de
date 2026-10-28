@@ -4,7 +4,7 @@ linkTitle: Na pendrive USB
 date: 2023-07-20
 weight: 10
 description: >
-  Eksportuj pliki danych CVS zawierające dane zwierząt i wartości pomiarowe przechowywane na urządzeniu VitalControl na pendrive USB.
+  Eksportuj pliki danych CSV zawierające dane zwierząt i wartości pomiarowe przechowywane na urządzeniu VitalControl na pendrive USB.
 kategorie: [Eksport danych]
 tagi: [Pliki CSV, Pendrive USB]
 translationKey: data-export/usb-drive

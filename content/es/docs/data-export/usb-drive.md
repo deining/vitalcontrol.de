@@ -4,7 +4,7 @@ linkTitle: A memoria USB
 date: 2023-07-20
 weight: 10
 description: >
-  Exportar archivos de datos CVS que contienen datos de animales y valores de medición almacenados en el dispositivo VitalControl a una memoria USB.
+  Exportar archivos de datos CSV que contienen datos de animales y valores de medición almacenados en el dispositivo VitalControl a una memoria USB.
 categorías: [Exportación de datos]
 etiquetas: [Archivos CSV, Memoria USB]
 translationKey: data-export/usb-drive

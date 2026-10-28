@@ -4,7 +4,7 @@ linkTitle: VCSynchronizer segítségével PC-n
 date: 2023-07-20
 weight: 20
 description: >
-  Állati adatokat és a VitalControl eszköz mért értékeit tartalmazó CVS fájlok exportálása egy számítógép tömegtárolójára.
+  Állati adatokat és a VitalControl eszköz mért értékeit tartalmazó CSV fájlok exportálása egy számítógép tömegtárolójára.
 manualLink: /hu/docs/data-link/farm-pc/
 ---
 <script>

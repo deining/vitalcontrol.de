@@ -4,7 +4,7 @@ linkTitle: Dataexport (PC)
 date: 2023-07-19
 weight: 15
 description: >
- Exportera djurdata och mätvärden från VitalControl-enheten till flera CVS-filer
+ Exportera djurdata och mätvärden från VitalControl-enheten till flera CSV-filer
 Kategorier: [Data export]
 translationKey: farmPC
 ---
@@ -30,7 +30,7 @@ Följ dessa steg för att exportera data från VitalControl till en masslagrings
 Om du inte kan hitta inmatningen `Urban VitalControl` i din applikationslista, kan det hända att du först måste [installera](../vcsynchronizer/installation/) programvaran `VCSynchronizer` på din PC.
    {{% /alert %}}
 
-1. Klicka på menyalternativet `Dataexport (CVS)`.
+1. Klicka på menyalternativet `Dataexport (CSV)`.
 
    ![Windows Start-meny, menyalternativ för Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/data-export/data-export.png "Windows start-meny, VitalControl")
 

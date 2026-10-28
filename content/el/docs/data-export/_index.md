@@ -4,6 +4,6 @@ linkTitle: Εξαγωγή δεδομένων
 date: 2023-07-20
 weight: 30
 description: >
-  Εξαγωγή δεδομένων ζώων και τιμών μετρήσεων στο VitalControl σε αρχεία δεδομένων CVS.
+  Εξαγωγή δεδομένων ζώων και τιμών μετρήσεων στο VitalControl σε αρχεία δεδομένων CSV.
 translationKey: data-export
 ---

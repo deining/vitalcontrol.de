@@ -2,7 +2,7 @@
 title: Datenexport auf USB-Stick
 linkTitle: Auf USB-Stick
 description: >
-  CVS-Dateien mit Tierdaten und Messwerten des VitalControl-Geräts auf einen USB-Stick exportieren
+  CSV-Dateien mit Tierdaten und Messwerten des VitalControl-Geräts auf einen USB-Stick exportieren
 date: 2023-07-20
 weight: 10
 slug: usb-stick

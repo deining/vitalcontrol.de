@@ -4,7 +4,7 @@ linkTitle: Andmete eksport (PC)
 date: 2023-07-19
 weight: 15
 description: >
- Loomade andmete ja mõõtmisväärtuste eksportimine VitalControl seadmest mitmesse CVS-faili
+ Loomade andmete ja mõõtmisväärtuste eksportimine VitalControl seadmest mitmesse CSV-faili
 kategooriad: [Andmete eksport]
 translationKey: farmPC
 ---
@@ -30,7 +30,7 @@ Järgige järgmisi samme, et eksportida andmeid VitalControl seadmest massmälus
 Kui te ei leia oma rakenduste loendist kirjet `Urban VitalControl`, peate võib-olla esmalt [installima](../vcsynchronizer/installation/) tarkvara `VCSynchronizer` oma arvutisse.
    {{% /alert %}}
 
-1. Klõpsake menüüelemendil `Andmete eksport (CVS)`.
+1. Klõpsake menüüelemendil `Andmete eksport (CSV)`.
 
    ![Windowsi Start-menüü, menüüelement Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/data-export/data-export.png "Windowsi start-menüü, VitalControl")
 

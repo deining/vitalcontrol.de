@@ -4,7 +4,7 @@ linkTitle: Izvoz podatkov (PC)
 date: 2023-07-19
 weight: 15
 description: >
- Izvozite podatke o živalih in vrednosti meritev iz naprave VitalControl v več CVS datotek
+ Izvozite podatke o živalih in vrednosti meritev iz naprave VitalControl v več CSV datotek
 categories: [Izvoz podatkov]
 translationKey: farmPC
 ---
@@ -30,7 +30,7 @@ Postopek za izvoz podatkov iz VitalControl na masovno shranjevalno napravo vaše
 Če vnosa `Urban VitalControl` ne najdete na seznamu aplikacij, boste morda morali najprej [namestiti](../vcsynchronizer/installation/) programsko opremo `VCSynchronizer` na vaš računalnik.
    {{% /alert %}}
 
-1. Kliknite na vnos menija `Izvoz podatkov (CVS)`.
+1. Kliknite na vnos menija `Izvoz podatkov (CSV)`.
 
    ![Windows Start meni, vnos menija za Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/data-export/data-export.png "Windows start meni, VitalControl")
 

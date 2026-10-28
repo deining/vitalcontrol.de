@@ -2,7 +2,7 @@
 title: Export von Tierdaten und Messwerten auf den Betriebs-PC
 linkTitle: Datenexport (PC)
 description: >
-  Tierdaten und Messwerte auf dem VitalControl in mehrere CVS-Dateien exportieren
+  Tierdaten und Messwerte auf dem VitalControl in mehrere CSV-Dateien exportieren
 date: 2023-07-19
 weight: 15
 kategorien: [Datenexport]
@@ -30,7 +30,7 @@ Gehen Sie wie folgt vor, um Daten vom VitalControl auf einen Massenspeicher ihre
   Falls Sie in der Liste ihrer Anwendungen den Eintrag `Urban VitalControl` nicht finden können, müssen Sie ggf. die Software `VCSynchronizer` auf ihrem [PC installieren](../vcsynchronizer/installation/).
    {{% /alert %}}
 
-1. Klicken Sie jetzt auf den Menüeintrag `Datenexport (CVS)`.
+1. Klicken Sie jetzt auf den Menüeintrag `Datenexport (CSV)`.
 
    ![Windows Startmenü, Eintrag für Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/datenexport/datenexport.png "Windows Startmenü, VitalControl")
 

@@ -4,7 +4,7 @@ linkTitle: Izvoz podataka (PC)
 date: 2023-07-19
 weight: 15
 description: >
- Izvoz podataka o životinjama i vrijednosti mjerenja sa uređaja VitalControl u nekoliko CVS datoteka
+ Izvoz podataka o životinjama i vrijednosti mjerenja sa uređaja VitalControl u nekoliko CSV datoteka
 categories: [Izvoz podataka]
 translationKey: farmPC
 ---
@@ -30,7 +30,7 @@ Postupite na sljedeći način kako biste izvezli podatke sa VitalControl uređaj
 Ako ne možete pronaći unos `Urban VitalControl` u vašoj listi aplikacija, možda ćete prvo morati [instalirati](../vcsynchronizer/installation/) softver `VCSynchronizer` na vaš računar.
    {{% /alert %}}
 
-1. Kliknite na stavku menija `Izvoz podataka (CVS)`.
+1. Kliknite na stavku menija `Izvoz podataka (CSV)`.
 
    ![Windows Start meni, unos menija za Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/data-export/data-export.png "Windows start meni, VitalControl")
 

@@ -4,7 +4,7 @@ linkTitle: Till USB-minne
 date: 2023-07-20
 weight: 10
 description: >
-  Exportera CVS-datafiler som innehåller djurdata och mätvärden lagrade på VitalControl-enheten till ett USB-minne.
+  Exportera CSV-datafiler som innehåller djurdata och mätvärden lagrade på VitalControl-enheten till ett USB-minne.
 Kategorier: [Dataexport]
 Taggar: [CSV-filer, USB-minne]
 translationKey: data-export/usb-drive

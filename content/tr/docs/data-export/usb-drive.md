@@ -4,7 +4,7 @@ linkTitle: USB flash sürücüye
 date: 2023-07-20
 weight: 10
 description: >
-  VitalControl cihazında depolanan hayvan verilerini ve ölçüm değerlerini içeren CVS veri dosyalarını bir USB flash sürücüye aktarın.
+  VitalControl cihazında depolanan hayvan verilerini ve ölçüm değerlerini içeren CSV veri dosyalarını bir USB flash sürücüye aktarın.
 Kategoriler: [Veri aktarımı]
 Etiketler: [CSV dosyaları, USB flash sürücü]
 translationKey: data-export/usb-drive

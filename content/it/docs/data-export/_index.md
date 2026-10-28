@@ -4,6 +4,6 @@ linkTitle: Esportazione dati
 date: 2023-07-20
 weight: 30
 description: >
-  Esporta i dati degli animali e i valori di misurazione su VitalControl in file di dati CVS.
+  Esporta i dati degli animali e i valori di misurazione su VitalControl in file di dati CSV.
 translationKey: data-export
 ---

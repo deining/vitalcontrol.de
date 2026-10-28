@@ -4,7 +4,7 @@ linkTitle: Veri aktarımı (PC)
 date: 2023-07-19
 weight: 15
 description: >
- VitalControl cihazından hayvan verilerini ve ölçüm değerlerini çeşitli CVS dosyalarına aktarın
+ VitalControl cihazından hayvan verilerini ve ölçüm değerlerini çeşitli CSV dosyalarına aktarın
 Kategoriler: [Veri aktarımı]
 translationKey: farmPC
 ---
@@ -30,7 +30,7 @@ VitalControl'dan bilgisayarınızın bir kütle depolama cihazına veri aktarmak
 Eğer uygulamalar listenizde `Urban VitalControl` girişini bulamazsanız, önce bilgisayarınıza `VCSynchronizer` yazılımını [yüklemeniz](../vcsynchronizer/installation/) gerekebilir.
    {{% /alert %}}
 
-1. `Veri aktarımı (CVS)` menü öğesine tıklayın.
+1. `Veri aktarımı (CSV)` menü öğesine tıklayın.
 
    ![Windows Başlat menüsü, Urban VitalControl (VCSynchronizer) menü girişi](../vcsynchronizer/images/data-export/data-export.png "Windows başlat menüsü, VitalControl")
 

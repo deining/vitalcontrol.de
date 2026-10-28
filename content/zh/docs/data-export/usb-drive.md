@@ -4,7 +4,7 @@ linkTitle: 至 USB 隨身碟
 date: 2023-07-20
 weight: 10
 description: >
-  將包含動物資料和測量值的 CVS 資料檔案從 VitalControl 裝置匯出至 USB 隨身碟。
+  將包含動物資料和測量值的 CSV 資料檔案從 VitalControl 裝置匯出至 USB 隨身碟。
 categories: [資料匯出]
 tags: [CSV 檔案, USB 隨身碟]
 translationKey: data-export/usb-drive
