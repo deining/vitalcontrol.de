@@ -56,7 +56,7 @@ Järgnev tabel loetleb ja kirjeldab iga loomaandmete tabeli veergu:
 | 1 | `National-ID-Animal` | Ametlik riiklik loomanumber      | 15 numbrit vastavalt [ISO1174/85][], võib olla märkimata  |
 | 2 | `Farm-ID-Animal`     | Majandamisnumber                 | 2 kuni 6 numbrit, tihti võrdne kaelarihmal oleva numbriga |
 | 3 | `Transponder-ID`     | Transponderi number              | võib puududa, võib olla identne riikliku loomanumbriga    |
-| 4 | `DateOfBirth`        | Sünnikuupäev                     | Formaat: `YYYY-MM-TT` (`Year-Month-Day`)                  |
+| 4 | `DateOfBirth`        | Sünnikuupäev                     | Formaat: `YYYY-MM-DD` (`Year-Month-Day`)                  |
 | 5 | `Sex`                | Sugu                             | _Väärtused:_ `M`: isane, `F`: emane, `?`: teadmata        |
 | 6 | `BirthWeight-Kg`     | Sünnikaal                        | Ühik: `kilogram`, võib olla märkimata / puuduv           |
 
@@ -82,7 +82,7 @@ Järgnev tabel loetleb ja kirjeldab iga veeru eksportfailis, mis sisaldab kehate
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-kohaline number mõõdetud loomale  | vastavalt [ISO1174/85][], võib olla salvestamata  |
 | 2 | `Farm-ID-Animal`      | Mõõdetud looma haldusnumber          | 2 kuni 6 numbrit, tihti võrdne kaelarihma numbriga|
-| 3 | `Date`                | Temperatuuri mõõtmise kuupäev        | Formaat: `YYYY-MM-TT` (`Year-Month-Day`)         |
+| 3 | `Date`                | Temperatuuri mõõtmise kuupäev        | Formaat: `YYYY-MM-DD` (`Year-Month-Day`)         |
 | 4 | `Time`                | Temperatuuri mõõtmise aeg            | Formaat: `hh-mm-ss` (`hour:minute:second`)        |
 | 5 | `Temperature-Celsius` | Mõõdetud temperatuuri väärtus        | Ühik: `Grad Celsius`                           |
 
@@ -108,7 +108,7 @@ Järgnev tabel loetleb ja kirjeldab loomade kaalude tabeli üksikuid veerge:
 |:-:|-----------------------|-------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`     | 15-kohaline number kaalutud loomale | vastavalt [ISO1174/85][], võib olla salvestamata|
 | 2 | `Farm-ID-Animal`       | Kaalutud looma haldusnumber         | 2 kuni 6 numbrit, tihti võrdne kaelarihma numbriga |
-| 3 | `Date`             | Kaalumise kuupäev                   | Formaat: `YYYY-MM-TT` (`Year-Month-Day`)        |
+| 3 | `Date`             | Kaalumise kuupäev                   | Formaat: `YYYY-MM-DD` (`Year-Month-Day`)        |
 | 4 | `Time`                 | Kaalumise aeg                       | Formaat: `hh-mm-ss` (`hour:minute:second`)       |
 | 5 | `Weight-Kg`             | Kaalu väärtus                       | Ühik: `Kilogram`                               |
 
@@ -134,7 +134,7 @@ Järgnev tabel loetleb ja kirjeldab iga loomade hinnangute tabeli veergu:
 |:-:|-----------------------|-----------------------------------------|---------------------------------------------------|
 | 1 | `National-ID-Animal`     | 15-kohaline number hinnatud loomale     | vastavalt [ISO1174/85][], võib olla salvestamata  |
 | 2 | `Farm-ID-Animal`       | Hinnatud looma haldusnumber             | 2 kuni 6 numbrit, tihti võrdne kaelarihma numbriga|
-| 3 | `Date`             | Hinnangu kuupäev                        | Formaat: `YYYY-MM-TT` (`Year-Month-Day`)          |
+| 3 | `Date`             | Hinnangu kuupäev                        | Formaat: `YYYY-MM-DD` (`Year-Month-Day`)          |
 | 4 | `Time`                 | Hinnangu aeg                            | Formaat: `hh-mm-ss` (`hour:minute:second`)         |
 | 5 | `ScoreCondition`   | Üldseisundi hinnang                     | _Hinnangud:_ `Red`, `Yellow`, `Green`, `None` |
 | 6 | `ScoreFeedIntake`     | Söödavõtu hinnang                       | _Hinnangud:_ `Red`, `Yellow`, `Green`, `None` |

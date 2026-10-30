@@ -56,7 +56,7 @@ The following table lists and describes each column of the animal data table:
 | 1 | `National-ID-Animal` | Official national animal number | 15 digits according to [ISO1174/85][], maybe not recorded |
 | 2 | `Farm-ID-Animal`     | Management number               | 2- to 6 digits, often equal to number at collar           |
 | 3 | `Transponder-ID`     | Transponder number              | may be missing , may be identical with national animal ID |
-| 4 | `DateOfBirth`        | Date of birth                   | Format: `YYYY-MM-TT` (`Year-Month-Day`)                   |
+| 4 | `DateOfBirth`        | Date of birth                   | Format: `YYYY-MM-DD` (`Year-Month-Day`)                   |
 | 5 | `Sex`                | Sex                             | _Values:_ `M`: male, `F`: female, `?`: unknown            |
 | 6 | `BirthWeight-Kg`     | Birth weight                    | Unit: `kilogram`, maybe not recorded / missing            |
 
@@ -76,14 +76,13 @@ Each line of the temperature data table represents a body temperature measuremen
 
 {{% data-files/en_2 %}}
 
-a
 The following table lists and describes each column of the export file containing the body temperature values:
 
 |Column| Name of column     | Description                          | Comments                                         |
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-digit number of measured animal   | according to [ISO1174/85][], maybe not recorded  |
 | 2 | `Farm-ID-Animal`      | Management number of measured animal | 2- to 6 digits, often equal to collar number     |
-| 3 | `Date`                | Date of temperature measurement      | Format: `YYYY-MM-TT` (`Year-Month-Day`)          |
+| 3 | `Date`                | Date of temperature measurement      | Format: `YYYY-MM-DD` (`Year-Month-Day`)          |
 | 4 | `Time`                | Uhrzeit der Temperaturmessung        | Format: `hh-mm-ss` (`hour:minute:second`)        |
 | 5 | `Temperature-Celsius` | Measured temperature value           | Unit: `Grad Celsius`                             |
 
@@ -109,7 +108,7 @@ The following table lists and describes the individual columns of the table cont
 |:-:|-----------------------|-------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-digit number of weighed animal   | according to [ISO1174/85][], maybe not recorded |
 | 2 | `Farm-ID-Animal`      | Management number of weighed animal | 2- to 6 digits, often equal to collar number    |
-| 3 | `Date`                | Date of weighing                    | Format: `YYYY-MM-TT` (`Year-Month-Day`)         |
+| 3 | `Date`                | Date of weighing                    | Format: `YYYY-MM-DD` (`Year-Month-Day`)         |
 | 4 | `Time`                | Time of weighing                    | Format: `hh-mm-ss` (`hour:minute:second`)       |
 | 5 | `Weight-Kg`           | Weight value                        | Unit: `Kilogram`                                |
 
@@ -135,7 +134,7 @@ The following table lists and describes each column of the animal ratings table:
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-digit number of rated animal         | according to [ISO1174/85][], maybe not recorded |
 | 2 | `Farm-ID-Animal`      | Management number of rated animal       | 2- to 6 digits, often equal to collar number    |
-| 3 | `Date`                | Date of rating                          | Format: `YYYY-MM-TT` (`Year-Month-Day`)         |
+| 3 | `Date`                | Date of rating                          | Format: `YYYY-MM-DD` (`Year-Month-Day`)         |
 | 4 | `Time`                | Time of rating                          | Format: `hh-mm-ss` (`hour:minute:second`)       |
 | 5 | `ScoreCondition`      | Rating of general condition             | _Ratings:_ `Red`, `Yellow`, `Green`, `None`     |
 | 6 | `ScoreFeedIntake`     | Rating of feed intake                   | _Ratings:_ `Red`, `Yellow`, `Green`, `None`     |

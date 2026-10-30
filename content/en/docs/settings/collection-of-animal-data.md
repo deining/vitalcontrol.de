@@ -89,7 +89,7 @@ If you do not want to make this adjustment or if you create animals automaticall
 | Kind of new animal            |  Lamb          | Calf          |
 |-------------------------------|----------------|---------------| 
 | Default value *birth weight*: | 4 kg           | 40 kg         |
-| Value range :                 | 1,0 bis 99 kg  | 1,0 bis 99 kg |
+| Value range:                  | 1,0 bis 99 kg  | 1,0 bis 99 kg |
 {{% /alert %}}
 
 ### Average daily weight gain {#average-daily-weight-gain}

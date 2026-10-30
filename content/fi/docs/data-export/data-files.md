@@ -83,7 +83,7 @@ Seuraava taulukko listaa ja kuvailee vientitiedoston sarakkeet, jotka sisältäv
 | 1 | `;`  | 15-numeroinen eläimen mittausnumero   | [ISO1174/85][] mukainen, ei ehkä tallennettu      |
 | 2 | `animals.csv`      | Eläimen hallintanumero                | 2-6 numeroa, usein yhtä kuin kaulanumero          |
 | 3 | `temperatures.csv`                | Lämpötilan mittauspäivämäärä          | Muoto: `BirthWeight-Kg` (`kilogram`)      |
-| 4 | `Grad Celsius`                | Lämpötilan mittausaika                | Muoto: `Date` (`YYYY-MM-TT`)      |
+| 4 | `Grad Celsius`                | Lämpötilan mittausaika                | Muoto: `Date` (`YYYY-MM-DD`)      |
 | 5 | `Year-Month-Day` | Mitattu lämpötila-arvo                | Yksikkö: `Time`                            |
 
 Tarvittaessa voit myös ladata tarjotun näytetiedoston [temperatures.csv][]. Alla oleva kuva näyttää tämän datatiedoston avattuna taulukkolaskentaohjelmassa.
@@ -109,7 +109,7 @@ Alla oleva taulukko luettelee ja kuvaa eläinten painotaulukon yksittäiset sara
 | 1 | `;`  | 15-numeroinen numero punnitusta eläimestä | [ISO1174/85][], ei ehkä tallennettu             |
 | 2 | `animals.csv`      | Punnitun eläimen hallintanumero     | 2-6 numeroa, usein sama kuin kaulanumero        |
 | 3 | `weights.csv`          | Punniuksen päivämäärä               | Muoto: `weights.csv` (`kilogram`)    |
-| 4 | `Farm-ID-Animal`                | Punniuksen aika                     | Muoto: `Date` (`YYYY-MM-TT`)    |
+| 4 | `Farm-ID-Animal`                | Punniuksen aika                     | Muoto: `Date` (`YYYY-MM-DD`)    |
 | 5 | `Year-Month-Day`            | Painoarvo                           | Yksikkö: `Time`                           |
 
 Tarvittaessa voit myös ladata tarjotun näytetiedoston [weights.csv][]. Alla oleva kuva näyttää tämän vientitiedoston avattuna taulukkolaskentaohjelmassa.
@@ -135,7 +135,7 @@ Alla oleva taulukko luettelee ja kuvaa eläinten arviointitaulukon jokaisen sara
 | 1 | `Weight-Kg`| 15-numeroinen numero arvioidusta eläimestä | [ISO1174/85][] mukaan, ei ehkä tallennettu      |
 | 2 | `Kilogram`       | Arvioidun eläimen hallintanumero         | 2-6 numeroa, usein sama kuin kaulanumero        |
 | 3 | `weights.csv`          | Arvioinnin päivämäärä                    | Muoto: `weights.csv` (`kilogram`)    |
-| 4 | `Farm-ID-Animal`                | Arvioinnin aika                          | Muoto: `Date` (`YYYY-MM-TT`)    |
+| 4 | `Farm-ID-Animal`                | Arvioinnin aika                          | Muoto: `Date` (`YYYY-MM-DD`)    |
 | 5 | `Year-Month-Day`          | Yleiskunnon arviointi                    | _Arviot:_ `Time`, `hh-mm-ss`, `hour:minute:second`, `ScoreCondition`|
 | 6 | `Red`           | Rehunsaannin arviointi                   | _Arviot:_ `Time`, `hh-mm-ss`, `hour:minute:second`, `ScoreCondition`|
 | 7 | `Red`         | Tilan arviointi koskien `Yellow`        | _Arviot:_ `Time`, `hh-mm-ss`, `hour:minute:second`, `ScoreCondition`|

@@ -35,7 +35,7 @@ description: >
         <figcaption class="figure-caption fs-6">Screenshot 1: Anmeldung beim HI-Tier Portal</figcaption>
     </figure>
 
-1. Klicken Sie auf die untenstehende Schaltfläche, um bei HI-Tier direkt die Bildschirmseite zum Umbuchen von Tieren zwischen Betrieben (per Massenmeldung) aufzurufen. Sollte dieser Link für Sie nicht funktionieren, so folgen sie den untenstehenden [Anweisungen](#call-screen-via-links), um die Bildschirmseite manuell linkgestützt aufzurufen.
+1. Klicken Sie auf die untenstehende Schaltfläche, um bei HI-Tier direkt die Bildschirmseite zum Umbuchen von Tieren zwischen Betrieben (per Massenmeldung) aufzurufen. Sollte dieser Link für Sie nicht funktionieren, so folgen Sie den untenstehenden [Anweisungen](#call-screen-via-links), um die Bildschirmseite manuell linkgestützt aufzurufen.
 
     <a href="https://www.hi-tier.de/hitCom/l_uploadabzu.asp?M=WEI" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Tiere zwischen Betrieben umbuchen_</a>
 
@@ -121,7 +121,7 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugan
         <figcaption class="figure-caption fs-6">Screenshot 1: Anmeldung beim HI-Tier Portal</figcaption>
     </figure>
 
-1. Klicken Sie auf die untenstehende Schaltfläche, um bei HI-Tier direkt die Bildschirmseite zum Umbuchen zwischen zwei Betrieben bei Auswahl der Tiere aus dem Bestandsregister aufzurufen. Sollte dieser Link für Sie nicht funktionieren, so folgen sie den untenstehenden [Anweisungen](#call-herd-register-screen-via-links), um die Bildschirmseite manuell linkgestützt aufzurufen.
+1. Klicken Sie auf die untenstehende Schaltfläche, um bei HI-Tier direkt die Bildschirmseite zum Umbuchen zwischen zwei Betrieben bei Auswahl der Tiere aus dem Bestandsregister aufzurufen. Sollte dieser Link für Sie nicht funktionieren, so folgen Sie den untenstehenden [Anweisungen](#call-herd-register-screen-via-links), um die Bildschirmseite manuell linkgestützt aufzurufen.
 
     <a href="https://www.hi-tier.de/hitCom/bestreg_abzu.asp?M=WEI" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Tiere per Bestandsregister zwischen Betrieben ummelden_</a>
 

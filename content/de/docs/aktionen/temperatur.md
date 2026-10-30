@@ -32,7 +32,7 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 3. Es öffnet sich ein Untermenü mit den Tieraktionen. Die Aktion <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperatur" /> `Temperatur` ist automatisch ausgewählt. Bestätigen Sie mit `OK`.
 
-4. Führen Sie nun die Messung durch. Sobald die Messung abgeschlossen ist wird die Temperatur, je nach gesetzten Schwellenwert, blau, grün, gelb oder rot hinterlegt.
+4. Führen Sie nun die Messung durch. Sobald die Messung abgeschlossen ist wird die Temperatur, je nach gesetztem Schwellenwert, blau, grün, gelb oder rot hinterlegt.
 
 {{< tabpane >}}
 {{< tab header="Tierauswahl:" text=true disabled=true />}}
@@ -48,7 +48,7 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 1. Führen Sie die vorbereitenden Schritte durch.
 
-2. Nutzen Sie die `F3` Taste <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Speichern" /> oder bestätigen Sie mit mit der zentralen Taste `OK` um das Ergebnis abzuspeichern.
+2. Nutzen Sie die `F3` Taste <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Speichern" /> oder bestätigen Sie mit der zentralen Taste `OK`, um das Ergebnis abzuspeichern.
 
     ![VitalControl: Messwert Temperatur abspeichern](../bilder/ergebnisspeichern.png "Temperatur abspeichern")
 

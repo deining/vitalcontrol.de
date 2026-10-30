@@ -36,7 +36,7 @@ description: >
         <figcaption class="figure-caption fs-6">Screenshot 1: Anmeldung beim HI-Tier Portal</figcaption>
     </figure>
 
-1. Klicken Sie auf die untenstehende Schaltfläche, um bei HI-Tier direkt die Bildschirmseite zur Massenmeldung von Tieren aufzurufen. Sollte dieser Link für Sie nicht funktionieren, so folgen sie den untenstehenden [Anweisungen](#call-screen-via-links), um die Bildschirmseite manuell linkgestützt aufzurufen.
+1. Klicken Sie auf die untenstehende Schaltfläche, um bei HI-Tier direkt die Bildschirmseite zur Massenmeldung von Tieren aufzurufen. Sollte dieser Link für Sie nicht funktionieren, so folgen Sie den untenstehenden [Anweisungen](#call-screen-via-links), um die Bildschirmseite manuell linkgestützt aufzurufen.
 
     <a href="https://www.hi-tier.de/hitCom/l_uploadabzu.asp?M=WEI" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Massenmeldung von Zugängen_</a>
 
@@ -122,7 +122,7 @@ Ihre Tiere wurden damit bei HI-Tier erfolgreich vom Abgangsbetrieb auf den Zugan
         <figcaption class="figure-caption fs-6">Screenshot 1: Anmeldung beim HI-Tier Portal</figcaption>
     </figure>
 
-1. Klicken Sie auf die untenstehende Schaltfläche, um bei HI-Tier direkt die Bildschirmseite zur Massenmeldung von Zugängen per Datei aufzurufen. Sollte dieser Link für Sie nicht funktionieren, so folgen sie den untenstehenden [Anweisungen](#call-screen-via-links), um die Bildschirmseite manuell linkgestützt aufzurufen.
+1. Klicken Sie auf die untenstehende Schaltfläche, um bei HI-Tier direkt die Bildschirmseite zur Massenmeldung von Zugängen per Datei aufzurufen. Sollte dieser Link für Sie nicht funktionieren, so folgen Sie den untenstehenden [Anweisungen](#call-screen-via-links), um die Bildschirmseite manuell linkgestützt aufzurufen.
 
     <a href="https://www.hi-tier.de/hitCom/l_upload1.asp?M=SON&txtLangFormUpl=False" role="button" class="btn btn-primary" target="_blank">Zu HI-Tier: _Massenmeldung von Zugängen_</a>
 
@@ -230,7 +230,7 @@ Ihre zugekauften Tiere wurden damit bei HI-Tier erfolgreich als Zugänge gemelde
 
 1. Wählen Sie über den Punkt `Datei` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> diese CSV-Exportdatei aus.
 
-1. Machen sie die erweiterten Optionen sichtbar, indem Sie auf `weitere Optionen` klicken. Wählen Sie aus dem DropDown-Menü `Unpassende Spalten` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> die Option `alle unpassenden Spalten ignorieren, nur passende verwenden` aus. Dies verhindert unnötige Warnmeldungen.
+1. Machen Sie die erweiterten Optionen sichtbar, indem Sie auf `weitere Optionen` klicken. Wählen Sie aus dem DropDown-Menü `Unpassende Spalten` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> die Option `alle unpassenden Spalten ignorieren, nur passende verwenden` aus. Dies verhindert unnötige Warnmeldungen.
 
 1. Klicken Sie auf die Schaltfläche `Einfügen` <img src="/digits/4_negative_circled.svg" width="25" align="middle" alt="Circled digit 4" title="Ziffer 4" />, um die Massenmeldung ihrer Zukäufe vorzunehmen.
 

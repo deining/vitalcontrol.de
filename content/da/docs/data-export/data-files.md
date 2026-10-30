@@ -56,7 +56,7 @@ Følgende tabel lister og beskriver hver kolonne i dyredatatabellen:
 | 1 | `National-ID-Animal` | Officielt nationalt dyrenummer  | 15 cifre i henhold til [ISO1174/85][], måske ikke registreret |
 | 2 | `Farm-ID-Animal`     | Administrationsnummer           | 2- til 6 cifre, ofte lig med nummeret på halsbåndet        |
 | 3 | `Transponder-ID`     | Transpondernummer               | kan mangle, kan være identisk med nationalt dyrenummer     |
-| 4 | `DateOfBirth`        | Fødselsdato                     | Format: `YYYY-MM-TT` (`År-Måned-Dag`)                      |
+| 4 | `DateOfBirth`        | Fødselsdato                     | Format: `YYYY-MM-DD` (`År-Måned-Dag`)                      |
 | 5 | `Sex`                | Køn                             | _Værdier:_ `M`: han, `F`: hun, `?`: ukendt                 |
 | 6 | `BirthWeight-Kg`     | Fødselsvægt                     | Enhed: `kilogram`, måske ikke registreret / mangler        |
 
@@ -83,7 +83,7 @@ Følgende tabel viser og beskriver hver kolonne i eksportfilen, der indeholder k
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-cifret nummer på det målte dyr    | ifølge [ISO1174/85][], måske ikke registreret    |
 | 2 | `Farm-ID-Animal`      | Administrationsnummer på det målte dyr | 2- til 6 cifre, ofte lig med halsbåndsnummer     |
-| 3 | `Date`                | Dato for temperaturmåling            | Format: `YYYY-MM-TT` (`År-Måned-Dag`)            |
+| 3 | `Date`                | Dato for temperaturmåling            | Format: `YYYY-MM-DD` (`År-Måned-Dag`)            |
 | 4 | `Time`                | Tidspunkt for temperaturmåling       | Format: `hh-mm-ss` (`time:minut:sekund`)         |
 | 5 | `Temperature-Celsius` | Målt temperaturværdi                 | Enhed: `Grad Celsius`                            |
 
@@ -109,7 +109,7 @@ Følgende tabel viser og beskriver de enkelte kolonner i tabellen, der indeholde
 |:-:|-----------------------|-------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-cifret nummer på det vejede dyr  | ifølge [ISO1174/85][], måske ikke registreret    |
 | 2 | `Farm-ID-Animal`      | Administrationsnummer på det vejede dyr | 2- til 6 cifre, ofte lig med halsbåndsnummer     |
-| 3 | `Date`                | Dato for vejning                    | Format: `YYYY-MM-TT` (`År-Måned-Dag`)            |
+| 3 | `Date`                | Dato for vejning                    | Format: `YYYY-MM-DD` (`År-Måned-Dag`)            |
 | 4 | `Time`                | Tidspunkt for vejning               | Format: `hh-mm-ss` (`time:minut:sekund`)         |
 | 5 | `Weight-Kg`           | Vægtværdi                           | Enhed: `Kilogram`                                |
 
@@ -135,7 +135,7 @@ Følgende tabel viser og beskriver hver kolonne i dyrevurderingstabellen:
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-cifret nummer på vurderet dyr        | ifølge [ISO1174/85][], måske ikke registreret   |
 | 2 | `Farm-ID-Animal`      | Administrationsnummer på vurderet dyr   | 2- til 6 cifre, ofte lig halsbåndsnummer        |
-| 3 | `Date`                | Dato for vurdering                      | Format: `YYYY-MM-TT` (`År-Måned-Dag`)           |
+| 3 | `Date`                | Dato for vurdering                      | Format: `YYYY-MM-DD` (`År-Måned-Dag`)           |
 | 4 | `Time`                | Tidspunkt for vurdering                 | Format: `hh-mm-ss` (`time:minut:sekund`)        |
 | 5 | `ScoreCondition`      | Vurdering af generel tilstand           | _Vurderinger:_ `Rød`, `Gul`, `Grøn`, `Ingen`    |
 | 6 | `ScoreFeedIntake`     | Vurdering af foderindtag                | _Vurderinger:_ `Rød`, `Gul`, `Grøn`, `Ingen`    |

@@ -56,7 +56,7 @@ Toliau pateiktoje lentelėje išvardyti ir aprašyti kiekvienas gyvūnų duomen�
 | 1 | `National-ID-Animal`        | Oficiali nacionalinė gyvūno numeracija | 15 skaitmenų pagal [ISO1174/85][], gali būti neužfiksuota |
 | 2 | `Farm-ID-Animal`            | Valdymo numeris                | 2-6 skaitmenys, dažnai sutampa su numeriu ant antkaklio     |
 | 3 | `Transponder-ID`            | Transponderio numeris          | gali būti trūkstamas, gali sutapti su nacionaliniu gyvūno ID|
-| 4 | `DateOfBirth`               | Gimimo data                    | Formatas: `YYYY-MM-TT` (`Metai-Mėnuo-Diena`)                |
+| 4 | `DateOfBirth`               | Gimimo data                    | Formatas: `YYYY-MM-DD` (`Metai-Mėnuo-Diena`)                |
 | 5 | `Sex`                       | Lytis                          | _Reikšmės:_ `M`: patinas, `F`: patelė, `?`: nežinoma        |
 | 6 | `BirthWeight-Kg`            | Gimimo svoris                  | Vienetas: `kilogramas`, gali būti neužfiksuotas / trūkstamas|
 
@@ -83,7 +83,7 @@ a
 |:-:|-----------------------------|------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`        | 15 skaitmenų matuojamo gyvūno numeris | pagal [ISO1174/85][], galbūt neįrašytas          |
 | 2 | `Farm-ID-Animal`            | Matuojamo gyvūno valdymo numeris   | 2-6 skaitmenys, dažnai lygus antkaklio numeriui  |
-| 3 | `Date`                      | Temperatūros matavimo data         | Formatas: `YYYY-MM-TT` (`Metai-Mėnuo-Diena`)     |
+| 3 | `Date`                      | Temperatūros matavimo data         | Formatas: `YYYY-MM-DD` (`Metai-Mėnuo-Diena`)     |
 | 4 | `Time`                      | Temperatūros matavimo laikas       | Formatas: `hh-mm-ss` (`valanda:minutė:sekundė`) |
 | 5 | `Temperature-Celsius`       | Išmatuota temperatūros vertė       | Vienetas: `Celsijaus laipsniai`                  |
 
@@ -109,7 +109,7 @@ Kiekviena svorio lentelės eilutė atspindi vieną gyvūno svėrimą naudojant V
 |:-:|-----------------------------|-----------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`        | 15 skaitmenų sveriamo gyvūno numeris | pagal [ISO1174/85][], galbūt neįrašytas          |
 | 2 | `Farm-ID-Animal`            | Sveriamo gyvūno valdymo numeris   | 2-6 skaitmenys, dažnai lygus antkaklio numeriui  |
-| 3 | `Date`                      | Svėrimo data                      | Formatas: `YYYY-MM-TT` (`Metai-Mėnuo-Diena`)     |
+| 3 | `Date`                      | Svėrimo data                      | Formatas: `YYYY-MM-DD` (`Metai-Mėnuo-Diena`)     |
 | 4 | `Time`                      | Svėrimo laikas                    | Formatas: `hh-mm-ss` (`valanda:minutė:sekundė`) |
 | 5 | `Weight-Kg`                 | Svorio vertė                      | Vienetas: `Kilogramas`                           |
 
@@ -135,7 +135,7 @@ Toliau pateiktoje lentelėje išvardyti ir aprašyti kiekvienas gyvūnų vertini
 |:-:|-----------------------------|---------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`        | 15 skaitmenų vertinamo gyvūno numeris | pagal [ISO1174/85][], gali būti neužregistruotas|
 | 2 | `Farm-ID-Animal`            | Vertinamo gyvūno valdymo numeris      | 2-6 skaitmenys, dažnai sutampa su antkaklio numeriu |
-| 3 | `Date`                      | Vertinimo data                        | Formatas: `YYYY-MM-TT` (`Metai-Mėnuo-Diena`)    |
+| 3 | `Date`                      | Vertinimo data                        | Formatas: `YYYY-MM-DD` (`Metai-Mėnuo-Diena`)    |
 | 4 | `Time`                      | Vertinimo laikas                      | Formatas: `hh-mm-ss` (`valanda:minutė:sekundė`)|
 | 5 | `ScoreCondition`            | Bendros būklės vertinimas             | _Vertinimai:_ `Raudona`, `Geltona`, `Žalia`, `Nėra` |
 | 6 | `ScoreFeedIntake`           | Pašaro suvartojimo vertinimas         | _Vertinimai:_ `Raudona`, `Geltona`, `Žalia`, `Nėra` |

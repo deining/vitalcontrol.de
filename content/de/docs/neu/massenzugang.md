@@ -46,7 +46,7 @@ Innerhalb des Einstellungsmenüs `Standardwerte` legen Sie Standards fest die f�
 
 3. Es öffnet sich ein Untermenü mit den unterschiedlichen Einstellungsmöglichkeiten. Verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen. Verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen.
 
-4. Speichern Sie die Einstellungen und gelangen sie mit der  `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" />&nbsp; zurück zum Menüpunkt <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Massenzugang" />&nbsp; `Massenzugang`.
+4. Speichern Sie die Einstellungen und gelangen Sie mit der  `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" />&nbsp; zurück zum Menüpunkt <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Massenzugang" />&nbsp; `Massenzugang`.
 
    ![VitalControl: Menüfolge Neu Standardwerte](../bilder/standardwerte.png "Standardwerte einstellen")
 
@@ -67,7 +67,7 @@ Innerhalb des Einstellungsmenüs `Erfasste Werte` legen Sie fest, welche Werte z
    ![VitalControl: Menüfolge Neu Erfasste Werte](../bilder/erfasstewerte.png "Erfasste Werte einstellen")
 
 > [!NOTE] Hinweis
-> Insbesondere nach einem Softwareupdate kann es passieren, dass auf ihrem Gerät in der Liste der erfassten Werte ein oder mehrere Einträge fehlen. Verwenden Sie in diesem Fall die Pfeiltasten △ ▽ um den untersten Menüpunkt `Alle Werte deaktivieren` auszuwählen und bestätigen Sie mit `OK`. Die bisher nicht vorhandenen Werte werden jetzt in der Liste angezeigt.
+> Insbesondere nach einem Softwareupdate kann es passieren, dass auf Ihrem Gerät in der Liste der erfassten Werte ein oder mehrere Einträge fehlen. Verwenden Sie in diesem Fall die Pfeiltasten △ ▽ um den untersten Menüpunkt `Alle Werte deaktivieren` auszuwählen und bestätigen Sie mit `OK`. Die bisher nicht vorhandenen Werte werden jetzt in der Liste angezeigt.
 
 ### Geburtsdatum als Pflichtfeld {#birth-date-mandatory}
 

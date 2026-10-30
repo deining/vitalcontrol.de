@@ -68,7 +68,7 @@ Alternativ können Sie sich auch mit ihrer ID Austria anmelden, falls vorhanden.
 
 1. Tragen Sie in das Textfeld `Empfänger E-Mail Adresse` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> die E-Mail-Adresse ihres Betriebs an.
 
-1. Stecken Sie in die USB-Buchse ihres Computers denjenigen USB-Stick an, auf den Sie im vorherigen Schritt [Erzeugung CSV-Datei](../erzeugung-csv/) die Exportdatei gespeichert haben.
+1. Stecken Sie in die USB-Buchse ihres Computers denjenigen USB-Stick an, auf dem Sie im vorherigen Schritt [Erzeugung CSV-Datei](../erzeugung-csv/) die Exportdatei gespeichert haben.
 
 1. Klicken Sie auf die Schaltfläche `Datei hochladen` <img src="/digits/4_negative_circled.svg" width="25" align="middle" alt="Circled digit 4" title="Ziffer 4" /> und wählen Sie diese CSV-Exportdatei aus.
 

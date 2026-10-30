@@ -9,7 +9,7 @@ description: >
 translationKey: diagnosis/hardware
 weight: 10
 ---
-Liegt auf ihrem Gerät eine Fehlfunktion vor, so sollten Sie in einem ersten Schritt eine Hardwarediagnose durchführen um abzuklären, ob es sich um einen Hardwaredefekt handelt.
+Liegt auf Ihrem Gerät eine Fehlfunktion vor, so sollten Sie in einem ersten Schritt eine Hardwarediagnose durchführen um abzuklären, ob es sich um einen Hardwaredefekt handelt.
 
 ## Hardwarediagnose durchführen {#check-the-hardware-of-your-device}
 
@@ -22,5 +22,5 @@ Liegt auf ihrem Gerät eine Fehlfunktion vor, so sollten Sie in einem ersten Sch
    ![VitalControl: Menüfolge Überprüfung der Gerätehardware](../abbildungen/pruefung-treiber.png "Überprüfung Gerätehardware")
 
 {{% alert title="HINWEIS" %}}
-Sind alle Komponenten durch einen grünen Punkt als intakt ausgewiesen und es liegt dennoch eine Fehlfunktion des Geräts vor, so handelt es sich möglicherweise um einen Softwarefehler. Kontaktieren sie in diesem Falle ihren Händler oder die [Service-Hotline](https://www.urbanonline.de/kontakt) des Herstellers.
+Sind alle Komponenten durch einen grünen Punkt als intakt ausgewiesen und es liegt dennoch eine Fehlfunktion des Geräts vor, so handelt es sich möglicherweise um einen Softwarefehler. Kontaktieren Sie in diesem Falle ihren Händler oder die [Service-Hotline](https://www.urbanonline.de/kontakt) des Herstellers.
 {{% /alert %}}

@@ -22,17 +22,17 @@ Zur Einrichtung der Kopplung selbst gehen Sie wie folgt vor:
 
 ## Technikkopplung anlegen
 
-1. Öffnen Sie in der Herde-Software das Einstellungsmenü. Je nach Konfiguration ihrer Benutzeroberfläche erreichen Sie den entsprechenden Menüpunkt `Einstellungen` im Hauptmenü (Menüpunkt _Organisation_), in der Seitenleiste oder in der Werkzeugleiste (horizontal oder vertikal).
+1. Öffnen Sie in der Herde-Software das Einstellungsmenü. Je nach Konfiguration Ihrer Benutzeroberfläche erreichen Sie den entsprechenden Menüpunkt `Einstellungen` im Hauptmenü (Menüpunkt _Organisation_), in der Seitenleiste oder in der Werkzeugleiste (horizontal oder vertikal).
 
    ![Herde Software: Aufruf des Einstellungsmenüs](../screenshots/einstellungen.png "Herde: Aufruf Einstellungen")
 
-1. Es öffnet sich ein Pop-up betitelt `Einstellungen`, in dessen linker Seitenleiste zahlreiche Einstellungskategorien aufgelistet sind. Öffnen Sie die Kategorie `Service` <span style="font-size: 140%">➊</span>, und wählen sie die Unterkategorie `Technik` <span style="font-size: 140%">➋</span> aus:
+1. Es öffnet sich ein Pop-up betitelt `Einstellungen`, in dessen linker Seitenleiste zahlreiche Einstellungskategorien aufgelistet sind. Öffnen Sie die Kategorie `Service` <span style="font-size: 140%">➊</span>, und wählen Sie die Unterkategorie `Technik` <span style="font-size: 140%">➋</span> aus:
 
 1. In der Kopfzeile des rechten Hauptbereichs erscheint jetzt ein Dropdown im welchem die aktuell bereits eingerichteten Technikkopplungen aufgeführt sind. Rechts daneben wird die Anzahl der vorhandenen Kopplungen angegeben. Klicken Sie auf die Schaltfläche ![Herde Software: Neue Technikkopplung anlegen](/icons/new.png "Herde: Technikkopplung anlegen") `Neue Kopplung anlegen` <span style="font-size: 140%">➌</span>.
 
    ![Herde Software: Einstellungen Technik aufrufen](../screenshots/einstellungen-technik.png "Herde: Einstellungen Technik")
 
-1. Es öffnet sich ein weiteres Popup-Fenster. Geben Sie dort als **Name der Kopplung** `VitalControl` und als **Techniktyp** `Urban VitalControl (Gen 2)`an und klicken Sie anschließend die Schaltfläche `Übernehmen`.
+1. Es öffnet sich ein weiteres Popup-Fenster. Geben Sie dort als **Name der Kopplung** `VitalControl` und als **Techniktyp** `Urban VitalControl (Gen 2)` an und klicken Sie anschließend die Schaltfläche `Übernehmen`.ih
 
    ![Herde Software: Neue Technikkopplung VitalControl](../screenshots/neue-kopplung.png "Neue Technikkopplung VitalControl").
 
@@ -40,7 +40,7 @@ Zur Einrichtung der Kopplung selbst gehen Sie wie folgt vor:
 
 ## Grundeinstellungen konfigurieren
 
-Initial ist im angezeigten Bildschirm der Reiter `Grundeinstellungen` ausgewählt, wie die untenstehende Abbildung zeigt. Nehmen Sie dort in den Kategorien `Externes Programm` <span style="font-size: 140%">➊</span>, `Tierdaten` <span style="font-size: 140%">➋</span>, `Orte` <span style="font-size: 140%">➌</span> und Abgang <span style="font-size: 140%">➍</span> Anpassungen gemäß ihren betriebsspezifischen Gegebenheiten vor.
+Initial ist im angezeigten Bildschirm der Reiter `Grundeinstellungen` ausgewählt, wie die untenstehende Abbildung zeigt. Nehmen Sie dort in den Kategorien `Externes Programm` <span style="font-size: 140%">➊</span>, `Tierdaten` <span style="font-size: 140%">➋</span>, `Orte` <span style="font-size: 140%">➌</span> und Abgang <span style="font-size: 140%">➍</span> Anpassungen gemäß Ihren betriebsspezifischen Gegebenheiten vor.
 
    ![Herde Software: Konfiguration Technikkopplung](../screenshots/grundeinstellungen.png "Technikkopplung: Grundeinstellungen").
 
@@ -49,7 +49,7 @@ Initial ist im angezeigten Bildschirm der Reiter `Grundeinstellungen` ausgewähl
 Für die Durchführung des Datenaustauschs zwischen VitalControl und Herde Plus wird als externes Programm die Basissoftware [VitalControl Synchronizer](../../vcsynchronizer) verwendet. Für die korrekte Funktion dieses Programms müssen in der Kategorie `Externes Programm` <span style="font-size: 140%">➊</span> einige Anpassungen vorgenommen werden:
 
 - **Rechnername Kopplung**:  
-  In der Voreinstellung ist dieses Feld leer, es empfiehlt sich, hier den eigenen Rechnernamen einzutragen. Drücken Sie hierzu auf das Symbol `Pfeil nach unten` ![Herde Software: Neue Technikkopplung anlegen](/icons/arrow-down.png "Herde: Technikkopplung anlegen") am rechten Ende des Drop-Down Feldes. Ihr Rechnername wird jetzt ermittelt und zur Auswahl vorgeschlagen. Sofern in diesem Feld ihr Rechnername eingetragen ist, kann der Datenaustausch nur noch von ihrem Rechner aus gestartet werden, die Durchführung des Datenaustauschs wird also an ihren Rechner gebunden.
+  In der Voreinstellung ist dieses Feld leer, es empfiehlt sich, hier den eigenen Rechnernamen einzutragen. Drücken Sie hierzu auf das Symbol `Pfeil nach unten` ![Herde Software: Neue Technikkopplung anlegen](/icons/arrow-down.png "Herde: Technikkopplung anlegen") am rechten Ende des Drop-Down Feldes. Ihr Rechnername wird jetzt ermittelt und zur Auswahl vorgeschlagen. Sofern in diesem Feld ihr Rechnername eingetragen ist, kann der Datenaustausch nur noch von Ihrem Rechner aus gestartet werden, die Durchführung des Datenaustauschs wird also an Ihren Rechner gebunden.
 
 - **Ausführen in Pfad**:  
   Hier bitte als Wert `%LOCALAPPDATA%\Urban\VitalControl\Synchronizer` eintragen, dies ist der absolute Pfad zum Programm `VitalControl Synchronizer` bzw. zur Datei `vcsynchronizer.exe`. Sollte bei der [Installation des VCSynchronizers](../../vcsynchronizer/installation) das Zielverzeichnis für das Programm geändert worden sein, bitte hier das gewählte Zielverzeichnis angeben.

@@ -23,7 +23,7 @@ Um den Verlust eines Tieres zu erfassen gehen Sie wie folgt vor:
 
 2. Es öffnet sich ein Untermenü. Navigieren Sie mit den Pfeiltasten ◁ ▷ △ ▽ zum Menüpunkt <img src="/icons/main/stillbirth.svg" width="40" align="bottom" alt="Tierverlust" /> `Tierverlust` und bestätigen Sie mit `OK`.
 
-3. Scannen sie entweder den Transponder des Muttertieres ein oder verwenden sie die Taste `OK`. Geben Sie mit den Pfeiltasten ◁ ▷ △ ▽ die ID des Muttertieres ein und bestätigen Sie mit `OK`.
+3. Scannen Sie entweder den Transponder des Muttertieres ein oder verwenden Sie die Taste `OK`. Geben Sie mit den Pfeiltasten ◁ ▷ △ ▽ die ID des Muttertieres ein und bestätigen Sie mit `OK`.
 
 4. Es öffnet sich ein weiteres Untermenü in dem Sie die Informationen über das tote Tier abspeichern können. Verwenden Sie die Pfeiltasten △ ▽ um den gewünschten Einstellungspunkt auszuwählen.
 

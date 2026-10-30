@@ -12,7 +12,7 @@ translationKey: evaluation/weight
 maphilight: true
 ---
 {{% alert title="HINWEIS" %}}
-In der Standardeinstellung werden alle auf dem VitalControl gespeicherten Tiere in die Auswertung miteinbezogen. Durch die Anwendung eines [Filters](../../filter/) können Sie die Auswertung auf eine Teilmenge der Tiere auf ihrem Gerät beschränken, z.B. nur auf männliche Tiere oder auf Tiere bis zu einem bestimmten Maximalalter.
+In der Standardeinstellung werden alle auf dem VitalControl gespeicherten Tiere in die Auswertung miteinbezogen. Durch die Anwendung eines [Filters](../../filter/) können Sie die Auswertung auf eine Teilmenge der Tiere auf Ihrem Gerät beschränken, z. B. nur auf männliche Tiere oder auf Tiere bis zu einem bestimmten Maximalalter.
 {{% /alert %}}
 
 {{% alert title="Hinweis" %}}
@@ -40,13 +40,13 @@ In dieser Auswertung können Sie folgende, auf die Wiegungen der letzten 6 Stund
 
 Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
-1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen sie das Menü &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Auswerten" />&nbsp;  `Auswerten` aus. Bestätigen Sie mit `OK`.
+1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen Sie das Menü &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Auswerten" />&nbsp;  `Auswerten` aus. Bestätigen Sie mit `OK`.
 
 2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="top" alt="Gewicht" />&nbsp; `Gewicht` aus und bestätigen Sie mit `OK`.
 
-3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Heutige Wiegung" />&nbsp; `Heutige Wiegung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
+3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Heutige Wiegung" />&nbsp; `Heutige Wiegung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun, die Erfolgsgrößen zu berechnen.
 
-4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste.
+4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie mit den Pfeiltasten △ ▽ durch die angezeigte Liste.
 
    ![VitalControl: Menüfolge Auswertungen Heutige Wiegungen](../bilder/heutewiegung.png "Heutige Wiegungen auswerten")
 
@@ -61,9 +61,9 @@ Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
 2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Gewicht" />&nbsp; `Gewicht` und bestätigen Sie mit `OK`.
 
-3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Geburtsgewicht" />&nbsp; `Geburtsgewichte` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
+3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Geburtsgewicht" />&nbsp; `Geburtsgewichte` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun, die Erfolgsgrößen zu berechnen.
 
-4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste.
+4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie mit den Pfeiltasten △ ▽ durch die angezeigte Liste.
 
    ![VitalControl: Menüfolge Auswertungen Geburtsgewichte](../bilder/geburtsgewichte.png "Geburtsgewichte auswerten")
 
@@ -73,7 +73,7 @@ In dieser Auswertung können Sie folgende, auf alle Wiegungen bezogenen, Informa
 - Das mittlere Tiergewicht
 - Die mittlere tägliche Zunahme seit der Geburt
 - Die mittlere tägliche Zunahme seit der letzten Wiegung
-- Das Geburtsgewicht verdoppelt nach X Tagen
+- Verdoppelung des Geburtsgewichts nach X Tagen
 
 Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
@@ -81,8 +81,8 @@ Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
 2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Gewicht" />&nbsp; `Gewicht` und bestätigen Sie mit `OK`.
 
-3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Gewichtsentwicklung" />&nbsp; `Gewichtsentwicklung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
+3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Gewichtsentwicklung" />&nbsp; `Gewichtsentwicklung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun, die Erfolgsgrößen zu berechnen.
 
-4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste.
+4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie mit den Pfeiltasten △ ▽ durch die angezeigte Liste.
 
    ![VitalControl: Menüfolge Auswertungen Gewichtsentwicklung](../bilder/gewichtsentwicklung.png "Gewichtsentwicklung auswerten")

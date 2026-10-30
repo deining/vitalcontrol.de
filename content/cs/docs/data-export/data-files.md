@@ -56,7 +56,7 @@ Následující tabulka uvádí a popisuje jednotlivé sloupce tabulky dat o zví
 | 1 | `National-ID-Animal`     | Oficiální národní číslo zvířete    | 15 číslic podle [ISO1174/85][], může být nezaznamenáno     |
 | 2 | `Farm-ID-Animal`         | Správní číslo                      | 2 až 6 číslic, často shodné s číslem na obojku             |
 | 3 | `Transponder-ID`         | Číslo transpondéru                 | může chybět, může být shodné s národním číslem zvířete     |
-| 4 | `DateOfBirth`            | Datum narození                     | Formát: `YYYY-MM-TT` (`Year-Month-Day`)                     |
+| 4 | `DateOfBirth`            | Datum narození                     | Formát: `YYYY-MM-DD` (`Year-Month-Day`)                     |
 | 5 | `Sex`                    | Pohlaví                            | _Hodnoty:_ `M`: samec, `F`: samice, `?`: neznámé           |
 | 6 | `BirthWeight-Kg`         | Porodní hmotnost                   | Jednotka: `kilogram`, může být nezaznamenáno / chybí       |
 
@@ -82,7 +82,7 @@ Následující tabulka uvádí a popisuje každý sloupec exportního souboru ob
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15místné číslo měřeného zvířete       | podle [ISO1174/85][], možná není zaznamenáno     |
 | 2 | `Farm-ID-Animal`      | Správní číslo měřeného zvířete        | 2 až 6 číslic, často shodné s číslem obojku      |
-| 3 | `Date`                | Datum měření teploty                  | Formát: `YYYY-MM-TT` (`Year-Month-Day`)           |
+| 3 | `Date`                | Datum měření teploty                  | Formát: `YYYY-MM-DD` (`Year-Month-Day`)           |
 | 4 | `Time`                | Uhrzeit der Temperaturmessung         | Formát: `hh-mm-ss` (`hour:minute:second`)     |
 | 5 | `Temperature-Celsius` | Naměřená hodnota teploty              | Jednotka: `Grad Celsius`                        |
 
@@ -108,7 +108,7 @@ Následující tabulka uvádí a popisuje jednotlivé sloupce tabulky obsahujíc
 |:-:|-----------------------|-------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15místné číslo váženého zvířete      | podle [ISO1174/85][], možná není zaznamenáno    |
 | 2 | `Farm-ID-Animal`      | Správní číslo váženého zvířete       | 2 až 6 číslic, často shodné s číslem obojku     |
-| 3 | `Date`                | Datum vážení                        | Formát: `YYYY-MM-TT` (`Year-Month-Day`)          |
+| 3 | `Date`                | Datum vážení                        | Formát: `YYYY-MM-DD` (`Year-Month-Day`)          |
 | 4 | `Time`                | Čas vážení                          | Formát: `hh-mm-ss` (`hour:minute:second`)    |
 | 5 | `Weight-Kg`           | Hodnota hmotnosti                   | Jednotka: `Kilogram`                            |
 
@@ -135,7 +135,7 @@ Následující tabulka uvádí a popisuje jednotlivé sloupce tabulky hodnocení
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15místné číslo hodnoceného zvířete      | podle [ISO1174/85][], možná nezaznamenáno       |
 | 2 | `Farm-ID-Animal`      | Správní číslo hodnoceného zvířete       | 2 až 6 číslic, často shodné s číslem obojku     |
-| 3 | `Date`                | Datum hodnocení                         | Formát: `YYYY-MM-TT` (`Year-Month-Day`)          |
+| 3 | `Date`                | Datum hodnocení                         | Formát: `YYYY-MM-DD` (`Year-Month-Day`)          |
 | 4 | `Time`                | Čas hodnocení                           | Formát: `hh-mm-ss` (`hour:minute:second`)    |
 | 5 | `ScoreCondition`      | Hodnocení celkového stavu               | _Hodnocení:_ `Red`, `Yellow`, `Green`, `None` |
 | 6 | `ScoreFeedIntake`     | Hodnocení příjmu krmiva                 | _Hodnocení:_ `Red`, `Yellow`, `Green`, `None` |

@@ -13,7 +13,7 @@ translationKey: lists/on-watch
 ---
 ## Beobachtungsliste {#on-watch-list}
 
-Auf der Beobachtungsliste finden Sie alle Tiere die Sie manuell auf die Liste gesetzt haben. Die Liste hilft Ihnen einen Überblick über die von Ihnen als auffällig bewertete Tiere zu behalten. Außerdem können Sie für jedes Tier auf der Liste folgende Aktionen ausführen:
+Auf der Beobachtungsliste finden Sie alle Tiere, die Sie manuell auf die Liste gesetzt haben. Die Liste hilft Ihnen, einen Überblick über die von Ihnen als auffällig bewerteten Tiere zu behalten. Außerdem können Sie für jedes Tier auf der Liste folgende Aktionen ausführen:
 
 - [Aktionsmenü](../alarm/#full-action-menu) mit einem Tier öffnen
 - [Tierdaten](../alarm/#animal-data) einsehen
@@ -25,7 +25,7 @@ Auf der Beobachtungsliste finden Sie alle Tiere die Sie manuell auf die Liste ge
 - [Filter setzen](../alarm/#set-filter)
 
 {{% alert title="Hinweis" %}}
-Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](). Diese sind hier nicht erläutert. Führen Sie die vorbereitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion um zu der Anleitung zu gelangen.
+Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](). Diese sind hier nicht erläutert. Führen Sie die vorbereitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion, um zu der Anleitung zu gelangen.
 {{% /alert %}}
 
 Die Beobachtungsliste ist wie folgt aufgebaut:
@@ -44,7 +44,7 @@ Die Beobachtungsliste ist wie folgt aufgebaut:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listen" /> `Listen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Listen angezeigt werden. Wählen Sie die Liste &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="Beobachtungsliste" /> `Beobachtung` aus. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Listen angezeigt werden. Wählen Sie die Liste &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="Beobachtungsliste" /> `Beobachtung` aus. Bestätigen Sie mit `OK`.
 
 3. Die Beobachtungsliste ist nun geöffnet.
 
@@ -54,7 +54,7 @@ Die Beobachtungsliste ist wie folgt aufgebaut:
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tier von der Beobachtungsliste entfernen` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tier von der Beobachtungsliste entfernen` hervorzuheben und wählen Sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. Alternativ können Sie ein Tier suchen. Verwenden Sie die `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Lupe" /> und nutzen Sie die Pfeiltasten ◁ ▷ △ ▽ um die gewünschten Ziffern auszuwählen. Bestätigen Sie abschließend mit `OK`.
 
@@ -66,7 +66,7 @@ Die Beobachtungsliste ist wie folgt aufgebaut:
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Alarmstatus ändern` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Alarmstatus ändern` hervorzuheben und wählen Sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. Alternativ können Sie ein Tier suchen. Verwenden Sie die `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Lupe" /> und nutzen Sie die Pfeiltasten ◁ ▷ △ ▽ um die gewünschten Ziffern auszuwählen. Bestätigen Sie abschließend mit `OK`.
 

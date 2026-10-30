@@ -56,7 +56,7 @@ Poniższa tabela wymienia i opisuje każdą kolumnę tabeli danych zwierząt:
 | 1 | `National-ID-Animal`   | Oficjalny krajowy numer zwierzęcia | 15 cyfr zgodnie z [ISO1174/85][], może nie być zarejestrowany |
 | 2 | `Farm-ID-Animal`       | Numer zarządzania               | 2 do 6 cyfr, często równe numerowi na obroży               |
 | 3 | `Transponder-ID`       | Numer transpondera              | może brakować, może być identyczny z krajowym numerem zwierzęcia |
-| 4 | `DateOfBirth`          | Data urodzenia                  | Format: `YYYY-MM-TT` (`Rok-Miesiąc-Dzień`)                 |
+| 4 | `DateOfBirth`          | Data urodzenia                  | Format: `YYYY-MM-DD` (`Rok-Miesiąc-Dzień`)                 |
 | 5 | `Sex`                  | Płeć                            | _Wartości:_ `M`: męski, `F`: żeński, `?`: nieznany         |
 | 6 | `BirthWeight-Kg`       | Waga urodzeniowa                | Jednostka: `kilogram`, może nie być zarejestrowana / brakująca |
 
@@ -82,7 +82,7 @@ Poniższa tabela wymienia i opisuje każdą kolumnę pliku eksportu zawierające
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-cyfrowy numer mierzonego zwierzęcia | zgodnie z [ISO1174/85][], może nie być zapisany  |
 | 2 | `Farm-ID-Animal`      | Numer zarządzania mierzonego zwierzęcia | 2- do 6 cyfr, często równy numerowi obroży       |
-| 3 | `Date`                | Data pomiaru temperatury             | Format: `YYYY-MM-TT` (`Rok-Miesiąc-Dzień`)       |
+| 3 | `Date`                | Data pomiaru temperatury             | Format: `YYYY-MM-DD` (`Rok-Miesiąc-Dzień`)       |
 | 4 | `Time`                | Czas pomiaru temperatury             | Format: `hh-mm-ss` (`godzina:minuta:sekunda`)    |
 | 5 | `Temperature-Celsius` | Mierzona wartość temperatury         | Jednostka: `Stopnie Celsjusza`                   |
 
@@ -108,7 +108,7 @@ Poniższa tabela wymienia i opisuje poszczególne kolumny tabeli zawierającej w
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-cyfrowy numer ważonego zwierzęcia | zgodnie z [ISO1174/85][], może nie być zapisany  |
 | 2 | `Farm-ID-Animal`      | Numer zarządzania ważonego zwierzęcia | 2- do 6 cyfr, często równy numerowi obroży       |
-| 3 | `Date`                | Data ważenia                        | Format: `YYYY-MM-TT` (`Rok-Miesiąc-Dzień`)       |
+| 3 | `Date`                | Data ważenia                        | Format: `YYYY-MM-DD` (`Rok-Miesiąc-Dzień`)       |
 | 4 | `Time`                | Czas ważenia                        | Format: `hh-mm-ss` (`godzina:minuta:sekunda`)    |
 | 5 | `Weight-Kg`           | Wartość wagi                        | Jednostka: `Kilogram`                            |
 
@@ -134,7 +134,7 @@ Poniższa tabela wymienia i opisuje każdą kolumnę tabeli ocen zwierząt:
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-cyfrowy numer ocenianego zwierzęcia  | zgodnie z [ISO1174/85][], może nie być zapisany |
 | 2 | `Farm-ID-Animal`      | Numer zarządzania ocenianego zwierzęcia | 2- do 6 cyfr, często równy numerowi obroży      |
-| 3 | `Date`                | Data oceny                              | Format: `YYYY-MM-TT` (`Rok-Miesiąc-Dzień`)      |
+| 3 | `Date`                | Data oceny                              | Format: `YYYY-MM-DD` (`Rok-Miesiąc-Dzień`)      |
 | 4 | `Time`                | Czas oceny                              | Format: `hh-mm-ss` (`godzina:minuta:sekunda`)   |
 | 5 | `ScoreCondition`      | Ocena ogólnego stanu                    | _Oceny:_ `Red`, `Yellow`, `Green`, `None`       |
 | 6 | `ScoreFeedIntake`     | Ocena spożycia paszy                    | _Oceny:_ `Red`, `Yellow`, `Green`, `None`       |

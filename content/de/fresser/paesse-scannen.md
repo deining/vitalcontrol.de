@@ -11,7 +11,7 @@ description: >
 ---
 ## Tierpässe aller Zukäufe bereitstellen
 
-Legen Sie die Tierpässe aller zugekauften Tiere als Stapel vor sich hin, Sie werden im nächsten Schritt alle diese Pässen einscannen. Stellen Sie sicher, dass auf der Arbeitsfläche vor Ihnen genügend Platz ist, damit das Umblättern von Pass zu Pass reibungslos funktioniert.
+Legen Sie die Tierpässe aller zugekauften Tiere als Stapel vor sich hin, Sie werden im nächsten Schritt alle diese Pässe einscannen. Stellen Sie sicher, dass auf der Arbeitsfläche vor Ihnen genügend Platz ist, damit das Umblättern von Pass zu Pass reibungslos funktioniert.
 
 ## Barcodescanner anschließen
 
@@ -22,7 +22,7 @@ Legen Sie die Tierpässe aller zugekauften Tiere als Stapel vor sich hin, Sie we
 1. Es wird jetzt automatisch der Bildschirm `Massenzugang` aufgerufen (<a href="#AnschlussBarcodescanner">Abbildung 1</a>: <span style="font-style: italic;">Schritt</span> <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Schritt 2" />).
 
 > [!Note] Hinweis
-> Sollte nach dem Einstecken des Barcodescanner der Bildschirm `Massenzugang` nicht aufgerufen werden, so folgend sie den untenstehenden [Anweisungen](#manueller-aufruf-des-bildschirms-massenzugang), um den Bildschirm manuell aufzurufen.
+> Sollte nach dem Einstecken des Barcodescanners der Bildschirm `Massenzugang` nicht aufgerufen werden, so folgend sie den untenstehenden [Anweisungen](#manueller-aufruf-des-bildschirms-massenzugang), um den Bildschirm manuell aufzurufen.
 
 <br>
 <figure class="figure">
@@ -34,9 +34,9 @@ Legen Sie die Tierpässe aller zugekauften Tiere als Stapel vor sich hin, Sie we
 
 1. Im Erfassungsbildschirm wird untereinander je ein Feld für die Ohrmarkennummer und ein Feld für das Geburtsdatum des zu erfassenden Tieres angezeigt.
 
-1. Richten Sie den Barcodescanner auf den obersten Tierpass. Zielen Sie dort auf den Barcode für die Ohrmarkennummer (Abbildung 2: <span style="font-style: italic;">Buchstabe</span> <img src="/digits/O_negative_circled.svg" width="25" align="middle" alt="Circled letter O" title="Buchstabe O" />). Drücken Sie die Taste am Griff des Scanners, um den Pass einzuscannen. Nach erfolgreichem Scan des Barcodes wird die eingescannte Nummer in das oberste Feld `Ohrmarkennummer` des Bildschirms übernommen. Zugleich wechselt die Umrandung des Feldes wechselt von rot zu grün.
+1. Richten Sie den Barcodescanner auf den obersten Tierpass. Zielen Sie dort auf den Barcode für die Ohrmarkennummer (Abbildung 2: <span style="font-style: italic;">Buchstabe</span> <img src="/digits/O_negative_circled.svg" width="25" align="middle" alt="Circled letter O" title="Buchstabe O" />). Drücken Sie die Taste am Griff des Scanners, um den Pass einzuscannen. Nach erfolgreichem Scan des Barcodes wird die eingescannte Nummer in das oberste Feld `Ohrmarkennummer` des Bildschirms übernommen. Zugleich wechselt die Umrandung des Feldes von Rot zu Grün.
 
-1. Scannen Sie in gleicher Weise das Geburtsdatum des Tieres ein (Abbildung 2: <span style="font-style: italic;">Buchstabe</span> <img src="/digits/G_negative_circled.svg" width="25" align="middle" alt="Circled letter O" title="Buchstable G" />).
+1. Scannen Sie in gleicher Weise das Geburtsdatum des Tieres ein (Abbildung 2: <span style="font-style: italic;">Buchstabe</span> <img src="/digits/G_negative_circled.svg" width="25" align="middle" alt="Circled letter O" title="Buchstabe G" />).
 
 1. Die beiden Pflichtfelder `Ohrmarkennummer` und `Geburtsdatum` wurden erfolgreich befüllt, das erste Tier wird jetzt gespeichert.
 
@@ -57,7 +57,7 @@ Legen Sie die Tierpässe aller zugekauften Tiere als Stapel vor sich hin, Sie we
 ## Ergänzungen und Erläuterungen
 
 > [!Note] Hinweis
-> Verwenden Sie bitte ausschließlich den mitgelieferten Barcodescanner des Herstellers! Nur mit diesem diesem Scanner bekommen Sie ein akustisches und visuelles Feedback, wenn es während des Scanvorgangs zu Fehlern kommt (doppeltes Einscannen einer Tiernummern, Einscannen eines ungültigen Wertes, etc.).
+> Verwenden Sie bitte ausschließlich den mitgelieferten Barcodescanner des Herstellers! Nur mit diesem Scanner bekommen Sie ein akustisches und visuelles Feedback, wenn es während des Scanvorgangs zu Fehlern kommt (doppeltes Einscannen einer Tiernummern, Einscannen eines ungültigen Wertes, etc.).
 
 ### Anpassung der Einstellungen Massenzugang
 
@@ -68,7 +68,7 @@ Legen Sie die Tierpässe aller zugekauften Tiere als Stapel vor sich hin, Sie we
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="New animal" /> `Neu` und drücken Sie die Taste `OK`.
 
-1. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Massenzugang" /> `Massenzugang` und bestätigen Sie mit `OK`.
+1. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Massenzugang" /> `Massenzugang` aus und bestätigen Sie mit `OK`.
 
 1. Es öffnet sich der Erfassungsbildschirm, in dem je ein Feld für die Ohrmarkennummer und ein Feld für das Geburtsdatum des zu erfassenden Tieres angezeigt werden.
 

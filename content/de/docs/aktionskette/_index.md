@@ -13,7 +13,7 @@ translationKey: action-chain
 ---
 ## Aktionskette {#chain-of-actions}
 
-Die Aktionskette ermöglicht es Ihnen, mehrere Aktionen für ein Tier automatisch hintereinander durchzuführen. Sie können z.B. die Aktionen `Temperatur messen` und `Bewertung` auswählen. Führen Sie dann die Aktionskette aus, können Sie bei ihrem Tier zunächst das Fieber messen und direkt danach die Bewertung erfassen.
+Die Aktionskette ermöglicht es Ihnen, mehrere Aktionen für ein Tier automatisch hintereinander durchzuführen. Sie können z. B. die Aktionen `Temperatur messen` und `Bewertung` auswählen. Führen Sie dann die Aktionskette aus, können Sie bei ihrem Tier zunächst das Fieber messen und direkt danach die Bewertung erfassen.
 
 ### Aktionskette verwenden {#use-chain-of-actions}
 
@@ -42,7 +42,7 @@ Die Aktionskette ermöglicht es Ihnen, mehrere Aktionen für ein Tier automatisc
 
 3. Es öffnet sich ein Untermenü. Verwenden Sie die Pfeiltasten △ ▽ um zwischen den Aktionsnummern zu wählen. Sie können bis zu vier Aktionen hintereinander ausführen. Verwenden Sie die Pfeiltasten ◁ ▷ um für die jeweilige Aktionsnummer die gewünschte Aktion auszuwählen. Speichern Sie die Einstellungen mit der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" />&nbsp;.
 
-4. Wenn Sie die gesamte Aktionskette zurücksetzen möchten wählen Sie im Untermenü mit den Pfeiltasten △ ▽ die am Ende der Liste befindliche Option `Reset Aktionskette` und bestätigen Sie mit `OK`.
+4. Wenn Sie die gesamte Aktionskette zurücksetzen möchten, wählen Sie im Untermenü mit den Pfeiltasten △ ▽ die am Ende der Liste befindliche Option `Reset Aktionskette` und bestätigen Sie mit `OK`.
 
     ![VitalControl: Menüfolge Aktionskette](bilder/aktionsketteeinstellen.png "Aktionskette einstellen")
 

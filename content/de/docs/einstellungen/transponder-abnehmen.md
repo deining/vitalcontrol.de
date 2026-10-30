@@ -12,11 +12,11 @@ translationKey: settings/unlink-transponder
 ---
 ## Transponder abnehmen {#unlink-transponder}
 
-Mithilfe dieser Einstellung können Sie festlegen wie die Tier-ID vergeben werden soll, sobald Sie den Transponder von dem Tier lösen. Diese Einstellung kann genutzt werden wenn z.B. die Synchronisation mit dem Tränkeautomaten Urban Alma Pro vorgenommen wurde und die Tier-IDs auf dem VitalControl nun der Halsbandnummer der Tiere entsprechen. Sobald Sie das Halsband abnehmen und den Transponder lösen können Sie festlegen, dass die Tier-ID nun von der Ohrmarkennummer abgleitet wird. Dies ermöglicht Ihnen eine schnelle Identifikation des Tieres ohne Halsband im Stall.
+Mithilfe dieser Einstellung können Sie festlegen wie die Tier-ID vergeben werden soll, sobald Sie den Transponder von dem Tier lösen. Diese Einstellung kann genutzt werden wenn z. B. die Synchronisation mit dem Tränkeautomaten Urban Alma Pro vorgenommen wurde und die Tier-IDs auf dem VitalControl nun der Halsbandnummer der Tiere entsprechen. Sobald Sie das Halsband abnehmen und den Transponder lösen können Sie festlegen, dass die Tier-ID nun von der Ohrmarkennummer abgleitet wird. Dies ermöglicht Ihnen eine schnelle Identifikation des Tieres ohne Halsband im Stall.
 
 1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Transponder abnehmen` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Transponder abnehmen` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Wählen Sie nun mit den Pfeiltasten ◁ ▷ Ihre gewünschte Einstellung. Zur Auswahl stehen Ihnen `Keine Änderung` und `Ableitung von Ohrmarkennummer`.
 

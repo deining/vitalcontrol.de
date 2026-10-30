@@ -8,7 +8,7 @@ description: >
   Bei einer Datenrücksicherung wird mittels einer Backup-Datei der gesamte Datenbestand des VitalControl-Geräts wiederhergestellt.
 translationKey: restore
 ---
-{{% usb-drive/de "Um auf ihrem Gerät eine Datenrücksicherung durchzuführen," %}}
+{{% usb-drive/de "Um auf Ihrem Gerät eine Datenrücksicherung durchzuführen," %}}
 
 Dieser Stick muss zwingend ein Verzeichnis `backup` enthalten, in dem sich eine gültige **Datensicherungsdatei `backup.vcu`** befindet.
 

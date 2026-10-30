@@ -56,7 +56,7 @@ Naslednja tabela navaja in opisuje vsak stolpec tabele podatkov o živalih:
 | 1 | `National-ID-Animal` | Uradna nacionalna številka živali | 15 mest po [ISO1174/85][], morda ni zabeleženo            |
 | 2 | `Farm-ID-Animal`     | Upravljalna številka              | 2 do 6 mest, pogosto enako številki na ovratnici          |
 | 3 | `Transponder-ID`     | Številka transponderja            | lahko manjka, lahko enaka nacionalni številki živali      |
-| 4 | `DateOfBirth`        | Datum rojstva                     | Format: `YYYY-MM-TT` (`Leto-Mesec-Dan`)                   |
+| 4 | `DateOfBirth`        | Datum rojstva                     | Format: `YYYY-MM-DD` (`Leto-Mesec-Dan`)                   |
 | 5 | `Sex`                | Spol                              | _Vrednosti:_ `M`: moški, `F`: ženski, `?`: neznano        |
 | 6 | `BirthWeight-Kg`     | Porodna teža                      | Enota: `kilogram`, morda ni zabeleženo / manjka           |
 
@@ -83,7 +83,7 @@ Naslednja tabela navaja in opisuje vsak stolpec izvozne datoteke, ki vsebuje vre
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-mestna številka merjene živali     | v skladu z [ISO1174/85][], morda ni zabeleženo  |
 | 2 | `Farm-ID-Animal`      | Upravljalna številka merjene živali   | 2- do 6 mest, pogosto enako številki ovratnika  |
-| 3 | `Date`                | Datum merjenja temperature            | Format: `YYYY-MM-TT` (`Leto-Mesec-Dan`)         |
+| 3 | `Date`                | Datum merjenja temperature            | Format: `YYYY-MM-DD` (`Leto-Mesec-Dan`)         |
 | 4 | `Time`                | Čas merjenja temperature              | Format: `hh-mm-ss` (`ura:minuta:sekunda`)       |
 | 5 | `Temperature-Celsius` | Izmerjena vrednost temperature        | Enota: `Stopinje Celzija`                       |
 
@@ -109,7 +109,7 @@ Naslednja tabela navaja in opisuje posamezne stolpce tabele, ki vsebuje težo ž
 |:-:|-----------------------|-------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-mestna številka tehtane živali    | v skladu z [ISO1174/85][], morda ni zabeleženo |
 | 2 | `Farm-ID-Animal`      | Upravljalna številka tehtane živali  | 2- do 6 mest, pogosto enako številki ovratnika |
-| 3 | `Date`                | Datum tehtanja                       | Format: `YYYY-MM-TT` (`Leto-Mesec-Dan`)        |
+| 3 | `Date`                | Datum tehtanja                       | Format: `YYYY-MM-DD` (`Leto-Mesec-Dan`)        |
 | 4 | `Time`                | Čas tehtanja                         | Format: `hh-mm-ss` (`ura:minuta:sekunda`)      |
 | 5 | `Weight-Kg`           | Vrednost teže                        | Enota: `Kilogram`                              |
 
@@ -135,7 +135,7 @@ Naslednja tabela navaja in opisuje vsak stolpec tabele ocen živali:
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-mestna številka ocenjene živali       | v skladu z [ISO1174/85][], morda ni zabeležena  |
 | 2 | `Farm-ID-Animal`      | Upravljalna številka ocenjene živali     | 2- do 6-mestna, pogosto enaka številki ovratnika|
-| 3 | `Date`                | Datum ocene                              | Format: `YYYY-MM-TT` (`Leto-Mesec-Dan`)         |
+| 3 | `Date`                | Datum ocene                              | Format: `YYYY-MM-DD` (`Leto-Mesec-Dan`)         |
 | 4 | `Time`                | Čas ocene                                | Format: `hh-mm-ss` (`ura:minuta:sekunda`)       |
 | 5 | `ScoreCondition`      | Ocena splošnega stanja                   | _Ocene:_ `Rdeča`, `Rumena`, `Zelena`, `Brez`    |
 | 6 | `ScoreFeedIntake`     | Ocena vnosa hrane                        | _Ocene:_ `Rdeča`, `Rumena`, `Zelena`, `Brez`    |

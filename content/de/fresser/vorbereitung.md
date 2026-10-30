@@ -13,14 +13,14 @@ Um erfolgreich eine [Massenmeldung] ihrer zugekauften Tiere bei der HI-Tier Date
 
 1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen`.
 
-2. Wechseln Sie ins Untermenü `Betrieb`. Es erscheint eine Eingabemaske, in der Sie zunächst das Land ihrer Betriebsstätte auswählen und anschließend bequem ihre Betriebsnummer einstellen können. Nutzen Sie die Pfeiltasten, um ihr Bundesland und ihre zehnstellige Betriebsnummer einzugeben. Falls nötig, können sie auch mit den Pfeiltasten im Eingabefeld nach ganz links außen navigieren und dort dann ihr Land auswählen (z.B. `AT` für Österreich, `CH` für die Schweiz, etc.).
+2. Wechseln Sie ins Untermenü `Betrieb`. Es erscheint eine Eingabemaske, in der Sie zunächst das Land ihrer Betriebsstätte auswählen und anschließend bequem ihre Betriebsnummer einstellen können. Nutzen Sie die Pfeiltasten, um ihr Bundesland und ihre zehnstellige Betriebsnummer einzugeben. Falls nötig, können Sie auch mit den Pfeiltasten im Eingabefeld nach ganz links außen navigieren und dort dann ihr Land auswählen (z. B. `AT` für Österreich, `CH` für die Schweiz, etc.).
 
     <figure class="figure mt-2">
         <img src="/docs/einstellungen/bilder/betriebsdaten.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Menüfolge Einstellung Betriebsdaten" title="Betriebsdaten einstellen" />
         <a name="EingabeBetriebsdaten"><figcaption class="figure-caption fs-6">Abbildung 1: Aufruf des Bildschirms <span style="font-style: italic;">Eingabe Betriebsdaten</span></figcaption></a>
     </figure>
 
-3. Bestätigen sie mit `OK`, sobald Sie ihre Nummernfolge korrekt eingeben ist. Das Land ihrer Betriebsstätte und ihre Betriebsnummer sind jetzt auf dem Gerät gespeichert.
+3. Bestätigen Sie mit `OK`, sobald Sie ihre Nummernfolge korrekt eingeben ist. Das Land ihrer Betriebsstätte und ihre Betriebsnummer sind jetzt auf dem Gerät gespeichert.
 
 <div style="max-width: 80%; margin-top: 45px;">
 <div class="container-fluid">

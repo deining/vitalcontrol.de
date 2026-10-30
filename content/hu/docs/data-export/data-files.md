@@ -56,7 +56,7 @@ Az alábbi táblázat felsorolja és leírja az állatadatok táblázatának min
 | 1 | `National-ID-Animal` | Hivatalos nemzeti állatszám      | 15 számjegy az [ISO1174/85][] szerint, lehet, hogy nincs rögzítve |
 | 2 | `Farm-ID-Animal`     | Gazdasági szám                   | 2-6 számjegy, gyakran megegyezik a nyakörv számával        |
 | 3 | `Transponder-ID`     | Transzponder szám                | hiányozhat, lehet, hogy megegyezik a nemzeti állatszámmal  |
-| 4 | `DateOfBirth`        | Születési dátum                  | Formátum: `YYYY-MM-TT` (`Year-Month-Day`)                    |
+| 4 | `DateOfBirth`        | Születési dátum                  | Formátum: `YYYY-MM-DD` (`Year-Month-Day`)                    |
 | 5 | `Sex`                | Nem                             | _Értékek:_ `M`: hím, `F`: nőstény, `?`: ismeretlen         |
 | 6 | `BirthWeight-Kg`     | Születési súly                   | Egység: `kilogram`, lehet, hogy nincs rögzítve / hiányzik |
 
@@ -82,7 +82,7 @@ Az alábbi táblázat felsorolja és leírja az export fájl minden oszlopát, a
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | Mért állat 15 jegyű száma            | az [ISO1174/85][] szerint, esetleg nem rögzített |
 | 2 | `Farm-ID-Animal`      | Mért állat kezelési száma            | 2-6 számjegy, gyakran azonos a nyakörv számával  |
-| 3 | `Date`                | A hőmérséklet mérésének dátuma       | Formátum: `YYYY-MM-TT` (`Year-Month-Day`)          |
+| 3 | `Date`                | A hőmérséklet mérésének dátuma       | Formátum: `YYYY-MM-DD` (`Year-Month-Day`)          |
 | 4 | `Time`                | A hőmérséklet mérésének időpontja    | Formátum: `hh-mm-ss` (`hour:minute:second`)      |
 | 5 | `Temperature-Celsius` | Mért hőmérséklet értéke              | Egység: `Grad Celsius`                            |
 
@@ -108,7 +108,7 @@ Az alábbi táblázat felsorolja és leírja az állatok súlyát tartalmazó t�
 |:-:|-----------------------|-------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | A lemért állat 15 számjegyű azonosítója | az [ISO1174/85][] szerint, esetleg nincs rögzítve |
 | 2 | `Farm-ID-Animal`      | A lemért állat kezelési száma       | 2-6 számjegy, gyakran megegyezik a nyakörv számával |
-| 3 | `Date`                | A mérés dátuma                      | Formátum: `YYYY-MM-TT` (`Year-Month-Day`)         |
+| 3 | `Date`                | A mérés dátuma                      | Formátum: `YYYY-MM-DD` (`Year-Month-Day`)         |
 | 4 | `Time`                | A mérés ideje                       | Formátum: `hh-mm-ss` (`hour:minute:second`)     |
 | 5 | `Weight-Kg`           | Súlyérték                           | Egység: `Kilogram`                             |
 
@@ -135,7 +135,7 @@ Az alábbi táblázat felsorolja és leírja az állatértékelési táblázat e
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | Értékelt állat 15 számjegyű azonosítója | az [ISO1174/85][] szerint, lehet, hogy nincs rögzítve |
 | 2 | `Farm-ID-Animal`      | Értékelt állat kezelési száma           | 2-6 számjegy, gyakran megegyezik a nyakörv számával |
-| 3 | `Date`                | Értékelés dátuma                        | Formátum: `YYYY-MM-TT` (`Year-Month-Day`)         |
+| 3 | `Date`                | Értékelés dátuma                        | Formátum: `YYYY-MM-DD` (`Year-Month-Day`)         |
 | 4 | `Time`                | Értékelés ideje                         | Formátum: `hh-mm-ss` (`hour:minute:second`)     |
 | 5 | `ScoreCondition`      | Általános állapot értékelése            | _Értékelések:_ `Red`, `Yellow`, `Green`, `None` |
 | 6 | `ScoreFeedIntake`     | Takarmányfelvétel értékelése            | _Értékelések:_ `Red`, `Yellow`, `Green`, `None` |

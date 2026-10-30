@@ -56,7 +56,7 @@ Katrs dzīvnieku datu tabulas ieraksts attēlo vienu dzīvnieku, kas saglabāts 
 | 1 | `National-ID-Animal` | Oficiālais nacionālais dzīvnieka numurs | 15 cipari saskaņā ar [ISO1174/85][], iespējams, nav ierakstīts |
 | 2 | `Farm-ID-Animal`     | Vadības numurs                  | 2 līdz 6 cipari, bieži vien vienāds ar numuru uz apkakles |
 | 3 | `Transponder-ID`     | Transpondera numurs             | var nebūt, var būt identisks ar nacionālo dzīvnieka ID    |
-| 4 | `DateOfBirth`        | Dzimšanas datums                | Formāts: `YYYY-MM-TT` (`Gads-Mēnesis-Diena`)              |
+| 4 | `DateOfBirth`        | Dzimšanas datums                | Formāts: `YYYY-MM-DD` (`Gads-Mēnesis-Diena`)              |
 | 5 | `Sex`                | Dzimums                         | _Vērtības:_ `M`: vīrietis, `F`: sieviete, `?`: nezināms   |
 | 6 | `BirthWeight-Kg`     | Dzimšanas svars                 | Vienība: `kilograms`, iespējams, nav ierakstīts / trūkst  |
 
@@ -81,7 +81,7 @@ a
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15 ciparu izmērītā dzīvnieka numurs  | saskaņā ar [ISO1174/85][], iespējams, nav ierakstīts |
 | 2 | `Farm-ID-Animal`      | Izmērītā dzīvnieka pārvaldības numurs | 2 līdz 6 cipari, bieži vien vienāds ar apkakles numuru |
-| 3 | `Date`                | Temperatūras mērījuma datums         | Formāts: `YYYY-MM-TT` (`Gads-Mēnesis-Diena`)     |
+| 3 | `Date`                | Temperatūras mērījuma datums         | Formāts: `YYYY-MM-DD` (`Gads-Mēnesis-Diena`)     |
 | 4 | `Time`                | Temperatūras mērījuma laiks          | Formāts: `hh-mm-ss` (`stunda:minūte:sekunde`)    |
 | 5 | `Temperature-Celsius` | Izmērītā temperatūras vērtība        | Vienība: `Grādi pēc Celsija`                     |
 
@@ -105,7 +105,7 @@ Katra svara tabulas rinda attēlo vienu dzīvnieka svēršanu, izmantojot VitalC
 |:-:|-----------------------|-------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15 ciparu nosvērtā dzīvnieka numurs | saskaņā ar [ISO1174/85][], iespējams, nav ierakstīts |
 | 2 | `Farm-ID-Animal`      | Nosvērtā dzīvnieka pārvaldības numurs | 2 līdz 6 cipari, bieži vien vienāds ar apkakles numuru |
-| 3 | `Date`                | Svēršanas datums                    | Formāts: `YYYY-MM-TT` (`Gads-Mēnesis-Diena`)    |
+| 3 | `Date`                | Svēršanas datums                    | Formāts: `YYYY-MM-DD` (`Gads-Mēnesis-Diena`)    |
 | 4 | `Time`                | Svēršanas laiks                     | Formāts: `hh-mm-ss` (`stunda:minūte:sekunde`)   |
 | 5 | `Weight-Kg`           | Svara vērtība                       | Vienība: `Kilograms`                            |
 
@@ -131,7 +131,7 @@ Katra dzīvnieku vērtējumu tabulas rinda pārstāv vizuālo vērtējumu dzīvn
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-ciparu novērtētā dzīvnieka numurs    | saskaņā ar [ISO1174/85][], iespējams, nav ierakstīts |
 | 2 | `Farm-ID-Animal`      | Novērtētā dzīvnieka pārvaldības numurs  | 2 līdz 6 cipari, bieži vien vienāds ar apkakles numuru |
-| 3 | `Date`                | Vērtējuma datums                        | Formāts: `YYYY-MM-TT` (`Gads-Mēnesis-Diena`)    |
+| 3 | `Date`                | Vērtējuma datums                        | Formāts: `YYYY-MM-DD` (`Gads-Mēnesis-Diena`)    |
 | 4 | `Time`                | Vērtējuma laiks                         | Formāts: `hh-mm-ss` (`stunda:minūte:sekunde`)   |
 | 5 | `ScoreCondition`      | Vispārējā stāvokļa vērtējums            | _Vērtējumi:_ `Red`, `Yellow`, `Green`, `None`   |
 | 6 | `ScoreFeedIntake`     | Barības uzņemšanas vērtējums            | _Vērtējumi:_ `Red`, `Yellow`, `Green`, `None`   |

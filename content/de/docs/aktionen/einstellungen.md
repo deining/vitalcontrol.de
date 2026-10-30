@@ -29,7 +29,7 @@ In diesem Einstellungsmenü legen Sie fest, welche Aktionen Ihnen innerhalb des 
     ![VitalControl: Menüfolge Aktionen Menüeinträge](../bilder/menue.png "Menüeinträge")
 
 > [!NOTE] Hinweis
-> Insbesondere nach einem Softwareupdate kann es passieren, dass auf ihrem Gerät in der Liste der verfügbaren Aktionen ein oder mehrere Aktionen fehlen. Verwenden Sie in diesem Fall die Pfeiltasten △ ▽ um den untersten Menüpunkt `Reihenfolge zurücksetzen` auszuwählen und bestätigen Sie mit `OK`. Die bisher nicht vorhandenen Aktionen werden jetzt in der Liste angezeigt.
+> Insbesondere nach einem Softwareupdate kann es passieren, dass auf Ihrem Gerät in der Liste der verfügbaren Aktionen ein oder mehrere Aktionen fehlen. Verwenden Sie in diesem Fall die Pfeiltasten △ ▽ um den untersten Menüpunkt `Reihenfolge zurücksetzen` auszuwählen und bestätigen Sie mit `OK`. Die bisher nicht vorhandenen Aktionen werden jetzt in der Liste angezeigt.
 
 ## Aktionskette: Einzelaktionen {#chain-of-actions}
 

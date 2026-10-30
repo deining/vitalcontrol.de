@@ -28,7 +28,7 @@ type: docs
 
 ### Synchronisation durchführen
 
-3. Klicken Sie in der linken Seitenliste des Touch-Terminals auf die zweitoberste Schaltfläche <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Automatenmenü" title="Automatenmenü"/> `Automat` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Ziffer 1" title="Ziffer 1" />. Sollten Sie sich im Hauptmenü befinden, wo keine Seitenleiste sichtbar ist, drücken sie die Schaltfläche &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Automatenmenü" title="Automatenmenü"/> <span style="font-family: monospace; font-size: 90%;">Automat</span>, um das Automatenmenü aufzurufen.
+3. Klicken Sie in der linken Seitenliste des Touch-Terminals auf die zweitoberste Schaltfläche <img src="/icons/feeder.svg" width="25" align="bottom" alt="Alma Pro: Automatenmenü" title="Automatenmenü"/> `Automat` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Ziffer 1" title="Ziffer 1" />. Sollten Sie sich im Hauptmenü befinden, wo keine Seitenleiste sichtbar ist, drücken Sie die Schaltfläche &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Automatenmenü" title="Automatenmenü"/> <span style="font-family: monospace; font-size: 90%;">Automat</span>, um das Automatenmenü aufzurufen.
 
 1. In der rechten Seitenleiste des Touchscreen-Terminal wird jetzt unterhalb der Symbol(e) für die/den angeschlossenen Automat(en) das mit <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Umrandete Ziffer 2" title="Ziffer 2" /> bezifferte Symbol <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl-Gerät" title="VitalControl"/> für das `VitalControl`-Gerät angezeigt. Klicken Sie auf dieses Symbol.
 

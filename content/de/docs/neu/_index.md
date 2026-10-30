@@ -1,7 +1,7 @@
 ---
 title: Erfassung von Geburten und Zukäufen
 linkTitle: Neu
-description: Wie sie neue Tiere auf dem VitalControl-Gerät anlegen.
+description: Wie Sie neue Tiere auf dem VitalControl-Gerät anlegen.
 translationKey: new
 weight: 140
 no_list: true

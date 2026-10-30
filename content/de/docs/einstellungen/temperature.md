@@ -20,7 +20,7 @@ Um die tierartspezifischen Schwellenwerte und Temperaturbereiche auf Ihrem Gerä
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽, um `Schwellenwert` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽, um `Schwellenwert` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern für `Schwellenwerte`, `Untertemperatur` und `Beleuchtung Messort` wechseln können. Wählen Sie das Einstellungsfeld `Schwellenwert` aus.
 
@@ -41,7 +41,7 @@ Um den Schwellenwert für die Untertemperatur einzustellen gehen Sie wie folgt v
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Temperatur` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Temperatur` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern für `Schwellenwerte`, `Untertemperatur` und `Beleuchtung Messort` wechseln können. Wählen Sie das Einstellungsfeld `Untertemperatur` aus.
 
@@ -54,11 +54,11 @@ Um den Schwellenwert für die Untertemperatur einzustellen gehen Sie wie folgt v
 Hier stellen Sie ein, ob das Licht während des Fiebermessens automatisch aktiviert bzw. deaktiviert sein soll.
 {{% /alert %}}
 
-Um die Beleuchtungsautomatik während der Aktion `Temperatur` zu de- bzw. zu aktivieren gehen sie wie folgt vor:
+Um die Beleuchtungsautomatik während der Aktion `Temperatur` zu de- bzw. zu aktivieren gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Temperatur` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Temperatur` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern für `Schwellenwerte`, `Untertemperatur` und `Beleuchtung Messort` wechseln können. Wählen Sie das Einstellungsfeld `Beleuchtung Messort` aus.
 

@@ -53,7 +53,7 @@ Um die Schwellenwerte für die Bewertung der täglichen Zunahme anzupassen gehen
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gewichtserfassung`, `Tierbewertung`, und `Kontrolle Frischmelker für` auswählen können. Wählen Sie `Gewichtserfassung` und bestätigen Sie mit `OK`.
 
@@ -71,7 +71,7 @@ Das Gerät verwendet das hier in den Einstellungen hinterlegte Geburtsgewicht al
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gewichtserfassung`, `Tierbewertung`, und `Kontrolle Frischmelker für` auswählen können. Wählen Sie `Gewichtserfassung` und bestätigen Sie mit `OK`.
 
@@ -98,11 +98,11 @@ Wenn Sie diese Anpassung nicht vornehmen wollen oder wenn Sie Tiere automatisch 
 Bei der Aktion [Wiegung](../../aktionen/wiegung/) wird anhand des Tieralters und der hier in den Einstallungen definierten täglichen Zunahme ein ungefähres Tiergewicht für das zu wiegende Tier vorgeschlagen. Sollte der vorgeschlagene Gewichtswert bei der Mehrzahl der zu wiegenden Tiere zu niedrig oder zu hoch sein, sollten Sie den definierten Wert nach unten bzw. nach oben anpassen, um die manuelle Einstellung des Gewichtswerts mit den Pfeiltasten abzukürzen.
 {{% /alert %}}
 
-Um die für den Gewichtsvorschlag genutzte `mittlere tägliche Zunahme` auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Um die für den Gewichtsvorschlag genutzte `mittlere tägliche Zunahme` auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gewichtserfassung`, `Tierbewertung`, und `Kontrolle Frischmelker für` auswählen können. Wählen Sie `Gewichtserfassung` und bestätigen Sie mit `OK`.
 
@@ -125,11 +125,11 @@ Die untenstehende Tabelle zeigt die Präzision der Gewichtserfassung im Abhängi
 | Präzision im Bereich von *50 bis 99,9 kg*:  | 500 g | 500 g | 1 kg |
 | Präzision für Werte *über 100 kg*:         | 1 kg  | 1 kg  | 1 kg |
 
-Um die maximale Genauigkeit der Gewichtserfassung auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Um die maximale Genauigkeit der Gewichtserfassung auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gewichtserfassung`, `Tierbewertung`, und `Kontrolle Frischmelker für` auswählen können. Wählen Sie `Gewichtserfassung` und bestätigen Sie mit `OK`.
 
@@ -146,11 +146,11 @@ Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<i
 Bei der Aktion [Tierbewertung](../../aktionen/tierbewertung/) können Sie zwischen zwei verschiedenen Modi wählen: Im **einfachen Modus** wird bei der Tierbewertung lediglich der Allgemeinzustand abgefragt (grün/gelb/rot). Bei der **erweiterten Bewertung** werden vier Bewertungskategorien abgefragt: Allgemeinzustand, Futterverzehr, Durchfall und Atemwegserkrankung.
 {{% /alert %}}
 
-Um den Modus der Tierbewertung auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Um den Modus der Tierbewertung auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gewichtserfassung`, `Tierbewertung`, und `Kontrolle Frischmelker für` auswählen können. Wählen Sie `Tierbewertung`.
 
@@ -164,11 +164,11 @@ Um den Modus der Tierbewertung auf ihrem Gerät festzulegen gehen Sie wie folgt 
 Beim Management von Frischmelkern ist es gute fachliche Praxis, mehrere Tage nach der Geburt täglich eine Tierkontrolle incl. Temperaturmessung durchzuführen. Die Dauer dieser Kontrollperiode variiert betriebsindividuell erheblich. Deswegen kann in den Einstellungen des VitalControls die Länge der Kontrollperiode auf einen Wert zwischen 3 und 14 Tagen festgelegt werden. Der hier eingestellte Wert für den Zeitraum der Frischmelkerkontolle bestimmt die Anzahl der Säulen des Säulendiagramms, welches in der [Frischmelkerliste](../listen/frischmelker/) individuell für jedes Tier angezeigt wird.
 {{% /alert %}}
 
-Um die Länge der Kontrollperiode für die Frischmelker auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Um die Länge der Kontrollperiode für die Frischmelker auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gewichtserfassung`, `Tierbewertung`, und `Kontrolle Frischmelker für` auswählen können. Wählen Sie `Kontrolle Frischmelker für`.
 

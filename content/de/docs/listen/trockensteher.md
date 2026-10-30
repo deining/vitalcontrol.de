@@ -13,7 +13,7 @@ translationKey: lists/dry-cows
 ---
 ## Trockensteherliste {#dry-cows-list}
 
-Auf der Trockensteherliste finden Sie alle Tiere die Sie als trockenstehend gekennzeichnet sind. Diese Liste hilft Ihnen, die Übersicht über Ihre Trockensteher zu behalten und notwendige Aktionen an den Tieren durchzuführen. Folgende Aktionen können Sie ausführen:
+Auf der Trockensteherliste finden Sie alle Tiere, die Sie als trockenstehend gekennzeichnet sind. Diese Liste hilft Ihnen, die Übersicht über Ihre Trockensteher zu behalten und notwendige Aktionen an den Tieren durchzuführen. Folgende Aktionen können Sie ausführen:
 
 - [Aktionsmenü](../alarm/#full-action-menu) mit einem Tier öffnen
 - [Tierdaten](../alarm/#animal-data) einsehen
@@ -25,14 +25,14 @@ Auf der Trockensteherliste finden Sie alle Tiere die Sie als trockenstehend geke
 - [Filter setzen](../alarm/#set-filter)
 
 {{% alert title="Hinweis" %}}
-Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Diese sind hier nicht erläutert. Führen Sie die vorbereitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion um zu der Anleitung zu gelangen.
+Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Diese sind hier nicht erläutert. Führen Sie die vorbereitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion, um zu der Anleitung zu gelangen.
 {{% /alert %}}
 
 ### Vorbereitende Schritte {#preliminary-steps}
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listen" /> `Listen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Listen angezeigt werden. Wählen Sie die Liste <img src="/icons/lists/drycows.svg" width="40" align="bottom" alt="Trockensteher" /> `Trockensteher` aus. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Listen angezeigt werden. Wählen Sie die Liste <img src="/icons/lists/drycows.svg" width="40" align="bottom" alt="Trockensteher" /> `Trockensteher` aus. Bestätigen Sie mit `OK`.
 
 3. Die Trockensteherliste ist nun geöffnet.
 
@@ -44,7 +44,7 @@ Innerhalb der Trockensteherliste können Sie direkt für ein individuelles Tier 
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Abkalbung` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Abkalbung` hervorzuheben und wählen Sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. Alternativ können Sie ein Tier suchen. Verwenden Sie die `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Lupe" /> und nutzen Sie die Pfeiltasten ◁ ▷ △ ▽ um die gewünschten Ziffern auszuwählen. Bestätigen Sie abschließend mit `OK`.
 

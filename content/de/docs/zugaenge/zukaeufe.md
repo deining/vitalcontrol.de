@@ -13,7 +13,7 @@ translationKey: new-on-farm/new-on-farm
 ---
 ## Zukäufe {#purchased-animals}
 
-Innerhalb dieser Liste finden Sie alle Tiere die Sie über den Massenzugang angelegt haben. Sie können diese Liste exportieren und somit ihre Zugänge direkt im Herdenmanagementprogramm DSP-Herde und in HI-Tier registrieren. Alternativ können Sie die Zugangsliste löschen.
+Innerhalb dieser Liste finden Sie alle Tiere, die Sie über den Massenzugang angelegt haben. Sie können diese Liste exportieren und somit ihre Zugänge direkt im Herdenmanagementprogramm DSP-Herde und in HI-Tier registrieren. Alternativ können Sie die Zugangsliste löschen.
 
 {{% alert title="Hinweis" %}}
 Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie den USB-Stick mit dem USB-C Adapter an ihr VitalControl-Gerät an bevor Sie der Anleitung folgen.

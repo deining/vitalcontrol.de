@@ -56,7 +56,7 @@ Următorul tabel listează și descrie fiecare coloană a tabelului de date desp
 | 1 | `National-ID-Animal` | Număr național oficial al animalului | 15 cifre conform [ISO1174/85][], poate să nu fie înregistrat |
 | 2 | `Farm-ID-Animal`     | Număr de gestionare               | 2 până la 6 cifre, adesea egal cu numărul de pe zgardă       |
 | 3 | `Transponder-ID`     | Număr transponder              | poate lipsi, poate fi identic cu ID-ul național al animalului |
-| 4 | `DateOfBirth`        | Data nașterii                   | Format: `YYYY-MM-TT` (`An-Lună-Zi`)                         |
+| 4 | `DateOfBirth`        | Data nașterii                   | Format: `YYYY-MM-DD` (`An-Lună-Zi`)                         |
 | 5 | `Sex`                | Sex                             | _Valori:_ `M`: mascul, `F`: femelă, `?`: necunoscut          |
 | 6 | `BirthWeight-Kg`     | Greutatea la naștere            | Unitate: `kilogram`, poate să nu fie înregistrată / lipsă    |
 
@@ -83,7 +83,7 @@ Următorul tabel listează și descrie fiecare coloană a fișierului de export 
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | Număr de 15 cifre al animalului măsurat | conform [ISO1174/85][], poate să nu fie înregistrat |
 | 2 | `Farm-ID-Animal`      | Număr de gestionare al animalului măsurat | 2 până la 6 cifre, adesea egal cu numărul zgărzii |
-| 3 | `Date`                | Data măsurării temperaturii          | Format: `YYYY-MM-TT` (`An-Lună-Zi`)              |
+| 3 | `Date`                | Data măsurării temperaturii          | Format: `YYYY-MM-DD` (`An-Lună-Zi`)              |
 | 4 | `Time`                | Ora măsurării temperaturii           | Format: `hh-mm-ss` (`oră:minut:secundă`)         |
 | 5 | `Temperature-Celsius` | Valoarea temperaturii măsurate       | Unitate: `Grade Celsius`                         |
 
@@ -109,7 +109,7 @@ Următorul tabel listează și descrie coloanele individuale ale tabelului care 
 |:-:|-----------------------|-------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | Număr de 15 cifre al animalului cântărit | conform [ISO1174/85][], poate să nu fie înregistrat |
 | 2 | `Farm-ID-Animal`      | Număr de gestionare al animalului cântărit | 2 până la 6 cifre, adesea egal cu numărul zgărzii |
-| 3 | `Date`                | Data cântăririi                    | Format: `YYYY-MM-TT` (`An-Lună-Zi`)              |
+| 3 | `Date`                | Data cântăririi                    | Format: `YYYY-MM-DD` (`An-Lună-Zi`)              |
 | 4 | `Time`                | Ora cântăririi                     | Format: `hh-mm-ss` (`oră:minut:secundă`)         |
 | 5 | `Weight-Kg`           | Valoarea greutății                 | Unitate: `Kilogram`                              |
 
@@ -136,7 +136,7 @@ Tabelul următor listează și descrie fiecare coloană a tabelului de evaluări
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | Număr de 15 cifre al animalului evaluat | conform [ISO1174/85][], poate să nu fie înregistrat |
 | 2 | `Farm-ID-Animal`      | Numărul de gestionare al animalului evaluat | 2- până la 6 cifre, adesea egal cu numărul zgărzii |
-| 3 | `Date`                | Data evaluării                          | Format: `YYYY-MM-TT` (`An-Lună-Zi`)             |
+| 3 | `Date`                | Data evaluării                          | Format: `YYYY-MM-DD` (`An-Lună-Zi`)             |
 | 4 | `Time`                | Ora evaluării                           | Format: `hh-mm-ss` (`oră:minut:secundă`)        |
 | 5 | `ScoreCondition`      | Evaluarea condiției generale            | _Evaluări:_ `Roșu`, `Galben`, `Verde`, `Niciuna`|
 | 6 | `ScoreFeedIntake`     | Evaluarea consumului de hrană           | _Evaluări:_ `Roșu`, `Galben`, `Verde`, `Niciuna`|

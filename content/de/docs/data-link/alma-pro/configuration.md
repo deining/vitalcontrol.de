@@ -41,7 +41,7 @@ So prüfen Sie, welche Firmwareversion auf Ihrem Automaten installiert ist:
     </svg>
     <div>
         <span class="text-primary fs-3 fw-semibold">Achtung</span><br>
-        Bei Firmwareversion niedriger als <span style="font-weight: bold">25-04-Vxx</span> können Abweichungen zwischen den unten angegeben Screenshots und der Anzeige auf bei ihrem Touchscreen auftreten, so dass Sie die Anleitung möglicherweise nicht nachvollziehen können. Kontaktieren Sie in diesem Fall Ihren Servicetechniker, damit dieser auf ihrem Automaten eine Aktualisierung der Firmware vornimmt.<br>
+        Bei einer Firmwareversion niedriger als <span style="font-weight: bold">25-04-Vxx</span> können Abweichungen zwischen den unten angegeben Screenshots und der Anzeige auf Ihrem Touchscreen auftreten, sodass Sie die Anleitung möglicherweise nicht nachvollziehen können. Kontaktieren Sie in diesem Fall Ihren Servicetechniker, damit dieser auf ihrem Automaten eine Aktualisierung der Firmware vornimmt.<br>
     </div>
 </div>
 
@@ -50,7 +50,7 @@ So prüfen Sie, welche Firmwareversion auf Ihrem Automaten installiert ist:
 > [!NOTE] Achtung
 > Um die Aktivierung und Einrichtung des VitalControl-Geräts vornehmen zu können, müssen Sie in der Benutzerrolle `Betriebsleiter` am Automaten angemeldet sein. Andernfalls sind einige der unten abgebildeten und beschriebenen Schaltflächen für Sie nicht sichtbar.
 
-1. Klicken Sie in der linken Seitenliste des Touch-Terminals auf die unterste Schaltfläche <img src="/icons/gear.svg" id="Navigation_Digit_1" width="25" align="bottom" alt="Alma Pro: Menü Einstellungen" title="Einstellungen"/> `Einstellungen` <span style="font-size: 140%">➀</span>. Sollten Sie sich im Hauptmenü befinden, wo keine Seitenleiste sichtbar ist, drücken sie die Schaltfläche &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Automatenmenü" title="Automatenmenü"/> `Automat`, um die Seitenleiste anzuzeigen.
+1. Klicken Sie in der linken Seitenliste des Touch-Terminals auf die unterste Schaltfläche <img src="/icons/gear.svg" id="Navigation_Digit_1" width="25" align="bottom" alt="Alma Pro: Menü Einstellungen" title="Einstellungen"/> `Einstellungen` <span style="font-size: 140%">➀</span>. Sollten Sie sich im Hauptmenü befinden, wo keine Seitenleiste sichtbar ist, drücken Sie die Schaltfläche &nbsp;<img src="/icons/feeder.svg" width="20" align="bottom" alt="Alma Pro: Automatenmenü" title="Automatenmenü"/> `Automat`, um die Seitenleiste anzuzeigen.
 
 1. Klicken Sie in der unteren Symbolleiste des Touch-Terminals auf die zweite Schaltfläche von links <img src="/icons/touch-gear.svg" id="Navigation_Digit_2" width="25" align="bottom" alt="Einstellungen Touch-Terminal" title="Einstellungen Touch"/> `Einstellungen Touch-Terminal` <span style="font-size: 140%">➁</span>.
 
@@ -127,7 +127,7 @@ Auf der linken Seite des Bildschirms befinden sich zwei Checkboxen:
 
 * Checkbox <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_2">➁</span> <span style="font-style: italic;">Auf VitalControl neu anlegen</span>. 
 
-    Diese Option regelt das Verhalten für den Fall, dass bei der Synchronisation auf dem Automaten Tiere vorhanden sind, die dem VitalControl noch nicht bekannt sind. Diese Option ist standardmäßig aktiviert und sollte in der Regel auch gesetzt bleiben. Erfassen ihre zugekauften Fresser durch Scannen ihrer Tierpässe, muss diese Option jedoch zwingend deaktiviert werden.
+    Diese Option regelt das Verhalten für den Fall, dass bei der Synchronisation auf dem Automaten Tiere vorhanden sind, die dem VitalControl noch nicht bekannt sind. Diese Option ist standardmäßig aktiviert und sollte in der Regel auch gesetzt bleiben. Erfassen Sie Ihre zugekauften Fresser durch Scannen ihrer Tierpässe, muss diese Option jedoch zwingend deaktiviert werden.
 
     <span style="font-weight: bold">Aktivieren</span> Sie diese Option:
 
@@ -193,7 +193,7 @@ Auf der rechten Seite des Bildschirms befindet sich eine Checkbox sowie zwei Ein
     <span style="font-weight: bold">Deaktivieren</span> Sie diese Option bzw. lassen Sie sie deaktiviert:
 
     - wenn Sie Ihr VitalControl-Gerät an mehreren Automaten gleichzeitig nutzen,
-    - wenn Sie Ihre Tiere direkt an den Automaten bringen, ohne Sie vorher mit dem VitalControl zu erfassen. Ihre Tiere werden dann bei der Registrierung im Zuge der erstmaligen Fütterung am Automaten automatisch neu angelegt.
+    - wenn Sie Ihre Tiere direkt an den Automaten bringen, ohne sie vorher mit dem VitalControl zu erfassen. Ihre Tiere werden dann bei der Registrierung im Zuge der erstmaligen Fütterung am Automaten automatisch neu angelegt.
 
     <div class="alert alert-primary d-flex align-items-center" role="alert">
         <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Alert:">
@@ -222,13 +222,13 @@ Auf der rechten Seite des Bildschirms befindet sich eine Checkbox sowie zwei Ein
 
 * Dropdown-Menü <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_6">⑥</span> <span style="font-style: italic;">Futterkurve für importierte Tiere</span>.
 
-    In diesem Dropdown-Menü können Sie diejenige Futterkurve auswählen, die Tieren zugewiesen wird, welche im Zuge der Synchronisation neu auf dem Automaten angelegt werden.
+    In diesem Dropdown-Menü können Sie diejenige Futterkurve auswählen, die denjenigen Tieren zugewiesen wird, die im Zuge der Synchronisation neu auf dem Automaten angelegt werden.
 
 * Ziffernfeld <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_7">⑦</span> <span style="font-style: italic;">Kein Import von Tieren älter als</span>.
 
     In diesem Ziffernfeld können Sie das Mindestalter in Tagen angeben, ab welchem Tiere im Zuge der Synchronisation neu auf dem Automaten angelegt werden. Tiere, die jünger sind als das angegebene Mindestalter, werden im Zuge der Synchronisation nicht neu angelegt.
 
-Durch das Drücken der Schaltfläche <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> gelangen sie zu [Seite 2](#settings-menu-vitalcontrol-page-2) des Einstellungsmenüs `VitalControl`.
+Durch das Drücken der Schaltfläche <span style="font-size: 140%" id="VitalControlSettingsPage1_Digit_8">⑧</span> gelangen Sie zu [Seite 2](#settings-menu-vitalcontrol-page-2) des Einstellungsmenüs `VitalControl`.
 
 ## Einstellungsmenü `VitalControl` - Seite 2 {#settings-menu-vitalcontrol-page-2}
 
@@ -251,7 +251,7 @@ Bei der Synchronisation der Daten zwischen Automat und VitalControl kann es zu D
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Beispiel</span><br>
-            Nachdem Sie eine Kälberpartie bezogen haben, legen Sie diese Tiere durch Scan aller Tierpässe neu auf dem VitalControl an. Die Tiernummern dieser Tiere auf dem VitalControl sind dann – je nach <a href="/docs/einstellungen/tiere-neu-anlegen/#digit-of-the-new-id">Geräteeinstellung</a> – die letzten 3-5 Ziffern des Tieres auf dem Tierpass. Danach legen Sie den zugekauften Tieren Halsbänder mit Urban-Transpondern um und versorgen diese am Automaten. Im Zuge des erstmaligen Stationsbesuchs werden die Tiere anhand ihres Transponders registriert und neu am Automaten angelegt. Die Tiernummern dieser neuen Tiere auf dem Automaten sind jedoch von der Transpondernummer abgeleitet oder entsprechen der Tiernummer, die zu diesem Transponder im Automaten hinterlegt ist. Somit wurde jetzt auf dem VitalControl-Gerät und auf dem Automaten für ein und dasselbe Tier jeweils eine unterschiedliche Tiernummer vergeben, ein Datenkonflikt liegt vor. Anhand der Radiobuttons für die <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_2">➁</span> können sie jetzt im Einstellungsmenü  festlegen, welche der beiden parallel vergebenen Tiernummern Vorrang erhält und welche im Zuge der Synchronisation gelöscht wird.
+            Nachdem Sie eine Kälberpartie bezogen haben, legen Sie diese Tiere durch Scan aller Tierpässe neu auf dem VitalControl an. Die Tiernummern dieser Tiere auf dem VitalControl entsprechen dann – je nach <a href="/docs/einstellungen/tiere-neu-anlegen/#digit-of-the-new-id">Geräteeinstellung</a> – den letzten 3-5 Ziffern des Tieres auf dem Tierpass. Danach legen Sie den zugekauften Tieren Halsbänder mit Urban-Transpondern um und versorgen diese am Automaten. Im Zuge des erstmaligen Stationsbesuchs werden die Tiere anhand ihres Transponders registriert und neu am Automaten angelegt. Die Tiernummern dieser neuen Tiere auf dem Automaten sind jedoch von der Transpondernummer abgeleitet oder entsprechen der Tiernummer, die zu diesem Transponder im Automaten hinterlegt ist. Somit wurde jetzt auf dem VitalControl-Gerät und auf dem Automaten für ein und dasselbe Tier jeweils eine unterschiedliche Tiernummer vergeben, ein Datenkonflikt liegt vor. Anhand der Radiobuttons für die <span style="font-style: italic;">Tiernummer</span> <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_2">➁</span> können Sie jetzt im Einstellungsmenü  festlegen, welche der beiden parallel vergebenen Tiernummern Vorrang erhält und welche im Zuge der Synchronisation gelöscht wird.
         </div>
 </div>
 
@@ -290,4 +290,4 @@ Bei der Synchronisation der Daten zwischen Automat und VitalControl kann es zu D
     </div>
 </div>
 
-Durch das Drücken der <span style="font-style: italic;">Schaltfläche</span> <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_8">⑧</span> gelangen sie zurück zu [Seite 1](#settings-menu-vitalcontrol-page-1) des Einstellungsmenüs `VitalControl`.
+Durch das Drücken der <span style="font-style: italic;">Schaltfläche</span> <span style="font-size: 140%" id="VitalControlSettingsPage2_Digit_8">⑧</span> gelangen Sie zurück zu [Seite 1](#settings-menu-vitalcontrol-page-1) des Einstellungsmenüs `VitalControl`.

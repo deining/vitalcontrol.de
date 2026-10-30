@@ -11,13 +11,13 @@ description: >
 
 ## Grundlegender Ablauf
 
-1. Mittels des Scans der Tierpässe haben Sie im [vorherigen Schritt](../paesse-scannen) anhand der eingescannten Ohrmarkennummer neue Tiere auf dem VitaControl angelegt. Diese Tiere werden im Listenbildschirm `Zukäufe, kein Transponder zugeordnet` tabellarisch angezeigt.
+1. Mittels des Scans der Tierpässe haben Sie im [vorherigen Schritt](../paesse-scannen) anhand der eingescannten Ohrmarkennummer neue Tiere auf dem VitalControl angelegt. Diese Tiere werden im Listenbildschirm `Zukäufe, kein Transponder zugeordnet` tabellarisch angezeigt.
 
-1. Jedes dieser Tiere muss jetzt noch mit einem Transponder ausgestattet werden, damit es im Tränkestand erkannt und dadurch am Automaten versorgt werden kann. Der Transponder wird dem Tiere entweder ins Ohr eingezogen oder er befindet sich in dem Halsband, welches dem Tier angelegt wird.
+1. Jedes dieser Tiere muss jetzt noch mit einem Transponder ausgestattet werden, damit es im Tränkestand erkannt und dadurch am Automaten versorgt werden kann. Der Transponder wird dem Tier entweder ins Ohr eingezogen oder er befindet sich in dem Halsband, welches dem Tier angelegt wird.
 
 1. Dieser Transponder, mit dem das Tier ausgestattet wurde, muss dem Tier noch zugeordnet werden. Im Zuge dieser Zuordnung wird die Transpondernummer in den Tierdatensatz mit aufgenommen. Die Zuordnung des Transponders kann auf zweierlei Wegen erfolgen:
 
-    - Zuordnung des Transponders im Tränkestand, während das Tier angelernt und erstmalig nach dem Transport mit Tränke versorgt wird. Hierbei wird das im Tränkestand befindliche Tiere per manueller Suche aus der Tierliste ausgewählt.
+    - Zuordnung des Transponders im Tränkestand, während das Tier angelernt und erstmalig nach dem Transport mit Tränke versorgt wird. Hierbei wird das im Tränkestand befindliche Tier per manueller Suche aus der Tierliste ausgewählt.
 
     - Zuordnung des Transponder während die Tiere im Fressgitter fixiert sind und der Tierarzt die Einstalluntersuchung durchführt. Hierbei erfolgt die Auswahl des Tieres aus der Tierliste per Scan desjenigen Barcodes, welcher auf der gelben Ohrmarke des Tieres aufgedruckt ist.
 
@@ -42,9 +42,9 @@ description: >
 
 ### Per Abziehen des Barcodescanners
 
-1. Ziehen Sie nach dem Scan aller Tierpässe das Kabel des Barcodescanners von der USB-C Buchse des VitalControl-Gerät ab (<a href="#screen-link-transponder">Abbildung 2</a>: <span style="font-style: italic;">Schritt</span> <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Schritt 1" />).
+1. Ziehen Sie nach dem Scan aller Tierpässe das Kabel des Barcodescanners von der USB-C Buchse des VitalControl-Geräts ab (<a href="#screen-link-transponder">Abbildung 2</a>: <span style="font-style: italic;">Schritt</span> <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Schritt 1" />).
 
-1. Es öffnet sich ein Popup-Fenster, in dem abgefragt wird, ob zum Zuordnungsbildschirm weitergeleitet werden soll. Markieren sie hier mittels der Cursortasten die Option `Ja` und starten Sie die Weiterleitung mit der `OK`-Taste (<a href="#screen-link-transponder">Abbildung 2</a>: <span style="font-style: italic;">Schritt</span> <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Schritt 2" />).
+1. Es öffnet sich ein Popup-Fenster, in dem abgefragt wird, ob zum Zuordnungsbildschirm weitergeleitet werden soll. Markieren Sie hier mittels der Cursortasten die Option `Ja` und starten Sie die Weiterleitung mit der `OK`-Taste (<a href="#screen-link-transponder">Abbildung 2</a>: <span style="font-style: italic;">Schritt</span> <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Schritt 2" />).
 
 1. Es öffnet sich ein Listenbildschirm, in dem alle Zukäufe aufgeführt sind, denen aktuell noch kein Transponder zugewiesen wurde.
 
@@ -54,15 +54,15 @@ description: >
     </figure>
 
 > [!Note] Hinweis
-> Sollte nach dem Einstecken des Barcodescanner der Bildschirm `MassenTransponder zuordnen` nicht aufgerufen werden, so folgend sie den folgenden [Anweisungen](#go-to-list-manually), um den Bildschirm manuell aufzurufen.
+> Sollte nach dem Einstecken des Barcodescanners der Bildschirm `Transponder zuordnen` nicht aufgerufen werden, so folgen Sie den folgenden [Anweisungen](#go-to-list-manually), um den Bildschirm manuell aufzurufen.
 
-### Manueller Aufruf der Liste {#go-to-list-manually}
+### Manueller Aufruf des Bildschirms `Transponder zuordnen` {#go-to-list-manually}
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Zugänge" /> `Zugänge` und drücken Sie die Taste `OK`.
 
-1. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Zukäufe, kein Transponder" /> `Zukäufe, kein Transponder` und bestätigen Sie mit `OK`.
+1. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Zukäufe, kein Transponder" /> `Zukäufe, kein Transponder` aus und bestätigen Sie mit `OK`.
 
-1. Es öffnet sich ein Listenbildschirm, in dem je alle Zukäufe aufgeführt sind, denen aktuell noch kein Transponder zugewiesen wurde.
+1. Es öffnet sich ein Listenbildschirm, in dem alle Zukäufe aufgeführt sind, denen aktuell noch kein Transponder zugewiesen wurde.
 
 <figure class="figure" style="margin-top: 20px">
   <img src="../images/aufruf-transponder-zuordnen.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Bildschirm Transponder zuordnen" title="Bildschirm Transponder zuordnen" />
@@ -76,9 +76,9 @@ description: >
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
 Im Listenbildschirm `Zukäufe, kein Transponder zugeordnet` (Abbildung 4: <span style="font-style: italic;">Buchstabe</span> <img src="/digits/L_negative_circled.svg" width="25" align="middle" alt="Circled letter L" title="Buchstabe L" />) werden alle Zukäufe aufgelistet, denen aktuell noch kein Transponder zugewiesen wurde.
 
-Gehen sie wie folgt vor, um nacheinander allen Tieren Transponder zuzuweisen:
+Gehen Sie wie folgt vor, um nacheinander allen Tieren Transponder zuzuweisen:
 
-1. Drücken Sie die mittlere `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Lupe" /> um die Suchfunktion aufzurufen. Ganz oben auf dem Bildschirm wird jetzt ein sechsstelliges Suchfeld angezeigt. Stellen Sie in diesem Suchfeld mittels der Pfeiltasten ◁ ▷ △ ▽ die letzten zwei bzw. drei Ziffern der gesuchten Tiernummer ein. Mit jeder weiteren eingegeben Ziffer wird verkürzt sich die Liste der angezeigten Tiere. Fahren Sie mit der Eingabe der Ziffern nur solange fort, bis das von Ihnen gesuchte Tier in der verkürzten Liste auftaucht (<a href="#screen-link-transponder">Abbildung 4</a>: <span style="font-style: italic;">Aktion</span> <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Aktion 1" />).
+1. Drücken Sie die mittlere `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Lupe" /> um die Suchfunktion aufzurufen. Ganz oben auf dem Bildschirm wird jetzt ein sechsstelliges Suchfeld angezeigt. Stellen Sie in diesem Suchfeld mittels der Pfeiltasten ◁ ▷ △ ▽ die letzten zwei bzw. drei Ziffern der gesuchten Tiernummer ein. Mit jeder weiteren eingegebenen Ziffer wird verkürzt sich die Liste der angezeigten Tiere. Fahren Sie mit der Eingabe der Ziffern nur so lange fort, bis das von Ihnen gesuchte Tier in der verkürzten Liste auftaucht (<a href="#screen-link-transponder">Abbildung 4</a>: <span style="font-style: italic;">Aktion</span> <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Aktion 1" />).
 
 1. Nutzen Sie die mittlere obere Pfeiltaste `Hoch` <span style="font-size: 175%;">⇧</span> bzw. die rechte obere Pfeiltaste `Runter` <span style="font-size: 175%;">⇩</span> um das gewünschte Tier in der Liste zu markieren. Drücken Sie anschließend die Taste `OK` um zum Bildschirm `Transponder zuordnen` weiterzuschalten (<a href="#screen-link-transponder">Abbildung 4</a>: <span style="font-style: italic;">Aktion</span> <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Aktion 2" />).
 
@@ -86,7 +86,7 @@ Gehen sie wie folgt vor, um nacheinander allen Tieren Transponder zuzuweisen:
 
 1. In einem Popup wird jetzt eine Erfolgsmeldung bezüglich der Zuordnung des Transponders angezeigt. Bestätigen Sie die Meldung mit `OK`. Anschließend wird automatisch zur Tierliste weitergeleitet. Auf dieser Liste ist das Tier, dem Sie soeben einen Transponder zugeordnet haben, jetzt nicht mehr enthalten.
 
-Wiederholen sie den in den obigen Punkten erläuterten Ablauf so lange, bis allen Tieren ein Transponder zugeordnet wurde und eine leere Liste angezeigt wird.  
+Wiederholen Sie den in den obigen Punkten erläuterten Ablauf so lange, bis allen Tieren ein Transponder zugeordnet wurde und eine leere Liste angezeigt wird.  
 
 <figure class="figure" style="margin-top: 20px;margin-bottom: 10px;">
     <img src="../images/ablauf-zuordnung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Ablauf der Verknüpfung von Transpondern, manuelle Tiersuche" title="Ablauf Transponder verknüpfen" />
@@ -97,7 +97,7 @@ Wiederholen sie den in den obigen Punkten erläuterten Ablauf so lange, bis alle
 {{% tab header="Scan des Barcodes auf der Ohrmarke" text=true %}}
 Im Listenbildschirm `Zukäufe, kein Transponder zugeordnet` (Abbildung 4: <span style="font-style: italic;">Buchstabe</span> <img src="/digits/L_negative_circled.svg" width="25" align="middle" alt="Circled letter L" title="Buchstabe L" />) werden alle Zukäufe aufgelistet, denen aktuell noch kein Transponder zugewiesen wurde.
 
-Gehen sie wie folgt vor, um nacheinander allen Tieren Transponder zuzuweisen:
+Gehen Sie wie folgt vor, um nacheinander allen Tieren Transponder zuzuweisen:
 
 1. Stecken Sie das Kabel des Barcodescanners in die USB-C Buchse des VitalControl-Geräts ein.
 
@@ -109,7 +109,7 @@ Gehen sie wie folgt vor, um nacheinander allen Tieren Transponder zuzuweisen:
 
 1. In einem Popup wird jetzt eine Erfolgsmeldung bezüglich der Zuordnung des Transponders angezeigt. Bestätigen Sie die Meldung mit `OK`. Anschließend wird automatisch zur Tierliste weitergeleitet. Auf dieser Liste ist das Tier, dem Sie soeben einen Transponder zugeordnet haben, jetzt nicht mehr enthalten.
 
-Wiederholen sie den in den obigen Punkten 1 bis 5 erläuterten Ablauf so lange, bis allen Tieren ein Transponder zugeordnet wurde und eine leere Liste angezeigt wird.  
+Wiederholen Sie den in den obigen Punkten 1 bis 5 erläuterten Ablauf so lange, bis allen Tieren ein Transponder zugeordnet wurde und eine leere Liste angezeigt wird.  
 
 <figure class="figure" style="margin-top: 20px;margin-bottom: 10px;">
     <img src="../images/ablauf-zuordnung-barcodescan.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Ablauf der Verknüpfung von Transpondern, Barcodescan" title="Ablauf Transponder verknüpfen, Barcodescan" />
@@ -123,7 +123,7 @@ Wiederholen sie den in den obigen Punkten 1 bis 5 erläuterten Ablauf so lange, 
 Im entsprechenden [Einstellungsmenü](/docs/einstellungen/zuordnung-transponder/) können Sie Vorgaben zum Maximalalter der zugekauften Tiere sowie zum Verhalten bei der Vergabe der Tiernummern machen.
 
 > [!Note] Hinweis
-> In der Liste werden nur Tiere unterhalb eines einstellbaren Mindestalters aufgeführt. Sollten Sie von ihnen neu angelegte Tiere in der Liste vermissen, so liegt dies vermutlich daran, dass diese Tiere bereits zu alt sind und daher nicht mehr angezeigt werden. Erhöhen Sie in diesem Fall in den Einstellungen das [Maximalalter](/docs/einstellungen/zuordnung-transponder/#set-maximum-age-of-purchased-calves) für ihre zugekauften Fresser. Die Tiere werden anschließend wieder in der Liste auftauchen.
+> In der Liste werden nur Tiere unterhalb eines einstellbaren Mindestalters aufgeführt. Sollten Sie von Ihnen neu angelegte Tiere in der Liste vermissen, so liegt dies vermutlich daran, dass diese Tiere bereits zu alt sind und daher nicht mehr angezeigt werden. Erhöhen Sie in diesem Fall in den Einstellungen das [Maximalalter](/docs/einstellungen/zuordnung-transponder/#set-maximum-age-of-purchased-calves) für ihre zugekauften Fresser. Die Tiere werden anschließend wieder in der Liste auftauchen.
 
 
 <div style="max-width: 80%; margin-top: 20px;">

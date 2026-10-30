@@ -12,7 +12,7 @@ categories: [Zurücksetzen]
 
 1. Öffnen Sie den Menüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Gerät" /> `Gerät` im Hauptbildschirm Ihres VitalControl-Geräts.
 
-1. Rufen Sie das Untermenü `Datenmanagement` auf, navigieren Sie zum Menüeintrag `Reset Werkseinstellungen`. Wählen Sie in diesem Menü die Option `Alle Gerätedaten`.
+1. Rufen Sie das Untermenü `Datenmanagement` auf und navigieren Sie zum Menüeintrag `Reset Werkseinstellungen`. Wählen Sie in diesem Menü die Option `Alle Gerätedaten`.
 
 1. Drücken Sie die `OK`-Taste, um das Zurücksetzen aller Gerätedaten auszulösen. Nun erscheint ein Pop-up mit einer Sicherheitsfrage. Bestätigen Sie hier mit `Ja`.
 

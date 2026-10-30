@@ -56,7 +56,7 @@ De volgende tabel lijst en beschrijft elke kolom van de dierendatatabel:
 | 1 | `National-ID-Animal` | Officieel nationaal dier nummer | 15 cijfers volgens [ISO1174/85][], mogelijk niet geregistreerd |
 | 2 | `Farm-ID-Animal`     | Beheernummer                     | 2 tot 6 cijfers, vaak gelijk aan nummer op halsband       |
 | 3 | `Transponder-ID`     | Transpondernummer                | kan ontbreken, kan identiek zijn met nationaal dier ID    |
-| 4 | `DateOfBirth`        | Geboortedatum                    | Formaat: `YYYY-MM-TT` (`Jaar-Maand-Dag`)                  |
+| 4 | `DateOfBirth`        | Geboortedatum                    | Formaat: YYYY-MM-DD` (`Jaar-Maand-Dag`)                  |
 | 5 | `Sex`                | Geslacht                         | _Waarden:_ `M`: mannelijk, `F`: vrouwelijk, `?`: onbekend |
 | 6 | `BirthWeight-Kg`     | Geboortegewicht                  | Eenheid: `kilogram`, mogelijk niet geregistreerd / ontbrekend |
 
@@ -134,7 +134,7 @@ De volgende tabel geeft een lijst en beschrijving van elke kolom van de tabel me
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-cijferig nummer van beoordeeld dier  | volgens [ISO1174/85][], mogelijk niet geregistreerd |
 | 2 | `Farm-ID-Animal`      | Beheernummer van beoordeeld dier        | 2 tot 6 cijfers, vaak gelijk aan halsbandnummer    |
-| 3 | `Datum`               | Datum van beoordeling                   | Formaat: `YYYY-MM-TT` (`Jaar-Maand-Dag`)         |
+| 3 | `Datum`               | Datum van beoordeling                   | Formaat: YYYY-MM-DD` (`Jaar-Maand-Dag`)         |
 | 4 | `Tijd`                | Tijd van beoordeling                    | Formaat: `hh-mm-ss` (`uur:minuut:seconde`)       |
 | 5 | `ScoreCondition`      | Beoordeling van algemene conditie       | _Beoordelingen:_ `Rood`, `Geel`, `Groen`, `Geen`     |
 | 6 | `ScoreFeedIntake`     | Beoordeling van voeropname              | _Beoordelingen:_ `Rood`, `Geel`, `Groen`, `Geen`     |

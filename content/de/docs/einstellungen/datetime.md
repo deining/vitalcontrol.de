@@ -16,11 +16,11 @@ translationKey: settings/datetime
 Achten Sie unbedingt darauf, dass Datum- und Uhrzeit korrekt eingestellt sind. Andernfalls werden die Zeitstempel der Messwerte sowie das Geburtsdatum neu angelelegter Tiere fehlerhaft sein!
 {{% /alert %}}
 
-Um das Datum auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Um das Datum auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Datum & Uhrzeit` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Datum & Uhrzeit` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern für `Datum` und `Uhrzeit` wechseln können. Wählen Sie das Einstellungsfeld `Datum` aus.
 
@@ -34,13 +34,13 @@ Um das Datum auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 Wird das Gerät länger als eine Woche nicht genutzt, werden Sie beim nächsten Gerätestart aufgefordert Datum und Uhrzeit neu einzugeben. Dieser Aufforderung ist unbedingt Folge zu leisten!
 {{% /alert %}}
 
-Um die Uhrzeit auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Um die Uhrzeit auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Datum & Uhrzeit` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Datum & Uhrzeit` auszuwählen. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern für `Datum` und `Uhrzeit` wechseln können. Wählen Sie das Einstellungsfeld `Uhrzeit` aus.
+3. Es öffnet sich ein weiteres Untermenü, in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern für `Datum` und `Uhrzeit` wechseln können. Wählen Sie das Einstellungsfeld `Uhrzeit` aus.
 
 4. Drücken Sie die Taste `OK` oder verwenden Sie die Taste `F3` <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Bearbeiten" /> um in den Einstellungsmodus umzuschalten. Nun können Sie den Tag mittels der Pfeiltasten △ ▽ einstellen. Mittels der Taste `F3` 🡆 gelangen Sie zur Minuteneinstellung, alternativ können auch die Taste `OK` drücken. Verwenden Sie zur Einstellung der Minuten wiederum die Pfeiltasten △ ▽. Bestätigen Sie mit `Ok` sobald die Uhrzeit korrekt eingestellt ist.
 

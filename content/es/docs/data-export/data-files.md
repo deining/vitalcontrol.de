@@ -51,16 +51,16 @@ Cada fila de la tabla de datos de animales representa un animal almacenado en Vi
 
 La siguiente tabla enumera y describe cada columna de la tabla de datos de animales:
 
-|Columna| Nombre de la columna    | Descripción                       | Comentarios                                                  |
-|:-:|----------------------|---------------------------------|-----------------------------------------------------------|
-| 1 | `National-ID-Animal` | Número oficial nacional del animal | 15 dígitos según [ISO1174/85][], puede que no esté registrado |
-| 2 | `Farm-ID-Animal`     | Número de gestión               | De 2 a 6 dígitos, a menudo igual al número en el collar           |
-| 3 | `Transponder-ID`     | Número del transpondedor              | puede faltar, puede ser idéntico con el ID nacional del animal |
-| 4 | `DateOfBirth`        | Fecha de nacimiento                   | Formato: `YYYY-MM-TT` (`Year-Month-Day`)                   |
-| 5 | `Sex`                | Sexo                             | _Valores:_ `M`: masculino, `F`: femenino, `?`: desconocido            |
-| 6 | `BirthWeight-Kg`     | Peso al nacer                    | Unidad: `kilogram`, puede que no esté registrado / faltante            |
+|Columna| Nombre de la columna    | Descripción               | Comentarios                                                      |
+|:-:|----------------------|------------------------------- --|------------------------------------------------------------------|
+| 1 | `National-ID-Animal` | Número oficial nacional del animal | 15 dígitos según [ISO 1174/85][], puede que no esté registrado |
+| 2 | `Farm-ID-Animal`     | Número de gestión                | De 2 a 6 dígitos, a menudo igual al número en el collar          |
+| 3 | `Transponder-ID`     | Número del transpondedor         | puede faltar, puede ser idéntico con el ID nacional del animal   |
+| 4 | `DateOfBirth`        | Fecha de nacimiento              | Formato: `YYYY-MM-DD` (`Year-Month-Day`)                         |
+| 5 | `Sex`                | Sexo                             | _Valores:_ `M`: masculino, `F`: femenino, `?`: desconocido       |
+| 6 | `BirthWeight-Kg`     | Peso al nacer                    | Unidad: `kilogram`, puede que no esté registrado / faltante      |
 
-[ISO1174/85]: https://en.wikipedia.org/wiki/ISO_11784_and_ISO_11785
+[ISO 1174/85]: https://en.wikipedia.org/wiki/ISO_11784_and_ISO_11785
 
 Si es necesario, también puedes descargar el archivo de muestra proporcionado [animals.csv][].
 
@@ -78,13 +78,13 @@ Cada línea de la tabla de datos de temperatura representa una medición de temp
 
 La siguiente tabla enumera y describe cada columna del archivo de exportación que contiene los valores de temperatura corporal:
 
-|Columna| Nombre de la columna     | Descripción                          | Comentarios                                       |
-|:-:|-----------------------|--------------------------------------|--------------------------------------------------|
-| 1 | `National-ID-Animal`  | Número de 15 dígitos del animal medido| según [ISO1174/85][], puede no estar registrado  |
+|Columna| Nombre de la columna     | Descripción                    | Comentarios                                       |
+|:-:|-----------------------|---------------------------------------|--------------------------------------------------|
+| 1 | `National-ID-Animal`  | Número de 15 dígitos del animal medido| según [ISO 1174/85][], puede no estar registrado      |
 | 2 | `Farm-ID-Animal`      | Número de gestión del animal medido   | De 2 a 6 dígitos, a menudo igual al número de collar |
-| 3 | `Date`               | Fecha de la medición de temperatura   | Formato: `YYYY-MM-TT` (`Year-Month-Day`)            |
-| 4 | `Time`                | Hora de la medición de temperatura    | Formato: `hh-mm-ss` (`hour:minute:second`)      |
-| 5 | `Temperature-Celsius` | Valor de temperatura medido           | Unidad: `Grad Celsius`                         |
+| 3 | `Date`                | Fecha de la medición de temperatura   | Formato: `YYYY-MM-DD` (`Year-Month-Day`)             |
+| 4 | `Time`                | Hora de la medición de temperatura    | Formato: `hh-mm-ss` (`hour:minute:second`)           |
+| 5 | `Temperature-Celsius` | Valor de temperatura medido           | Unidad: `Grad Celsius`                               |
 
 Si es necesario, también puedes descargar el archivo de muestra proporcionado [temperatures.csv][]. La figura a continuación muestra este archivo de datos abierto en un programa de hoja de cálculo.
 
@@ -106,9 +106,9 @@ La siguiente tabla enumera y describe las columnas individuales de la tabla que 
 
 |Columna| Nombre de la columna     | Descripción                           | Comentarios                                      |
 |:-:|-----------------------|-------------------------------------|-------------------------------------------------|
-| 1 | `National-ID-Animal`  | Número de 15 dígitos del animal pesado   | según [ISO1174/85][], puede que no esté registrado |
+| 1 | `National-ID-Animal`  | Número de 15 dígitos del animal pesado   | según [ISO 1174/85][], puede que no esté registrado |
 | 2 | `Farm-ID-Animal`      | Número de manejo del animal pesado | De 2 a 6 dígitos, a menudo igual al número de collar    |
-| 3 | `Date`                | Fecha del pesaje                    | Formato: `YYYY-MM-TT` (`Year-Month-Day`)         |
+| 3 | `Date`                | Fecha del pesaje                    | Formato: `YYYY-MM-DD` (`Year-Month-Day`)         |
 | 4 | `Time`                | Hora del pesaje                    | Formato: `hh-mm-ss` (`hour:minute:second`)       |
 | 5 | `Weight-Kg`           | Valor del peso                        | Unidad: `Kilogram`                                |
 
@@ -132,9 +132,9 @@ La siguiente tabla enumera y describe cada columna de la tabla de valoraciones d
 
 |Column| Nombre de columna     | Descripción                             | Comentarios                                        |
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
-| 1 | `National-ID-Animal`  | Número de 15 dígitos del animal evaluado| según [ISO1174/85][], puede que no esté registrado |
+| 1 | `National-ID-Animal`  | Número de 15 dígitos del animal evaluado| según [ISO 1174/85][], puede que no esté registrado |
 | 2 | `Farm-ID-Animal`      | Número de gestión del animal evaluado    | De 2 a 6 dígitos, a menudo igual al número de collar    |
-| 3 | `Date`                | Fecha de evaluación                     | Formato: `YYYY-MM-TT` (`Year-Month-Day`)         |
+| 3 | `Date`                | Fecha de evaluación                     | Formato: `YYYY-MM-DD` (`Year-Month-Day`)         |
 | 4 | `Time`                | Hora de evaluación                      | Formato: `hh-mm-ss` (`hour:minute:second`)       |
 | 5 | `ScoreCondition`      | Evaluación de la condición general      | _Calificaciones:_ `Red`, `Yellow`, `Green`, `None`     |
 | 6 | `ScoreFeedIntake`     | Evaluación de la ingesta de alimento    | _Calificaciones:_ `Red`, `Yellow`, `Green`, `None`     |

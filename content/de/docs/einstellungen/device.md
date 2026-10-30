@@ -16,7 +16,7 @@ Um die Zeitspanne der nicht Aktivität bis zum Abschalten des Gerätes einzustel
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gerät abschalten nach`, `Startbildschirm`, `Präsentationsmodus`, `Helligkeit Display`, `Vibration Tastendruck` und `Ressourcenmonitor` auswählen können. Wählen Sie `Gerät abschalten nach`.
 
@@ -30,7 +30,7 @@ Hier legen Sie fest welche Anwendung das Gerät nach dem Starten als erstes Anze
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gerät abschalten nach`, `Startbildschirm`, `Präsentationsmodus`, `Helligkeit Display`, `Vibration Tastendruck` und `Ressourcenmonitor` auswählen können. Wählen Sie `Startbildschirm`.
 
@@ -45,7 +45,7 @@ wenn keine Tiere für eine Messung zur Verfügung stehen. Um den Präsentationsm
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gerät abschalten nach`, `Startbildschirm`, `Präsentationsmodus`, `Helligkeit Display`, `Vibration Tastendruck` und `Ressourcenmonitor` auswählen können. Wählen Sie `Präsentationsmodus`.
 
@@ -59,7 +59,7 @@ Um die Helligkeit des Displays ihres Gerätes einzustellen gehen Sie wie folgt v
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gerät abschalten nach`, `Startbildschirm`, `Präsentationsmodus`, `Helligkeit Display`, `Vibration Tastendruck` und `Ressourcenmonitor` auswählen können. Wählen Sie `Helligkeit Display`.
 
@@ -73,7 +73,7 @@ Um die Vibration bei Tastendruck des Gerätes zu de- bzw. aktivieren gehen Sie w
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gerät abschalten nach`, `Startbildschirm`, `Präsentationsmodus`, `Helligkeit Display`, `Vibration Tastendruck` und `Ressourcenmonitor` auswählen können. Wählen Sie `Vibration Tastendruck`.
 
@@ -87,9 +87,9 @@ Um den Ressourcenmonitor des Gerätes zu de- bzw. aktivieren gehen Sie wie folgt
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein weiteres Untermenü in dem in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gerät abschalten nach`, `Startbildschirm`, `Präsentationsmodus`, `Helligkeit Display`, `Vibration Tastendruck` und `Ressourcenmonitor` auswählen können. Wählen Sie `Ressourcenmonitor`.
+3. Es öffnet sich ein weiteres Untermenü, in dem in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gerät abschalten nach`, `Startbildschirm`, `Präsentationsmodus`, `Helligkeit Display`, `Vibration Tastendruck` und `Ressourcenmonitor` auswählen können. Wählen Sie `Ressourcenmonitor`.
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um den Ressourcenmonitor zu de- bzw. aktivieren.
 

@@ -11,7 +11,7 @@ Tags: [Auswertungen, Tierbeurteilungen]
 translationKey: evaluation/rating
 ---
 {{% alert title="HINWEIS" %}}
-In der Standardeinstellung werden alle auf dem VitalControl gespeicherten Tiere in die Auswertung miteinbezogen. Durch die Anwendung eines [Filters](../../filter/) können Sie die Auswertung auf eine Teilmenge der Tiere auf ihrem Gerät beschränken, z.B. nur auf männliche Tiere oder auf Tiere bis zu einem bestimmten Maximalalter.
+In der Standardeinstellung werden alle auf dem VitalControl gespeicherten Tiere in die Auswertung miteinbezogen. Durch die Anwendung eines [Filters](../../filter/) können Sie die Auswertung auf eine Teilmenge der Tiere auf Ihrem Gerät beschränken, z. B. nur auf männliche Tiere oder auf Tiere bis zu einem bestimmten Maximalalter.
 {{% /alert %}}
 
 ## Bewertung auswerten {#evaluate-rating}
@@ -22,11 +22,11 @@ In dieser Auswertung können Sie folgende Informationen als übersichtliches Kre
 
 Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
-1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen sie das Menü &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Auswerten" />&nbsp; `Auswerten` aus. Bestätigen Sie mit `OK`.
+1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen Sie das Menü &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Auswerten" />&nbsp; `Auswerten` aus. Bestätigen Sie mit `OK`.
 
 2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt &nbsp;<img src="/icons/evaluation/rating.svg" width="55" align="bottom" alt="Bewertung" />&nbsp; `Bewertung` und bestätigen Sie mit `OK`.
 
-3. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
+3. Das Gerät beginnt nun, die Erfolgsgrößen zu berechnen.
 
    ![VitalControl: Menüfolge Auswertungen Bewertung auswerten](../bilder/zustand.png "Bewertung auswerten")
 

@@ -56,7 +56,7 @@ Följande tabell listar och beskriver varje kolumn i djurdatatabellen:
 | 1 | `National-ID-Animal` | Officiellt nationellt djurnummer| 15 siffror enligt [ISO1174/85][], kanske inte registrerad  |
 | 2 | `Farm-ID-Animal`     | Förvaltningsnummer              | 2 till 6 siffror, ofta samma som nummer på halsband       |
 | 3 | `Transponder-ID`     | Transpondernnummer              | kan saknas, kan vara identisk med nationellt djurnummer    |
-| 4 | `DateOfBirth`        | Födelsedatum                    | Format: `YYYY-MM-TT` (`År-Månad-Dag`)                     |
+| 4 | `DateOfBirth`        | Födelsedatum                    | Format: `YYYY-MM-DD` (`År-Månad-Dag`)                     |
 | 5 | `Sex`                | Kön                             | _Värden:_ `M`: hane, `F`: hona, `?`: okänd                |
 | 6 | `BirthWeight-Kg`     | Födelsevikt                     | Enhet: `kilogram`, kanske inte registrerad / saknas       |
 
@@ -83,7 +83,7 @@ Följande tabell listar och beskriver varje kolumn i exportfilen som innehåller
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-siffrigt nummer på mätt djur      | enligt [ISO1174/85][], kanske inte registrerad   |
 | 2 | `Farm-ID-Animal`      | Förvaltningsnummer på mätt djur      | 2- till 6 siffror, ofta lika med halsbandsnummer |
-| 3 | `Date`                | Datum för temperaturmätning          | Format: `YYYY-MM-TT` (`År-Månad-Dag`)            |
+| 3 | `Date`                | Datum för temperaturmätning          | Format: `YYYY-MM-DD` (`År-Månad-Dag`)            |
 | 4 | `Time`                | Tidpunkt för temperaturmätning       | Format: `hh-mm-ss` (`timme:minut:sekund`)        |
 | 5 | `Temperature-Celsius` | Uppmätt temperaturvärde               | Enhet: `Grad Celsius`                            |
 
@@ -109,7 +109,7 @@ Följande tabell listar och beskriver de enskilda kolumnerna i tabellen som inne
 |:-:|-----------------------|-------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-siffrigt nummer på vägt djur     | enligt [ISO1174/85][], kanske inte registrerad  |
 | 2 | `Farm-ID-Animal`      | Förvaltningsnummer på vägt djur     | 2- till 6 siffror, ofta lika med halsbandsnummer|
-| 3 | `Date`                | Datum för vägning                   | Format: `YYYY-MM-TT` (`År-Månad-Dag`)           |
+| 3 | `Date`                | Datum för vägning                   | Format: `YYYY-MM-DD` (`År-Månad-Dag`)           |
 | 4 | `Time`                | Tidpunkt för vägning                | Format: `hh-mm-ss` (`timme:minut:sekund`)       |
 | 5 | `Weight-Kg`           | Viktvärde                           | Enhet: `Kilogram`                               |
 
@@ -136,7 +136,7 @@ Följande tabell listar och beskriver varje kolumn i djurbedömningstabellen:
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-siffrigt nummer på bedömt djur       | enligt [ISO1174/85][], kanske inte registrerat  |
 | 2 | `Farm-ID-Animal`      | Förvaltningsnummer på bedömt djur       | 2- till 6 siffror, ofta samma som halsbandsnummer |
-| 3 | `Date`                | Bedömningsdatum                         | Format: `YYYY-MM-TT` (`År-Månad-Dag`)           |
+| 3 | `Date`                | Bedömningsdatum                         | Format: `YYYY-MM-DD` (`År-Månad-Dag`)           |
 | 4 | `Time`                | Bedömningstid                           | Format: `hh-mm-ss` (`timme:minut:sekund`)       |
 | 5 | `ScoreCondition`      | Bedömning av allmänt tillstånd          | _Bedömningar:_ `Röd`, `Gul`, `Grön`, `Ingen`    |
 | 6 | `ScoreFeedIntake`     | Bedömning av foderintag                 | _Bedömningar:_ `Röd`, `Gul`, `Grön`, `Ingen`    |

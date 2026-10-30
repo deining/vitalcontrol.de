@@ -3,7 +3,7 @@ title: Applying a filter on an animal list
 linkTitle: Filter
 weight: 50
 description: >
- How to apply a filter on an animal list in order to display only a subset of the animals present on the device.
+ How to apply a filter to an animal list in order to display only a subset of the animals present on the device.
 date: 2023-07-26
 categories: [Filter]
 tags: [Filter]

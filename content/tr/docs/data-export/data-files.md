@@ -56,7 +56,7 @@ Aşağıdaki tablo, hayvan veri tablosunun her sütununu listeler ve açıklar:
 | 1 | `National-ID-Animal` | Resmi ulusal hayvan numarası    | [ISO1174/85][]'e göre 15 haneli, kaydedilmemiş olabilir   |
 | 2 | `Farm-ID-Animal`     | Yönetim numarası                | 2 ila 6 haneli, genellikle tasma numarasıyla aynıdır      |
 | 3 | `Transponder-ID`     | Transponder numarası            | eksik olabilir, ulusal hayvan kimliği ile aynı olabilir   |
-| 4 | `DateOfBirth`        | Doğum tarihi                    | Format: `YYYY-MM-TT` (`Yıl-Ay-Gün`)                       |
+| 4 | `DateOfBirth`        | Doğum tarihi                    | Format: YYYY-MM-DD` (`Yıl-Ay-Gün`)                       |
 | 5 | `Sex`                | Cinsiyet                        | _Değerler:_ `M`: erkek, `F`: dişi, `?`: bilinmiyor        |
 | 6 | `BirthWeight-Kg`     | Doğum ağırlığı                  | Birim: `kilogram`, kaydedilmemiş / eksik olabilir         |
 
@@ -83,7 +83,7 @@ Aşağıdaki tablo, vücut sıcaklığı değerlerini içeren dışa aktarma dos
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | Ölçülen hayvanın 15 haneli numarası  | [ISO1174/85][]'e göre, kaydedilmemiş olabilir    |
 | 2 | `Farm-ID-Animal`      | Ölçülen hayvanın yönetim numarası    | 2 ila 6 haneli, genellikle tasma numarasına eşit |
-| 3 | `Date`                | Sıcaklık ölçüm tarihi                | Format: `YYYY-MM-TT` (`Yıl-Ay-Gün`)              |
+| 3 | `Date`                | Sıcaklık ölçüm tarihi                | Format: YYYY-MM-DD` (`Yıl-Ay-Gün`)              |
 | 4 | `Time`                | Sıcaklık ölçüm saati                 | Format: `hh-mm-ss` (`saat:dakika:saniye`)        |
 | 5 | `Temperature-Celsius` | Ölçülen sıcaklık değeri              | Birim: `Derece Celsius`                          |
 
@@ -109,7 +109,7 @@ Aşağıdaki tablo, hayvan ağırlıklarını içeren tablonun bireysel sütunla
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | Tartılan hayvanın 15 haneli numarası | [ISO1174/85][]'e göre, kaydedilmemiş olabilir    |
 | 2 | `Farm-ID-Animal`      | Tartılan hayvanın yönetim numarası   | 2 ila 6 haneli, genellikle tasma numarasına eşit |
-| 3 | `Date`                | Tartım tarihi                        | Format: `YYYY-MM-TT` (`Yıl-Ay-Gün`)              |
+| 3 | `Date`                | Tartım tarihi                        | Format: YYYY-MM-DD` (`Yıl-Ay-Gün`)              |
 | 4 | `Time`                | Tartım saati                         | Format: `hh-mm-ss` (`saat:dakika:saniye`)        |
 | 5 | `Weight-Kg`           | Ağırlık değeri                       | Birim: `Kilogram`                                |
 
@@ -136,7 +136,7 @@ Aşağıdaki tablo, hayvan değerlendirme tablosunun her bir sütununu listeler 
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | Değerlendirilen hayvanın 15 haneli numarası | [ISO1174/85][]'e göre, kaydedilmemiş olabilir   |
 | 2 | `Farm-ID-Animal`      | Değerlendirilen hayvanın yönetim numarası | 2 ila 6 haneli, genellikle yaka numarasına eşit |
-| 3 | `Date`                | Değerlendirme tarihi                     | Format: `YYYY-MM-TT` (`Yıl-Ay-Gün`)             |
+| 3 | `Date`                | Değerlendirme tarihi                     | Format: YYYY-MM-DD` (`Yıl-Ay-Gün`)             |
 | 4 | `Time`                | Değerlendirme saati                      | Format: `hh-mm-ss` (`saat:dakika:saniye`)       |
 | 5 | `ScoreCondition`      | Genel durum değerlendirmesi              | _Değerlendirmeler:_ `Kırmızı`, `Sarı`, `Yeşil`, `Yok` |
 | 6 | `ScoreFeedIntake`     | Yem alımı değerlendirmesi                | _Değerlendirmeler:_ `Kırmızı`, `Sarı`, `Yeşil`, `Yok` |

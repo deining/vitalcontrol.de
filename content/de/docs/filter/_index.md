@@ -11,10 +11,10 @@ translationKey: filter
 ---
 ## Tierfilter anwenden
 {{% alert title="HINWEIS" %}}
-Der Filter hilft Ihnen innerhalb der Menüpunkte `Herde`, `Listen` und `Auswertungen` des VitalControl-Gerätes eine Selektion mittels Filterkriterien durchzuführen. Sobald Sie einen Filter anwenden, erscheinen im oberen Bildschirmrand Symbole für die verschiedenen Filterkriterien. Diese Symbole dienen Ihnen zur Orientierung ob und welche Filterkriterien aktiviert sind. Setzen Sie z.B. den Filter `Geschlecht` auf männlich, verwendet das Gerät nur noch die männlichen Tiere. Aktivieren Sie z. B. zusätzlich den Filter `Beobachtung` verwendet das Gerät nur noch männliche Tiere die auf der Beobachtungsliste stehen.
+Der Filter hilft Ihnen innerhalb der Menüpunkte `Herde`, `Listen` und `Auswertungen` des VitalControl-Geräts eine Selektion mittels Filterkriterien durchzuführen. Sobald Sie einen Filter anwenden, erscheinen im oberen Bildschirmrand Symbole für die verschiedenen Filterkriterien. Diese Symbole dienen Ihnen zur Orientierung, ob und welche Filterkriterien aktiviert sind. Setzen Sie z. B. den Filter `Geschlecht` auf männlich, verwendet das Gerät nur noch die männlichen Tiere. Aktivieren Sie z. B. zusätzlich den Filter `Beobachtung` verwendet das Gerät nur noch männliche Tiere die auf der Beobachtungsliste stehen.
 {{% /alert %}}
 
-### Tierfilter anlegen {#applying-filters}
+### Tierfilter definieren {#applying-filters}
 
 Um einen Tierfilter für die anzulegen gehen Sie wie folgt vor:
 
@@ -22,7 +22,7 @@ Um einen Tierfilter für die anzulegen gehen Sie wie folgt vor:
 
 2. Es öffnet sich ein Untermenü in dem Sie alle Filtermöglichkeiten einstellen können. Sie können nach `Tiernummer`, `Alter`, `Geschlecht`, `Transponder`, `Ohrmarkennummer`, `Fieber`, `Beobachtung`, `Art des Nutztiers` und `Alarm` filtern.
 
-3. Für die Filter `Art des Nutztieres`, `Geschlecht`, `Transponder`und `Ohrmarkennummer` navigieren Sie mit den Pfeiltasten △ ▽ auf das entsprechende Filterkriterium und bestätigen Sie mit `OK`. Verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung festzulegen und drücken sie abschließend `Ok`, um den Editiermodus zu verlassen. Speichern Sie ihre Filtereinstellungen mittels der `F3` Taste `Anwenden` ab, wenn Sie ihre Filtereinstellungen erfolgreich vorgenommen haben. Durch Drücken der `F1` Taste &nbsp;<img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Zurück" />&nbsp; können Sie ihre Änderungen auch verwerfen.
+3. Für die Filter `Art des Nutztieres`, `Geschlecht`, `Transponder`und `Ohrmarkennummer` navigieren Sie mit den Pfeiltasten △ ▽ auf das entsprechende Filterkriterium und bestätigen Sie mit `OK`. Verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung festzulegen und drücken Sie abschließend `Ok`, um den Editiermodus zu verlassen. Speichern Sie Ihre Filtereinstellungen mittels der `F3` Taste `Anwenden` ab, wenn Sie Ihre Filtereinstellungen erfolgreich vorgenommen haben. Durch Drücken der `F1` Taste &nbsp;<img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Zurück" />&nbsp; können Sie ihre Änderungen auch verwerfen.
 
    ![VitalControl: Menüfolge Auswertungen Filter einstellen](bilder/filter3.png "Filter einstellen")
 

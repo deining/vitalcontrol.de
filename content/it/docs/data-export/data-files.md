@@ -57,7 +57,7 @@ La seguente tabella elenca e descrive ciascuna colonna della tabella dei dati de
 | 1 | `National-ID-Animal` | Numero ufficiale nazionale dell'animale | 15 cifre secondo [ISO1174/85][], potrebbe non essere registrato |
 | 2 | `Farm-ID-Animal`     | Numero di gestione               | Da 2 a 6 cifre, spesso uguale al numero sul collare       |
 | 3 | `Transponder-ID`     | Numero del transponder           | potrebbe mancare, potrebbe essere identico al numero nazionale dell'animale |
-| 4 | `DateOfBirth`        | Data di nascita                  | Formato: `YYYY-MM-TT` (`Year-Month-Day`)                |
+| 4 | `DateOfBirth`        | Data di nascita                  | Formato: `YYYY-MM-DD` (`Year-Month-Day`)                |
 | 5 | `Sex`                | Sesso                            | _Valori:_ `M`: maschio, `F`: femmina, `?`: sconosciuto    |
 | 6 | `BirthWeight-Kg`     | Peso alla nascita                | Unità: `kilogram`, potrebbe non essere registrato / mancante |
 
@@ -83,7 +83,7 @@ La seguente tabella elenca e descrive ciascuna colonna del file di esportazione 
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | Numero a 15 cifre dell'animale misurato | secondo [ISO1174/85][], potrebbe non essere registrato |
 | 2 | `Farm-ID-Animal`      | Numero di gestione dell'animale misurato | Da 2 a 6 cifre, spesso uguale al numero del collare |
-| 3 | `Date`                | Data della misurazione della temperatura | Formato: `YYYY-MM-TT` (`Year-Month-Day`)       |
+| 3 | `Date`                | Data della misurazione della temperatura | Formato: `YYYY-MM-DD` (`Year-Month-Day`)       |
 | 4 | `Time`                | Uhrzeit der Temperaturmessung        | Formato: `hh-mm-ss` (`hour:minute:second`)       |
 | 5 | `Temperature-Celsius` | Valore della temperatura misurata    | Unità: `Grad Celsius`                           |
 
@@ -109,7 +109,7 @@ La seguente tabella elenca e descrive le singole colonne della tabella contenent
 |:-:|-----------------------|-------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | Numero a 15 cifre dell'animale pesato | secondo [ISO1174/85][], potrebbe non essere registrato |
 | 2 | `Farm-ID-Animal`      | Numero di gestione dell'animale pesato | Da 2 a 6 cifre, spesso uguale al numero del collare |
-| 3 | `Date`                | Data della pesatura                 | Formato: `YYYY-MM-TT` (`Year-Month-Day`)      |
+| 3 | `Date`                | Data della pesatura                 | Formato: `YYYY-MM-DD` (`Year-Month-Day`)      |
 | 4 | `Time`                | Ora della pesatura                  | Formato: `hh-mm-ss` (`hour:minute:second`)      |
 | 5 | `Weight-Kg`           | Valore del peso                     | Unità: `Kilogram`                             |
 
@@ -136,7 +136,7 @@ La seguente tabella elenca e descrive ciascuna colonna della tabella delle valut
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | Numero a 15 cifre dell'animale valutato | secondo [ISO1174/85][], potrebbe non essere registrato |
 | 2 | `Farm-ID-Animal`      | Numero di gestione dell'animale valutato| Da 2 a 6 cifre, spesso uguale al numero del collare |
-| 3 | `Date`                | Data della valutazione                  | Formato: `YYYY-MM-TT` (`Year-Month-Day`)      |
+| 3 | `Date`                | Data della valutazione                  | Formato: `YYYY-MM-DD` (`Year-Month-Day`)      |
 | 4 | `Time`                | Ora della valutazione                   | Formato: `hh-mm-ss` (`hour:minute:second`)      |
 | 5 | `ScoreCondition`      | Valutazione della condizione generale   | _Valutazioni:_ `Red`, `Yellow`, `Green`, `None` |
 | 6 | `ScoreFeedIntake`     | Valutazione dell'assunzione di cibo     | _Valutazioni:_ `Red`, `Yellow`, `Green`, `None` |

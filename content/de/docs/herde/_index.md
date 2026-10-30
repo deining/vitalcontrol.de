@@ -6,7 +6,7 @@ weight: 120
 draft: false
 slug: herde
 description: >
- Sehen Sie wichtige Informationen ihrer Herde ein.
+ Sehen Sie wichtige Informationen Ihrer Herde ein.
 Kategorien: [Herde]
 Tags: [Herde, Temperatur, Gewicht, Bewertung, Tierdaten]
 translationKey: herd
@@ -35,7 +35,7 @@ Innerhalb des Menüpunktes Herde können Sie Ihre gesamte Herde einsehen, einzel
 
 1. Führen Sie die [vorbereitenden Schritte](#call-action-menu) durch.
 
-2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tierdaten: Geschlecht + Typ` oder `Tierdaten: № Ohrmarke` hervorzuheben und wählen sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus. Die beiden Auswahlmöglichkeiten unterscheiden sich in der Darstellung der Informationsleiste. 
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tierdaten: Geschlecht + Typ` oder `Tierdaten: № Ohrmarke` hervorzuheben und wählen Sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus. Die beiden Auswahlmöglichkeiten unterscheiden sich in der Darstellung der Informationsleiste. 
 
 3. In der Herdenliste werden Ihnen nun die allgemeinen Tierdaten und die gewählte Information angezeigt.
 
@@ -44,14 +44,14 @@ Innerhalb des Menüpunktes Herde können Sie Ihre gesamte Herde einsehen, einzel
     ![VitalControl: Menüfolge Herde](bilder/tierdaten.png "Tierdaten anzeigen lassen")
 
 {{% alert title = "Hinweis" %}}
-Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie sich z.B. das Gewicht anzeigen lassen müssen Sie das Anzeigen der Tierdaten erneut einstellen.
+Die Tierdaten werden Ihnen standardmäßig als Erstes angezeigt. Erst wenn Sie sich z. B. das Gewicht anzeigen lassen müssen Sie das Anzeigen der Tierdaten erneut einstellen.
 {{% /alert %}}
 
 ### Temperatur anzeigen lassen {#display-temperature}
 
 1. Führen Sie die [vorbereitenden Schritte](#call-action-menu) durch.
 
-2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Temperatur` hervorzuheben und wählen sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Temperatur` hervorzuheben und wählen Sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. In der Herdenliste werden Ihnen nun die Temperaturdaten angezeigt.
 
@@ -63,7 +63,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
 1. Führen Sie die [vorbereitenden Schritte](#call-action-menu) durch.
 
-2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Bewertung` hervorzuheben und wählen sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Bewertung` hervorzuheben und wählen Sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. In der Herdenliste werden Ihnen nun die Bewertungsdaten angezeigt.
 
@@ -75,7 +75,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
 1. Führen Sie die [vorbereitenden Schritte](#call-action-menu) durch.
 
-2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Gewicht` hervorzuheben und wählen sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Gewicht` hervorzuheben und wählen Sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. In der Herdenliste werden Ihnen nun die Gewichtsdaten angezeigt.
 
@@ -87,7 +87,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
 1. Führen Sie die [vorbereitenden Schritte](#call-action-menu) durch.
 
-2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup mit verschiedenen Optionen aufzurufen. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tier suchen` hervorzuheben und wählen sie die Suchfunktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup mit verschiedenen Optionen aufzurufen. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tier suchen` hervorzuheben und wählen Sie die Suchfunktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. Verwenden Sie die Pfeiltasten △ ▽ ◁ ▷ um die gewünschte Tiernummer einzugeben und bestätigen Sie mit `OK`.
 
@@ -97,7 +97,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
 1. Führen Sie die [vorbereitenden Schritte](#call-action-menu) durch.
 
-2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup mit verschiedenen Optionen aufzurufen. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Filter setzen` hervorzuheben und wählen sie die Filterfunktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup mit verschiedenen Optionen aufzurufen. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Filter setzen` hervorzuheben und wählen Sie die Filterfunktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. Wie Sie den Filter anwenden finden Sie [hier](../filter).
 

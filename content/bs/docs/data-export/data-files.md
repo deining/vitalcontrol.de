@@ -56,7 +56,7 @@ Sljedeća tabela navodi i opisuje svaku kolonu tabele podataka o životinjama:
 | 1 | `National-ID-Animal` | Službeni nacionalni broj životinje | 15 cifara prema [ISO1174/85][], možda nije zabilježeno    |
 | 2 | `Farm-ID-Animal`     | Broj za upravljanje              | 2 do 6 cifara, često jednak broju na ogrlici              |
 | 3 | `Transponder-ID`     | Broj transpondera                | može nedostajati, može biti identičan nacionalnom ID-u životinje |
-| 4 | `DateOfBirth`        | Datum rođenja                    | Format: `YYYY-MM-TT` (`Godina-Mjesec-Dan`)                |
+| 4 | `DateOfBirth`        | Datum rođenja                    | Format: `YYYY-MM-DD` (`Godina-Mjesec-Dan`)                |
 | 5 | `Sex`                | Spol                             | _Vrijednosti:_ `M`: muški, `F`: ženski, `?`: nepoznato    |
 | 6 | `BirthWeight-Kg`     | Težina pri rođenju               | Jedinica: `kilogram`, možda nije zabilježeno / nedostaje  |
 
@@ -83,7 +83,7 @@ Sljedeća tabela navodi i opisuje svaku kolonu izvozne datoteke koja sadrži vri
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-cifreni broj izmjerene životinje  | prema [ISO1174/85][], možda nije zabilježeno     |
 | 2 | `Farm-ID-Animal`      | Upravljački broj izmjerene životinje | 2 do 6 cifara, često jednak broju ogrlice       |
-| 3 | `Date`                | Datum mjerenja temperature           | Format: `YYYY-MM-TT` (`Godina-Mjesec-Dan`)       |
+| 3 | `Date`                | Datum mjerenja temperature           | Format: `YYYY-MM-DD` (`Godina-Mjesec-Dan`)       |
 | 4 | `Time`                | Vrijeme mjerenja temperature         | Format: `hh-mm-ss` (`sat:minuta:sekunda`)        |
 | 5 | `Temperature-Celsius` | Izmjerena vrijednost temperature     | Jedinica: `Stepeni Celzijusa`                    |
 
@@ -109,7 +109,7 @@ Sljedeća tabela navodi i opisuje pojedinačne kolone tabele koja sadrži težin
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-cifreni broj vagane životinje     | prema [ISO1174/85][], možda nije zabilježeno     |
 | 2 | `Farm-ID-Animal`      | Upravljački broj vagane životinje    | 2 do 6 cifara, često jednak broju ogrlice       |
-| 3 | `Date`                | Datum vaganja                        | Format: `YYYY-MM-TT` (`Godina-Mjesec-Dan`)       |
+| 3 | `Date`                | Datum vaganja                        | Format: `YYYY-MM-DD` (`Godina-Mjesec-Dan`)       |
 | 4 | `Time`                | Vrijeme vaganja                      | Format: `hh-mm-ss` (`sat:minuta:sekunda`)        |
 | 5 | `Weight-Kg`           | Vrijednost težine                    | Jedinica: `Kilogram`                             |
 
@@ -135,7 +135,7 @@ Sljedeća tablica navodi i opisuje svaku kolonu tablice ocjena životinja:
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-cifreni broj ocijenjene životinje    | prema [ISO1174/85][], možda nije zabilježeno    |
 | 2 | `Farm-ID-Animal`      | Broj za upravljanje ocijenjenom životinjom | 2 do 6 cifara, često jednak broju ogrlice      |
-| 3 | `Date`                | Datum ocjene                            | Format: `YYYY-MM-TT` (`Godina-Mjesec-Dan`)      |
+| 3 | `Date`                | Datum ocjene                            | Format: `YYYY-MM-DD` (`Godina-Mjesec-Dan`)      |
 | 4 | `Time`                | Vrijeme ocjene                          | Format: `hh-mm-ss` (`sat:minuta:sekunda`)       |
 | 5 | `ScoreCondition`      | Ocjena općeg stanja                     | _Ocjene:_ `Crvena`, `Žuta`, `Zelena`, `Nema`    |
 | 6 | `ScoreFeedIntake`     | Ocjena unosa hrane                      | _Ocjene:_ `Crvena`, `Žuta`, `Zelena`, `Nema`    |

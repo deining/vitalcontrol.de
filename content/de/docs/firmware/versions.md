@@ -13,7 +13,7 @@ description: >
 
 1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Gerät`.
 
-2. Wechseln Sie ins Untermenü `Info`, wählen Sie dort den Eintrag `Software` und bestätigen Sie mit `OK`. Es öffnet sich ein Popup-Fenster, in dem die aktuell auf ihrem Gerät aufgespielten Software-Versionen angezeigt werden:
+2. Wechseln Sie ins Untermenü `Info`, wählen Sie dort den Eintrag `Software` und bestätigen Sie mit `OK`. Es öffnet sich ein Popup-Fenster, in dem die aktuell auf Ihrem Gerät aufgespielten Software-Versionen angezeigt werden:
 
 ![VitalControl: Firmware-Versionen](../images/firmware-versions.png "Anzeige Firmwareversionen")
 
@@ -28,5 +28,5 @@ Die folgende Tabelle listet die aktuellen Firmware-Versionen auf:
 | **Commit №**    | {{% version/firmware component="gui" info="commitNo" %}} | {{% version/firmware component="middleware" info="commitNo" %}} | {{% version/firmware component="bootloader" info="commitNo" %}} |
 
 {{% alert title="Tipp" %}}
-Falls Sie auf ihrem Gerät neuere Funktionen vermissen oder mit Stabilitätsproblemen konfrontiert sind, [aktualisieren](../update/) Sie ggf. die auf ihrem Gerät aufgespielte Firmwareversion.
+Falls Sie auf Ihrem Gerät neuere Funktionen vermissen oder mit Stabilitätsproblemen konfrontiert sind, [aktualisieren](../update/) Sie ggf. die auf Ihrem Gerät aufgespielte Firmwareversion.
 {{% /alert %}}

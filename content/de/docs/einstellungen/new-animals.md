@@ -14,11 +14,11 @@ translationKey: settings/new-animals
 ## Standardwerte festlegen {#set-default-values}
 ### Erfasste Gewicht(e) einstellen {#set-recorded-weights}
 
-Hier definieren Sie, welches Gewicht beim Anlegen neuer Tiere in Ihrem Betrieb erfasst und abgespeichert wird. Um die zu erfassenden Gewichte auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Hier definieren Sie, welches Gewicht beim Anlegen neuer Tiere in Ihrem Betrieb erfasst und abgespeichert wird. Um die zu erfassenden Gewichte auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Standardwerte` aus und bestätigen Sie mit `OK`.
 
@@ -40,7 +40,7 @@ Um das Alter beim Anlegen einzustellen verfahren Sie wie folgt:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Standardwerte` aus und bestätigen Sie mit `OK`.
 
@@ -52,13 +52,13 @@ Um das Alter beim Anlegen einzustellen verfahren Sie wie folgt:
 
 ### Geschlecht einstellen {#set-sex}
 
-Hier definieren Sie, welches Geschlecht beim Anlegen neuer Tiere in Ihrem Betrieb vorgeschlagen (manuelles Anlegen) bzw. automatisch übernommen wird (Anlegen im Hintergrund). Um das Geschlecht beim Anlegen auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Hier definieren Sie, welches Geschlecht beim Anlegen neuer Tiere in Ihrem Betrieb vorgeschlagen (manuelles Anlegen) bzw. automatisch übernommen wird (Anlegen im Hintergrund). Um das Geschlecht beim Anlegen auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Standardwerte` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein weiteres Untermenü, in dem Sie mit den Pfeiltasten △ ▽ zwischen den Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Standardwerte` aus und bestätigen Sie mit `OK`.
 
 4. Nutzen Sie die Pfeiltasten △ ▽ um das Einstellungsfeld `Geschlecht` auszuwählen.
 
@@ -68,11 +68,11 @@ Hier definieren Sie, welches Geschlecht beim Anlegen neuer Tiere in Ihrem Betrie
 
 ### Art des Nutztieres einstellen {#set-type-of-animal}
 
-Hier definieren Sie welche Art des Nutztieres beim Anlegen neuer Tiere in Ihrem Betrieb erfasst wird. Um die Art des Nutztieres beim Anlegen auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Hier definieren Sie welche Art des Nutztieres beim Anlegen neuer Tiere in Ihrem Betrieb erfasst wird. Um die Art des Nutztieres beim Anlegen auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Standardwerte` aus und bestätigen Sie mit `OK`.
 
@@ -84,11 +84,11 @@ Hier definieren Sie welche Art des Nutztieres beim Anlegen neuer Tiere in Ihrem 
 
 ### Rasse einstellen {#set-breed}
 
-Hier definieren Sie welche Rasse des Nutztieres beim Anlegen neuer Tiere in ihrem Betrieb erfasst wird. Um die Rasse beim Anlegen auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Hier definieren Sie welche Rasse des Nutztieres beim Anlegen neuer Tiere in Ihrem Betrieb erfasst wird. Um die Rasse beim Anlegen auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Standardwerte` aus und bestätigen Sie mit `OK`.
 
@@ -100,11 +100,11 @@ Hier definieren Sie welche Rasse des Nutztieres beim Anlegen neuer Tiere in ihre
 
 ### Verbleib einstellen {#set-whereabouts}
 
-Hier definieren Sie welcher Verbleib den Tieren beim Anlegen neuer Nutztiere zugeordnet wird. Um den Verbleib des Nutztieres beim Anlegen auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Hier definieren Sie welcher Verbleib den Tieren beim Anlegen neuer Nutztiere zugeordnet wird. Um den Verbleib des Nutztieres beim Anlegen auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Standardwerte` aus und bestätigen Sie mit `OK`.
 
@@ -118,11 +118,11 @@ Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<i
 
 ### Status Zugangsmeldung einstellen {#set-status-registration}
 
-Hier definieren Sie, welcher Status neu angelegten Tieren bezüglich ihrer Zugangsmeldung zugewiesen wird. Um den Status `Zugangsmeldung` eines auf ihrem Gerät neu erzeugten Tieres festzulegen, gehen Sie wie folgt vor:
+Hier definieren Sie, welcher Status neu angelegten Tieren bezüglich Ihrer Zugangsmeldung zugewiesen wird. Um den Status `Zugangsmeldung` eines auf Ihrem Gerät neu erzeugten Tieres festzulegen, gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Standardwerte` aus und bestätigen Sie mit `OK`.
 
@@ -141,11 +141,11 @@ Hier definieren Sie, das Verhalten des Geräts, wenn ein neuer, dem VitalControl
 Beim vom Nutzer bestätigten Anlegen von Tieren erscheint ein Eingabebildschirm, in dem der Nutzer die Daten des neu anzulegenden Tieres eintragen kann (Geschlecht, Geburtsdatum, etc.). Beim automatischen Anlegen werden für alle automatisch angelegten Tiere für Geschlecht, Alter etc. diejenigen Werte übernommen, die in den „Einstellungen > Tiere neu anlegen“ definiert wurden. Tierindividuelle Einstellungen sind hier nicht möglich.
 {{% /alert %}}
 
-Um die Verhaltensweise beim Automatischen anlegen des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Um die Verhaltensweise beim Automatischen anlegen des Nutztieres auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Tiere automatisch anlegen` aus und bestätigen Sie mit `OK`.
 
@@ -160,11 +160,11 @@ Hier definieren Sie welche Tiernummer beim Neuanlegen eines neuen Tieres in Ihre
 Wählen Sie die Option „Fortlaufend“, wenn die von Ihnen zur visuellen Identifikation des Tiers verwendete Stallnummer unabhängig von der zur elektronischen Identifikation verwendeten Transpondernummer vergeben wird. Die Stall oder Halsbandnummern werden dann fortlaufend innerhalb eines bestimmten Bereichs vergeben (z. B. 1 - 40) und stehen dann in keiner direkten Beziehung zu den verwendeten Transpondernummern. Wählen Sie die Option „Ableitung von Transpondernummer“, wenn sie die Stallnummer des Tiers direkt an die Nummer des Transponders koppeln wollen, welcher dem Tier zugewiesen wurde. Diese Option ist insbesondere dann sinnvoll, wenn Sie gelbe elektronische Ohrmarken einsetzen, die Stallnummer ist dann identisch mit den Endziffern der auf der gelben Ohrmarken abgedruckten, zehnstelligen Tiernummer.
 {{% /alert %}}
 
-Um die Vergabe der Tiernummern beim Anlegen des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Um die Vergabe der Tiernummern beim Anlegen des Nutztieres auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Tiere automatisch anlegen` aus und bestätigen Sie mit `OK`.
 
@@ -185,11 +185,11 @@ Nur bei Nutzung der Option „Fortlaufend“: wenn Sie eingestellt haben, dass S
 
 ### Neue ID: Länge einstellen {#digit-of-the-new-id}
 
-Hier definieren Sie, welche Länge eine von der Transpondernummer abgeleitete Stallnummer für ein neues Tier in Ihrem Betrieb hat. Die mögliche Wertebereich reicht von 2 bis 6 Ziffern. Um die Länge der neuen ID des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Hier definieren Sie, welche Länge eine von der Transpondernummer abgeleitete Stallnummer für ein neues Tier in Ihrem Betrieb hat. Die mögliche Wertebereich reicht von 2 bis 6 Ziffern. Um die Länge der neuen ID des Nutztieres auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Tiere automatisch anlegen` aus und bestätigen Sie mit `OK`.
 
@@ -207,11 +207,11 @@ Zur grafischen Veranschaulichung der Wirkung der eingestellten Parameter ist unt
 führt unmittelbar zu einer Aktualisierung der abgeleiteten Stallnummer.
 {{% /alert %}}
 
-Um das Offset rechts des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Um das Offset rechts des Nutztieres auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Tiere automatisch anlegen` aus und bestätigen Sie mit `OK`.
 
@@ -225,11 +225,11 @@ Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<i
 
 ## Zuordnung Ohrmarkennummern einstellen {#assignment-ear-tag-number}
 
-Hier definieren Sie, ob bei der Zuordnung der Ohrmarkennummer im Zuge des manuellen Neu-Anmeldens von Tieren ein oder zwei Nummernbereiche verwendet werden. Um die Zuordnung der Ohrmarkennummer des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Hier definieren Sie, ob bei der Zuordnung der Ohrmarkennummer im Zuge des manuellen Neu-Anmeldens von Tieren ein oder zwei Nummernbereiche verwendet werden. Um die Zuordnung der Ohrmarkennummer des Nutztieres auf Ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü, in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anlegen` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Zuordnung Ohrmarkennummer` aus.
 

@@ -20,7 +20,7 @@ Die Aktion `Tierverlust` ermöglicht es Ihnen einen Tierverlust zu registrieren.
 
 3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion <img src="/icons/actions/animal-loss.svg" width="38" align="bottom" alt="Tierverlust" /> `Tierverlust` aus und bestätigen Sie mit `OK`.
 
-4. Es öffnet sich ein weiteres Untermenü in dem Sie verschiedene Einstellungen speichern können. Verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen. Verwenden sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen.
+4. Es öffnet sich ein weiteres Untermenü in dem Sie verschiedene Einstellungen speichern können. Verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen. Verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen.
 
 5. Verwenden Sie die Taste `F3` um das Tier mit den festgelegten Einstellungen abzumelden.
 

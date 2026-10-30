@@ -11,7 +11,7 @@ Tags: [Auswertungen, Temperatur]
 translationKey: evaluation/temperature
 ---
 {{% alert title="HINWEIS" %}}
-In der Standardeinstellung werden alle auf dem VitalControl gespeicherten Tiere in die Auswertung miteinbezogen. Durch die Anwendung eines [Filter](../../filter/) können Sie die Auswertung auf eine Teilmenge der Tiere auf ihrem Gerät beschränken, z.B. nur auf männliche Tiere oder auf Tiere bis zu einem bestimmten Maximalalter.
+In der Standardeinstellung werden alle auf dem VitalControl gespeicherten Tiere in die Auswertung miteinbezogen. Durch die Anwendung eines [Filter](../../filter/) können Sie die Auswertung auf eine Teilmenge der Tiere auf Ihrem Gerät beschränken, z. B. nur auf männliche Tiere oder auf Tiere bis zu einem bestimmten Maximalalter.
 {{% /alert %}}
 
 ## Temperatur auswerten {#evaluate-temperature}
@@ -22,10 +22,10 @@ In dieser Auswertung können Sie folgende Informationen einsehen:
 
 Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
-1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen sie das Menü &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Auswerten" />&nbsp; `Auswerten` aus. Bestätigen Sie mit `OK`.
+1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen Sie das Menü &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Auswerten" />&nbsp; `Auswerten` aus. Bestätigen Sie mit `OK`.
 
 2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Auswertung Temperatur " />&nbsp; `Temperatur` und bestätigen Sie mit `OK`.
 
-3. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
+3. Das Gerät beginnt nun, die Erfolgsgrößen zu berechnen.
 
    ![VitalControl: Menüfolge Auswertungen Temperatur auswerten](../bilder/temperatur.png "Temperatur auswerten")

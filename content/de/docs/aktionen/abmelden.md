@@ -11,7 +11,7 @@ Tags: [Aktionen, Abmelden]
 translationKey: actions/unregister
 ---
 {{% alert title="Warnung" color="warning" %}}
-Sobald Sie den Tierdatensatz löschen steht er Ihnen nicht mehr zu Auswertungszwecken zur Verfügung! Sollten Sie ein Tier abmelden, möchten aber im Nachgang z.B. noch einmal die Tierentwicklung auswerten müssen Sie den Tierdatensatz beibehalten!
+Sobald Sie den Tierdatensatz löschen steht er Ihnen nicht mehr zu Auswertungszwecken zur Verfügung! Sollten Sie ein Tier abmelden, möchten aber im Nachgang z. B. noch einmal die Tierentwicklung auswerten müssen Sie den Tierdatensatz beibehalten!
 {{% /alert %}}
 
 # Abmelden {#unregister}
@@ -24,7 +24,7 @@ Die Aktion `Abmelden` ermöglicht es Ihnen ein Tier abzumelden sobald es ausgest
 
 3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Abmelden" /> `Abmelden` aus und bestätigen Sie mit `OK`.
 
-4. Es öffnet sich ein weiteres Untermenü in dem Sie verschiedene Einstellungen speichern können. Verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen. Verwenden sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen.
+4. Es öffnet sich ein weiteres Untermenü in dem Sie verschiedene Einstellungen speichern können. Verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen. Verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen.
 
 5. Verwenden Sie die `F3` Taste `Abmelden` um das Tier mit den festgelegten Einstellungen abzumelden.
 

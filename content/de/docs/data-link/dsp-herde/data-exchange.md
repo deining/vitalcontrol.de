@@ -4,7 +4,7 @@ linkTitle: Datenaustausch
 date: 2023-08-04T12:22:12+02:00
 draft: false
 description: >
-  Importieren Sie den Tierbestand von der Herde Software auf das VitalControl und spielen sie mit dem VitalControl erfasste Daten in Herde ein.
+  Importieren Sie den Tierbestand von der Herde Software auf das VitalControl und spielen Sie mit dem VitalControl erfasste Daten in Herde ein.
 weight: 20
 slug: datentausch
 Kategorien: [Datenaustausch, DSP Herde]
@@ -38,7 +38,7 @@ Gehen Sie wie folgt vor, um Daten zwischen der Herde Software und dem VitalContr
 
    ![Datenaustausch mit Herde Software: Ablauf](../screenshots/ablauf-kopplung.png "Herde: Ablauf Datenaustausch")
 
-1. Der erfolgreiche Abschluss der Datentausches wird über ein Popup mit einer Erfolgsmeldung signalisiert.
+1. Der erfolgreiche Abschluss des Datentauschs wird über ein Popup mit einer Erfolgsmeldung signalisiert.
 
    ![Herde Software: Erfolgsmeldung Datenaustausch](../screenshots/erfolgsmeldung.png "Herde: Erfolgsmeldung Datenaustausch")
 
